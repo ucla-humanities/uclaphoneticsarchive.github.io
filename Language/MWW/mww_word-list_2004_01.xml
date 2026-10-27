@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Hmong Daw</language_name>
+
+<headers>
+
+<IPA_header>Hmong Daw</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<IPA_transcription>po (high level)</IPA_transcription>
+<gloss>ball-like</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<IPA_transcription>po (high level)</IPA_transcription>
+<gloss>thorn (?)</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<IPA_transcription>po (high falling)</IPA_transcription>
+<gloss>female</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<IPA_transcription>po (mid rising)</IPA_transcription>
+<gloss>to throw</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<IPA_transcription>po̤ (low breathy)</IPA_transcription>
+<gloss>paternal grandmother</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<IPA_transcription>poʔ (checked)</IPA_transcription>
+<gloss>to see</gloss>
+</item>
+</wordlist>
+
+
+
+

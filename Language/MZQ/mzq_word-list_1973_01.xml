@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Mori Atas</language_name>
+
+
+<headers>
+
+<orthography_header>Sound Illustrated</orthography_header>
+<IPA_header>Mori Atas</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>t</native_orthography>
+<IPA_transcription>ontae</IPA_transcription>
+<gloss>we (incl.)</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>d</native_orthography>
+<IPA_transcription>ondae</IPA_transcription>
+<gloss>they</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>t</native_orthography>
+<IPA_transcription>ta</IPA_transcription>
+<gloss>fut. prefix</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>d</native_orthography>
+<IPA_transcription>da</IPA_transcription>
+<gloss>still</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>p</native_orthography>
+<IPA_transcription>pansiya</IPA_transcription>
+<gloss>deviate</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>b</native_orthography>
+<IPA_transcription>bansiya</IPA_transcription>
+<gloss>something to cut</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>p</native_orthography>
+<IPA_transcription>puli</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>b</native_orthography>
+<IPA_transcription>buli</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>k</native_orthography>
+<IPA_transcription>daka</IPA_transcription>
+<gloss>comb</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>g</native_orthography>
+<IPA_transcription>daga</IPA_transcription>
+<gloss>standy by</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>k</native_orthography>
+<IPA_transcription>suki</IPA_transcription>
+<gloss>chopstick</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>g</native_orthography>
+<IPA_transcription>sugi</IPA_transcription>
+<gloss>rich</gloss>
+</item>
+</wordlist>
+
+
+
+

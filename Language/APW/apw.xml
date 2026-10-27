@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<metadata>
+<language_name>Apache (Western)</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language:</lang_name_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<speakers_header>Speakers</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>Tiff Image</image_tif_header>
+<image_tif2_header>Tiff Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality </tif_quality_header>
+<jpg_quality_header>JPG Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>University Of California, Los Angeles</recording_location>
+<recording_date>5 December, 1980</recording_date>
+<fieldworkers>UCLA student</fieldworkers>
+<speakers>N/A</speakers>
+<filename_audio>apw_word-list_1980_01</filename_audio>
+<filename_wav>apw_word-list_1980_01.wav</filename_wav>
+<filename_mp3>apw_word-list_1980_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>apw_word-list_1980_01.html</wordlist>
+<wordlist_entries>1 - 50</wordlist_entries>
+<image_tif>apw_word-list_1980_01.tif</image_tif>
+<image_tif2>apw_word-list_1980_02.tif</image_tif2>
+<image_jpg>apw_word-list_1980_01.jpg</image_jpg>
+<image_jpg2>apw_word-list_1980_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>apw_word-list_1980_01.html</wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1980_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>University Of California, Los Angeles</recording_location>
+<recording_date>18 November, 1982</recording_date>
+<fieldworkers>UCLA student</fieldworkers>
+<speakers>N/A</speakers>
+<filename_audio>apw_word-list_1982_01</filename_audio>
+<filename_wav>apw_word-list_1982_01.wav</filename_wav>
+<filename_mp3>apw_word-list_1982_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>apw_word-list_1982_01.html</wordlist>
+<wordlist_entries>1 - 76</wordlist_entries>
+<image_tif>apw_word-list_1982_01.tif</image_tif>
+<image_tif2>apw_word-list_1982_02.tif</image_tif2>
+<image_jpg>apw_word-list_1982_01.jpg</image_jpg>
+<image_jpg2>apw_word-list_1982_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#2</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>apw_word-list_1982_01.html</wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1982_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>3</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>University Of California, Los Angeles</recording_location>
+<recording_date>16 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, Brian Potter, Willem DeReuse</fieldworkers>
+<speakers>John Dawson</speakers>
+<filename_audio>apw_word-list_1996_01</filename_audio>
+<filename_wav>apw_word-list_1996_01.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_01.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_01.html</wordlist>
+<wordlist_entries>1 - 31</wordlist_entries>
+<image_tif>apw_word-list_1996_01.tif</image_tif>
+<image_tif2>apw_word-list_1996_02.tif</image_tif2>
+<image_jpg>apw_word-list_1996_01.jpg</image_jpg>
+<image_jpg2>apw_word-list_1996_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#3</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>apw_word-list_1996_01.html</wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>4</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>University Of California, Los Angeles</recording_location>
+<recording_date>16 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, Brian Potter, Willem DeReuse</fieldworkers>
+<speakers>John Dawson</speakers>
+<filename_audio>apw_word-list_1996_02</filename_audio>
+<filename_wav>apw_word-list_1996_02.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_02.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_01.html</wordlist>
+<wordlist_entries>32 - 62</wordlist_entries>
+<image_tif>apw_word-list_1996_03.tif</image_tif>
+<image_tif2>apw_word-list_1996_04.tif</image_tif2>
+<image_jpg>apw_word-list_1996_03.jpg</image_jpg>
+<image_jpg2>apw_word-list_1996_04.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#4</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_01.html#32</link_within_wordlist>
+</item>
+
+<item>
+<entry>5</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>University Of California, Los Angeles</recording_location>
+<recording_date>16 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, Brian Potter, Willem DeReuse</fieldworkers>
+<speakers>John Dawson</speakers>
+<filename_audio>apw_word-list_1996_03</filename_audio>
+<filename_wav>apw_word-list_1996_03.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_03.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_01.html</wordlist>
+<wordlist_entries>63 - 83</wordlist_entries>
+<image_tif>apw_word-list_1996_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#5</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_01.html#63</link_within_wordlist>
+</item>
+
+<item>
+<entry>6</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>University Of California, Los Angeles</recording_location>
+<recording_date>16 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, Brian Potter, Willem DeReuse</fieldworkers>
+<speakers>John Dawson</speakers>
+<filename_audio>apw_word-list_1996_04</filename_audio>
+<filename_wav>apw_word-list_1996_04.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_04.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_01.html</wordlist>
+<wordlist_entries>84 - 96</wordlist_entries>
+<image_tif>apw_word-list_1996_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#6</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_01.html#84</link_within_wordlist>
+</item>
+
+<item>
+<entry>7</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>University Of California, Los Angeles</recording_location>
+<recording_date>16 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, Brian Potter, Willem DeReuse</fieldworkers>
+<speakers>John Dawson</speakers>
+<filename_audio>apw_word-list_1996_05</filename_audio>
+<filename_wav>apw_word-list_1996_05.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_05.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_01.html</wordlist>
+<wordlist_entries>97 - 111</wordlist_entries>
+<image_tif>apw_word-list_1996_07.tif</image_tif>
+<image_tif2>apw_word-list_1996_47.tif</image_tif2>
+<image_jpg>apw_word-list_1996_07.jpg</image_jpg>
+<image_jpg2>apw_word-list_1996_47.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#7</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_01.html#97</link_within_wordlist>
+</item>
+
+<item>
+<entry>8</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>San Carlos Reservation</recording_location>
+<recording_date>20 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Phillip Goode</speakers>
+<filename_audio>apw_word-list_1996_06</filename_audio>
+<filename_wav>apw_word-list_1996_06.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_06.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_02.html</wordlist>
+<wordlist_entries>1 - 25</wordlist_entries>
+<image_tif>apw_word-list_1996_08.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_08.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#8</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>apw_word-list_1996_02.html</wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>9</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>San Carlos Reservation</recording_location>
+<recording_date>20 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Phillip Goode</speakers>
+<filename_audio>apw_word-list_1996_07</filename_audio>
+<filename_wav>apw_word-list_1996_07.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_07.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_02.html</wordlist>
+<wordlist_entries>26 - 45</wordlist_entries>
+<image_tif>apw_word-list_1996_09.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_09.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#9</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_02.html#26</link_within_wordlist>
+</item>
+
+<item>
+<entry>10</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>San Carlos Reservation</recording_location>
+<recording_date>20 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Phillip Goode</speakers>
+<filename_audio>apw_word-list_1996_08</filename_audio>
+<filename_wav>apw_word-list_1996_08.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_08.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_02.html</wordlist>
+<wordlist_entries>46 - 71</wordlist_entries>
+<image_tif>apw_word-list_1996_10.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_10.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#10</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_02.html#46</link_within_wordlist>
+</item>
+
+<item>
+<entry>11</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>San Carlos Reservation</recording_location>
+<recording_date>20 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Phillip Goode</speakers>
+<filename_audio>apw_word-list_1996_09</filename_audio>
+<filename_wav>apw_word-list_1996_09.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_09.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_02.html</wordlist>
+<wordlist_entries>72 - 93</wordlist_entries>
+<image_tif>apw_word-list_1996_11.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_11.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#11</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_02.html#72</link_within_wordlist>
+</item>
+
+<item>
+<entry>12</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>San Carlos Reservation</recording_location>
+<recording_date>20 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Phillip Goode</speakers>
+<filename_audio>apw_word-list_1996_10</filename_audio>
+<filename_wav>apw_word-list_1996_10.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_10.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_02.html</wordlist>
+<wordlist_entries>94 - 118</wordlist_entries>
+<image_tif>apw_word-list_1996_12.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_12.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#12</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_02.html#94</link_within_wordlist>
+</item>
+
+<item>
+<entry>13</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>San Carlos Reservation</recording_location>
+<recording_date>20 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Phillip Goode</speakers>
+<filename_audio>apw_word-list_1996_11</filename_audio>
+<filename_wav>apw_word-list_1996_11.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_11.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_02.html</wordlist>
+<wordlist_entries>119 - 136</wordlist_entries>
+<image_tif>apw_word-list_1996_13.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_13.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#13</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_02.html#119</link_within_wordlist>
+</item>
+
+<item>
+<entry>14</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>San Carlos Reservation</recording_location>
+<recording_date>20 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Phillip Goode</speakers>
+<filename_audio>apw_word-list_1996_12</filename_audio>
+<filename_wav>apw_word-list_1996_12.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_12.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_02.html</wordlist>
+<wordlist_entries>137 - 143</wordlist_entries>
+<image_tif>apw_word-list_1996_14.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_14.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#14</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_02.html#137</link_within_wordlist>
+</item>
+
+<item>
+<entry>15</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>San Carlos Reservation</recording_location>
+<recording_date>20 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Betty Kitcheyan</speakers>
+<filename_audio>apw_word-list_1996_13</filename_audio>
+<filename_wav>apw_word-list_1996_13.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_13.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_03.html</wordlist>
+<wordlist_entries>1 - 23</wordlist_entries>
+<image_tif>apw_word-list_1996_15.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_15.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#15</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>apw_word-list_1996_03.html</wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_03.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>16</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>San Carlos Reservation</recording_location>
+<recording_date>20 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Betty Kitcheyan</speakers>
+<filename_audio>apw_word-list_1996_14</filename_audio>
+<filename_wav>apw_word-list_1996_14.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_14.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_03.html</wordlist>
+<wordlist_entries>24 - 44</wordlist_entries>
+<image_tif>apw_word-list_1996_16.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_16.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#16</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_03.html#24</link_within_wordlist>
+</item>
+
+<item>
+<entry>17</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>San Carlos Reservation</recording_location>
+<recording_date>20 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Betty Kitcheyan</speakers>
+<filename_audio>apw_word-list_1996_15</filename_audio>
+<filename_wav>apw_word-list_1996_15.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_15.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_03.html</wordlist>
+<wordlist_entries>45 - 68</wordlist_entries>
+<image_tif>apw_word-list_1996_17.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_17.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#17</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_03.html#45</link_within_wordlist>
+</item>
+
+<item>
+<entry>18</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>San Carlos Reservation</recording_location>
+<recording_date>20 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Betty Kitcheyan</speakers>
+<filename_audio>apw_word-list_1996_16</filename_audio>
+<filename_wav>apw_word-list_1996_16.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_16.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_03.html</wordlist>
+<wordlist_entries>69 - 91</wordlist_entries>
+<image_tif>apw_word-list_1996_18.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_18.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#18</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_03.html#69</link_within_wordlist>
+</item>
+
+<item>
+<entry>19</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>San Carlos Reservation</recording_location>
+<recording_date>20 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Betty Kitcheyan</speakers>
+<filename_audio>apw_word-list_1996_17</filename_audio>
+<filename_wav>apw_word-list_1996_17.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_17.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_03.html</wordlist>
+<wordlist_entries>92 - 116</wordlist_entries>
+<image_tif>apw_word-list_1996_19.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_19.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#19</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_03.html#92</link_within_wordlist>
+</item>
+
+<item>
+<entry>20</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>San Carlos Reservation</recording_location>
+<recording_date>20 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Betty Kitcheyan</speakers>
+<filename_audio>apw_word-list_1996_18</filename_audio>
+<filename_wav>apw_word-list_1996_18.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_18.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_03.html</wordlist>
+<wordlist_entries>117 - 136</wordlist_entries>
+<image_tif>apw_word-list_1996_20.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_20.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#20</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_03.html#117</link_within_wordlist>
+</item>
+
+<item>
+<entry>21</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_19</filename_audio>
+<filename_wav>apw_word-list_1996_19.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_19.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_04.html</wordlist>
+<wordlist_entries>1 - 23</wordlist_entries>
+<image_tif>apw_word-list_1996_27.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_27.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#21</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>apw_word-list_1996_04.html</wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_04.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>22</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_20</filename_audio>
+<filename_wav>apw_word-list_1996_20.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_20.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_04.html</wordlist>
+<wordlist_entries>24 - 49</wordlist_entries>
+<image_tif>apw_word-list_1996_28.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_28.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#22</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_04.html#24</link_within_wordlist>
+</item>
+
+<item>
+<entry>23</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_21</filename_audio>
+<filename_wav>apw_word-list_1996_21.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_21.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_04.html</wordlist>
+<wordlist_entries>50 - 72</wordlist_entries>
+<image_tif>apw_word-list_1996_29.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_29.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#23</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_04.html#50</link_within_wordlist>
+</item>
+
+<item>
+<entry>24</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_22</filename_audio>
+<filename_wav>apw_word-list_1996_22.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_22.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_04.html</wordlist>
+<wordlist_entries>73 - 95</wordlist_entries>
+<image_tif>apw_word-list_1996_30.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_30.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#24</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_04.html#73</link_within_wordlist>
+</item>
+
+<item>
+<entry>25</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_23</filename_audio>
+<filename_wav>apw_word-list_1996_23.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_23.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_04.html</wordlist>
+<wordlist_entries>96 - 119</wordlist_entries>
+<image_tif>apw_word-list_1996_31.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_31.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#25</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_04.html#96</link_within_wordlist>
+</item>
+
+<item>
+<entry>26</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_24</filename_audio>
+<filename_wav>apw_word-list_1996_24.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_24.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_04.html</wordlist>
+<wordlist_entries>120 - 137</wordlist_entries>
+<image_tif>apw_word-list_1996_32.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_32.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#26</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_04.html#120</link_within_wordlist>
+</item>
+
+<item>
+<entry>27</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_25</filename_audio>
+<filename_wav>apw_word-list_1996_25.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_25.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_05.html</wordlist>
+<wordlist_entries>1 - 22</wordlist_entries>
+<image_tif>apw_word-list_1996_27.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_27.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#27</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>apw_word-list_1996_05.html</wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_05.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>28</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_26</filename_audio>
+<filename_wav>apw_word-list_1996_26.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_26.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_05.html</wordlist>
+<wordlist_entries>23 - 46</wordlist_entries>
+<image_tif>apw_word-list_1996_33.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_33.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#28</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_05.html#23</link_within_wordlist>
+</item>
+
+<item>
+<entry>29</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_27</filename_audio>
+<filename_wav>apw_word-list_1996_27.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_27.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_05.html</wordlist>
+<wordlist_entries>47 - 68</wordlist_entries>
+<image_tif>apw_word-list_1996_29.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_29.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#29</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_05.html#47</link_within_wordlist>
+</item>
+
+<item>
+<entry>30</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_28</filename_audio>
+<filename_wav>apw_word-list_1996_28.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_28.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_05.html</wordlist>
+<wordlist_entries>69 - 92</wordlist_entries>
+<image_tif>apw_word-list_1996_30.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_30.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#30</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_05.html#69</link_within_wordlist>
+</item>
+
+<item>
+<entry>31</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_29</filename_audio>
+<filename_wav>apw_word-list_1996_29.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_29.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_05.html</wordlist>
+<wordlist_entries>93 - 116</wordlist_entries>
+<image_tif>apw_word-list_1996_31.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_31.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#31</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_05.html#93</link_within_wordlist>
+</item>
+
+<item>
+<entry>32</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_30</filename_audio>
+<filename_wav>apw_word-list_1996_30.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_30.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_05.html</wordlist>
+<wordlist_entries>117 - 135</wordlist_entries>
+<image_tif>apw_word-list_1996_34.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_34.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#32</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_05.html#117</link_within_wordlist>
+</item>
+
+<item>
+<entry>33</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_31</filename_audio>
+<filename_wav>apw_word-list_1996_31.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_31.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_06.html</wordlist>
+<wordlist_entries>1 - 24</wordlist_entries>
+<image_tif>apw_word-list_1996_35.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_35.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#33</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>apw_word-list_1996_06.html</wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_06.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>34</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_32</filename_audio>
+<filename_wav>apw_word-list_1996_32.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_32.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_06.html</wordlist>
+<wordlist_entries>25 - 44</wordlist_entries>
+<image_tif>apw_word-list_1996_36.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_36.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#34</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_06.html#25</link_within_wordlist>
+</item>
+
+<item>
+<entry>35</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_33</filename_audio>
+<filename_wav>apw_word-list_1996_33.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_33.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_06.html</wordlist>
+<wordlist_entries>45 - 68</wordlist_entries>
+<image_tif>apw_word-list_1996_37.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_37.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#35</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_06.html#45</link_within_wordlist>
+</item>
+
+<item>
+<entry>36</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_34</filename_audio>
+<filename_wav>apw_word-list_1996_34.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_34.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_06.html</wordlist>
+<wordlist_entries>69 - 93</wordlist_entries>
+<image_tif>apw_word-list_1996_38.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_38.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#36</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_06.html#69</link_within_wordlist>
+</item>
+
+<item>
+<entry>37</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_35</filename_audio>
+<filename_wav>apw_word-list_1996_35.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_35.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_06.html</wordlist>
+<wordlist_entries>94 - 118</wordlist_entries>
+<image_tif>apw_word-list_1996_39.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_39.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#37</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_06.html#94</link_within_wordlist>
+</item>
+
+<item>
+<entry>38</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_36</filename_audio>
+<filename_wav>apw_word-list_1996_36.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_36.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_06.html</wordlist>
+<wordlist_entries>119 - 137</wordlist_entries>
+<image_tif>apw_word-list_1996_40.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_40.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#38</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_06.html#119</link_within_wordlist>
+</item>
+
+<item>
+<entry>39</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_37</filename_audio>
+<filename_wav>apw_word-list_1996_37.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_37.mp3</filename_mp3>
+<wav_quality>11.25K, 16-bit sound depth (bit rate=180 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_07.html</wordlist>
+<wordlist_entries>1 - 23</wordlist_entries>
+<image_tif>apw_word-list_1996_27.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_27.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#39</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>apw_word-list_1996_07.html</wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_07.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>40</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_38</filename_audio>
+<filename_wav>apw_word-list_1996_38.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_38.mp3</filename_mp3>
+<wav_quality>11.25K, 16-bit sound depth (bit rate=180 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_07.html</wordlist>
+<wordlist_entries>24 - 46</wordlist_entries>
+<image_tif>apw_word-list_1996_41.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_41.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#40</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_07.html#24</link_within_wordlist>
+</item>
+
+<item>
+<entry>41</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_39</filename_audio>
+<filename_wav>apw_word-list_1996_39.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_39.mp3</filename_mp3>
+<wav_quality>11.25K, 16-bit sound depth (bit rate=180 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_07.html</wordlist>
+<wordlist_entries>47 - 68</wordlist_entries>
+<image_tif>apw_word-list_1996_29.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_29.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#41</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_07.html#47</link_within_wordlist>
+</item>
+
+<item>
+<entry>42</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_40</filename_audio>
+<filename_wav>apw_word-list_1996_40.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_40.mp3</filename_mp3>
+<wav_quality>11.25K, 16-bit sound depth (bit rate=180 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_07.html</wordlist>
+<wordlist_entries>69 - 90</wordlist_entries>
+<image_tif>apw_word-list_1996_30.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_30.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#42</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_07.html#69</link_within_wordlist>
+</item>
+
+<item>
+<entry>43</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_41</filename_audio>
+<filename_wav>apw_word-list_1996_41.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_41.mp3</filename_mp3>
+<wav_quality>11.25K, 16-bit sound depth (bit rate=180 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_07.html</wordlist>
+<wordlist_entries>91 - 113</wordlist_entries>
+<image_tif>apw_word-list_1996_31.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_31.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#43</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_07.html#91</link_within_wordlist>
+</item>
+
+<item>
+<entry>44</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>21 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>unknown</speakers>
+<filename_audio>apw_word-list_1996_42</filename_audio>
+<filename_wav>apw_word-list_1996_42.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_42.mp3</filename_mp3>
+<wav_quality>11.25K, 16-bit sound depth (bit rate=180 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_07.html</wordlist>
+<wordlist_entries>114 - 133</wordlist_entries>
+<image_tif>apw_word-list_1996_42.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_42.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#44</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_07.html#114</link_within_wordlist>
+</item>
+
+<item>
+<entry>45</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>22 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Bernadette Adley Santa Maria</speakers>
+<filename_audio>apw_word-list_1996_43</filename_audio>
+<filename_wav>apw_word-list_1996_43.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_43.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_08.html</wordlist>
+<wordlist_entries>1 - 23</wordlist_entries>
+<image_tif>apw_word-list_1996_27.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_27.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#45</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>apw_word-list_1996_08.html</wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_08.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>46</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>22 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Bernadette Adley Santa Maria</speakers>
+<filename_audio>apw_word-list_1996_44</filename_audio>
+<filename_wav>apw_word-list_1996_44.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_44.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_08.html</wordlist>
+<wordlist_entries>24 - 46</wordlist_entries>
+<image_tif>apw_word-list_1996_43.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_43.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#46</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_08.html#24</link_within_wordlist>
+</item>
+
+<item>
+<entry>47</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>22 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Bernadette Adley Santa Maria</speakers>
+<filename_audio>apw_word-list_1996_45</filename_audio>
+<filename_wav>apw_word-list_1996_45.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_45.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_08.html</wordlist>
+<wordlist_entries>47 - 71</wordlist_entries>
+<image_tif>apw_word-list_1996_44.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_44.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#47</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_08.html#47</link_within_wordlist>
+</item>
+
+<item>
+<entry>48</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>22 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Bernadette Adley Santa Maria</speakers>
+<filename_audio>apw_word-list_1996_46</filename_audio>
+<filename_wav>apw_word-list_1996_46.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_46.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_08.html</wordlist>
+<wordlist_entries>72 - 96</wordlist_entries>
+<image_tif>apw_word-list_1996_45.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_45.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#48</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_08.html#72</link_within_wordlist>
+</item>
+
+<item>
+<entry>49</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>22 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Bernadette Adley Santa Maria</speakers>
+<filename_audio>apw_word-list_1996_47</filename_audio>
+<filename_wav>apw_word-list_1996_47.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_47.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_08.html</wordlist>
+<wordlist_entries>97 - 121</wordlist_entries>
+<image_tif>apw_word-list_1996_46.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_46.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#49</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_08.html#97</link_within_wordlist>
+</item>
+
+<item>
+<entry>50</entry>
+<lang_name>Apache (Western)</lang_name>
+<sil_code>APW</sil_code>
+<content>Word List</content>
+<recording_location>unknown</recording_location>
+<recording_date>22 January, 1996</recording_date>
+<fieldworkers>Peter Ladefoged, assistant</fieldworkers>
+<speakers>Bernadette Adley Santa Maria</speakers>
+<filename_audio>apw_word-list_1996_48</filename_audio>
+<filename_wav>apw_word-list_1996_48.wav</filename_wav>
+<filename_mp3>apw_word-list_1996_48.mp3</filename_mp3>
+<wav_quality>22.05 K, 16-bit sound depth (bit rate=352.8 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>apw_word-list_1996_08.html</wordlist>
+<wordlist_entries>122 - 140</wordlist_entries>
+<image_tif>apw_word-list_1996_40.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>apw_word-list_1996_40.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>apw_record_details.html#50</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>apw_word-list_1996_08.html#122</link_within_wordlist>
+</item>
+</metadata>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

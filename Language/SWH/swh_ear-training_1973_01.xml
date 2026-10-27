@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Swahili</language_name>
+
+
+<headers>
+
+<orthography_header>Options</orthography_header>
+<IPA_header>Word Spoken</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>faa / vaa</native_orthography>
+<IPA_transcription>vaa</IPA_transcription>
+<gloss>to wear</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>dara / ndara</native_orthography>
+<IPA_transcription>ndara</IPA_transcription>
+<gloss>sandal</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>saa / zaa</native_orthography>
+<IPA_transcription>saa</IPA_transcription>
+<gloss>hour</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>bali / mbali</native_orthography>
+<IPA_transcription>mbali</IPA_transcription>
+<gloss>far</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>gaidi / ghairi</native_orthography>
+<IPA_transcription>ghairi</IPA_transcription>
+<gloss>to change one's mind</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>nama / nyama</native_orthography>
+<IPA_transcription>nama</IPA_transcription>
+<gloss>to be flexible</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>thamini / dhamini</native_orthography>
+<IPA_transcription>dhamini</IPA_transcription>
+<gloss>to guarantee</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>ng'oa / ngoa</native_orthography>
+<IPA_transcription>ng'oa</IPA_transcription>
+<gloss>to uproot</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>jumba / yumba</native_orthography>
+<IPA_transcription>jumba</IPA_transcription>
+<gloss>hall</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>puta / pita / pata / pota / peta</native_orthography>
+<IPA_transcription>pota</IPA_transcription>
+<gloss>to twist</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>puta / pita / pata / pota / peta</native_orthography>
+<IPA_transcription>pata</IPA_transcription>
+<gloss>hinge</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>puta / pita / pata / pota / peta</native_orthography>
+<IPA_transcription>peta</IPA_transcription>
+<gloss>to bend around</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>puta / pita / pata / pota / peta</native_orthography>
+<IPA_transcription>pita</IPA_transcription>
+<gloss>to pass</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>puta / pita / pata / pota / peta</native_orthography>
+<IPA_transcription>pota</IPA_transcription>
+<gloss>to twist</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>puta / pita / pata / pota / peta</native_orthography>
+<IPA_transcription>puta</IPA_transcription>
+<gloss>to thrash</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>puta / pita / pata / pota / peta</native_orthography>
+<IPA_transcription>pata</IPA_transcription>
+<gloss>hinge</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>puta / pita / pata / pota / peta</native_orthography>
+<IPA_transcription>peta</IPA_transcription>
+<gloss>to bend around</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>puta / pita / pata / pota / peta</native_orthography>
+<IPA_transcription>pita</IPA_transcription>
+<gloss>to pass</gloss>
+</item>
+</wordlist>

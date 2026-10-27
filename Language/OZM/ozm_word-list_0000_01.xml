@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Koonzime</language_name>
+
+
+
+<headers>
+
+<native_orthography>Sound Illustrated</native_orthography>
+<alt_orthography>Notes</alt_orthography>
+<IPA_header>IPA Transcription</IPA_header>
+<gloss_header>English Gloss</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>front, unrounded /ɪ/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>etɪ̂</IPA_transcription>
+<gloss>to make, create</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>front, unrounded /ɪ/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>edɪ́ɪ́</IPA_transcription>
+<gloss>the act of eating</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>front, unrounded /e/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ebe</IPA_transcription>
+<gloss>to plant, be</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>front, unrounded /e/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ebee</IPA_transcription>
+<gloss>to see</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>front, unrounded /ɛ/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>elɛ́e</IPA_transcription>
+<gloss>to tell</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>front, rounded /ü/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>tüü</IPA_transcription>
+<gloss>voice</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>front, rounded /ɯ̈/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>metɯ̈ ɯ̈</IPA_transcription>
+<gloss>advice</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>front, rounded /ɯ̈/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>el ɯ̈́ɯ̈</IPA_transcription>
+<gloss>to insult</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>front, rounded /ö/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>nköö</IPA_transcription>
+<gloss>leopard</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>front, rounded /ö/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>elöö</IPA_transcription>
+<gloss>nest</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>central, unrounded /a/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ela</IPA_transcription>
+<gloss>to set net in place</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>central, unrounded /a/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>eláa</IPA_transcription>
+<gloss>to count</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>back, rounded /u/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>elû</IPA_transcription>
+<gloss>night</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>back, rounded /u/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>j̀úu</IPA_transcription>
+<gloss>honor</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>back, rounded /ɯ/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>elɯ̂</IPA_transcription>
+<gloss>to bite</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>back, rounded /ɯ/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kɯ ɯ́</IPA_transcription>
+<gloss>caterpillar</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>back, rounded /o/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>elólo</IPA_transcription>
+<gloss>to carry</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>back, rounded /o/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>milóó</IPA_transcription>
+<gloss>vine (sp.)</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>back, rounded /ɔ/</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>lɔ́ɔ</IPA_transcription>
+<gloss>news</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>1</native_orthography>
+<alt_orthography>(phonetic pitch contrasts; 1 is highest, 5 is lowest)</alt_orthography>
+<IPA_transcription>ebeé tʃǐ</IPA_transcription>
+<gloss>to see an in-law</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>2</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ebeé tír</IPA_transcription>
+<gloss>to see an animal</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>3</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>meô tő</IPA_transcription>
+<gloss>It is I who went earlier today.</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>4</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>nɔ̌n</IPA_transcription>
+<gloss>mother</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>13</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ebeé mʉ̂d</IPA_transcription>
+<gloss>to see a person</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>24</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>mwân</IPA_transcription>
+<gloss>child</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>45</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>mʉd</IPA_transcription>
+<gloss>person</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>(not given)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ebee mwân</IPA_transcription>
+<gloss>to see a child</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>(not given)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ebee mʉr</IPA_transcription>
+<gloss>to see a person</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>42</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ebeé pemé</IPA_transcription>
+<gloss>to see a field</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>42</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ebě pemé</IPA_transcription>
+<gloss>to plant a field</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>132 or 12</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>elî pemé</IPA_transcription>
+<gloss>to clear a field</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>434</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>me ô tó</IPA_transcription>
+<gloss>It is I who went earlier today.</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>(not given)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>lǽːláma</IPA_transcription>
+<gloss>glass of lamp</gloss>
+</item>
+</wordlist>
+
+
+
+
+
+

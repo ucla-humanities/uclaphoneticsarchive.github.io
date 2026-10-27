@@ -1,0 +1,2478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+
+<language_name>Gaelic, Scottish</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language</lang_name_header>
+<dialect_header>Dialect</dialect_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<origin_header>Speaker Origin</origin_header>
+<speakers_header>Speaker Name</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>TIFF Image</image_tif_header>
+<image_tif2_header>TIFF Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality</tif_quality_header>
+<jpg_quality_header>JPG Image Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald MacAulay (Reddy)</speakers>
+<filename_audio>gla_word-list_1997_01</filename_audio>
+<filename_wav>gla_word-list_1997_01.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>1 - 38</wordlist_entries>
+<image_tif>gla_word-list_1997_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>gla_word-list_1997_01.jpg</wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald MacAulay (Reddy)</speakers>
+<filename_audio>gla_word-list_1997_02</filename_audio>
+<filename_wav>gla_word-list_1997_02.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_02.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>39 - 80</wordlist_entries>
+<image_tif>gla_word-list_1997_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#2</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#39</link_within_wordlist>
+</item>
+
+<item>
+<entry>3</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald MacAulay (Reddy)</speakers>
+<filename_audio>gla_word-list_1997_03</filename_audio>
+<filename_wav>gla_word-list_1997_03.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_03.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>81 - 121</wordlist_entries>
+<image_tif>gla_word-list_1997_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#3</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#81</link_within_wordlist>
+</item>
+
+<item>
+<entry>4</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald MacAulay (Reddy)</speakers>
+<filename_audio>gla_word-list_1997_04</filename_audio>
+<filename_wav>gla_word-list_1997_04.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_04.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>122 - 160</wordlist_entries>
+<image_tif>gla_word-list_1997_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#4</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#122</link_within_wordlist>
+</item>
+
+<item>
+<entry>5</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald MacAulay (Reddy)</speakers>
+<filename_audio>gla_word-list_1997_05</filename_audio>
+<filename_wav>gla_word-list_1997_05.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_05.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>161 - 200</wordlist_entries>
+<image_tif>gla_word-list_1997_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#5</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#161</link_within_wordlist>
+</item>
+
+<item>
+<entry>6</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald MacAulay (Reddy)</speakers>
+<filename_audio>gla_word-list_1997_06</filename_audio>
+<filename_wav>gla_word-list_1997_06.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_06.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>201 - 237</wordlist_entries>
+<image_tif>gla_word-list_1997_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#6</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#201</link_within_wordlist>
+</item>
+
+<item>
+<entry>7</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald MacAulay (Reddy)</speakers>
+<filename_audio>gla_word-list_1997_07</filename_audio>
+<filename_wav>gla_word-list_1997_07.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_07.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>238 - 268</wordlist_entries>
+<image_tif>gla_word-list_1997_07.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_07.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#7</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#238</link_within_wordlist>
+</item>
+
+<item>
+<entry>8</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald Macaulay (Rev.)</speakers>
+<filename_audio>gla_word-list_1997_08</filename_audio>
+<filename_wav>gla_word-list_1997_08.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_08.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>1 - 38</wordlist_entries>
+<image_tif>gla_word-list_1997_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#8</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>gla_word-list_1997_01.jpg</wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>9</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald Macaulay (Rev.)</speakers>
+<filename_audio>gla_word-list_1997_09</filename_audio>
+<filename_wav>gla_word-list_1997_09.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_09.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>39 - 80</wordlist_entries>
+<image_tif>gla_word-list_1997_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#9</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#39</link_within_wordlist>
+</item>
+
+<item>
+<entry>10</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald Macaulay (Rev.)</speakers>
+<filename_audio>gla_word-list_1997_10</filename_audio>
+<filename_wav>gla_word-list_1997_10.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_10.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>81 - 121</wordlist_entries>
+<image_tif>gla_word-list_1997_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#10</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#81</link_within_wordlist>
+</item>
+
+<item>
+<entry>11</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald Macaulay (Rev.)</speakers>
+<filename_audio>gla_word-list_1997_11</filename_audio>
+<filename_wav>gla_word-list_1997_11.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_11.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>122 - 160</wordlist_entries>
+<image_tif>gla_word-list_1997_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#11</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#122</link_within_wordlist>
+</item>
+
+<item>
+<entry>12</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald Macaulay (Rev.)</speakers>
+<filename_audio>gla_word-list_1997_12</filename_audio>
+<filename_wav>gla_word-list_1997_12.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_12.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>161 - 200</wordlist_entries>
+<image_tif>gla_word-list_1997_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#12</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#161</link_within_wordlist>
+</item>
+
+<item>
+<entry>13</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald Macaulay (Rev.)</speakers>
+<filename_audio>gla_word-list_1997_13</filename_audio>
+<filename_wav>gla_word-list_1997_13.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_13.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>201 - 237</wordlist_entries>
+<image_tif>gla_word-list_1997_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#13</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#201</link_within_wordlist>
+</item>
+
+<item>
+<entry>14</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald Macaulay (Rev.)</speakers>
+<filename_audio>gla_word-list_1997_14</filename_audio>
+<filename_wav>gla_word-list_1997_14.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_14.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>238 - 268</wordlist_entries>
+<image_tif>gla_word-list_1997_07.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_07.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#14</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#238</link_within_wordlist>
+</item>
+
+<item>
+<entry>15</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Neil Macaulay</speakers>
+<filename_audio>gla_word-list_1997_15</filename_audio>
+<filename_wav>gla_word-list_1997_15.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_15.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>1 - 38</wordlist_entries>
+<image_tif>gla_word-list_1997_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#15</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>gla_word-list_1997_01.jpg</wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>16</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Neil Macaulay</speakers>
+<filename_audio>gla_word-list_1997_16</filename_audio>
+<filename_wav>gla_word-list_1997_16.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_16.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>39 - 80</wordlist_entries>
+<image_tif>gla_word-list_1997_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#16</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#39</link_within_wordlist>
+</item>
+
+<item>
+<entry>17</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Neil Macaulay</speakers>
+<filename_audio>gla_word-list_1997_17</filename_audio>
+<filename_wav>gla_word-list_1997_17.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_17.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>81 - 121</wordlist_entries>
+<image_tif>gla_word-list_1997_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#17</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#81</link_within_wordlist>
+</item>
+
+<item>
+<entry>18</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Neil Macaulay</speakers>
+<filename_audio>gla_word-list_1997_18</filename_audio>
+<filename_wav>gla_word-list_1997_18.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_18.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>122 - 160</wordlist_entries>
+<image_tif>gla_word-list_1997_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#18</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#122</link_within_wordlist>
+</item>
+
+<item>
+<entry>19</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Neil Macaulay</speakers>
+<filename_audio>gla_word-list_1997_19</filename_audio>
+<filename_wav>gla_word-list_1997_19.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_19.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>161 - 200</wordlist_entries>
+<image_tif>gla_word-list_1997_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#19</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#161</link_within_wordlist>
+</item>
+
+<item>
+<entry>20</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Neil Macaulay</speakers>
+<filename_audio>gla_word-list_1997_20</filename_audio>
+<filename_wav>gla_word-list_1997_20.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_20.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>201 - 237</wordlist_entries>
+<image_tif>gla_word-list_1997_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#20</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#201</link_within_wordlist>
+</item>
+
+<item>
+<entry>21</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>5 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Neil Macaulay</speakers>
+<filename_audio>gla_word-list_1997_21</filename_audio>
+<filename_wav>gla_word-list_1997_21.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_21.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>238 - 268</wordlist_entries>
+<image_tif>gla_word-list_1997_07.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_07.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#21</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#238</link_within_wordlist>
+</item>
+
+<item>
+<entry>22</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Callum Murdo McLean</speakers>
+<filename_audio>gla_word-list_1997_22</filename_audio>
+<filename_wav>gla_word-list_1997_22.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_22.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>1 - 38</wordlist_entries>
+<image_tif>gla_word-list_1997_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#22</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>gla_word-list_1997_01.jpg</wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>23</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Callum Murdo McLean</speakers>
+<filename_audio>gla_word-list_1997_23</filename_audio>
+<filename_wav>gla_word-list_1997_23.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_23.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>39 - 80</wordlist_entries>
+<image_tif>gla_word-list_1997_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#23</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#39</link_within_wordlist>
+</item>
+
+<item>
+<entry>24</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Callum Murdo McLean</speakers>
+<filename_audio>gla_word-list_1997_24</filename_audio>
+<filename_wav>gla_word-list_1997_24.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_24.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>81 - 121</wordlist_entries>
+<image_tif>gla_word-list_1997_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#24</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#81</link_within_wordlist>
+</item>
+
+<item>
+<entry>25</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Callum Murdo McLean</speakers>
+<filename_audio>gla_word-list_1997_25</filename_audio>
+<filename_wav>gla_word-list_1997_25.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_25.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>122 - 160</wordlist_entries>
+<image_tif>gla_word-list_1997_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#25</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#122</link_within_wordlist>
+</item>
+
+<item>
+<entry>26</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Callum Murdo McLean</speakers>
+<filename_audio>gla_word-list_1997_26</filename_audio>
+<filename_wav>gla_word-list_1997_26.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_26.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>161 - 200</wordlist_entries>
+<image_tif>gla_word-list_1997_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#26</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#161</link_within_wordlist>
+</item>
+
+<item>
+<entry>27</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Callum Murdo McLean</speakers>
+<filename_audio>gla_word-list_1997_27</filename_audio>
+<filename_wav>gla_word-list_1997_27.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_27.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>201 - 237</wordlist_entries>
+<image_tif>gla_word-list_1997_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#27</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#201</link_within_wordlist>
+</item>
+
+<item>
+<entry>28</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Callum Murdo McLean</speakers>
+<filename_audio>gla_word-list_1997_28</filename_audio>
+<filename_wav>gla_word-list_1997_28.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_28.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>238 - 268</wordlist_entries>
+<image_tif>gla_word-list_1997_07.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_07.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#28</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#238</link_within_wordlist>
+</item>
+
+<item>
+<entry>29</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald Zachariah Macaulay</speakers>
+<filename_audio>gla_word-list_1997_29</filename_audio>
+<filename_wav>gla_word-list_1997_29.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_29.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>1 - 38</wordlist_entries>
+<image_tif>gla_word-list_1997_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#29</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>gla_word-list_1997_01.jpg</wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>30</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald Zachariah Macaulay</speakers>
+<filename_audio>gla_word-list_1997_30</filename_audio>
+<filename_wav>gla_word-list_1997_30.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_30.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>39 - 80</wordlist_entries>
+<image_tif>gla_word-list_1997_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#30</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#39</link_within_wordlist>
+</item>
+
+<item>
+<entry>31</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald Zachariah Macaulay</speakers>
+<filename_audio>gla_word-list_1997_31</filename_audio>
+<filename_wav>gla_word-list_1997_31.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_31.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>81 - 121</wordlist_entries>
+<image_tif>gla_word-list_1997_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#31</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#81</link_within_wordlist>
+</item>
+
+<item>
+<entry>32</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald Zachariah Macaulay</speakers>
+<filename_audio>gla_word-list_1997_32</filename_audio>
+<filename_wav>gla_word-list_1997_32.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_32.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>122 - 160</wordlist_entries>
+<image_tif>gla_word-list_1997_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#32</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#122</link_within_wordlist>
+</item>
+
+<item>
+<entry>33</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald Zachariah Macaulay</speakers>
+<filename_audio>gla_word-list_1997_33</filename_audio>
+<filename_wav>gla_word-list_1997_33.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_33.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>161 - 200</wordlist_entries>
+<image_tif>gla_word-list_1997_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#33</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#161</link_within_wordlist>
+</item>
+
+<item>
+<entry>34</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald Zachariah Macaulay</speakers>
+<filename_audio>gla_word-list_1997_34</filename_audio>
+<filename_wav>gla_word-list_1997_34.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_34.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>201 - 237</wordlist_entries>
+<image_tif>gla_word-list_1997_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#34</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#201</link_within_wordlist>
+</item>
+
+<item>
+<entry>35</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Donald Zachariah Macaulay</speakers>
+<filename_audio>gla_word-list_1997_35</filename_audio>
+<filename_wav>gla_word-list_1997_35.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_35.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>238 - 268</wordlist_entries>
+<image_tif>gla_word-list_1997_07.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_07.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#35</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#238</link_within_wordlist>
+</item>
+
+<item>
+<entry>36</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Annie Macaulay</speakers>
+<filename_audio>gla_word-list_1997_36</filename_audio>
+<filename_wav>gla_word-list_1997_36.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_36.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>1 - 38</wordlist_entries>
+<image_tif>gla_word-list_1997_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#36</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>gla_word-list_1997_01.jpg</wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>37</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Annie Macaulay</speakers>
+<filename_audio>gla_word-list_1997_37</filename_audio>
+<filename_wav>gla_word-list_1997_37.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_37.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>39 - 80</wordlist_entries>
+<image_tif>gla_word-list_1997_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#37</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#39</link_within_wordlist>
+</item>
+
+<item>
+<entry>38</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Annie Macaulay</speakers>
+<filename_audio>gla_word-list_1997_38</filename_audio>
+<filename_wav>gla_word-list_1997_38.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_38.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>81 - 121</wordlist_entries>
+<image_tif>gla_word-list_1997_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#38</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#81</link_within_wordlist>
+</item>
+
+<item>
+<entry>39</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Annie Macaulay</speakers>
+<filename_audio>gla_word-list_1997_39</filename_audio>
+<filename_wav>gla_word-list_1997_39.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_39.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>122 - 160</wordlist_entries>
+<image_tif>gla_word-list_1997_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#39</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#122</link_within_wordlist>
+</item>
+
+<item>
+<entry>40</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Annie Macaulay</speakers>
+<filename_audio>gla_word-list_1997_40</filename_audio>
+<filename_wav>gla_word-list_1997_40.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_40.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>161 - 200</wordlist_entries>
+<image_tif>gla_word-list_1997_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#40</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#161</link_within_wordlist>
+</item>
+
+<item>
+<entry>41</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Annie Macaulay</speakers>
+<filename_audio>gla_word-list_1997_41</filename_audio>
+<filename_wav>gla_word-list_1997_41.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_41.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>201 - 237</wordlist_entries>
+<image_tif>gla_word-list_1997_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#41</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#201</link_within_wordlist>
+</item>
+
+<item>
+<entry>42</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Annie Macaulay</speakers>
+<filename_audio>gla_word-list_1997_42</filename_audio>
+<filename_wav>gla_word-list_1997_42.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_42.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>238 - 268</wordlist_entries>
+<image_tif>gla_word-list_1997_07.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_07.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#42</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#238</link_within_wordlist>
+</item>
+
+<item>
+<entry>43</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Alasdair Maclennan</speakers>
+<filename_audio>gla_word-list_1997_43</filename_audio>
+<filename_wav>gla_word-list_1997_43.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_43.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>1 - 38</wordlist_entries>
+<image_tif>gla_word-list_1997_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#43</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>gla_word-list_1997_01.jpg</wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>44</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Alasdair Maclennan</speakers>
+<filename_audio>gla_word-list_1997_44</filename_audio>
+<filename_wav>gla_word-list_1997_44.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_44.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>39 - 80</wordlist_entries>
+<image_tif>gla_word-list_1997_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#44</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#39</link_within_wordlist>
+</item>
+
+<item>
+<entry>45</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Alasdair Maclennan</speakers>
+<filename_audio>gla_word-list_1997_45</filename_audio>
+<filename_wav>gla_word-list_1997_45.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_45.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>81 - 121</wordlist_entries>
+<image_tif>gla_word-list_1997_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#45</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#81</link_within_wordlist>
+</item>
+
+<item>
+<entry>46</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Alasdair Maclennan</speakers>
+<filename_audio>gla_word-list_1997_46</filename_audio>
+<filename_wav>gla_word-list_1997_46.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_46.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>122 - 160</wordlist_entries>
+<image_tif>gla_word-list_1997_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#46</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#122</link_within_wordlist>
+</item>
+
+<item>
+<entry>47</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Alasdair Maclennan</speakers>
+<filename_audio>gla_word-list_1997_47</filename_audio>
+<filename_wav>gla_word-list_1997_47.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_47.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>161 - 200</wordlist_entries>
+<image_tif>gla_word-list_1997_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#47</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#161</link_within_wordlist>
+</item>
+
+<item>
+<entry>48</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Alasdair Maclennan</speakers>
+<filename_audio>gla_word-list_1997_48</filename_audio>
+<filename_wav>gla_word-list_1997_48.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_48.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>201 - 237</wordlist_entries>
+<image_tif>gla_word-list_1997_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#48</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#201</link_within_wordlist>
+</item>
+
+<item>
+<entry>49</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Alasdair Maclennan</speakers>
+<filename_audio>gla_word-list_1997_49</filename_audio>
+<filename_wav>gla_word-list_1997_49.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_49.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>238 - 268</wordlist_entries>
+<image_tif>gla_word-list_1997_07.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_07.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#49</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#238</link_within_wordlist>
+</item>
+
+<item>
+<entry>50</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Floraidh Macdonald</speakers>
+<filename_audio>gla_word-list_1997_50</filename_audio>
+<filename_wav>gla_word-list_1997_50.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_50.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>1 - 38</wordlist_entries>
+<image_tif>gla_word-list_1997_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#50</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>gla_word-list_1997_01.jpg</wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>51</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Floraidh Macdonald</speakers>
+<filename_audio>gla_word-list_1997_51</filename_audio>
+<filename_wav>gla_word-list_1997_51.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_51.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>39 - 80</wordlist_entries>
+<image_tif>gla_word-list_1997_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#51</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#39</link_within_wordlist>
+</item>
+
+<item>
+<entry>52</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Floraidh Macdonald</speakers>
+<filename_audio>gla_word-list_1997_52</filename_audio>
+<filename_wav>gla_word-list_1997_52.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_52.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>81 - 121</wordlist_entries>
+<image_tif>gla_word-list_1997_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#52</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#81</link_within_wordlist>
+</item>
+
+<item>
+<entry>53</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Floraidh Macdonald</speakers>
+<filename_audio>gla_word-list_1997_53</filename_audio>
+<filename_wav>gla_word-list_1997_53.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_53.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>122 - 160</wordlist_entries>
+<image_tif>gla_word-list_1997_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#53</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#122</link_within_wordlist>
+</item>
+
+<item>
+<entry>54</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Floraidh Macdonald</speakers>
+<filename_audio>gla_word-list_1997_54</filename_audio>
+<filename_wav>gla_word-list_1997_54.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_54.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>161 - 200</wordlist_entries>
+<image_tif>gla_word-list_1997_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#54</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#161</link_within_wordlist>
+</item>
+
+<item>
+<entry>55</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Floraidh Macdonald</speakers>
+<filename_audio>gla_word-list_1997_55</filename_audio>
+<filename_wav>gla_word-list_1997_55.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_55.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>201 - 237</wordlist_entries>
+<image_tif>gla_word-list_1997_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#55</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#201</link_within_wordlist>
+</item>
+
+<item>
+<entry>56</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>6 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Floraidh Macdonald</speakers>
+<filename_audio>gla_word-list_1997_56</filename_audio>
+<filename_wav>gla_word-list_1997_56.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_56.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>238 - 268</wordlist_entries>
+<image_tif>gla_word-list_1997_07.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_07.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#56</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#238</link_within_wordlist>
+</item>
+
+<item>
+<entry>57</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Mary Macdonald</speakers>
+<filename_audio>gla_word-list_1997_57</filename_audio>
+<filename_wav>gla_word-list_1997_57.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_57.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>1 - 38</wordlist_entries>
+<image_tif>gla_word-list_1997_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#57</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>gla_word-list_1997_01.jpg</wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>58</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Mary Macdonald</speakers>
+<filename_audio>gla_word-list_1997_58</filename_audio>
+<filename_wav>gla_word-list_1997_58.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_58.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>39 - 80</wordlist_entries>
+<image_tif>gla_word-list_1997_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#58</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#39</link_within_wordlist>
+</item>
+
+<item>
+<entry>59</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Mary Macdonald</speakers>
+<filename_audio>gla_word-list_1997_59</filename_audio>
+<filename_wav>gla_word-list_1997_59.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_59.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>81 - 121</wordlist_entries>
+<image_tif>gla_word-list_1997_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#59</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#81</link_within_wordlist>
+</item>
+
+<item>
+<entry>60</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Mary Macdonald</speakers>
+<filename_audio>gla_word-list_1997_60</filename_audio>
+<filename_wav>gla_word-list_1997_60.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_60.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>122 - 160</wordlist_entries>
+<image_tif>gla_word-list_1997_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#60</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#122</link_within_wordlist>
+</item>
+
+<item>
+<entry>61</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Mary Macdonald</speakers>
+<filename_audio>gla_word-list_1997_61</filename_audio>
+<filename_wav>gla_word-list_1997_61.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_61.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>161 - 200</wordlist_entries>
+<image_tif>gla_word-list_1997_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#61</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#161</link_within_wordlist>
+</item>
+
+<item>
+<entry>62</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Mary Macdonald</speakers>
+<filename_audio>gla_word-list_1997_62</filename_audio>
+<filename_wav>gla_word-list_1997_62.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_62.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>201 - 237</wordlist_entries>
+<image_tif>gla_word-list_1997_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#62</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#201</link_within_wordlist>
+</item>
+
+<item>
+<entry>63</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Mary Macdonald</speakers>
+<filename_audio>gla_word-list_1997_63</filename_audio>
+<filename_wav>gla_word-list_1997_63.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_63.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>238 - 268</wordlist_entries>
+<image_tif>gla_word-list_1997_07.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_07.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#63</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#238</link_within_wordlist>
+</item>
+
+<item>
+<entry>64</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Mary Macdonald (II)</speakers>
+<filename_audio>gla_word-list_1997_64</filename_audio>
+<filename_wav>gla_word-list_1997_64.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_64.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>1 - 38</wordlist_entries>
+<image_tif>gla_word-list_1997_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#64</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>gla_word-list_1997_01.jpg</wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>65</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Mary Macdonald (II)</speakers>
+<filename_audio>gla_word-list_1997_65</filename_audio>
+<filename_wav>gla_word-list_1997_65.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_65.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>39 - 80</wordlist_entries>
+<image_tif>gla_word-list_1997_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#65</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#39</link_within_wordlist>
+</item>
+
+<item>
+<entry>66</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Mary Macdonald (II)</speakers>
+<filename_audio>gla_word-list_1997_66</filename_audio>
+<filename_wav>gla_word-list_1997_66.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_66.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>81 - 121</wordlist_entries>
+<image_tif>gla_word-list_1997_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#66</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#81</link_within_wordlist>
+</item>
+
+<item>
+<entry>67</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Mary Macdonald (II)</speakers>
+<filename_audio>gla_word-list_1997_67</filename_audio>
+<filename_wav>gla_word-list_1997_67.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_67.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>122 - 160</wordlist_entries>
+<image_tif>gla_word-list_1997_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#67</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#122</link_within_wordlist>
+</item>
+
+<item>
+<entry>68</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Mary Macdonald (II)</speakers>
+<filename_audio>gla_word-list_1997_68</filename_audio>
+<filename_wav>gla_word-list_1997_68.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_68.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>161 - 200</wordlist_entries>
+<image_tif>gla_word-list_1997_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#68</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#161</link_within_wordlist>
+</item>
+
+<item>
+<entry>69</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Mary Macdonald (II)</speakers>
+<filename_audio>gla_word-list_1997_69</filename_audio>
+<filename_wav>gla_word-list_1997_69.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_69.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>201 - 237</wordlist_entries>
+<image_tif>gla_word-list_1997_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#69</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#201</link_within_wordlist>
+</item>
+
+<item>
+<entry>70</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>Mary Macdonald (II)</speakers>
+<filename_audio>gla_word-list_1997_70</filename_audio>
+<filename_wav>gla_word-list_1997_70.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_70.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>238 - 268</wordlist_entries>
+<image_tif>gla_word-list_1997_07.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_07.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#70</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#238</link_within_wordlist>
+</item>
+
+<item>
+<entry>71</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>John Grant Maciver</speakers>
+<filename_audio>gla_word-list_1997_71</filename_audio>
+<filename_wav>gla_word-list_1997_71.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_71.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>1 - 38</wordlist_entries>
+<image_tif>gla_word-list_1997_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#71</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>gla_word-list_1997_01.jpg</wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>72</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>John Grant Maciver</speakers>
+<filename_audio>gla_word-list_1997_72</filename_audio>
+<filename_wav>gla_word-list_1997_72.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_72.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>39 - 80</wordlist_entries>
+<image_tif>gla_word-list_1997_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#72</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#39</link_within_wordlist>
+</item>
+
+<item>
+<entry>73</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>John Grant Maciver</speakers>
+<filename_audio>gla_word-list_1997_73</filename_audio>
+<filename_wav>gla_word-list_1997_73.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_73.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>81 - 121</wordlist_entries>
+<image_tif>gla_word-list_1997_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#73</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#81</link_within_wordlist>
+</item>
+
+<item>
+<entry>74</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>John Grant Maciver</speakers>
+<filename_audio>gla_word-list_1997_74</filename_audio>
+<filename_wav>gla_word-list_1997_74.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_74.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>122 - 160</wordlist_entries>
+<image_tif>gla_word-list_1997_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#74</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#122</link_within_wordlist>
+</item>
+
+<item>
+<entry>75</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>John Grant Maciver</speakers>
+<filename_audio>gla_word-list_1997_75</filename_audio>
+<filename_wav>gla_word-list_1997_75.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_75.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>161 - 200</wordlist_entries>
+<image_tif>gla_word-list_1997_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#75</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#161</link_within_wordlist>
+</item>
+
+<item>
+<entry>76</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>John Grant Maciver</speakers>
+<filename_audio>gla_word-list_1997_76</filename_audio>
+<filename_wav>gla_word-list_1997_76.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_76.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>201 - 237</wordlist_entries>
+<image_tif>gla_word-list_1997_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#76</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#201</link_within_wordlist>
+</item>
+
+<item>
+<entry>77</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>Great Bernera dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Word List</content>
+<recording_location>Great Bernera, Lewis, Outer Hebrides, Scotland</recording_location>
+<recording_date>7 February, 1996</recording_date>
+<fieldworkers>Jenny Ladefoged, Peter Ladefoged, Alice Turk, Kevin Hind</fieldworkers>
+<origin>Speaker from Bernera, Scotland</origin>
+<speakers>John Grant Maciver</speakers>
+<filename_audio>gla_word-list_1997_77</filename_audio>
+<filename_wav>gla_word-list_1997_77.wav</filename_wav>
+<filename_mp3>gla_word-list_1997_77.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>gla_word-list_1997_01.html</wordlist>
+<wordlist_entries>238 - 268</wordlist_entries>
+<image_tif>gla_word-list_1997_07.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_word-list_1997_07.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#77</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>gla_word-list_1997_01.html#238</link_within_wordlist>
+</item>
+
+<item>
+<entry>78</entry>
+<lang_name>Gaelic, Scottish</lang_name>
+<dialect>North Uist dialect</dialect>
+<sil_code>gla</sil_code>
+<content>Story</content>
+<recording_location>Recording location not specified</recording_location>
+<recording_date>15 February, 1978</recording_date>
+<fieldworkers>Fieldworker not specified</fieldworkers>
+<origin>Speaker from Sollas, North Uist, Scotland</origin>
+<speakers>Fred Macaulay</speakers>
+<filename_audio>gla_story_1978_01</filename_audio>
+<filename_wav>gla_story_1978_01.wav</filename_wav>
+<filename_mp3>gla_story_1978_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>gla_story_1978_01.html</wordlist>
+<wordlist_entries>1 - 1</wordlist_entries>
+<image_tif>gla_story_1978_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>gla_story_1978_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>gla_record_details.html#78</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>gla_story_1978_01</wordlist_no_repetition>
+<link_within_wordlist>gla_story_1978_01.html#1</link_within_wordlist>
+</item>
+</metadata>

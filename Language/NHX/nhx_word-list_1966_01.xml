@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Nahuatl, Isthmus-Mecayapan</language_name>
+
+<headers>
+
+<IPA_header>Nahuatl, Isthmus-Mecayapan</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<IPA_transcription>kitaʔ</IPA_transcription>
+<gloss>he sees it</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<IPA_transcription>kitah</IPA_transcription>
+<gloss>they see it</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<IPA_transcription>kitaʔ</IPA_transcription>
+<gloss>he saw it</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<IPA_transcription>tisiʔ</IPA_transcription>
+<gloss>she grinds</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<IPA_transcription>tisih</IPA_transcription>
+<gloss>they grind</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<IPA_transcription>tisiʔ</IPA_transcription>
+<gloss>she ground</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<IPA_transcription>kitasan</IPA_transcription>
+<gloss>he only sees it</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<IPA_transcription>kitahsan</IPA_transcription>
+<gloss>they only see it</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<IPA_transcription>kitaʔsan</IPA_transcription>
+<gloss>he only saw it</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<IPA_transcription>tisisan</IPA_transcription>
+<gloss>she only grinds</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<IPA_transcription>tisihsan</IPA_transcription>
+<gloss>they only grind</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<IPA_transcription>tisiʔsan</IPA_transcription>
+<gloss>she only ground</gloss>
+</item>
+</wordlist>
+
+
+
+

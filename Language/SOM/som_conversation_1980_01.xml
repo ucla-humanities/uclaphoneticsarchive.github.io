@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Somali</language_name>
+
+
+
+<headers>
+
+<native_orthography>Speaker</native_orthography>
+<alt_orthography>Orthography</alt_orthography>
+<IPA_header></IPA_header>
+<gloss_header>English Translation</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Bal waran?</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>How are you?</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Waa nabad iy khayr ilaahey mahadii.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>God bless us we are in peace and prosperity.</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Goormaad timidey?</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>When did you arrive?</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Shaleybaan imiye bal iska waran?</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I came yesterday, how about you?</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Waan iska fiicanahey.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I am doing fine.</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Sideed tihiin idinku?</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>How are you all?</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Khayr.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>We are fine, how about you?</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Xamadi alah.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I'm fine.</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Aad baa loo wanaag sanyahey bal adigu waran?</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>How was the country?</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Waan fiicanahey.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>People were doing fine at home.</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Dalkii ka waran?</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>What are you going to do in the U.S.?</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Dalkii aad baa loogu nabdoona.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I am thinking of going to a university.</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Haye , mareykanka maxaad ka qabaneysaa.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Which university will you be going to?</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Waxan isleeyahey ad jammacadd gashid.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>(no entry)</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Haye, jammacddeed galeysaa.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>(no entry)</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>UCLA ayaan niyada ku hayaa.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I am considering going to UCLA.</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Haye, oo UCLA ma isguul fii can baa?</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Is UCLA a good school?</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Waa la igu yidhi dee anign wah maan arag eh.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I have been told that, even though I haven't seen it yet.</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Haye, maxaad bara ney saa na?</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>What are you going to study?</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Waxan isleeyahey aad baratid wax public health la yidhaahdo.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I am going to study an area called public health.</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Haa, public health baad baraneysa. Waa maadad fican baan u maleynayaa.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>So you are going to study public health.  I think it is a good subject.</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Waa laga yaabaa. Dee wadanku waa lagu roonaa. Roob fiican baa ka da'ay, dadkiina way iska wanaagsanaayeen. Dee cidiiniina waan arkey. Salaam wanaagsan bey kiu soo dirayeen adigu miyaad dhameysatey.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>People were doing fine and there was plenty of rain in the country, but I have seen your family and they were sending their regards to you.  Did you finish your studies?</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Maya anigu wali hada isguulkii baan wadaa. Oo waxa filayaa inan sannad dambe sii joogi doono.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>No, I am still continuing my studies, and I think I will be staying one more year.</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Sannad dambe aa? Oo waa dheer tahaye.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Another year!  That is too long.</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Haa.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Goormaad isleedahey aad laabatid. </alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>When do you anticipate to go back?</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Waxan filayaa inaan laaban doono marka aan hawshan waxbarashadu ii dhamaato.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I will be going back when I finish my studies.</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Waayahey dee weynu is arki doona goormaad ii imani.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>So, o.k., we will see each other.  When are you going to visit me?</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Anigu imika firaaqo malihi, laakin waxan rajeynayaa inaan saddey bari ka bacdi…aan kuu imaado. Hadii ilaahey yiraaho.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I don't have time now, but I suppose I will see you within three days time.</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Hadii eeba xukma.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>If god says.</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Hawl baan imika hayaa oo muddu iga dhamaaneysa. Marka waxan filayaa markaan hawshaas ka baxo inan kuu immado.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I am doing certain things now, and by the time I am through with that, I will be able to visit you.</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Halka aan ku jiro miyaad garaney saa.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Do you know where I live?</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Maya.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>No.</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Haa, inankii Maxamed ayaa yaqaana meesha isagaad markaa la hadhi.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Mohamed knows it, so talk to him.</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Haye.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>O.k.</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Isagaa kuu sheegi doona am a waabu kuu keeni doona anigu markaa imika wax hawla imika ma lihi fasax ayaan iskaga jiraa, dee wah' waxba maan bilaabin markaa waad ilasoo hadi kartaan markaad ii imaneysaan si aad iigu sii sheegtaan oo aan idiin sugo dee markaa weynu is arki doonaa dhawaan insha'laah.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He will either tell you or show it to you.  I am doing nothing now, because I'm in a short break and haven't started anything, so you can call me when you are visiting me.</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Goormaad adigu isguulka bilaabeysaa.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>When are you going to start school?</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Bil dabadeed.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>After a month.</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Haa, dee maxaad qabaneysaa.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>And what are you doing?</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Ma inta ka horeysa, dee inta ka horeysa dhulka ayaan baranayaa iyi magaalada, magaaladaan rab aa inaan bar barto, iyo dee waxaan sii dhameysnaya waxyaabihi ma agtahey isguulka la iga rabey inaan dhamey sto. Waraqaheygii iyi wixii baan sii dujaar sanayaa markaa dee aqulna waan raad sanayaa imika hudheel baan ku soo dagey.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Before school I'm going to orient myself to the city, and prepare for the materials I will be needing in school, as well as searching for a place to live.  I am living in a hotel at the moment.</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Hudheel baad hada ku jirtaa.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I am living in a hotel now!</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Haa, dee gurina waa inaan raadsadaa waayo hudheelku waa qaah' marka sidaasaan ku talo jiraa.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Yes, and I have to search for an apartment, because hotels are expensive.</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Meeshani hudheelad wey ka gadisantaho aab bey qaali u tahey.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>That is true.</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Waa run.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>(no entry)</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Haye, dee reerihi waa lagu nabdoona saw maaha aad baa loo fiicnaa, dee dalkan marey kanku waxbarasha fiican baa taala marka dee, aad baa loogu faa ii dey staa waliba isguulka UCLA waxan u maly nayaa inuu isguul fii caa yahey.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>So the people were fine.  In America there is good education and we should benefit from it, especially, I suppose UCLA is a good school. </gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Haa, oo adigu kaad dhigah magicii</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>What is the name of the school you study at?</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Anigu waxan dhigtaa USC.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I study at USC.</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>USC baa la yidhaa.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>So it is called USC.</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Ha, USC baan dhigtaa. Marka waa isgul isaguna sida UCLA oo kale ah. Laakina waxan u maleynayaa inu UCLA ka fiicanyahey markaa waxan filayaa inaad iiga warantaa ma kalidaabaa yimidey mise dad kale oo kula socdey baa jira.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Yes, I study at USC, and I believe it is better than UCLA, especially in the field of public heatlh.  Did you come alone or were there some others who came with you?</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Maya kaliday uumbaan imidey imika waxa laga yaabaa sannadka dambe baa la filayey in scholarship badan la hello. Marka deeq waxbarasho dibadeed baa la sannadka dambe ilaa tobaneeya qof baa la filayaa iney helaan oo u badan wasaarada waxbarashade eyo wasaarada tacaliinta sare, marka taas ayaa lagu rajo weynaa imika.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I came alone, but next year it is expected that some other students from the ministries of education and higher education will be sent for schooling.</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Haye, walaahi waabey fii can tahey dadkii hadey waxbarashadoodi aad u koreyso.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>(no entry)</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Laa aad baa loo wanaag sanyahey</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>(no entry)</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Anigu waan iska fii canahey dee anigu halkan waxan joogey muddo laba sannadood ah, imika dee waxanan bartaa engineering oo isgul fii can oo engineering ah ayey USC leedahey, markaa dee baryahan wax war ah dalkii kamaan helin waxan ku hawlanaa uun waxbarashadey da.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>It is really excellent if the people's education is developed.  I will be staying here for two years and I do study engineering at USC.  I haven't heard any news from home since I've been only occupied in my studies.</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Oo miyaan waraaqo lagusoo dirin.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Didn't they send you mail?</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Waraaqo hada waxa iigu dambeysey muddo dhawr bilood ah, ayaa reerkii waraaqo aan ka helo iigu dambeysey een dee bal intaan kuu imaado ayaa warkii anigu dalkii aad baan ugu baahanahey oo dee saddexdaa bilood ba waan yaabanaa oo waxan islahaa dalkii max aa jira oo, yacni noloshii dalkii oo reerkaygii eyo wixii baan war ka rabey, dee markaa waxey ila tahey intaan ku soo maro inan markaa bal kaa wareyst. guud ahaan sidii dalkii lagu ahaa, roob siduu ahaa duunyo iyo dadba sidii la ahaa, een bal markaa xaal guud ahaaneed inaad ii warantid, hadii aad ka warqabtidna bal cidayadii inad wax war ah oo, ee wuxuu xaalkoodu ku sugan yahey aad iga sii sid.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>For a couple of months I haven't received any mail, and I was worried about the conditions of my family and home in general, so I needed some general information about the conditions at home and of my family.</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Wax gaarahaan hada ma hayo magaala kale ayey iyagu joogaan ee ma ogtahey aniguna Muqadisho ayaan ka soo dhoofey, oo halkaasaban daganaa laakiin guud ahaan dalkii, walaahi wuu fiicnaa oo waala iska xasiloona</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I don't have specific news for you from your family, because they live in another town.  And I came now from Mogadishu, but generally the conditions of the people and the country were good.</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Haye, roobku siduu buu ahaa isagu</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>How about the condition of rain?</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Waa wanaagsanaayen beerihi, si fii can baa loo tabcadayo dadkii wey iska roonayeen oo, meel walba isguuladii wey gaadheen</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>(no entry)</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Isguladii mey balaadheen</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>(no entry)</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Wey balaadheen oo dadku imika waxa loo dha qaaqey horumar xagga beeraha iyo xagga waxbarashada ba, marka horta guud ahaan wadanki, sannadkan rajo fii can wuu soo korayey, lakiin gaar ahaan reerkiini, walaahi sidaana maanan isku agoon dee isku magaalana maanan joogin lakiin wax dhibaato ihi. ma jivin baan u maley nayaa, dee waan maq li lahaa.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>It was good, and the farms were growing well and schools were opened in many places.  People are focusing now on development of agriculture and education, so in general, there was a good hope for economic prosperity.  But I don't have any specific news from your family.  All I can say is that they were fine, otherwise I might have heard it.</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Haa, markaa waxad, fileysaa iney iska caafimaad qabeen.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>So you expect they were fine.</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Sidas baan filayaa.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I think so.</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>A</native_orthography>
+<alt_orthography>Ha in sha' alaah. Haye wax kale adigu halkeed soo martey markaad Somaliya ka imaneysey. </alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>If god says.  What other places have you stopped at on your way here?</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>B</native_orthography>
+<alt_orthography>Waxan soo marey Rome, dabadeedna habeen baan seexday Rome hadeedna waxan imi New York. New York habeen baan joogey oo reer anu saaxiib nahey oo jooga ayaan habeen la baryey.</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I stopped one night at Rome, then after that I arrived at New York and stayed with a family friend for a night.</gloss>
+</item>
+</wordlist>
+
+
+
+
+
+

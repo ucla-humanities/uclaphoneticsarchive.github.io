@@ -1,0 +1,724 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata>
+<language_name>Tsou</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language:</lang_name_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<speakers_header>Speakers</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>Tiff Image</image_tif_header>
+<image_tif2_header>Tiff Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality </tif_quality_header>
+<jpg_quality_header>JPG Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+<item>
+<entry>1</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>25 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>moʔo muknana / Wu shan-shen (male, age 59), voyu toska / Du Wen-kao (male), yusuŋu niahosa / Liang Xin-zhi (male), eapasu eoŋʉmuknana / Wu Shi-Chang (male), kutʉ easiyuŋu / Wang Yu-Mei (female), naʔu tapaŋʉ / Fang chun-mei (female), sayuŋu muknana / Wu bi-yu (female)</speakers>
+<filename_audio>tsu_word-list_1993_01</filename_audio>
+<filename_wav>tsu_word-list_1993_01.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_01.html</wordlist>
+<wordlist_entries>1 - 28</wordlist_entries>
+<image_tif>tsu_word-list_1993_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>tsu_word-list_1993_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tsu_word-list_1993_01.html</wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>25 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>moʔo muknana / Wu shan-shen (male, age 59), voyu toska / Du Wen-kao (male), yusuŋu niahosa / Liang Xin-zhi (male), eapasu eoŋʉmuknana / Wu Shi-Chang (male), kutʉ easiyuŋu / Wang Yu-Mei (female), naʔu tapaŋʉ / Fang chun-mei (female), sayuŋu muknana / Wu bi-yu (female)</speakers>
+<filename_audio>tsu_word-list_1993_02</filename_audio>
+<filename_wav>tsu_word-list_1993_02.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_02.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_01.html</wordlist>
+<wordlist_entries>29 - 52</wordlist_entries>
+<image_tif>tsu_word-list_1993_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>tsu_word-list_1993_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#2</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_01.html#29</link_within_wordlist>
+</item>
+
+<item>
+<entry>3</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>25 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>moʔo muknana / Wu shan-shen (male, age 59), voyu toska / Du Wen-kao (male), yusuŋu niahosa / Liang Xin-zhi (male), eapasu eoŋʉmuknana / Wu Shi-Chang (male), kutʉ easiyuŋu / Wang Yu-Mei (female), naʔu tapaŋʉ / Fang chun-mei (female), sayuŋu muknana / Wu bi-yu (female)</speakers>
+<filename_audio>tsu_word-list_1993_03</filename_audio>
+<filename_wav>tsu_word-list_1993_03.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_03.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_02.html</wordlist>
+<wordlist_entries>1 - 20</wordlist_entries>
+<image_tif>tsu_word-list_1993_03.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_03.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#3</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tsu_word-list_1993_02.html</wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>4</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>25 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>moʔo muknana / Wu shan-shen (male, age 59), voyu toska / Du Wen-kao (male), yusuŋu niahosa / Liang Xin-zhi (male), eapasu eoŋʉmuknana / Wu Shi-Chang (male), kutʉ easiyuŋu / Wang Yu-Mei (female), unidentified female, sayuŋu muknana / Wu bi-yu (female)</speakers>
+<filename_audio>tsu_word-list_1993_04</filename_audio>
+<filename_wav>tsu_word-list_1993_04.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_04.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_02.html</wordlist>
+<wordlist_entries>21 - 47</wordlist_entries>
+<image_tif>tsu_word-list_1993_04.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_04.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#4</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_02.html#21</link_within_wordlist>
+</item>
+
+<item>
+<entry>5</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>25 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>moʔo muknana / Wu shan-shen (male, age 59), voyu toska / Du Wen-kao (male), yusuŋu niahosa / Liang Xin-zhi (male), eapasu eoŋʉmuknana / Wu Shi-Chang (male), kutʉ easiyuŋu / Wang Yu-Mei (female), unidentified female, sayuŋu muknana / Wu bi-yu (female)</speakers>
+<filename_audio>tsu_word-list_1993_05</filename_audio>
+<filename_wav>tsu_word-list_1993_05.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_05.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_02.html</wordlist>
+<wordlist_entries>48 - 75</wordlist_entries>
+<image_tif>tsu_word-list_1993_04.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_04.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#5</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_02.html#48</link_within_wordlist>
+</item>
+
+<item>
+<entry>6</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>25 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>moʔo muknana / Wu shan-shen (male, age 59), voyu toska / Du Wen-kao (male), yusuŋu niahosa / Liang Xin-zhi (male), eapasu eoŋʉmuknana / Wu Shi-Chang (male), kutʉ easiyuŋu / Wang Yu-Mei (female), unidentified female, sayuŋu muknana / Wu bi-yu (female)</speakers>
+<filename_audio>tsu_word-list_1993_06</filename_audio>
+<filename_wav>tsu_word-list_1993_06.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_06.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_02.html</wordlist>
+<wordlist_entries>76 - 96</wordlist_entries>
+<image_tif>tsu_word-list_1993_05.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_05.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#6</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_02.html#76</link_within_wordlist>
+</item>
+
+<item>
+<entry>7</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>25 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>moʔo muknana / Wu shan-shen (male, age 59), voyu toska / Du Wen-kao (male), yusuŋu niahosa / Liang Xin-zhi (male), eapasu eoŋʉmuknana / Wu Shi-Chang (male), kutʉ easiyuŋu / Wang Yu-Mei (female), unidentified female, sayuŋu muknana / Wu bi-yu (female)</speakers>
+<filename_audio>tsu_word-list_1993_07</filename_audio>
+<filename_wav>tsu_word-list_1993_07.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_07.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_02.html</wordlist>
+<wordlist_entries>97 - 127</wordlist_entries>
+<image_tif>tsu_word-list_1993_05.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_05.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#7</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_02.html#97</link_within_wordlist>
+</item>
+
+<item>
+<entry>8</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>25 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>moʔo muknana / Wu shan-shen (male, age 59), voyu toska / Du Wen-kao (male), yusuŋu niahosa / Liang Xin-zhi (male), eapasu eoŋʉmuknana / Wu Shi-Chang (male), kutʉ easiyuŋu / Wang Yu-Mei (female), unidentified female, sayuŋu muknana / Wu bi-yu (female)</speakers>
+<filename_audio>tsu_word-list_1993_08</filename_audio>
+<filename_wav>tsu_word-list_1993_08.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_08.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_02.html</wordlist>
+<wordlist_entries>128 - 143</wordlist_entries>
+<image_tif>tsu_word-list_1993_06.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_06.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#8</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_02.html#128</link_within_wordlist>
+</item>
+
+<item>
+<entry>9</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>25 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>moʔo muknana / Wu shan-shen (male, age 59), voyu toska / Du Wen-kao (male), yusuŋu niahosa / Liang Xin-zhi (male), eapasu eoŋʉmuknana / Wu Shi-Chang (male), kutʉ easiyuŋu / Wang Yu-Mei (female), unidentified female, sayuŋu muknana / Wu bi-yu (female)</speakers>
+<filename_audio>tsu_word-list_1993_09</filename_audio>
+<filename_wav>tsu_word-list_1993_09.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_09.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_02.html</wordlist>
+<wordlist_entries>144 - 178</wordlist_entries>
+<image_tif>tsu_word-list_1993_06.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_06.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#9</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_02.html#144</link_within_wordlist>
+</item>
+
+<item>
+<entry>10</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>26 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>yapasueoŋʉ peoŋsi / Wang Chun-Fa (male, age 40), voyu toskʉ / Du Wen-kao (male, age 54), eusuŋu tiakaŋa / Zheng Xiu-neng (male, age 71), avai peoŋsi / Wang De -cai (male, age 46), voyu muknana / Wu Jin-shi (male, age 72), naʔu tapaŋʉ / Fang chun-mei (female, age 43), laŋui yuʔlunana / Tang Mei-hui (female, age 54), sayuŋa poicoŋʉ / Pu Mei-hui (female, age 61)</speakers>
+<filename_audio>tsu_word-list_1993_10</filename_audio>
+<filename_wav>tsu_word-list_1993_10.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_10.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_01.html</wordlist>
+<wordlist_entries>1 - 28</wordlist_entries>
+<image_tif>tsu_word-list_1993_01.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_01.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#10</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tsu_word-list_1993_01.html</wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>11</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>26 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>yapasueoŋʉ peoŋsi / Wang Chun-Fa (male, age 40), voyu toskʉ / Du Wen-kao (male, age 54), eusuŋu tiakaŋa / Zheng Xiu-neng (male, age 71), avai peoŋsi / Wang De -cai (male, age 46), voyu muknana / Wu Jin-shi (male, age 72), naʔu tapaŋʉ / Fang chun-mei (female, age 43), laŋui yuʔlunana / Tang Mei-hui (female, age 54), sayuŋa poicoŋʉ / Pu Mei-hui (female, age 61)</speakers>
+<filename_audio>tsu_word-list_1993_11</filename_audio>
+<filename_wav>tsu_word-list_1993_11.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_11.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_01.html</wordlist>
+<wordlist_entries>29 - 52</wordlist_entries>
+<image_tif>tsu_word-list_1993_02.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_02.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#11</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_01.html#29</link_within_wordlist>
+</item>
+
+<item>
+<entry>12</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>26 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>yapasueoŋʉ peoŋsi / Wang Chun-Fa (male, age 40), voyu toskʉ / Du Wen-kao (male, age 54), eusuŋu tiakaŋa / Zheng Xiu-neng (male, age 71), avai peoŋsi / Wang De -cai (male, age 46), voyu muknana / Wu Jin-shi (male, age 72), naʔu tapaŋʉ / Fang chun-mei (female, age 43), laŋui yuʔlunana / Tang Mei-hui (female, age 54), sayuŋa poicoŋʉ / Pu Mei-hui (female, age 61)</speakers>
+<filename_audio>tsu_word-list_1993_12</filename_audio>
+<filename_wav>tsu_word-list_1993_12.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_12.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_02.html</wordlist>
+<wordlist_entries>1 - 20</wordlist_entries>
+<image_tif>tsu_word-list_1993_03.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_03.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#12</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tsu_word-list_1993_02.html</wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>13</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>26 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>yapasueoŋʉ peoŋsi / Wang Chun-Fa (male, age 40), voyu toskʉ / Du Wen-kao (male, age 54), eusuŋu tiakaŋa / Zheng Xiu-neng (male, age 71), avai peoŋsi / Wang De -cai (male, age 46), voyu muknana / Wu Jin-shi (male, age 72), naʔu tapaŋʉ / Fang chun-mei (female, age 43), laŋui yuʔlunana / Tang Mei-hui (female, age 54), sayuŋa poicoŋʉ / Pu Mei-hui (female, age 61)</speakers>
+<filename_audio>tsu_word-list_1993_13</filename_audio>
+<filename_wav>tsu_word-list_1993_13.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_13.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_02.html</wordlist>
+<wordlist_entries>21 - 47</wordlist_entries>
+<image_tif>tsu_word-list_1993_04.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_04.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#13</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_02.html#21</link_within_wordlist>
+</item>
+
+<item>
+<entry>14</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>26 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>yapasueoŋʉ peoŋsi / Wang Chun-Fa (male, age 40), voyu toskʉ / Du Wen-kao (male, age 54), eusuŋu tiakaŋa / Zheng Xiu-neng (male, age 71), avai peoŋsi / Wang De -cai (male, age 46), voyu muknana / Wu Jin-shi (male, age 72), naʔu tapaŋʉ / Fang chun-mei (female, age 43), laŋui yuʔlunana / Tang Mei-hui (female, age 54), sayuŋa poicoŋʉ / Pu Mei-hui (female, age 61)</speakers>
+<filename_audio>tsu_word-list_1993_14</filename_audio>
+<filename_wav>tsu_word-list_1993_14.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_14.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_02.html</wordlist>
+<wordlist_entries>48 - 75</wordlist_entries>
+<image_tif>tsu_word-list_1993_04.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_04.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#14</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_02.html#48</link_within_wordlist>
+</item>
+
+<item>
+<entry>15</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>26 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>yapasueoŋʉ peoŋsi / Wang Chun-Fa (male, age 40), voyu toskʉ / Du Wen-kao (male, age 54), eusuŋu tiakaŋa / Zheng Xiu-neng (male, age 71), avai peoŋsi / Wang De -cai (male, age 46), voyu muknana / Wu Jin-shi (male, age 72), naʔu tapaŋʉ / Fang chun-mei (female, age 43), laŋui yuʔlunana / Tang Mei-hui (female, age 54), sayuŋa poicoŋʉ / Pu Mei-hui (female, age 61)</speakers>
+<filename_audio>tsu_word-list_1993_15</filename_audio>
+<filename_wav>tsu_word-list_1993_15.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_15.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_02.html</wordlist>
+<wordlist_entries>76 - 96</wordlist_entries>
+<image_tif>tsu_word-list_1993_05.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_05.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#15</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_02.html#76</link_within_wordlist>
+</item>
+
+<item>
+<entry>16</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>26 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>yapasueoŋʉ peoŋsi / Wang Chun-Fa (male, age 40), voyu toskʉ / Du Wen-kao (male, age 54), eusuŋu tiakaŋa / Zheng Xiu-neng (male, age 71), avai peoŋsi / Wang De -cai (male, age 46), voyu muknana / Wu Jin-shi (male, age 72), naʔu tapaŋʉ / Fang chun-mei (female, age 43), laŋui yuʔlunana / Tang Mei-hui (female, age 54), sayuŋa poicoŋʉ / Pu Mei-hui (female, age 61)</speakers>
+<filename_audio>tsu_word-list_1993_16</filename_audio>
+<filename_wav>tsu_word-list_1993_16.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_16.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_02.html</wordlist>
+<wordlist_entries>97 - 127</wordlist_entries>
+<image_tif>tsu_word-list_1993_05.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_05.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#16</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_02.html#97</link_within_wordlist>
+</item>
+
+<item>
+<entry>17</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>26 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>yapasueoŋʉ peoŋsi / Wang Chun-Fa (male, age 40), voyu toskʉ / Du Wen-kao (male, age 54), eusuŋu tiakaŋa / Zheng Xiu-neng (male, age 71), avai peoŋsi / Wang De -cai (male, age 46), voyu muknana / Wu Jin-shi (male, age 72), naʔu tapaŋʉ / Fang chun-mei (female, age 43), laŋui yuʔlunana / Tang Mei-hui (female, age 54), sayuŋa poicoŋʉ / Pu Mei-hui (female, age 61)</speakers>
+<filename_audio>tsu_word-list_1993_17</filename_audio>
+<filename_wav>tsu_word-list_1993_17.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_17.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_02.html</wordlist>
+<wordlist_entries>128 - 143</wordlist_entries>
+<image_tif>tsu_word-list_1993_06.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_06.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#17</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_02.html#128</link_within_wordlist>
+</item>
+
+<item>
+<entry>18</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>26 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>yapasueoŋʉ peoŋsi / Wang Chun-Fa (male, age 40), voyu toskʉ / Du Wen-kao (male, age 54), eusuŋu tiakaŋa / Zheng Xiu-neng (male, age 71), avai peoŋsi / Wang De -cai (male, age 46), voyu muknana / Wu Jin-shi (male, age 72), naʔu tapaŋʉ / Fang chun-mei (female, age 43), laŋui yuʔlunana / Tang Mei-hui (female, age 54), sayuŋa poicoŋʉ / Pu Mei-hui (female, age 61)</speakers>
+<filename_audio>tsu_word-list_1993_18</filename_audio>
+<filename_wav>tsu_word-list_1993_18.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_18.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_02.html</wordlist>
+<wordlist_entries>144 - 178</wordlist_entries>
+<image_tif>tsu_word-list_1993_06.tif</image_tif>
+<image_tif2>tsu_word-list_1993_13.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_06.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#18</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_02.html#144</link_within_wordlist>
+</item>
+
+<item>
+<entry>19</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>27 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>eapasu-eoŋʉ akueayana / Chen Chuan-ci (male, age 71), sayuŋu eaisikana / Shi Chun-j’ang (female, age 66)</speakers>
+<filename_audio>tsu_word-list_1993_19</filename_audio>
+<filename_wav>tsu_word-list_1993_19.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_19.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_03.html</wordlist>
+<wordlist_entries>1 - 34</wordlist_entries>
+<image_tif>tsu_word-list_1993_08.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>tsu_word-list_1993_08.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#19</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tsu_word-list_1993_03.html</wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_03.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>20</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>27 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>moʔo muknana / Wu shan-shen (male, age 59), sayuŋu eaisikana / Shi Chun-j’ang (female, age 66), eapasu-eoŋʉ akueayana / Chen Chuan-ci (male, age 71)</speakers>
+<filename_audio>tsu_word-list_1993_20</filename_audio>
+<filename_wav>tsu_word-list_1993_20.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_20.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_04.html</wordlist>
+<wordlist_entries>1 - 29</wordlist_entries>
+<image_tif>tsu_word-list_1993_09.tif</image_tif>
+<image_tif2>tsu_word-list_1993_14.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_09.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_14.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#20</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tsu_word-list_1993_04.html</wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_04.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>21</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>27 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>moʔo muknana / Wu shan-shen (male, age 59), sayuŋu eaisikana / Shi Chun-j’ang (female, age 66), eapasu-eoŋʉ akueayana / Chen Chuan-ci (male, age 71)</speakers>
+<filename_audio>tsu_word-list_1993_21</filename_audio>
+<filename_wav>tsu_word-list_1993_21.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_21.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_04.html</wordlist>
+<wordlist_entries>30 - 55</wordlist_entries>
+<image_tif>tsu_word-list_1993_10.tif</image_tif>
+<image_tif2>tsu_word-list_1993_14.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_10.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_14.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#21</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_04.html#30</link_within_wordlist>
+</item>
+
+<item>
+<entry>22</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>27 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>moʔo muknana / Wu shan-shen (male, age 59), sayuŋu eaisikana / Shi Chun-j’ang (female, age 66), eapasu-eoŋʉ akueayana / Chen Chuan-ci (male, age 71)</speakers>
+<filename_audio>tsu_word-list_1993_22</filename_audio>
+<filename_wav>tsu_word-list_1993_22.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_22.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_04.html</wordlist>
+<wordlist_entries>56 - 107</wordlist_entries>
+<image_tif>tsu_word-list_1993_11.tif</image_tif>
+<image_tif2>tsu_word-list_1993_14.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_11.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_14.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#22</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_04.html#56</link_within_wordlist>
+</item>
+
+<item>
+<entry>23</entry>
+<lang_name>Tsou</lang_name>
+<sil_code>TSU</sil_code>
+<content>Word List</content>
+<recording_location>Pnguu village, Mt. Ali, Taiwan</recording_location>
+<recording_date>27 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Elizabeth Zeitoun</fieldworkers>
+<speakers>moʔo muknana / Wu shan-shen (male, age 59), sayuŋu eaisikana / Shi Chun-j’ang (female, age 66), eapasu-eoŋʉ akueayana / Chen Chuan-ci (male, age 71)</speakers>
+<filename_audio>tsu_word-list_1993_23</filename_audio>
+<filename_wav>tsu_word-list_1993_23.wav</filename_wav>
+<filename_mp3>tsu_word-list_1993_23.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>tsu_word-list_1993_04.html</wordlist>
+<wordlist_entries>108 - 114</wordlist_entries>
+<image_tif>tsu_word-list_1993_12.tif</image_tif>
+<image_tif2>tsu_word-list_1993_14.tif</image_tif2>
+<image_jpg>tsu_word-list_1993_12.jpg</image_jpg>
+<image_jpg2>tsu_word-list_1993_14.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tsu_record_details.html#23</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tsu_word-list_1993_04.html#108</link_within_wordlist>
+</item>
+
+</metadata>

@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Burarra</language_name>
+
+
+
+<headers>
+
+<native_orthography>Sound Illustrated</native_orthography>
+<alt_orthography>Orthography</alt_orthography>
+<IPA_header></IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>ba</native_orthography>
+<alt_orthography>bala</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>house</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>ba</native_orthography>
+<alt_orthography>gaba</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>there (not far out of sight)</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>ba</native_orthography>
+<alt_orthography>jakaba</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to close, block up</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>bi/e</native_orthography>
+<alt_orthography>bima</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>back, spine</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>bi/e</native_orthography>
+<alt_orthography>yibirrich</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>quickly</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>bi/e</native_orthography>
+<alt_orthography>guyba</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to sink, drown</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>bu/o</native_orthography>
+<alt_orthography>buwarta</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>plains turkey</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>bu/o</native_orthography>
+<alt_orthography>goba</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>magpie goose</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>bu/o</native_orthography>
+<alt_orthography>joborr</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>rule, law</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>bu/o</native_orthography>
+<alt_orthography>guburda</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>road; clean</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography></native_orthography>
+<alt_orthography>(not on wordlist)</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>(no gloss)</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>pa</native_orthography>
+<alt_orthography>gapa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>there (far out of sight)</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>pa</native_orthography>
+<alt_orthography>gapal(a)</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>flood plain</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>pa</native_orthography>
+<alt_orthography>bamapa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to forget</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>pa</native_orthography>
+<alt_orthography>darrngap</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>last one, only child</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>pi/e</native_orthography>
+<alt_orthography>mipila</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>eye</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>pi/e</native_orthography>
+<alt_orthography>gipa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>already</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>pi/e</native_orthography>
+<alt_orthography>delipa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>baby, child</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>pi/e</native_orthography>
+<alt_orthography>gaypa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to swindle, cheat</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>pu/o</native_orthography>
+<alt_orthography>gopa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to keep for oneself</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>pu/o</native_orthography>
+<alt_orthography>yopa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>talk about, harangue</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>pu/o</native_orthography>
+<alt_orthography>gupa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>fish spear; to build a roof</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>pu/o</native_orthography>
+<alt_orthography>bupupa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>grog</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>pu/o</native_orthography>
+<alt_orthography>japurra</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>lip, cheek</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>Nb</native_orthography>
+<alt_orthography>rrarnba</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>thigh</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>Nb</native_orthography>
+<alt_orthography>bamba</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to walk along</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>Nb</native_orthography>
+<alt_orthography>marnba</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>dolphin</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>Nb</native_orthography>
+<alt_orthography>mungba</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to complete</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>Np</native_orthography>
+<alt_orthography>jarnpa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>tree (specific)</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>Np</native_orthography>
+<alt_orthography>mampa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>mother</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>Np</native_orthography>
+<alt_orthography>bulanypirr</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>hammerhead shark</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>Np</native_orthography>
+<alt_orthography>burnpa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>moth </gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>Lb</native_orthography>
+<alt_orthography>barrba</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to put; to let in</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>Lb</native_orthography>
+<alt_orthography>murrba</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>swarm, buzz</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>Lb</native_orthography>
+<alt_orthography>burlba</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>tree (specific)</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>Lb</native_orthography>
+<alt_orthography>worba</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to work magic on</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>Lp</native_orthography>
+<alt_orthography>marrpa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to take care of, wait for</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>Lp</native_orthography>
+<alt_orthography>burrpa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>gut</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>Lp</native_orthography>
+<alt_orthography>birlpa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to mend</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>Lp</native_orthography>
+<alt_orthography>jurlpa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>end, bottom</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>Lp</native_orthography>
+<alt_orthography>wurpa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>sum total</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>Lp</native_orthography>
+<alt_orthography>barpa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>be sore, in pain</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>Lp</native_orthography>
+<alt_orthography>galpa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to call to come</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>da</native_orthography>
+<alt_orthography>dalmurk</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>flea</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>da</native_orthography>
+<alt_orthography>mu-dawarr</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>southeast wind</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>di/e</native_orthography>
+<alt_orthography>diwija</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>be open</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>du/o</native_orthography>
+<alt_orthography>dulgu</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>yellow ochre</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>du/o</native_orthography>
+<alt_orthography>gu-derda</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>sickness</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>ta</native_orthography>
+<alt_orthography>gata</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>star</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>ta</native_orthography>
+<alt_orthography>ratamba</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>younger sister</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>ta</native_orthography>
+<alt_orthography>gawata</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>another place, there</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>ta</native_orthography>
+<alt_orthography>jat</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>junction</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>ta</native_orthography>
+<alt_orthography>gat</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>spider</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>ti/e</native_orthography>
+<alt_orthography>bitima</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to follow, chase</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>ti/e</native_orthography>
+<alt_orthography>witich</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>brown snake</gloss>
+</item>
+</wordlist>
+
+
+
+
+
+

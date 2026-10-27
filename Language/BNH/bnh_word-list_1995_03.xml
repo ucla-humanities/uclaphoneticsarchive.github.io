@@ -1,0 +1,813 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+
+
+<headers>
+
+<orthography_header>Banawa</orthography_header>
+<gloss_header>English</gloss_header>
+</headers>
+<item>
+<entry>1</entry>
+<native_orthography>bita</native_orthography>
+<gloss>mosquito</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>befa</native_orthography>
+<gloss>other</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>bata</native_orthography>
+<gloss>to pick</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>bota</native_orthography>
+<gloss>boot (loan)</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>bofa</native_orthography>
+<gloss>put on water</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>tifa</native_orthography>
+<gloss>drink water</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>tefe</native_orthography>
+<gloss>food (m.)</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>tafa</native_orthography>
+<gloss>to eat</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>tofa</native_orthography>
+<gloss>to block in </gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>ibi</native_orthography>
+<gloss>each other</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>ibe</native_orthography>
+<gloss>a strip</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>iba</native_orthography>
+<gloss>to put/place</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>ibofa</native_orthography>
+<gloss>to dump into water</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>tafi</native_orthography>
+<gloss>eating</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>tafe</native_orthography>
+<gloss>food (f.)</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>tafa</native_orthography>
+<gloss>to eat</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>tafo</native_orthography>
+<gloss>to eat</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>baka</native_orthography>
+<gloss>(name)</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>daka</native_orthography>
+<gloss>(name)</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>faki</native_orthography>
+<gloss>twist</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>hako</native_orthography>
+<gloss>spider</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>kaka</native_orthography>
+<gloss>toucan</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>maka</native_orthography>
+<gloss>snake</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>naka</native_orthography>
+<gloss>sticky</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>rawi</native_orthography>
+<gloss>write</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>saka</native_orthography>
+<gloss>jab, pierce</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>tafa</native_orthography>
+<gloss>eat</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>waka</native_orthography>
+<gloss>break</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>yaka</native_orthography>
+<gloss>walk</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>bisi</native_orthography>
+<gloss>to pinch</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>disi</native_orthography>
+<gloss>wasp</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>fisi</native_orthography>
+<gloss>monkey</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>hisi</native_orthography>
+<gloss>sniff</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>kisi</native_orthography>
+<gloss>descend</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>misi</native_orthography>
+<gloss>up</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>nisa</native_orthography>
+<gloss>down </gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>risa</native_orthography>
+<gloss>down on (f.)</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>sisi</native_orthography>
+<gloss>a few</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>tisi</native_orthography>
+<gloss>fall</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>wisi</native_orthography>
+<gloss>to cut</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>yiri</native_orthography>
+<gloss>to shock</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>bama</native_orthography>
+<gloss>catfish</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>dama</native_orthography>
+<gloss>to hold securely</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>fama</native_orthography>
+<gloss>two</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>hama</native_orthography>
+<gloss>angry</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>kama</native_orthography>
+<gloss>come</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>mano</native_orthography>
+<gloss>arm (m.)</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>nama</native_orthography>
+<gloss>not at all</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>rabana</native_orthography>
+<gloss>a few</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>sama</native_orthography>
+<gloss>down river</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>tama</native_orthography>
+<gloss>vine</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>wama</native_orthography>
+<gloss>to remain in sight</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>yama</native_orthography>
+<gloss>thing</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>bira</native_orthography>
+<gloss>battery</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>disa</native_orthography>
+<gloss>spear</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>fimi</native_orthography>
+<gloss>hungry (f.)</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>hima</native_orthography>
+<gloss>to urge</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>kimi</native_orthography>
+<gloss>corn</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>mina</native_orthography>
+<gloss>morning</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>nima</native_orthography>
+<gloss>to appear as</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>rima</native_orthography>
+<gloss>often</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>sima</native_orthography>
+<gloss>sister</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>tima</native_orthography>
+<gloss>up stream</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>wina</native_orthography>
+<gloss>to reside </gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>Yima</native_orthography>
+<gloss>Yima people</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>baba</native_orthography>
+<gloss>(name)</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>bada</native_orthography>
+<gloss>(name)</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>bafa</native_orthography>
+<gloss>Bafa (river)</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>baka</native_orthography>
+<gloss>(name)</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>haha</native_orthography>
+<gloss>to laugh</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>bama</native_orthography>
+<gloss>catfish</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>baana</native_orthography>
+<gloss>she hits</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>baara</native_orthography>
+<gloss>another woman</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>basa</native_orthography>
+<gloss>to put a stick up high</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>bata</native_orthography>
+<gloss>rotten</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>baa owa</native_orthography>
+<gloss>I hit</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>baya</native_orthography>
+<gloss>palm fronds</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>kibi</native_orthography>
+<gloss>full</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>bidi</native_orthography>
+<gloss>small</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>kifi</native_orthography>
+<gloss>to cross a bridge</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>kiki</native_orthography>
+<gloss>to look to the side</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>kihi</native_orthography>
+<gloss>potato</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>kimi</native_orthography>
+<gloss>corn</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>kini</native_orthography>
+<gloss>green</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>kiri</native_orthography>
+<gloss>I am itching</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography>kisi</native_orthography>
+<gloss>to descend</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>kiti</native_orthography>
+<gloss>strong</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>tiwi</native_orthography>
+<gloss>did you see?</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>diyi</native_orthography>
+<gloss>to wobble</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography>tia tikei yarine</native_orthography>
+<gloss>happy</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography>bayiyiyi kawa</native_orthography>
+<gloss>close together</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography>kaiyara</native_orthography>
+<gloss>to take pride in oneself</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography>reu kana</native_orthography>
+<gloss>to stir</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography>sukia</native_orthography>
+<gloss>dark</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography>fa fui</native_orthography>
+<gloss>into the water</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography>hihiiara [hi.hi.ya.ra]</native_orthography>
+<gloss>to ask</gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<native_orthography>tuuia [to.wia]</native_orthography>
+<gloss>to allow not to accompany</gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<native_orthography>tuuiia [to.wi.ya]</native_orthography>
+<gloss>poorly done</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography>uaifie [wai.fie]</native_orthography>
+<gloss>stand in water</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography>afiiama [a.fi.ya.ma]</native_orthography>
+<gloss>bird (sp.)</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography>idia or idei (ideii ?)</native_orthography>
+<gloss>to marry</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography>uaiia [wai.ya]</native_orthography>
+<gloss>to hide oneself</gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography>kamawamai</native_orthography>
+<gloss>round</gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography>udei</native_orthography>
+<gloss>I speak</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography>kanikai</native_orthography>
+<gloss>to buy</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography>rabikai</native_orthography>
+<gloss>sick</gloss>
+</item>
+
+<item>
+<entry>107</entry>
+<native_orthography>me nanau</native_orthography>
+<gloss>they play</gloss>
+</item>
+
+<item>
+<entry>108</entry>
+<native_orthography>yomai</native_orthography>
+<gloss>dog, jaguar</gloss>
+</item>
+
+<item>
+<entry>109</entry>
+<native_orthography>warisei</native_orthography>
+<gloss>downward</gloss>
+</item>
+
+<item>
+<entry>110</entry>
+<native_orthography>kawiei</native_orthography>
+<gloss>grate</gloss>
+</item>
+
+<item>
+<entry>111</entry>
+<native_orthography>kie-i</native_orthography>
+<gloss>have (m.)</gloss>
+</item>
+
+<item>
+<entry>112</entry>
+<native_orthography>karie-i</native_orthography>
+<gloss>to cross over (m.)</gloss>
+</item>
+
+<item>
+<entry>113</entry>
+<native_orthography>kawarie-i</native_orthography>
+<gloss>to cook (m.)</gloss>
+</item>
+
+<item>
+<entry>114</entry>
+<native_orthography>suiri</native_orthography>
+<gloss>penis</gloss>
+</item>
+
+<item>
+<entry>115</entry>
+<native_orthography>warabo</native_orthography>
+<gloss>ear</gloss>
+</item>
+
+<item>
+<entry>116</entry>
+<native_orthography>wanakori</native_orthography>
+<gloss>spider</gloss>
+</item>
+
+<item>
+<entry>117</entry>
+<native_orthography>yifoya</native_orthography>
+<gloss>fire</gloss>
+</item>
+
+<item>
+<entry>118</entry>
+<native_orthography>rereokana</native_orthography>
+<gloss>crank</gloss>
+</item>
+
+<item>
+<entry>119</entry>
+<native_orthography>owaria</native_orthography>
+<gloss>one</gloss>
+</item>
+
+<item>
+<entry>120</entry>
+<native_orthography>owi</native_orthography>
+<gloss>cry</gloss>
+</item>
+
+<item>
+<entry>121</entry>
+<native_orthography>owia</native_orthography>
+<gloss>go out (as of a fire)</gloss>
+</item>
+
+<item>
+<entry>122</entry>
+<native_orthography>kawarisei</native_orthography>
+<gloss>rafter</gloss>
+</item>
+
+<item>
+<entry>123</entry>
+<native_orthography>dabikari</native_orthography>
+<gloss>bee</gloss>
+</item>
+
+<item>
+<entry>124</entry>
+<native_orthography>ufabune</native_orthography>
+<gloss>I drink</gloss>
+</item>
+
+<item>
+<entry>125</entry>
+<native_orthography>ku mu ei</native_orthography>
+<gloss>to hide</gloss>
+</item>
+
+<item>
+<entry>126</entry>
+<native_orthography>faa</native_orthography>
+<gloss>water</gloss>
+</item>
+
+<item>
+<entry>127</entry>
+<native_orthography>bii</native_orthography>
+<gloss>fan</gloss>
+</item>
+
+<item>
+<entry>128</entry>
+<native_orthography>buu ona</native_orthography>
+<gloss>beat</gloss>
+</item>
+
+<item>
+<entry>129</entry>
+<native_orthography>aba</native_orthography>
+<gloss>fish</gloss>
+</item>
+
+<item>
+<entry>130</entry>
+<native_orthography>awa</native_orthography>
+<gloss>wood</gloss>
+</item>
+
+<item>
+<entry>131</entry>
+<native_orthography>idei</native_orthography>
+<gloss>he spears</gloss>
+</item>
+
+<item>
+<entry>132</entry>
+<native_orthography>udei</native_orthography>
+<gloss>I spear</gloss>
+</item>
+
+<item>
+<entry>133</entry>
+<native_orthography>awi</native_orthography>
+<gloss>tapir</gloss>
+</item>
+
+</wordlist>
+
+
+
+

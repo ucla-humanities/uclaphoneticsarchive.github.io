@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Vietnamese</language_name>
+
+
+
+<headers>
+
+<native_orthography>Orthography</native_orthography>
+<alt_orthography>Northern Dialect Transcription</alt_orthography>
+<IPA_header>Southern Dialect Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+
+<entry>1</entry>
+<native_orthography>bỉ</native_orthography>
+<alt_orthography>No transcription given</alt_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>Belgium</gloss>
+</item>
+
+<item>
+
+<entry>2</entry>
+<native_orthography>bè</native_orthography>
+<alt_orthography>No transcription given</alt_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>raft</gloss>
+</item>
+
+<item>
+
+<entry>3</entry>
+<native_orthography>bê</native_orthography>
+<alt_orthography>No transcription given</alt_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>calf</gloss>
+</item>
+
+<item>
+
+<entry>4</entry>
+<native_orthography>ba</native_orthography>
+<alt_orthography>No transcription given</alt_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>three</gloss>
+</item>
+
+<item>
+
+<entry>5</entry>
+<native_orthography>di</native_orthography>
+<alt_orthography>No transcription given</alt_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>go</gloss>
+</item>
+
+<item>
+
+<entry>6</entry>
+<native_orthography>dè</native_orthography>
+<alt_orthography>No transcription given</alt_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>press on</gloss>
+</item>
+
+<item>
+
+<entry>7</entry>
+<native_orthography>đê</native_orthography>
+<alt_orthography>No transcription given</alt_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>dike</gloss>
+</item>
+
+<item>
+
+<entry>8</entry>
+<native_orthography>đá</native_orthography>
+<alt_orthography>No transcription given</alt_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>stone</gloss>
+</item>
+
+<item>
+
+<entry>9</entry>
+<native_orthography>vì</native_orthography>
+<alt_orthography>vì</alt_orthography>
+<IPA_transcription>vʲì, jì</IPA_transcription>
+<gloss>because</gloss>
+</item>
+
+<item>
+
+<entry>10</entry>
+<native_orthography>về</native_orthography>
+<alt_orthography>vè</alt_orthography>
+<IPA_transcription>vʲè, jè</IPA_transcription>
+<gloss>go back</gloss>
+</item>
+
+<item>
+
+<entry>11</entry>
+<native_orthography>vớ-vẩn</native_orthography>
+<alt_orthography>vɤ́ vɤ̉n</alt_orthography>
+<IPA_transcription>vʲɤ́ vʲɤ̉ŋ, jɤ́ jɤ̉ŋ</IPA_transcription>
+<gloss>crazy</gloss>
+</item>
+
+<item>
+
+<entry>12</entry>
+<native_orthography>cha</native_orthography>
+<alt_orthography>ca</alt_orthography>
+<IPA_transcription>ca</IPA_transcription>
+<gloss>father</gloss>
+</item>
+
+<item>
+
+<entry>13</entry>
+<native_orthography>che</native_orthography>
+<alt_orthography>cɛ</alt_orthography>
+<IPA_transcription>cɛ</IPA_transcription>
+<gloss>protect</gloss>
+</item>
+
+<item>
+
+<entry>14</entry>
+<native_orthography>chí</native_orthography>
+<alt_orthography>cí</alt_orthography>
+<IPA_transcription>cí</IPA_transcription>
+<gloss>(good) will</gloss>
+</item>
+
+<item>
+
+<entry>15</entry>
+<native_orthography>tra</native_orthography>
+<alt_orthography>ca</alt_orthography>
+<IPA_transcription>ʈa</IPA_transcription>
+<gloss>examine</gloss>
+</item>
+
+<item>
+
+<entry>16</entry>
+<native_orthography>tre</native_orthography>
+<alt_orthography>cɛ</alt_orthography>
+<IPA_transcription>ʈɛ</IPA_transcription>
+<gloss>bamboo</gloss>
+</item>
+
+<item>
+
+<entry>17</entry>
+<native_orthography>trí</native_orthography>
+<alt_orthography>cí</alt_orthography>
+<IPA_transcription>ʈí</IPA_transcription>
+<gloss>intelligence</gloss>
+</item>
+
+<item>
+
+<entry>18</entry>
+<native_orthography>xương</native_orthography>
+<alt_orthography>sɯəŋ</alt_orthography>
+<IPA_transcription>sɯəŋ</IPA_transcription>
+<gloss>bone</gloss>
+</item>
+
+<item>
+
+<entry>19</entry>
+<native_orthography>xinh</native_orthography>
+<alt_orthography>siŋ</alt_orthography>
+<IPA_transcription>sɪn</IPA_transcription>
+<gloss>pretty</gloss>
+</item>
+
+<item>
+
+<entry>20</entry>
+<native_orthography>suong</native_orthography>
+<alt_orthography>sɯəŋ</alt_orthography>
+<IPA_transcription>ʃɯəŋ</IPA_transcription>
+<gloss>fog</gloss>
+</item>
+
+<item>
+
+<entry>21</entry>
+<native_orthography>sinh</native_orthography>
+<alt_orthography>siŋ</alt_orthography>
+<IPA_transcription>ʃɪn</IPA_transcription>
+<gloss>give birth</gloss>
+</item>
+
+<item>
+
+<entry>22</entry>
+<native_orthography>da</native_orthography>
+<alt_orthography>za</alt_orthography>
+<IPA_transcription>ja</IPA_transcription>
+<gloss>leather</gloss>
+</item>
+
+<item>
+
+<entry>23</entry>
+<native_orthography>gia</native_orthography>
+<alt_orthography>za</alt_orthography>
+<IPA_transcription>ʒa</IPA_transcription>
+<gloss>family</gloss>
+</item>
+
+<item>
+
+<entry>24</entry>
+<native_orthography>ra</native_orthography>
+<alt_orthography>za</alt_orthography>
+<IPA_transcription>ra</IPA_transcription>
+<gloss>(go) out</gloss>
+</item>
+
+<item>
+
+<entry>25</entry>
+<native_orthography>mình</native_orthography>
+<alt_orthography>mìŋ</alt_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>self</gloss>
+</item>
+
+<item>
+
+<entry>26</entry>
+<native_orthography>bệnh</native_orthography>
+<alt_orthography>bẹŋ</alt_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>illness</gloss>
+</item>
+
+<item>
+
+<entry>27</entry>
+<native_orthography>dịch</native_orthography>
+<alt_orthography>zịk</alt_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>epidemy</gloss>
+</item>
+
+<item>
+
+<entry>28</entry>
+<native_orthography>lệ</native_orthography>
+<alt_orthography>lẹk</alt_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>tilted</gloss>
+</item>
+
+<item>
+
+<entry>29</entry>
+<native_orthography>thích</native_orthography>
+<alt_orthography>tʰík</alt_orthography>
+<IPA_transcription>tʰít</IPA_transcription>
+<gloss>to like</gloss>
+</item>
+
+<item>
+
+<entry>30</entry>
+<native_orthography>chếch</native_orthography>
+<alt_orthography>cék</alt_orthography>
+<IPA_transcription>cét</IPA_transcription>
+<gloss>to slant on one side</gloss>
+</item>
+
+<item>
+
+<entry>31</entry>
+<native_orthography>mác</native_orthography>
+<alt_orthography>mák</alt_orthography>
+<IPA_transcription>mát</IPA_transcription>
+<gloss>fighting knife</gloss>
+</item>
+
+<item>
+
+<entry>32</entry>
+<native_orthography>mặc</native_orthography>
+<alt_orthography>mʌ̣k</alt_orthography>
+<IPA_transcription>mʌ̣t</IPA_transcription>
+<gloss>to dress</gloss>
+</item>
+
+<item>
+
+<entry>33</entry>
+<native_orthography>nhấc</native_orthography>
+<alt_orthography>ɲɤ́k</alt_orthography>
+<IPA_transcription>ɲɤ́t</IPA_transcription>
+<gloss>to hold up</gloss>
+</item>
+
+<item>
+
+<entry>34</entry>
+<native_orthography>thóc</native_orthography>
+<alt_orthography>tʰɔʷk</alt_orthography>
+<IPA_transcription>tʰɔʷk</IPA_transcription>
+<gloss>unhulled rice</gloss>
+</item>
+
+<item>
+
+<entry>35</entry>
+<native_orthography>ngốc</native_orthography>
+<alt_orthography>ŋóʷk</alt_orthography>
+<IPA_transcription>ŋóʷk</IPA_transcription>
+<gloss>stupid</gloss>
+</item>
+
+<item>
+
+<entry>36</entry>
+<native_orthography>nhưc</native_orthography>
+<alt_orthography>ɲɯ́k</alt_orthography>
+<IPA_transcription>ɲɯ́k</IPA_transcription>
+<gloss>painful</gloss>
+</item>
+
+<item>
+
+<entry>37</entry>
+<native_orthography>lúc</native_orthography>
+<alt_orthography>lúk</alt_orthography>
+<IPA_transcription>lúk</IPA_transcription>
+<gloss>moment</gloss>
+</item>
+
+<item>
+
+<entry>38</entry>
+<native_orthography>thít</native_orthography>
+<alt_orthography>tʰít</alt_orthography>
+<IPA_transcription>tʰít</IPA_transcription>
+<gloss>to sob</gloss>
+</item>
+
+<item>
+
+<entry>39</entry>
+<native_orthography>chết</native_orthography>
+<alt_orthography>cét</alt_orthography>
+<IPA_transcription>cét</IPA_transcription>
+<gloss>to die</gloss>
+</item>
+
+<item>
+
+<entry>40</entry>
+<native_orthography>mát</native_orthography>
+<alt_orthography>mát</alt_orthography>
+<IPA_transcription>mák</IPA_transcription>
+<gloss>fresh</gloss>
+</item>
+
+<item>
+
+<entry>41</entry>
+<native_orthography>mặt</native_orthography>
+<alt_orthography>mɑ̣t</alt_orthography>
+<IPA_transcription>mɑ̣k</IPA_transcription>
+<gloss>face</gloss>
+</item>
+
+<item>
+
+<entry>42</entry>
+<native_orthography>nhất</native_orthography>
+<alt_orthography>ɲɤt</alt_orthography>
+<IPA_transcription>ɲɤk</IPA_transcription>
+<gloss>first</gloss>
+</item>
+
+<item>
+
+<entry>43</entry>
+<native_orthography>mọt</native_orthography>
+<alt_orthography>mɔ̣t</alt_orthography>
+<IPA_transcription>mɔ̣k</IPA_transcription>
+<gloss>moth</gloss>
+</item>
+
+<item>
+
+<entry>44</entry>
+<native_orthography>ngốt</native_orthography>
+<alt_orthography>ŋót</alt_orthography>
+<IPA_transcription>ŋók</IPA_transcription>
+<gloss>excited by heat</gloss>
+</item>
+
+<item>
+
+<entry>45</entry>
+<native_orthography>mứt</native_orthography>
+<alt_orthography>mɯ́t</alt_orthography>
+<IPA_transcription>mɯ́k</IPA_transcription>
+<gloss>jam</gloss>
+</item>
+
+<item>
+
+<entry>46</entry>
+<native_orthography>hút</native_orthography>
+<alt_orthography>hút</alt_orthography>
+<IPA_transcription>húk</IPA_transcription>
+<gloss>to smoke</gloss>
+</item>
+
+<item>
+
+<entry>47</entry>
+<native_orthography>man</native_orthography>
+<alt_orthography>man</alt_orthography>
+<IPA_transcription>maŋ</IPA_transcription>
+<gloss>barbarous</gloss>
+</item>
+
+<item>
+
+<entry>48</entry>
+<native_orthography>tan</native_orthography>
+<alt_orthography>tan</alt_orthography>
+<IPA_transcription>taŋ</IPA_transcription>
+<gloss>broken</gloss>
+</item>
+
+<item>
+
+<entry>49</entry>
+<native_orthography>mang</native_orthography>
+<alt_orthography>maŋ</alt_orthography>
+<IPA_transcription>maŋ</IPA_transcription>
+<gloss>to carry</gloss>
+</item>
+
+<item>
+
+<entry>50</entry>
+<native_orthography>tang</native_orthography>
+<alt_orthography>taŋ</alt_orthography>
+<IPA_transcription>taŋ</IPA_transcription>
+<gloss>death in the family</gloss>
+</item>
+
+<item>
+
+<entry>51</entry>
+<native_orthography>ít</native_orthography>
+<alt_orthography>ít</alt_orthography>
+<IPA_transcription>ɪ̝́t</IPA_transcription>
+<gloss>few, little</gloss>
+</item>
+
+<item>
+
+<entry>52</entry>
+<native_orthography>mít</native_orthography>
+<alt_orthography>mít</alt_orthography>
+<IPA_transcription>mɪ̝́t</IPA_transcription>
+<gloss>jackfruit</gloss>
+</item>
+
+<item>
+
+<entry>53</entry>
+<native_orthography>chín</native_orthography>
+<alt_orthography>cín</alt_orthography>
+<IPA_transcription>cɪ̝́n</IPA_transcription>
+<gloss>ripe</gloss>
+</item>
+
+<item>
+
+<entry>54</entry>
+<native_orthography>tin</native_orthography>
+<alt_orthography>tin</alt_orthography>
+<IPA_transcription>tɪ̝́n</IPA_transcription>
+<gloss>news</gloss>
+</item>
+
+<item>
+
+<entry>55</entry>
+<native_orthography>chết</native_orthography>
+<alt_orthography>cét</alt_orthography>
+<IPA_transcription>cʌ́t</IPA_transcription>
+<gloss>to die</gloss>
+</item>
+
+<item>
+
+<entry>56</entry>
+<native_orthography>hết</native_orthography>
+<alt_orthography>hét</alt_orthography>
+<IPA_transcription>hʌ́t</IPA_transcription>
+<gloss>end</gloss>
+</item>
+
+<item>
+
+<entry>57</entry>
+<native_orthography>mến</native_orthography>
+<alt_orthography>mén</alt_orthography>
+<IPA_transcription>mé̞n</IPA_transcription>
+<gloss>affection</gloss>
+</item>
+
+<item>
+
+<entry>58</entry>
+<native_orthography>lên</native_orthography>
+<alt_orthography>len</alt_orthography>
+<IPA_transcription>lən</IPA_transcription>
+<gloss>to go up</gloss>
+</item>
+
+<item>
+
+<entry>59</entry>
+<native_orthography>đau</native_orthography>
+<alt_orthography>daw</alt_orthography>
+<IPA_transcription>daɔ</IPA_transcription>
+<gloss>sick</gloss>
+</item>
+
+<item>
+
+<entry>60</entry>
+<native_orthography>đao</native_orthography>
+<alt_orthography>daɔ</alt_orthography>
+<IPA_transcription>daɔ</IPA_transcription>
+<gloss>knife with long handle</gloss>
+</item>
+
+<item>
+
+<entry>61</entry>
+<native_orthography>may</native_orthography>
+<alt_orthography>maj</alt_orthography>
+<IPA_transcription>maɪ</IPA_transcription>
+<gloss>make clothes</gloss>
+</item>
+
+<item>
+
+<entry>62</entry>
+<native_orthography>mai</native_orthography>
+<alt_orthography>maɪ</alt_orthography>
+<IPA_transcription>maɪ</IPA_transcription>
+<gloss>tomorrow</gloss>
+</item>
+
+<item>
+
+<entry>63</entry>
+<native_orthography>kiểu</native_orthography>
+<alt_orthography>kjew</alt_orthography>
+<IPA_transcription>kju</IPA_transcription>
+<gloss>design</gloss>
+</item>
+
+<item>
+
+<entry>64</entry>
+<native_orthography>chiều</native_orthography>
+<alt_orthography>cjew</alt_orthography>
+<IPA_transcription>cju</IPA_transcription>
+<gloss>evening</gloss>
+</item>
+
+<item>
+
+<entry>65</entry>
+<native_orthography>cười</native_orthography>
+<alt_orthography>kɯəj</alt_orthography>
+<IPA_transcription>kɯj</IPA_transcription>
+<gloss>laugh</gloss>
+</item>
+
+<item>
+
+<entry>66</entry>
+<native_orthography>tười</native_orthography>
+<alt_orthography>tɯəj</alt_orthography>
+<IPA_transcription>tɯj</IPA_transcription>
+<gloss>fresh</gloss>
+</item>
+
+<item>
+
+<entry>67</entry>
+<native_orthography>rượu</native_orthography>
+<alt_orthography>zɯ̣əw</alt_orthography>
+<IPA_transcription>zɯ̣w</IPA_transcription>
+<gloss>alcohol</gloss>
+</item>
+
+<item>
+
+<entry>68</entry>
+<native_orthography>hươu</native_orthography>
+<alt_orthography>hɯəw</alt_orthography>
+<IPA_transcription>huɯw</IPA_transcription>
+<gloss>deer</gloss>
+</item>
+
+<item>
+
+<entry>69</entry>
+<native_orthography>suối</native_orthography>
+<alt_orthography>suój</alt_orthography>
+<IPA_transcription>ʃuj</IPA_transcription>
+<gloss>stream</gloss>
+</item>
+
+<item>
+
+<entry>70</entry>
+<native_orthography>ruồi</native_orthography>
+<alt_orthography>suòj</alt_orthography>
+<IPA_transcription>ruj</IPA_transcription>
+<gloss>a fly</gloss>
+</item>
+
+<item>
+
+<entry>71</entry>
+<native_orthography>Khi tôi di…</native_orthography>
+<alt_orthography>xi toj di</alt_orthography>
+<IPA_transcription>xi toj di</IPA_transcription>
+<gloss>When I go…</gloss>
+</item>
+
+<item>
+
+<entry>72</entry>
+<native_orthography>Nó nói tiếng Pháp</native_orthography>
+<alt_orthography>nɔ́ nɔ́j tjéŋ fáp</alt_orthography>
+<IPA_transcription>nɔ́ nɔ́j tjéŋ fáp</IPA_transcription>
+<gloss>He speaks French</gloss>
+</item>
+
+<item>
+
+<entry>73</entry>
+<native_orthography>Làm gì mà buồn</native_orthography>
+<alt_orthography>làm zì mà bwɤ̀n</alt_orthography>
+<IPA_transcription>làm zì mà bwɤ̀n</IPA_transcription>
+<gloss>Why are you sad?</gloss>
+</item>
+
+<item>
+
+<entry>74</entry>
+<native_orthography>Chị dẹp lạǃ</native_orthography>
+<alt_orthography>cị dɛ̣p lạ</alt_orthography>
+<IPA_transcription>cị dɛ̣p lạ</IPA_transcription>
+<gloss>You are surprisingly prettyǃ</gloss>
+</item>
+
+<item>
+
+<entry>75</entry>
+<native_orthography>nghĩ</native_orthography>
+<alt_orthography>ŋĩ</alt_orthography>
+<IPA_transcription>ŋỉ</IPA_transcription>
+<gloss>to think</gloss>
+</item>
+
+<item>
+
+<entry>76</entry>
+<native_orthography>nghỉ</native_orthography>
+<alt_orthography>ŋỉ</alt_orthography>
+<IPA_transcription>nỉ</IPA_transcription>
+<gloss>to rest</gloss>
+</item>
+</wordlist>
+
+
+
+
+
+

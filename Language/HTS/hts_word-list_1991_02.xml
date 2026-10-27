@@ -1,0 +1,639 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Hadza</language_name>
+
+
+
+<headers>
+
+<IPA_header>Hadza Root</IPA_header>
+<alt_IPA_header>Ending</alt_IPA_header>
+<gloss_header>English</gloss_header>
+<alt_gloss_header>Swahili</alt_gloss_header>
+</headers>
+<item>
+<entry>1</entry>
+<IPA_transcription>kǁána-</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>arrow, male</gloss>
+<alt_gloss>mshale wa dume</alt_gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<IPA_transcription>kǁána-</IPA_transcription>
+<alt_IPA_transcription>-a-kʰo</alt_IPA_transcription>
+<gloss>arrow, female</gloss>
+<alt_gloss>mshale wa kike</alt_gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<IPA_transcription>ŋǁe-</IPA_transcription>
+<alt_IPA_transcription>-ʔe</alt_IPA_transcription>
+<gloss>to put poison on a (male) arrow</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<IPA_transcription>ŋǁe-</IPA_transcription>
+<alt_IPA_transcription>-ʔi</alt_IPA_transcription>
+<gloss>to put poison on a (female) arrow</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<IPA_transcription>ˈŋǁúʔu-</IPA_transcription>
+<alt_IPA_transcription>-ʔ</alt_IPA_transcription>
+<gloss>to snore</gloss>
+<alt_gloss>kukoroma</alt_gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<IPA_transcription>ŋ̥ǁʼo-</IPA_transcription>
+<alt_IPA_transcription>-ʔo</alt_IPA_transcription>
+<gloss>to bathe, to wash</gloss>
+<alt_gloss>kuoga</alt_gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<IPA_transcription>ˈŋǁáʔa-</IPA_transcription>
+<alt_IPA_transcription>-ʔ</alt_IPA_transcription>
+<gloss>to scavenge</gloss>
+<alt_gloss>kuokota</alt_gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<IPA_transcription>ŋ̥ǁʼeʔe-</IPA_transcription>
+<alt_IPA_transcription>-ʔ</alt_IPA_transcription>
+<gloss>to wash (a child)</gloss>
+<alt_gloss>kuosha (mtoto)</alt_gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<IPA_transcription>ʔolá-</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>child</gloss>
+<alt_gloss>mtoto</alt_gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<IPA_transcription>kǃa-</IPA_transcription>
+<alt_IPA_transcription>-ʔe</alt_IPA_transcription>
+<gloss>to cut</gloss>
+<alt_gloss>kukata</alt_gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<IPA_transcription>kǃeʔe</IPA_transcription>
+<alt_IPA_transcription>-ʔe</alt_IPA_transcription>
+<gloss>to skin</gloss>
+<alt_gloss>kuchuna</alt_gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<IPA_transcription>ɦaŋ̥ǃʼá-</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>(big) rock</gloss>
+<alt_gloss>jiwe (kubua)</alt_gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<IPA_transcription>ŋǃoʔo-</IPA_transcription>
+<alt_IPA_transcription>-ʔ</alt_IPA_transcription>
+<gloss>to enter</gloss>
+<alt_gloss>kuingia</alt_gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<IPA_transcription>ŋǁobá-</IPA_transcription>
+<alt_IPA_transcription>-a-kʰo</alt_IPA_transcription>
+<gloss>baobob</gloss>
+<alt_gloss>mbuyu</alt_gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<IPA_transcription>̟kǃokǃó-</IPA_transcription>
+<alt_IPA_transcription>-a-kʰo</alt_IPA_transcription>
+<gloss>back of head, nape</gloss>
+<alt_gloss>(gesturing, and asks 'Na sehemu hii ya kichwa?')</alt_gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<IPA_transcription>kaˈkǁá-</IPA_transcription>
+<alt_IPA_transcription>-ʔḁ</alt_IPA_transcription>
+<gloss>to hunt</gloss>
+<alt_gloss>kuwinda</alt_gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<IPA_transcription>ʔetsʼá- / ŋ̥ǀʼetsʼá-</IPA_transcription>
+<alt_IPA_transcription>-a-kʰo</alt_IPA_transcription>
+<gloss>house</gloss>
+<alt_gloss>nyumba</alt_gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<IPA_transcription>ŋǀʼóso-</IPA_transcription>
+<alt_IPA_transcription>-ʔo</alt_IPA_transcription>
+<gloss>to be filled</gloss>
+<alt_gloss>kujaa</alt_gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<IPA_transcription>ǀʼowʔa (?)</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>to be full (after eating)</gloss>
+<alt_gloss>kushiba</alt_gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<IPA_transcription>ˈŋǀáɦa-</IPA_transcription>
+<alt_IPA_transcription>-ʔ</alt_IPA_transcription>
+<gloss>to forget</gloss>
+<alt_gloss>kusahau</alt_gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<IPA_transcription>ŋǀeˈɦé-</IPA_transcription>
+<alt_IPA_transcription>-ʔ</alt_IPA_transcription>
+<gloss>to whistle</gloss>
+<alt_gloss>(whistles)</alt_gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<IPA_transcription>ŋǀéɦe-</IPA_transcription>
+<alt_IPA_transcription>-ʔ</alt_IPA_transcription>
+<gloss>to pull out (thorn)</gloss>
+<alt_gloss>kutoa (mwiba)</alt_gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<IPA_transcription>pʰisé-</IPA_transcription>
+<alt_IPA_transcription>-ja</alt_IPA_transcription>
+<gloss>thorn</gloss>
+<alt_gloss>mwiba</alt_gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<IPA_transcription>ŋkʰatʰa- (?)</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>strand of beads worn on head (?)</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<IPA_transcription>ŋǀʼetsʼé</IPA_transcription>
+<alt_IPA_transcription>-a-kʰo</alt_IPA_transcription>
+<gloss>tick</gloss>
+<alt_gloss>kupe</alt_gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<IPA_transcription>ŋ̥ǀʼatsʼa-/ ŋ̥ǀʼatsʼe-</IPA_transcription>
+<alt_IPA_transcription>-ʔe</alt_IPA_transcription>
+<gloss>to warm up again</gloss>
+<alt_gloss>kupasha</alt_gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<IPA_transcription>ŋ̥ǀʼutsʼu-we-</IPA_transcription>
+<alt_IPA_transcription>-ʔ</alt_IPA_transcription>
+<gloss>to push</gloss>
+<alt_gloss>kusukuma</alt_gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<IPA_transcription>ˈŋǀítsʼi-</IPA_transcription>
+<alt_IPA_transcription>-ʔi</alt_IPA_transcription>
+<gloss>to wait</gloss>
+<alt_gloss>kungoja</alt_gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<IPA_transcription>ŋǀʼama-</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>fish</gloss>
+<alt_gloss>samaki</alt_gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<IPA_transcription>kǁátʃʼo-</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>frog</gloss>
+<alt_gloss>chura</alt_gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<IPA_transcription>tʃʼaba-</IPA_transcription>
+<alt_IPA_transcription>-a-kʰo</alt_IPA_transcription>
+<gloss>(smaller) hyrax</gloss>
+<alt_gloss>pimbi ndogo</alt_gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<IPA_transcription>tʎáʃo-</IPA_transcription>
+<alt_IPA_transcription>-wa</alt_IPA_transcription>
+<gloss>larger hyrax, tree hyrax</gloss>
+<alt_gloss>pimbi kubwa</alt_gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<IPA_transcription>ˈtʃʼá-</IPA_transcription>
+<alt_IPA_transcription>-a-kʰo, -pʰe</alt_IPA_transcription>
+<gloss>guineafowl</gloss>
+<alt_gloss>kanga</alt_gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<IPA_transcription>tʎʼápo-</IPA_transcription>
+<alt_IPA_transcription>-wa-kʰo</alt_IPA_transcription>
+<gloss>dove</gloss>
+<alt_gloss>njiwa</alt_gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<IPA_transcription>ǃʼama-</IPA_transcription>
+<alt_IPA_transcription>-a-kʰo</alt_IPA_transcription>
+<gloss>klipspringer</gloss>
+<alt_gloss>mbuzi ya mawe</alt_gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<IPA_transcription>ŋǃomo-</IPA_transcription>
+<alt_IPA_transcription>-ja-kʰo</alt_IPA_transcription>
+<gloss>something not yet full</gloss>
+<alt_gloss>kitu bado kujaa</alt_gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<IPA_transcription>ŋ̥ǃʼelé-</IPA_transcription>
+<alt_IPA_transcription>-a-kʰo</alt_IPA_transcription>
+<gloss>hartebeest</gloss>
+<alt_gloss>mnyama kongoni</alt_gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<IPA_transcription>ʔusaʔi</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>aardvark</gloss>
+<alt_gloss>muhanga</alt_gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<IPA_transcription>goˈgogogo</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>flamingo</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<IPA_transcription>ŋ̥ǁʼaka-, ŋ̥ǁʼake-</IPA_transcription>
+<alt_IPA_transcription>-ʔ</alt_IPA_transcription>
+<gloss>to hit with an arrow</gloss>
+<alt_gloss>kupige kitu kwa mshale</alt_gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<IPA_transcription>kǁáʔano-</IPA_transcription>
+<alt_IPA_transcription>-wa</alt_IPA_transcription>
+<gloss>dog</gloss>
+<alt_gloss>mbwa</alt_gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<IPA_transcription>ˈkǁákʰá-</IPA_transcription>
+<alt_IPA_transcription>-pʰi</alt_IPA_transcription>
+<gloss>arrowstand</gloss>
+<alt_gloss>kitu kwa kuweka mshale</alt_gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<IPA_transcription>ˈpótʎʼo-we-</IPA_transcription>
+<alt_IPA_transcription>-ʔe</alt_IPA_transcription>
+<gloss>to break</gloss>
+<alt_gloss>kuvunja</alt_gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<IPA_transcription>kǁekǁetʃe- / ŋ̥ǁʼeŋ̥ǁʼetʃe</IPA_transcription>
+<alt_IPA_transcription>-ja</alt_IPA_transcription>
+<gloss>woman's loincloth</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<IPA_transcription>tʎóma-</IPA_transcription>
+<alt_IPA_transcription>-a-kʰo</alt_IPA_transcription>
+<gloss>head</gloss>
+<alt_gloss>kichwa</alt_gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<IPA_transcription>mitʎʼá-</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>bone</gloss>
+<alt_gloss>mfupa</alt_gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<IPA_transcription>kǀúti-</IPA_transcription>
+<alt_IPA_transcription>-ja</alt_IPA_transcription>
+<gloss>neck</gloss>
+<alt_gloss>shingo</alt_gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<IPA_transcription>ŋ̥ǁʼuˈkʼwá-</IPA_transcription>
+<alt_IPA_transcription>-a-kʰo</alt_IPA_transcription>
+<gloss>throat</gloss>
+<alt_gloss>koo</alt_gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<IPA_transcription>ŋ̥ǁʼinˈtʃíno- / ŋ̥ǁʼinˈdʒíno</IPA_transcription>
+<alt_IPA_transcription>-pʰi</alt_IPA_transcription>
+<gloss>fang</gloss>
+<alt_gloss>meno kali ya wanyama</alt_gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<IPA_transcription>taŋ̥ǁʼi-</IPA_transcription>
+<alt_IPA_transcription>-ʔi̥</alt_IPA_transcription>
+<gloss>to die</gloss>
+<alt_gloss>kufa</alt_gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<IPA_transcription>ˈkǁó-we-</IPA_transcription>
+<alt_IPA_transcription>-ʔ</alt_IPA_transcription>
+<gloss>to kill</gloss>
+<alt_gloss>kuua</alt_gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<IPA_transcription>ˈkǁúpi-</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>to sleep</gloss>
+<alt_gloss>kulala</alt_gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<IPA_transcription>kʼumi</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>small </gloss>
+<alt_gloss>kidogo</alt_gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<IPA_transcription></IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>to sleep</gloss>
+<alt_gloss>usingizi</alt_gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<IPA_transcription>ˈŋǁáʔe-</IPA_transcription>
+<alt_IPA_transcription>-ʔ</alt_IPA_transcription>
+<gloss>to hear</gloss>
+<alt_gloss>kusikia</alt_gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<IPA_transcription>ŋǁímó-</IPA_transcription>
+<alt_IPA_transcription>-a-kʰo</alt_IPA_transcription>
+<gloss>van der Decken's hornbill</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<IPA_transcription>ˈkʰwákǁa-</IPA_transcription>
+<alt_IPA_transcription>-ʔa</alt_IPA_transcription>
+<gloss>to vomit</gloss>
+<alt_gloss>kutaapika</alt_gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<IPA_transcription>ˈŋǀáta-</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>tongue</gloss>
+<alt_gloss>ulimi</alt_gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<IPA_transcription>nǀáláka-</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>snail</gloss>
+<alt_gloss>korokoro</alt_gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<IPA_transcription>ŋǁʼe-</IPA_transcription>
+<alt_IPA_transcription>-ja-kʰo</alt_IPA_transcription>
+<gloss>liver</gloss>
+<alt_gloss>ini</alt_gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<IPA_transcription>púˈkǀʼé-</IPA_transcription>
+<alt_IPA_transcription>-ja</alt_IPA_transcription>
+<gloss>spleen</gloss>
+<alt_gloss>bandama</alt_gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<IPA_transcription>kǀaˈkǀá-</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>flat rock</gloss>
+<alt_gloss>jiwe sawa </alt_gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<IPA_transcription>ŋ̥ǁʼekwá-</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>sp. root</gloss>
+<alt_gloss>mzizi</alt_gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<IPA_transcription>kaˈtʎʼé-</IPA_transcription>
+<alt_IPA_transcription>-ʔ</alt_IPA_transcription>
+<gloss>to bite</gloss>
+<alt_gloss>kuuma</alt_gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<IPA_transcription>ŋǀʼáˈmátsʼi-</IPA_transcription>
+<alt_IPA_transcription>-ja-kʰo</alt_IPA_transcription>
+<gloss>louse</gloss>
+<alt_gloss>chawa</alt_gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<IPA_transcription>tsʼokwana-</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>giraffe</gloss>
+<alt_gloss>twiga</alt_gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<IPA_transcription>kǀi-jé-</IPA_transcription>
+<alt_IPA_transcription>-ʔ</alt_IPA_transcription>
+<gloss>to see</gloss>
+<alt_gloss>kuona</alt_gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<IPA_transcription>ŋ̥ǃojé-</IPA_transcription>
+<alt_IPA_transcription>-ja</alt_IPA_transcription>
+<gloss>beeswax</gloss>
+<alt_gloss>nta ya nyuki</alt_gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<IPA_transcription>watʃʼo-</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>sp. mongoose</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<IPA_transcription>ŋ̥ǃʼanda-</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>Agama lizard</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<IPA_transcription>dʒándʒai-</IPA_transcription>
+<alt_IPA_transcription>-ja</alt_IPA_transcription>
+<gloss>leopard</gloss>
+<alt_gloss>chui</alt_gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<IPA_transcription>ŋǃé-</IPA_transcription>
+<alt_IPA_transcription>-ja-kʰo</alt_IPA_transcription>
+<gloss>leopard</gloss>
+<alt_gloss>chui</alt_gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<IPA_transcription>kǃóŋˈɡa-</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>hare</gloss>
+<alt_gloss>sungura</alt_gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<IPA_transcription>ŋ̥ǃʼakiɬá-</IPA_transcription>
+<alt_IPA_transcription>-a</alt_IPA_transcription>
+<gloss>palate</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<IPA_transcription>kʰaˈŋ̥ǁʼé-</IPA_transcription>
+<alt_IPA_transcription>-ʔe</alt_IPA_transcription>
+<gloss>to jump</gloss>
+<alt_gloss>kuruka</alt_gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<IPA_transcription>ˈkǃáku-</IPA_transcription>
+<alt_IPA_transcription>-wa</alt_IPA_transcription>
+<gloss>to jump over</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<IPA_transcription>ˈŋ̥ǃʼóko-</IPA_transcription>
+<alt_IPA_transcription>-ʔe</alt_IPA_transcription>
+<gloss>to slap</gloss>
+<alt_gloss>kupiga kofi</alt_gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<IPA_transcription>ˈŋ̥ǃʼó-we-</IPA_transcription>
+<alt_IPA_transcription>-ʔ</alt_IPA_transcription>
+<gloss>to uproot</gloss>
+<alt_gloss>kungo'a</alt_gloss>
+</item>
+
+</wordlist>

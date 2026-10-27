@@ -1,0 +1,3471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Shona</language_name>
+
+
+<headers>
+
+<orthography_header>Speaker</orthography_header>
+<IPA_header>Shona</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee yebo.</IPA_transcription>
+<gloss>Helloǃ</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ee unofara?</IPA_transcription>
+<gloss>How are you?</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ndinofara mani</IPA_transcription>
+<gloss>I am well.</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ndini Joshua aripano.</IPA_transcription>
+<gloss>This is Joshua here.</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee ndiken kuno uku.</IPA_transcription>
+<gloss>And this is Ken this way.</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Oo nhai?</IPA_transcription>
+<gloss>So that right?</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kanjani upenyu?</IPA_transcription>
+<gloss>How is life?</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa...ini ndinofaro chaizuo</IPA_transcription>
+<gloss>I am doing really well.</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Unofara?</IPA_transcription>
+<gloss>Are you really well?</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa</IPA_transcription>
+<gloss>Yesǃ</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ko waa nemakore mangani iye zvino?</IPA_transcription>
+<gloss>How old are you now?</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Inini?</IPA_transcription>
+<gloss>you mean me?</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Eeeǃ</IPA_transcription>
+<gloss>Yesǃ</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ndine makore makumi maviri nemashano.</IPA_transcription>
+<gloss>I am 25 years old.</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Makumi maviri?</IPA_transcription>
+<gloss>More than twenty years?</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Wakauya kuno rini?</IPA_transcription>
+<gloss>When did you come here?</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa...ndakauya kuno makore akapfura panoapa mana.</IPA_transcription>
+<gloss>I came four years ago.</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oh yaǃ</IPA_transcription>
+<gloss>Is that right?</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ko iwe ke?</IPA_transcription>
+<gloss>How about you?</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ini?</IPA_transcription>
+<gloss>Me?</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Eeǃ</IPA_transcription>
+<gloss>Ehǃ</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ndapedza mwedzi ndiri uno.</IPA_transcription>
+<gloss>I have been here for a month.</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Wapedza mwedzi?</IPA_transcription>
+<gloss>Is that right?</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ko kumba vanofara?</IPA_transcription>
+<gloss>Are they happy at home?</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kumba,... Vanofara chaizvo.</IPA_transcription>
+<gloss>At home.  They are very well indeed.</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ahaǃ</IPA_transcription>
+<gloss>That is good.</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa vakatonditumira nemamwe masoko.</IPA_transcription>
+<gloss>Yes, I have a message from them.</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Oo....vakati kudii?</IPA_transcription>
+<gloss>Ohǃ  What did they say?</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Vakati woofarisa Joshua.</IPA_transcription>
+<gloss>They send their greetings to Joshua.</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa...wazvita ako.</IPA_transcription>
+<gloss>Ahǃ  Thank you.</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee.</IPA_transcription>
+<gloss>Ehǃ</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yahǃ</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa...ndakaona nemunin'gina wako.</IPA_transcription>
+<gloss>Yahǃ  I saw your brother.</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Wakamuona?</IPA_transcription>
+<gloss>Did you see him?</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee nehanzvadzi yako.</IPA_transcription>
+<gloss>Yea, and your sister too.</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa usadero mani?</IPA_transcription>
+<gloss>Ah, do not say that.</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee wazokura wena.</IPA_transcription>
+<gloss>She is grown up.</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa...</IPA_transcription>
+<gloss>Ahǃ</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ndichatoona kwekuroora wena.</IPA_transcription>
+<gloss>I will find who to marry.</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Wakareba zvakadii?</IPA_transcription>
+<gloss>How tall is she?</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Haa?</IPA_transcription>
+<gloss>Hah.</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Wakareba zvakadii?</IPA_transcription>
+<gloss>How tall is she?</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Akakupfura wena.</IPA_transcription>
+<gloss>She is taller than you.</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Wakandipfura?</IPA_transcription>
+<gloss>She is taller than me?</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ndakamusiya achiri mufana sitereki.</IPA_transcription>
+<gloss>I left when she was very young.</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oo ya?</IPA_transcription>
+<gloss>Oh, yah?</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>E he.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa hanzvadzi yako yakaraka wena.</IPA_transcription>
+<gloss>Ahǃ  Your sister is good looking.</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Woda kuroora manje?</IPA_transcription>
+<gloss>Do you want to marry now?</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ndiri kuda kuroora wena.</IPA_transcription>
+<gloss>Yes, I would like to marry.</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Kana une pfuma haanetsi ka.</IPA_transcription>
+<gloss>If you have Lobola, she is easy to get.</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Pfuma?</IPA_transcription>
+<gloss>Lobola?</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Tine n'gombo wena kumusha.</IPA_transcription>
+<gloss>We have cattle at home.</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Usadero?</IPA_transcription>
+<gloss>Do not say that.</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Nembudzi nehwai.</IPA_transcription>
+<gloss>Plus goats and sheep.</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ngombe dzenyu dzinopa mukaka?</IPA_transcription>
+<gloss>Do your cows give milk?</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa...mukaka ndiwo weungabvunza here iwe?</IPA_transcription>
+<gloss>Ah, you can not ask about milk.</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Chokwadiǃ</IPA_transcription>
+<gloss>Is that right?</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ehe.</IPA_transcription>
+<gloss>Yes,</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Nokuti,...aa...uziwaka mukwasha muonde; toda kugara techiuya kwenyu techitsvaka nyama nemukaka.</IPA_transcription>
+<gloss>Ah, because you know that a brother-in-law is like a fig tree; we want to visit you to get meat and some milk.</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Zvese izvo.</IPA_transcription>
+<gloss>All that.</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Zvese nhai?</IPA_transcription>
+<gloss>All</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee nekuvhima tinonovhima.</IPA_transcription>
+<gloss>Ah, we hurt, too.</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ooǃ</IPA_transcription>
+<gloss>Oh!</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee...tichiuraya mhuka.</IPA_transcription>
+<gloss>Oh!  We kill animals.</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Saka iwe uri kufundei manje kuno?</IPA_transcription>
+<gloss>What are you learning here?</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Uno ndiri kufunda.... Ee ndiri kuita "medicine."</IPA_transcription>
+<gloss>Here, I am learning...ah, I am taking medicine.</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>O oo!</IPA_transcription>
+<gloss>Oh!</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Moda kuita chiremba nhai?</IPA_transcription>
+<gloss>You want to be a doctor?</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ndichaita chiremba.</IPA_transcription>
+<gloss>Yes!  I will be a doctor.</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Nhaika?</IPA_transcription>
+<gloss>Is that right?</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa tozopota techimurapawo.</IPA_transcription>
+<gloss>Yes!  I will treat you, too.</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aaa...ndimi muri kuda kuita basa.</IPA_transcription>
+<gloss>Ah!  You will do a good job.</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ya a...ndinofunga zvichabudirira.</IPA_transcription>
+<gloss>Yah!  I think everything will be all right.</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Oo nhai?</IPA_transcription>
+<gloss>Oh!</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa...basa racho zviri kunaka chaizvo.</IPA_transcription>
+<gloss>Yah!  The job is okay.</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Zviri kunakaka?</IPA_transcription>
+<gloss>Is everything all right?</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Zviri kunaka wena.</IPA_transcription>
+<gloss>Everything is right indeed.</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Manje zvifundo zvenyu zvinorema?</IPA_transcription>
+<gloss>Are your studies hard?</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Zvinyi?</IPA_transcription>
+<gloss>What?</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Zvifundo zvenyu.</IPA_transcription>
+<gloss>Your studies.</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Zvifundoe?</IPA_transcription>
+<gloss>What kind of studies?</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ee.</IPA_transcription>
+<gloss>Ah!</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Iyiǃ  zvakawanda wena.</IPA_transcription>
+<gloss>There are lots of them.</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Zvakawanda?</IPA_transcription>
+<gloss>Are they really many?</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Zvakawandisa, zvekuti zvimwe zvizhinji zvacho zvitsva chaizvo.</IPA_transcription>
+<gloss>They are many and some are new.</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Zvitsvaka?</IPA_transcription>
+<gloss>They are really new, huh?</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Zvitsva wena.</IPA_transcription>
+<gloss>They are really new.</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Bati zvino nakidza hazvo.</IPA_transcription>
+<gloss>But, are they really interesting?</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Zvinonakidza.</IPA_transcription>
+<gloss>They are really interesting.</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ndicho chikuru kana zvechinakidza.</IPA_transcription>
+<gloss>That is the big thing, if they are interesting.</gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Zviripo ndezvekuti panzvipo yacho yandiri kudziidza yakakura wena.</IPA_transcription>
+<gloss>I am doing my studies at a big place.</gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yakakuraka?</IPA_transcription>
+<gloss>Is it very big?</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Unobva warasika zvekuti unobva washayiwa kuti uri kufamba papi.</IPA_transcription>
+<gloss>You can get lost and can not figure where you are.</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ndinonzwa kuti vanhu vazhinji vanopada sitereki pachikoro chachocho.</IPA_transcription>
+<gloss>I hear that many people like the school.</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Chakanaka wena.</IPA_transcription>
+<gloss>It is a beautiful school.</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Oo nhai?</IPA_transcription>
+<gloss>Oh!</gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>I University yakakura sitereki.</IPA_transcription>
+<gloss>It is a big university.</gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yakakura sitereki?</IPA_transcription>
+<gloss>Is it really big?</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Pakakura.</IPA_transcription>
+<gloss>It is big.</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Saka uri kufara sitereki?</IPA_transcription>
+<gloss>So, you are very happy?</gloss>
+</item>
+
+<item>
+<entry>107</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ndiri kufara wena.  Ko uri kudziidza chii zviya?</IPA_transcription>
+<gloss>I am very happy.  What are you studying?</gloss>
+</item>
+
+<item>
+<entry>108</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Inini ndiri kudziidza Chingezi chemene.</IPA_transcription>
+<gloss>I am taking English proper.</gloss>
+</item>
+
+<item>
+<entry>109</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Chingezi?</IPA_transcription>
+<gloss>English?</gloss>
+</item>
+
+<item>
+<entry>110</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Chingezi.</IPA_transcription>
+<gloss>Yes, English.</gloss>
+</item>
+
+<item>
+<entry>111</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee ndimwe maBhunukaǃ</IPA_transcription>
+<gloss>Eh!  You are the white man.</gloss>
+</item>
+
+<item>
+<entry>112</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa...tabva taita maBhunu emene.</IPA_transcription>
+<gloss>Ah!  We are trying to be white people for sure.</gloss>
+</item>
+
+<item>
+<entry>113</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ko uri kuda kuzochidziidzisa ani?</IPA_transcription>
+<gloss>Who do you want to teach?</gloss>
+</item>
+
+<item>
+<entry>114</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ndinoda kuzodziidzisa vana vari kumba uko, vanochifarira sitereki.</IPA_transcription>
+<gloss>I would like to teach the children back home.  They love it very much.</gloss>
+</item>
+
+<item>
+<entry>115</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Vanochifarira?</IPA_transcription>
+<gloss>They like it?</gloss>
+</item>
+
+<item>
+<entry>116</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Unozvizivaka zvinhu zvemazuva anoka, munyika mese Chingezi; Saka tinoda kuti vazotaurawo zvakanaka nevamwe vanhu.</IPA_transcription>
+<gloss>You know about the present days, in the world, English has dominated; therefore, we want them to speak well with other people.</gloss>
+</item>
+
+<item>
+<entry>117</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee...chete musaita kuti vakanganwe mutauro waamaika.</IPA_transcription>
+<gloss>Eh, just don't let them forget their mother tongue.</gloss>
+</item>
+
+<item>
+<entry>118</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa...nikisi, wa Amaika ndiwo wavanofunda vachikura.</IPA_transcription>
+<gloss>Ah, no, they are taught the mother tongue when they are growing.</gloss>
+</item>
+
+<item>
+<entry>119</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Muchauziwa here?</IPA_transcription>
+<gloss>Do you still know it?</gloss>
+</item>
+
+<item>
+<entry>120</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa...tiri...ku uziva chaizvo; zvino tinombota tichikanganwa zvimwe, bati....chaizvochaizvo zvamai atikanganwi.</IPA_transcription>
+<gloss>Ah! I still know it a lot; once in a while, I forget somethings, but the real language of my mother, I never forget.</gloss>
+</item>
+
+<item>
+<entry>121</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aaa.... Amukanganwe?</IPA_transcription>
+<gloss>Ah! You don't forget?</gloss>
+</item>
+
+<item>
+<entry>122</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa...</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>123</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aaa tozoona modzoka kuti munonga muchakwanisa ere kutaura.</IPA_transcription>
+<gloss>We will see, when you go back, if you will still be able to speak.</gloss>
+</item>
+
+<item>
+<entry>124</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa tichazozvionawo tadzokako nyangwesuso.</IPA_transcription>
+<gloss>Ah, we will when we go back.</gloss>
+</item>
+
+<item>
+<entry>125</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Nokuti vazhinji vakauya kuno uku, taka...vazhinji vendakasangana navo.</IPA_transcription>
+<gloss>Because many who came here, we have...most that I met...</gloss>
+</item>
+
+<item>
+<entry>126</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe e...</IPA_transcription>
+<gloss>Eh!</gloss>
+</item>
+
+<item>
+<entry>127</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Vaiti kana vaakutaura unobva wasahiwa kuti munhu akaberekwa mu Chindau ere kana kuti Shona.</IPA_transcription>
+<gloss>When they spoke, you would debate whether they are from the Ndau or the Shona.</gloss>
+</item>
+
+<item>
+<entry>128</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ya a; zvinonetsaka ngendava yekuti kuno uku ukauya ukapedza makore mana kana mashano usingatauri chako unopedzisira wakanganwa zvimwe.</IPA_transcription>
+<gloss>Yah!  It's difficult because, if you come here and spend four or five years without speaking your own language, you end up forgetting some words.</gloss>
+</item>
+
+<item>
+<entry>129</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Andingambokushooriba.</IPA_transcription>
+<gloss>I wouldn't blame you.</gloss>
+</item>
+
+<item>
+<entry>130</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa ndizvozvo izvo.</IPA_transcription>
+<gloss>Yah, that is it.</gloss>
+</item>
+
+<item>
+<entry>131</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ndizvo zvakaita upenyu.</IPA_transcription>
+<gloss>Tha is how life is.</gloss>
+</item>
+
+<item>
+<entry>132</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Eheǃ  zvino kuno kuchikoro kwenyu munotamb mitambo here kana kuti munongodziidɑa mabhuku Chete?</IPA_transcription>
+<gloss>Eh!  At school, what kind of games do you play or you just read the books only?</gloss>
+</item>
+
+<item>
+<entry>133</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Mitambo wena; tinotamba mutambo umwe unogwi Tennis.</IPA_transcription>
+<gloss>Games; we play one game called tennis.</gloss>
+</item>
+
+<item>
+<entry>134</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Tennis?</IPA_transcription>
+<gloss>Tennis?</gloss>
+</item>
+
+<item>
+<entry>135</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Tennis, unoizivaka?</IPA_transcription>
+<gloss>Tennis, do you know it?</gloss>
+</item>
+
+<item>
+<entry>136</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa ndakambozwa...bati ini handisati ndambotamba esi.</IPA_transcription>
+<gloss>Ah! I have heard about it..., but I haven't played the game myself.</gloss>
+</item>
+
+<item>
+<entry>137</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ausati?</IPA_transcription>
+<gloss>You haven't?</gloss>
+</item>
+
+<item>
+<entry>138</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe.</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>139</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa...iweǃ</IPA_transcription>
+<gloss>Ah....you.</gloss>
+</item>
+
+<item>
+<entry>140</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe?</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>141</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aitsananguriki ngekuti magama acho ngeeChirungu Chete.</IPA_transcription>
+<gloss>I cannot describe it to you because the terms are in English.</gloss>
+</item>
+
+<item>
+<entry>142</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ngee Chingezikaǃ</IPA_transcription>
+<gloss>They are in English?</gloss>
+</item>
+
+<item>
+<entry>143</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Chete munongopota muchi...zvakasiyana neyonini iyana,...nhabvu.</IPA_transcription>
+<gloss>Somethimes you end up....  It is different from soccer.</gloss>
+</item>
+
+<item>
+<entry>144</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Oo zvakasiyana nhai?</IPA_transcription>
+<gloss>They are different, hah?</gloss>
+</item>
+
+<item>
+<entry>145</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Zvakasiyana wena.</IPA_transcription>
+<gloss>They are different.</gloss>
+</item>
+
+<item>
+<entry>146</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Nokuti dee wati nhabvuso ndakuzwisisa zvakanaka.</IPA_transcription>
+<gloss>As far as soccer is concerned, I know it well.</gloss>
+</item>
+
+<item>
+<entry>147</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Nekuti nzvimbo yacho yemunotambira yakatsonga so.</IPA_transcription>
+<gloss>Where you play is a small place</gloss>
+</item>
+
+<item>
+<entry>148</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yakatsonga nhai?</IPA_transcription>
+<gloss>Is it really small?</gloss>
+</item>
+
+<item>
+<entry>149</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yakatsonga...</IPA_transcription>
+<gloss>It is small.</gloss>
+</item>
+
+<item>
+<entry>150</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe.</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>151</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Saka zvemunopota muchiita;...pane chitambo Chakaita yoniniso... Chakakarukwa chakaiswa pakati.</IPA_transcription>
+<gloss>Here is what you sometimes do.  There is a net in the middle.</gloss>
+</item>
+
+<item>
+<entry>152</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Eheǃ</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>153</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee moromobata zvakaita mumiti...zvakaita zvibako zvekubikisa sadza zviyanaso.</IPA_transcription>
+<gloss>You hold something like trees...they are like sticks which are used for cooking thick porridge.</gloss>
+</item>
+
+<item>
+<entry>154</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ai zveǃ</IPA_transcription>
+<gloss>Is that it?</gloss>
+</item>
+
+<item>
+<entry>155</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Asi zvakasonerwa zvitambo so.</IPA_transcription>
+<gloss>They have nets.</gloss>
+</item>
+
+<item>
+<entry>156</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Munenge muchirovana here?</IPA_transcription>
+<gloss>Will you be beating one another?</gloss>
+</item>
+
+<item>
+<entry>157</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Saka, no....unonga wakamira kumweso.</IPA_transcription>
+<gloss>No, you will be standing on the other end.</gloss>
+</item>
+
+<item>
+<entry>158</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Eheǃ</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>159</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee Saka umwe unonga akamira kurimwe diviso.</IPA_transcription>
+<gloss>Eh the other person stands on the opposite side.</gloss>
+</item>
+
+<item>
+<entry>160</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ahaǃ</IPA_transcription>
+<gloss>Ah.</gloss>
+</item>
+
+<item>
+<entry>161</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Saka wopota achirova kachibhora kacho so.</IPA_transcription>
+<gloss>Then you hit the little ball.</gloss>
+</item>
+
+<item>
+<entry>162</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe.</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>163</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kabhora kacho kotomuka koenda kumwe so.</IPA_transcription>
+<gloss>Then the ball goes over the net to the other side.</gloss>
+</item>
+
+<item>
+<entry>164</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aiǃ</IPA_transcription>
+<gloss>Aiǃ</gloss>
+</item>
+
+<item>
+<entry>165</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Worovawo ngesimba kechidzokeraso.</IPA_transcription>
+<gloss>The other guy hits it back hard.</gloss>
+</item>
+
+<item>
+<entry>166</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe.</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>167</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaaǃ</IPA_transcription>
+<gloss>Ya-aǃ</gloss>
+</item>
+
+<item>
+<entry>168</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Zvinotonakidza here?</IPA_transcription>
+<gloss>Is that fun?</gloss>
+</item>
+
+<item>
+<entry>169</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Zvinonakidza kana ukange usikawe zviyana....</IPA_transcription>
+<gloss>It is fun when you don't fall down…</gloss>
+</item>
+
+<item>
+<entry>170</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ooǃ</IPA_transcription>
+<gloss>Ohǃ</gloss>
+</item>
+
+<item>
+<entry>171</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Nokuti vamwe vanowa wena.</IPA_transcription>
+<gloss>Because some fall down.</gloss>
+</item>
+
+<item>
+<entry>172</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa....kana tasangana muchaita muchitidziidzisawo.</IPA_transcription>
+<gloss>Ah, when we meet, you will teach me.</gloss>
+</item>
+
+<item>
+<entry>173</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa...tichamudziidzisa.  Ko wako mutamvo ngewenyi zviyana iwe?</IPA_transcription>
+<gloss>Ah, I will teach you.  What kind of games do you play?</gloss>
+</item>
+
+<item>
+<entry>174</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ini wangu ngewenhabvu chaiwo chaiwo.</IPA_transcription>
+<gloss>Meǃ  I play soccer.</gloss>
+</item>
+
+<item>
+<entry>175</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Nhabvu?</IPA_transcription>
+<gloss>Soccer?</gloss>
+</item>
+
+<item>
+<entry>176</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ndiri kumba zviyana ndaito zikanwaso.</IPA_transcription>
+<gloss>When I was at home, I was well known.</gloss>
+</item>
+
+<item>
+<entry>177</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa uchiri kutamba iye zvino izvi?</IPA_transcription>
+<gloss>Ah, do you still play now?</gloss>
+</item>
+
+<item>
+<entry>178</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ndinotamba chaizvo zvekuti aa....ndini ndino mwisaso.</IPA_transcription>
+<gloss>I play a lot and I make goals too.</gloss>
+</item>
+
+<item>
+<entry>179</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oo ya?</IPA_transcription>
+<gloss>Oh yah?</gloss>
+</item>
+
+<item>
+<entry>180</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>181</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Wamwisa zvingana gore rino?</IPA_transcription>
+<gloss>How many did you score this year?</gloss>
+</item>
+
+<item>
+<entry>182</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Gore rino ndakatambira imwe team yanga iri kumba kuya uko....</IPA_transcription>
+<gloss>This year I played for a team back home.</gloss>
+</item>
+
+<item>
+<entry>183</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ahaǃ</IPA_transcription>
+<gloss>A-a hah.</gloss>
+</item>
+
+<item>
+<entry>184</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Saka ndakamwisa zvishanu.</IPA_transcription>
+<gloss>I scored five goals.</gloss>
+</item>
+
+<item>
+<entry>185</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Zvishanu.</IPA_transcription>
+<gloss>Five?</gloss>
+</item>
+
+<item>
+<entry>186</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa....rimwe zuva rendakatambaso ndakaita sendange ndine shavi.</IPA_transcription>
+<gloss>Yah.. One day I played so well; it seemed as if I had demons.</gloss>
+</item>
+
+<item>
+<entry>187</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oo yaǃ</IPA_transcription>
+<gloss>Ohǃ  Yah?</gloss>
+</item>
+
+<item>
+<entry>188</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa ndakamwisa zvigumi chaizvo.</IPA_transcription>
+<gloss>Yahǃ  I made ten goals.</gloss>
+</item>
+
+<item>
+<entry>189</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Gumi?</IPA_transcription>
+<gloss>Ten?</gloss>
+</item>
+
+<item>
+<entry>190</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa gumi chaizvo.</IPA_transcription>
+<gloss>Yah ten exactly.</gloss>
+</item>
+
+<item>
+<entry>191</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa iyi auitiki wena.</IPA_transcription>
+<gloss>Aah, you are tough.</gloss>
+</item>
+
+<item>
+<entry>192</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa zuva racho ndakanetsa wena.</IPA_transcription>
+<gloss>That day I was tough.</gloss>
+</item>
+
+<item>
+<entry>193</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Inga waakuziva wani.</IPA_transcription>
+<gloss>Sounds like you really know.</gloss>
+</item>
+
+<item>
+<entry>194</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa...ndaimbozivaso, kungogweguraso.</IPA_transcription>
+<gloss>Ah, I used to know.... I am getting old now.</gloss>
+</item>
+
+<item>
+<entry>195</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kana wadzoka kumba tichakutambisa mutimu huru yoninika....</IPA_transcription>
+<gloss>When you go back home, we will let you play in the big team called....</gloss>
+</item>
+
+<item>
+<entry>196</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yepanhisani ka....</IPA_transcription>
+<gloss>Like [I mean]....</gloss>
+</item>
+
+<item>
+<entry>197</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yemu zimbabwe.</IPA_transcription>
+<gloss>In Zimbabwe.</gloss>
+</item>
+
+<item>
+<entry>198</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ya....zimbabwe chaipoka.</IPA_transcription>
+<gloss>Yah, in Zimbabwe exactly.</gloss>
+</item>
+
+<item>
+<entry>199</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ehe.</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>200</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Tinonga tichitambira muRufaroka.</IPA_transcription>
+<gloss>We will be playing in Rufaro Stadium.</gloss>
+</item>
+
+<item>
+<entry>201</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Murufaro?</IPA_transcription>
+<gloss>In Rufaro?</gloss>
+</item>
+
+<item>
+<entry>202</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>203</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>KanamuGwanzura muyana umo.</IPA_transcription>
+<gloss>Or in Gwanzura.</gloss>
+</item>
+
+<item>
+<entry>204</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>MuGwanzura mukuru mukuru machoso.</IPA_transcription>
+<gloss>Gwanzura is the big one.</gloss>
+</item>
+
+<item>
+<entry>205</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ehe.</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>206</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ya.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>207</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Saka chimwe chitsva chiri kuitika kuno chiyi.</IPA_transcription>
+<gloss>What else is happening here that is new?</gloss>
+</item>
+
+<item>
+<entry>208</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Kuno uku?</IPA_transcription>
+<gloss>You mean here?</gloss>
+</item>
+
+<item>
+<entry>209</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ehe.</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>210</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa tiri kuona vasikana mani.  Vasikana vakawanda wena.</IPA_transcription>
+<gloss>Ah, we are seeing many girls.  Girls are plenty.</gloss>
+</item>
+
+<item>
+<entry>211</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Vasikana.</IPA_transcription>
+<gloss>Girls?</gloss>
+</item>
+
+<item>
+<entry>212</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>213</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kanjani,...muri kurova mutovo nge....</IPA_transcription>
+<gloss>You going out?</gloss>
+</item>
+
+<item>
+<entry>214</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Kungoreka ako Rutaura bati variyo.</IPA_transcription>
+<gloss>I do not want to talk about it but they are plenty.</gloss>
+</item>
+
+<item>
+<entry>215</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa ya.</IPA_transcription>
+<gloss>Ah, yah.</gloss>
+</item>
+
+<item>
+<entry>216</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa, ndakambonetsaria nemumwe mhani.</IPA_transcription>
+<gloss>Yah, I had a difficult time with one.</gloss>
+</item>
+
+<item>
+<entry>217</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee.</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>218</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa ndika dzikana ndikaregera angu,...uchazvi...onawo iwe wauya maguva anoso.</IPA_transcription>
+<gloss>Ah, I ended by giving up and divided to wait for the right time.</gloss>
+</item>
+
+<item>
+<entry>219</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee?</IPA_transcription>
+<gloss>Ah.</gloss>
+</item>
+
+<item>
+<entry>220</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Especially, mazuva eunouya kuno uku.</IPA_transcription>
+<gloss>Especially, the days you arrive here.</gloss>
+</item>
+
+<item>
+<entry>221</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee.</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>222</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Vachakuchipira Chipira so.</IPA_transcription>
+<gloss>They are really easy.</gloss>
+</item>
+
+<item>
+<entry>223</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oo ya.</IPA_transcription>
+<gloss>Oh ya.</gloss>
+</item>
+
+<item>
+<entry>224</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Bati ucha zvionerawo wemeneso.</IPA_transcription>
+<gloss>But you will see it yourself.</gloss>
+</item>
+
+<item>
+<entry>225</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Iyi inga zvichanakawo wani.</IPA_transcription>
+<gloss>This, I think things will be all right.</gloss>
+</item>
+
+<item>
+<entry>226</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa vakawanda chose so.</IPA_transcription>
+<gloss>Ah, they are plenty.</gloss>
+</item>
+
+<item>
+<entry>227</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aha.</IPA_transcription>
+<gloss>Ah.</gloss>
+</item>
+
+<item>
+<entry>228</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Nditsara...ude.</IPA_transcription>
+<gloss>You choose accordingly.</gloss>
+</item>
+
+<item>
+<entry>229</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ko munosangana navo nzvimbo dzipi?</IPA_transcription>
+<gloss>Where do you meet them?</gloss>
+</item>
+
+<item>
+<entry>230</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa zvikuru mavanodyira chikafu.</IPA_transcription>
+<gloss>Ah, mostly where they eat.</gloss>
+</item>
+
+<item>
+<entry>231</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ohoǃ</IPA_transcription>
+<gloss>Oh.</gloss>
+</item>
+
+<item>
+<entry>232</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa plasi kana muchienda kumutambo mutamboso munosangana chose.</IPA_transcription>
+<gloss>Ah plus when you go to the games, you meet them.</gloss>
+</item>
+
+<item>
+<entry>233</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oho.</IPA_transcription>
+<gloss>Oh.</gloss>
+</item>
+
+<item>
+<entry>234</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Nyangwe mamunopindiraina futi mumaClass acho....</IPA_transcription>
+<gloss>You calso meet in classes.</gloss>
+</item>
+
+<item>
+<entry>235</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Uhu...</IPA_transcription>
+<gloss>Oh....</gloss>
+</item>
+
+<item>
+<entry>236</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Arimo so....kana uchiziva chikoroso....</IPA_transcription>
+<gloss>They are there....if you are intelligent....</gloss>
+</item>
+
+<item>
+<entry>237</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee.</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>238</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Vachauya, uchatovaona achiuya vega.</IPA_transcription>
+<gloss>They will come, and you will see them coming by themselves.</gloss>
+</item>
+
+<item>
+<entry>239</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Iyi zvichanakidza wena.</IPA_transcription>
+<gloss>That sounds interesting.</gloss>
+</item>
+
+<item>
+<entry>240</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ee zvichanakidza chaizvo.</IPA_transcription>
+<gloss>Eh, that will be really interesting.</gloss>
+</item>
+
+<item>
+<entry>241</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ko avana zvekutsarura kuti ndinoda kutaura nanhingi kana kuti...?</IPA_transcription>
+<gloss>Are they picky?</gloss>
+</item>
+
+<item>
+<entry>242</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa nikisi; kana uchizivaso avana basa nazvoso.</IPA_transcription>
+<gloss>No, if they know you, they don't care.</gloss>
+</item>
+
+<item>
+<entry>243</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee zvichanakidza.</IPA_transcription>
+<gloss>Eh that is interesting.</gloss>
+</item>
+
+<item>
+<entry>244</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Uye plasi kana kuti kuhope kwako kwakati hwee a...vanouya.</IPA_transcription>
+<gloss>Plus when you are good looking, they come to you.</gloss>
+</item>
+
+<item>
+<entry>245</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oo yaǃ</IPA_transcription>
+<gloss>Oh yahǃ</gloss>
+</item>
+
+<item>
+<entry>246</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa vanongouya voga...umu.</IPA_transcription>
+<gloss>They come by themselves [own accord].</gloss>
+</item>
+
+<item>
+<entry>247</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oho ndainga ndisingazvizivi wena.</IPA_transcription>
+<gloss>Oh.  I didn't know.</gloss>
+</item>
+
+<item>
+<entry>248</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe.  Ko omanje uchavhakacha-vhakacha here uchiona nhisani, nyika ino; nokuti ndicho chikuru so.  Unofanira kumbofambaso.</IPA_transcription>
+<gloss>Ehe.  Are you going to go around sightseeing?  You must travel around.</gloss>
+</item>
+
+<item>
+<entry>249</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee uri kugara pari zviyana iwe?</IPA_transcription>
+<gloss>Eh where do you live by the way?</gloss>
+</item>
+
+<item>
+<entry>250</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ini kuno uku ndiri kuno ku nhingisani...ku Azusa esi.</IPA_transcription>
+<gloss>Here, I live in Azusa.</gloss>
+</item>
+
+<item>
+<entry>251</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Uri ku Azusa?</IPA_transcription>
+<gloss>You are in Azusa?</gloss>
+</item>
+
+<item>
+<entry>252</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>253</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa ini ndiri kugara muHollywood munoso.</IPA_transcription>
+<gloss>Yah, I live in Hollywood.</gloss>
+</item>
+
+<item>
+<entry>254</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa muHollywood nhaiǃ</IPA_transcription>
+<gloss>Yah, in Hollywood?</gloss>
+</item>
+
+<item>
+<entry>255</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>256</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Saka unofanira kuti uhambeso uone Los Angeles yese.  Kana ukawana mari wotobuda futi woenda kwavana Oregon, kana vana Washington.</IPA_transcription>
+<gloss>Therefore you must travel and see Los Angeles.  If you get some money, visit places like Oregon and Washington.</gloss>
+</item>
+
+<item>
+<entry>257</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Unoziva ini ndangojaira zvekugara nemhuriso ngekuti ndiri kugara nemhuriso.</IPA_transcription>
+<gloss>I am used to living with a family.</gloss>
+</item>
+
+<item>
+<entry>258</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ooǃ</IPA_transcription>
+<gloss>Ohǃ</gloss>
+</item>
+
+<item>
+<entry>259</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Saka upenyu hwacho hungori hwepamba chete.</IPA_transcription>
+<gloss>Therefore my life is confined to the home life only.</gloss>
+</item>
+
+<item>
+<entry>260</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ahaǃ</IPA_transcription>
+<gloss>Ah.</gloss>
+</item>
+
+<item>
+<entry>261</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>262</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Manybe chimwe chinhu mamwe mazuva.</IPA_transcription>
+<gloss>Maybe, some other thigns some day.</gloss>
+</item>
+
+<item>
+<entry>263</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ehe?</IPA_transcription>
+<gloss>Eh?</gloss>
+</item>
+
+<item>
+<entry>264</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Muchahambaso.  Ivo kana votora rwendo muchahamba navo.</IPA_transcription>
+<gloss>You will travel with the family.</gloss>
+</item>
+
+<item>
+<entry>265</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Iwe ndikutaurireka.</IPA_transcription>
+<gloss>You let me tell you.</gloss>
+</item>
+
+<item>
+<entry>266</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Eeǃ</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>267</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kana tafamba zviyanaka tinongodaidzwa kuenda koodya chete.</IPA_transcription>
+<gloss>If we travel, we just go out to eat only.</gloss>
+</item>
+
+<item>
+<entry>268</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Oo nhai?</IPA_transcription>
+<gloss>Oh is that right?</gloss>
+</item>
+
+<item>
+<entry>269</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee kazhinji kachoso.</IPA_transcription>
+<gloss>Yes, most of the time.</gloss>
+</item>
+
+<item>
+<entry>270</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Saka ndimi munopota muchiona vamweso.</IPA_transcription>
+<gloss>Therefore, you see other people.</gloss>
+</item>
+
+<item>
+<entry>271</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Tinovaona zvedu chete unongoziva kuti zero redu rinoka....</IPA_transcription>
+<gloss>Yes we see them, but you know our age groups, I do not....</gloss>
+</item>
+
+<item>
+<entry>272</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Eheǃ</IPA_transcription>
+<gloss>Ehe...</gloss>
+</item>
+
+<item>
+<entry>273</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Tinoda kupota tichinakirwawoka.</IPA_transcription>
+<gloss>We want some fun once in a while.</gloss>
+</item>
+
+<item>
+<entry>274</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa ndizvozvoka.</IPA_transcription>
+<gloss>Yes that is true.</gloss>
+</item>
+
+<item>
+<entry>275</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Nokuti kana ukangogara panzvimbo imwe.</IPA_transcription>
+<gloss>Because if you stay in one place,</gloss>
+</item>
+
+<item>
+<entry>276</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Eheǃ</IPA_transcription>
+<gloss>Ehe.</gloss>
+</item>
+
+<item>
+<entry>277</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Uchingoona zviro zveunoona mazuva ose.</IPA_transcription>
+<gloss>You see the same things you see everyday.</gloss>
+</item>
+
+<item>
+<entry>278</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Eheǃ</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>279</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa hapana kufara wena.</IPA_transcription>
+<gloss>Ah, there is no happiness.</gloss>
+</item>
+
+<item>
+<entry>280</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aha.  Saka muzuva eunenge usingaendi kuchikoro unoita chiyi, unongogara hako pamba kana kuti pane zvimwe zveunoita?</IPA_transcription>
+<gloss>Ah.  What do you do during the days that you don't go to school?  Do you just sit at home or do you something?</gloss>
+</item>
+
+<item>
+<entry>281</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Eye ndinguti pa Chishanu neMugovera....</IPA_transcription>
+<gloss>Eh, I would say Friday and Saturday....</gloss>
+</item>
+
+<item>
+<entry>282</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.  Aha.</IPA_transcription>
+<gloss>Yah, aha.</gloss>
+</item>
+
+<item>
+<entry>283</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa mamwe mazuva tinoenda kuovedza hoveso.</IPA_transcription>
+<gloss>Ah, some days we go fishing.</gloss>
+</item>
+
+<item>
+<entry>284</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ooǃ</IPA_transcription>
+<gloss>Oh.</gloss>
+</item>
+
+<item>
+<entry>285</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>286</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ai unonga watove kumbaka....  Unotodzibata.</IPA_transcription>
+<gloss>Ah, seems lie you are back home....  Do you catch any?</gloss>
+</item>
+
+<item>
+<entry>287</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Iyi ndinodzibata wena.</IPA_transcription>
+<gloss>Yes, we catch some.</gloss>
+</item>
+
+<item>
+<entry>288</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Oo nhai?</IPA_transcription>
+<gloss>Ohǃ is that right?</gloss>
+</item>
+
+<item>
+<entry>289</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kune dzimwe dzakareba, dzakakuraso.</IPA_transcription>
+<gloss>Some are long and big.</gloss>
+</item>
+
+<item>
+<entry>290</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Dzakatokura nhai?</IPA_transcription>
+<gloss>Are they really big?</gloss>
+</item>
+
+<item>
+<entry>291</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee.</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>292</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Zvino munotodyaso.</IPA_transcription>
+<gloss>Do you eat some?</gloss>
+</item>
+
+<item>
+<entry>293</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa tinodzidya wena.</IPA_transcription>
+<gloss>Yes we eat them.</gloss>
+</item>
+
+<item>
+<entry>294</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa....munotonakirwa.</IPA_transcription>
+<gloss>Ah, you enjoy yourselves.</gloss>
+</item>
+
+<item>
+<entry>295</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Dzinenge dzichiri nyoro chaizvo.</IPA_transcription>
+<gloss>They will be very fresh.</gloss>
+</item>
+
+<item>
+<entry>296</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Oo nhai?</IPA_transcription>
+<gloss>Oh, is that it?</gloss>
+</item>
+
+<item>
+<entry>297</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee, haiwa zvedziyana dzemabakayawe dziyanoso.</IPA_transcription>
+<gloss>Eh, not the bad ones we used to eat.</gloss>
+</item>
+
+<item>
+<entry>298</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa mabakayawe pange pasina hove paya.</IPA_transcription>
+<gloss>Those we really bad.</gloss>
+</item>
+
+<item>
+<entry>299</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee uchazviziva here tiri kumba zviyana kuti kana tikange tiri kuchikoro....</IPA_transcription>
+<gloss>Do you still remember when we were back home at the boarding school....?</gloss>
+</item>
+
+<item>
+<entry>300</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>E yeǃ</IPA_transcription>
+<gloss>Ehǃ</gloss>
+</item>
+
+<item>
+<entry>301</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Bakayawe range richinetsa payoniniso....</IPA_transcription>
+<gloss>Those fish were outstanding.</gloss>
+</item>
+
+<item>
+<entry>302</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa raitonetsa sitereki.</IPA_transcription>
+<gloss>Yes, they were outstanding indeed.</gloss>
+</item>
+
+<item>
+<entry>303</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Pasecondary.</IPA_transcription>
+<gloss>At the Secondary school.</gloss>
+</item>
+
+<item>
+<entry>304</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa sitereki.</IPA_transcription>
+<gloss>Ah a lot.</gloss>
+</item>
+
+<item>
+<entry>305</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Range rechinetsaka.</IPA_transcription>
+<gloss>It was good indeed.</gloss>
+</item>
+
+<item>
+<entry>306</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa change chiri chikafuso.</IPA_transcription>
+<gloss>Yah it was good food.</gloss>
+</item>
+
+<item>
+<entry>307</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>308</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ee aitonakaso.</IPA_transcription>
+<gloss>Eh it was tasty.</gloss>
+</item>
+
+<item>
+<entry>309</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa ndichazvicherechedza.</IPA_transcription>
+<gloss>Yah I remember.</gloss>
+</item>
+
+<item>
+<entry>310</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ee vaiti chine chikafu sitereki.</IPA_transcription>
+<gloss>They said it had good food.</gloss>
+</item>
+
+<item>
+<entry>311</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ruvedza kunonakidza wena.</IPA_transcription>
+<gloss>Fishing is fun.</gloss>
+</item>
+
+<item>
+<entry>312</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Kuno nakidza nhai?</IPA_transcription>
+<gloss>Is it really fun?</gloss>
+</item>
+
+<item>
+<entry>313</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kunonakidza wena.</IPA_transcription>
+<gloss>Yes it's really fun.</gloss>
+</item>
+
+<item>
+<entry>314</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Zvino isu vamwe kana tisingaendi kuchikoro tinofa mhani nebasa rechikoro, tinenge tichinyora magwaro nemagwaroso.</IPA_transcription>
+<gloss>Some of us, if we don't go to classes, we work on our assignments, writing as needed.</gloss>
+</item>
+
+<item>
+<entry>315</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ehe!</IPA_transcription>
+<gloss>Ehe.</gloss>
+</item>
+
+<item>
+<entry>316</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Nokuti vafundisi vacho canoda kuti mugare makanyoraso.</IPA_transcription>
+<gloss>Because the teachers require that we write all the time.</gloss>
+</item>
+
+<item>
+<entry>317</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ko chimwe chinhu chamuri kuita chiyi zviya?</IPA_transcription>
+<gloss>What else do you do?</gloss>
+</item>
+
+<item>
+<entry>318</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ee!</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>319</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kana mukange musingaiti zvemuchikoro izvi?</IPA_transcription>
+<gloss>How about if you are not doing your assignments?</gloss>
+</item>
+
+<item>
+<entry>320</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa ndinowanzovhakachira vamweso, vanobva kumusha.</IPA_transcription>
+<gloss>Ah, I sometimes visit people from home.</gloss>
+</item>
+
+<item>
+<entry>321</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ko unoziva vamwe here vanogara kuno uku?</IPA_transcription>
+<gloss>Do you know some who live here?</gloss>
+</item>
+
+<item>
+<entry>322</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa ndinogara nevairi anobva kumusha ikwoyo futi.</IPA_transcription>
+<gloss>Yes, I live with two groups from home.</gloss>
+</item>
+
+<item>
+<entry>323</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Anobva kumusha?</IPA_transcription>
+<gloss>They come from home?</gloss>
+</item>
+
+<item>
+<entry>324</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>325</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Unoziva mazita avo?</IPA_transcription>
+<gloss>Do you know their names?</gloss>
+</item>
+
+<item>
+<entry>326</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>327</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ndivani?</IPA_transcription>
+<gloss>What are they?</gloss>
+</item>
+
+<item>
+<entry>328</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Umwe wach ndiClement, umwe wacho ndi Thembaletu.</IPA_transcription>
+<gloss>One of them is Clement and the other is Tembalethu.</gloss>
+</item>
+
+<item>
+<entry>329</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oho, unotogara navo pamba nhai?</IPA_transcription>
+<gloss>Do you guys stay together?</gloss>
+</item>
+
+<item>
+<entry>330</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa, tinotogara tese tichitobika hedu sadzaso nemuriwo; aa tinonakirwa mhani.</IPA_transcription>
+<gloss>Yah, we live together and we cook thick porridge and greens, ah, we enjoy a lot.</gloss>
+</item>
+
+<item>
+<entry>331</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Inga teyi makagarika wani.</IPA_transcription>
+<gloss>It sounds like you are well settled.</gloss>
+</item>
+
+<item>
+<entry>332</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa kana ukawana nguvaso....</IPA_transcription>
+<gloss>Ah, if you get a chance,....</gloss>
+</item>
+
+<item>
+<entry>333</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee?</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>334</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Umbouyawoso umbotivhakachira.</IPA_transcription>
+<gloss>Come and visit us.</gloss>
+</item>
+
+<item>
+<entry>335</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ngekuti....</IPA_transcription>
+<gloss>Because…</gloss>
+</item>
+
+<item>
+<entry>336</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Uchaona futi sadza richitonuhwiraso pamusuo.</IPA_transcription>
+<gloss>You will find the food smelling good as enter our house.</gloss>
+</item>
+
+<item>
+<entry>337</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee!</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>338</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>339</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kana ukanditi bika sadza mazuva anoka.</IPA_transcription>
+<gloss>If you tell me to cook thick porridge these days....</gloss>
+</item>
+
+<item>
+<entry>340</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ee?</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>341</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ndinobika mbodza.</IPA_transcription>
+<gloss>I won't cook it well.</gloss>
+</item>
+
+<item>
+<entry>342</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Mbodza chaiyo?</IPA_transcription>
+<gloss>You mean bad food?</gloss>
+</item>
+
+<item>
+<entry>343</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Mbodza wena.</IPA_transcription>
+<gloss>Bad food exactly.</gloss>
+</item>
+
+<item>
+<entry>344</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ndizvo zvandaimboitaka mazuva endakauya kuno.</IPA_transcription>
+<gloss>That is exactly what I used to do when I first got here.</gloss>
+</item>
+
+<item>
+<entry>345</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee!</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>346</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ee ndainetseka mani.</IPA_transcription>
+<gloss>I had problems man.</gloss>
+</item>
+
+<item>
+<entry>347</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Unozviziva kuti chikafu chakasiyana sitereki.</IPA_transcription>
+<gloss>You know that foods are different.</gloss>
+</item>
+
+<item>
+<entry>348</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Nyangwe huku dzacho kuno uku dzakati siyane futi.</IPA_transcription>
+<gloss>Even the chickens here are different.</gloss>
+</item>
+
+<item>
+<entry>349</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Iwe huku dzekunoka.</IPA_transcription>
+<gloss>You, chickens of this place.</gloss>
+</item>
+
+<item>
+<entry>350</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ee?</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>351</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Vanoti ihuku, asi ndinofunga kuti vanobata zaitiyoso.</IPA_transcription>
+<gloss>They say it's chicken, but I think they kill the baby chickens.</gloss>
+</item>
+
+<item>
+<entry>352</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ee ndizvozvoso svakati tsongei futi.</IPA_transcription>
+<gloss>Eh, they are really small.</gloss>
+</item>
+
+<item>
+<entry>353</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Dzakati tsongeyiso.</IPA_transcription>
+<gloss>They are small.</gloss>
+</item>
+
+<item>
+<entry>354</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.  Plasi unozivaka zvekuno uku zvinonga zvati garei mumvura dzavo dziya dzetutonhod__.</IPA_transcription>
+<gloss>Yah.  Plus you know things here, the chickens will have been frozen for some time.</gloss>
+</item>
+
+<item>
+<entry>355</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>356</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Zvino kana zvobudamoso zvinenge zvabva zvimwe, nhisani, zvokunaka kwacho.</IPA_transcription>
+<gloss>Then, when they take them out, they will have lost the taste.</gloss>
+</item>
+
+<item>
+<entry>357</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>358</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Zvinenge zvisikachanyanyi kusanaka esi.</IPA_transcription>
+<gloss>They won't be really tasty.</gloss>
+</item>
+
+<item>
+<entry>359</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa, ndizvozvo chaizvo.</IPA_transcription>
+<gloss>Yah, that is very true.</gloss>
+</item>
+
+<item>
+<entry>360</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Bati zviya zvekumba zviyaso, vanati huku, voti dzinganisai, yobatwa ipapo.... aimbo.... aa.... Yotodyiwa mhani, kuzipa.  Ee.</IPA_transcription>
+<gloss>But, those at home, they are called hens, they tell you to chase them, then you catch right there....it doesn't.... It's cooked and eaten right there.  It's delicious.  Ee....</gloss>
+</item>
+
+<item>
+<entry>361</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa.... ya.... yaya.</IPA_transcription>
+<gloss>Ah.... Yah.... Ya, yah.</gloss>
+</item>
+
+<item>
+<entry>362</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>363</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa, yokubatirwa kana warhakacha zviya.</IPA_transcription>
+<gloss>Yah, one served for you when you visit.</gloss>
+</item>
+
+<item>
+<entry>364</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa....</IPA_transcription>
+<gloss>Yah....</gloss>
+</item>
+
+<item>
+<entry>365</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee....</IPA_transcription>
+<gloss>Eh....</gloss>
+</item>
+
+<item>
+<entry>366</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Zvino....</IPA_transcription>
+<gloss>Then....</gloss>
+</item>
+
+<item>
+<entry>367</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kana waenda kwaranambuya, kana kuti kwavanasekuru....</IPA_transcription>
+<gloss>If you visit Grandma and Grandpa....</gloss>
+</item>
+
+<item>
+<entry>368</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa ngeyako wegaso.</IPA_transcription>
+<gloss>Yas, the whole chicken is solely for you.</gloss>
+</item>
+
+<item>
+<entry>369</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee.</IPA_transcription>
+<gloss>Eh.</gloss>
+</item>
+
+<item>
+<entry>370</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa....  Zvino kuno uku wouya kuno rini kuzotiona?</IPA_transcription>
+<gloss>Yah....  So when are you coming to see us?</gloss>
+</item>
+
+<item>
+<entry>371</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oo, kwenyu uko?</IPA_transcription>
+<gloss>Oh, at your place?</gloss>
+</item>
+
+<item>
+<entry>372</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>373</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa ndiri kuda kuuya.... ndinofunga ndichauyako;....  Muri pamba mazuva api zviya?</IPA_transcription>
+<gloss>Ah, I really want to come....  I think that I will visit you;....  When are you home?</gloss>
+</item>
+
+<item>
+<entry>374</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa zvikuruso paSvondo neMugovera tinenge tiri pamba.</IPA_transcription>
+<gloss>Ah....  Monstly on Sunday and Saturday we will be home.</gloss>
+</item>
+
+<item>
+<entry>375</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>PaSondo?</IPA_transcription>
+<gloss>On Sunday?</gloss>
+</item>
+
+<item>
+<entry>376</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>377</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Saka unofunga ndingakwanisa kuuyako mazuva api.</IPA_transcription>
+<gloss>So when do you think is the best day for me to come there?</gloss>
+</item>
+
+<item>
+<entry>378</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Mugoveraso.</IPA_transcription>
+<gloss>Saturday.</gloss>
+</item>
+
+<item>
+<entry>379</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>NeMugovera?</IPA_transcription>
+<gloss>On Saturday.</gloss>
+</item>
+
+<item>
+<entry>380</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ndiwo unenge uri right.  Tingaswera toseso.</IPA_transcription>
+<gloss>That's the best day.  Then we can spend the day together.</gloss>
+</item>
+
+<item>
+<entry>381</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ko muri kuda,.... ndizo.... Tizoita chiyi kana ndauyako.</IPA_transcription>
+<gloss>What do you want,.... Us to do when I come out?</gloss>
+</item>
+
+<item>
+<entry>382</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Kuda unozondidziidzisaka nhisani mutambo wako uya wawombotaura.</IPA_transcription>
+<gloss>Maybe you can teach me your sport....  Tennis.... Which you talked about.</gloss>
+</item>
+
+<item>
+<entry>383</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Mutambo uya?</IPA_transcription>
+<gloss>That sport?</gloss>
+</item>
+
+<item>
+<entry>384</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>385</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Iyi....</IPA_transcription>
+<gloss>Is that it?</gloss>
+</item>
+
+<item>
+<entry>386</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>We Tennis so.</IPA_transcription>
+<gloss>Tennis.</gloss>
+</item>
+
+<item>
+<entry>387</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Unozvizivaka mazuva ekutanga zvinonetsa wena.</IPA_transcription>
+<gloss>You should know that it's difficult on the first days.</gloss>
+</item>
+
+<item>
+<entry>388</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa tichango onana nazvoso.</IPA_transcription>
+<gloss>Well, we shall see.</gloss>
+</item>
+
+<item>
+<entry>389</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee vamwe vanopota vechinetsekaso nekuti vaoswera vachirwadziwa makuboso.</IPA_transcription>
+<gloss>Yes, some find it difficult because they get sore feet and legs the rest of the day.</gloss>
+</item>
+
+<item>
+<entry>390</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa ini unondizivaso, ndinogara ndakarumba kunhandare yebhora saka andifungi kuti zvichanetsa zvemakumbo izvi.</IPA_transcription>
+<gloss>Ah, you know me, I always play soccer, therefore, I don't think I will encounter sore feet.</gloss>
+</item>
+
+<item>
+<entry>391</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Chete zvakasiyana nekubanha nemukumbo wena.</IPA_transcription>
+<gloss>Anyway it's not like kicking the ball with your feet.... It's different.</gloss>
+</item>
+
+<item>
+<entry>392</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Oo zvakasiyana nhai?</IPA_transcription>
+<gloss>Ohǃ  Is it different?</gloss>
+</item>
+
+<item>
+<entry>393</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Zvakasiyana wena.</IPA_transcription>
+<gloss>It's very different.</gloss>
+</item>
+
+<item>
+<entry>394</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ooo!</IPA_transcription>
+<gloss>Ohǃ</gloss>
+</item>
+
+<item>
+<entry>395</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Zvakasiyana nokuti unonya uchishandisa maoko.</IPA_transcription>
+<gloss>It's different because you use your hands.</gloss>
+</item>
+
+<item>
+<entry>396</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>397</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Akuchina zvemusoro zvenyu zviya.</IPA_transcription>
+<gloss>There is no heading the ball as you do in soccer.</gloss>
+</item>
+
+<item>
+<entry>398</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aruchina musoro nhai?</IPA_transcription>
+<gloss>There is not heading?</gloss>
+</item>
+
+<item>
+<entry>399</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa.... akuna misoroba</IPA_transcription>
+<gloss>Ah....  No heading.</gloss>
+</item>
+
+<item>
+<entry>400</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ai ibhora rudzii?</IPA_transcription>
+<gloss>What type of ball game is that?</gloss>
+</item>
+
+<item>
+<entry>401</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Saka wongopota uchizvimonyaso.</IPA_transcription>
+<gloss>Thus, you twist your body to return the shot using your racket.</gloss>
+</item>
+
+<item>
+<entry>402</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Oo nhai?</IPA_transcription>
+<gloss>Ohǃ  Is that it?</gloss>
+</item>
+
+<item>
+<entry>403</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Worovaso.</IPA_transcription>
+<gloss>Then you hit it.</gloss>
+</item>
+
+<item>
+<entry>404</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aizve.</IPA_transcription>
+<gloss>Ahǃ</gloss>
+</item>
+
+<item>
+<entry>405</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>406</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Saka une mova?</IPA_transcription>
+<gloss>Do you have a car?</gloss>
+</item>
+
+<item>
+<entry>407</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ininika?</IPA_transcription>
+<gloss>Me?</gloss>
+</item>
+
+<item>
+<entry>408</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>409</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ndine Benzi yanguso.</IPA_transcription>
+<gloss>I have my own Benz.</gloss>
+</item>
+
+<item>
+<entry>410</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Une Benzi nhai?</IPA_transcription>
+<gloss>You own a Benz?</gloss>
+</item>
+
+<item>
+<entry>411</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>412</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa wakaoma wena.</IPA_transcription>
+<gloss>You are great.</gloss>
+</item>
+
+<item>
+<entry>413</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa....</IPA_transcription>
+<gloss>Aa....</gloss>
+</item>
+
+<item>
+<entry>414</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa wakabudirira.</IPA_transcription>
+<gloss>Yah....  You are well-off.</gloss>
+</item>
+
+<item>
+<entry>415</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ndakazoiona ndanetseka.</IPA_transcription>
+<gloss>I got it after hard work.</gloss>
+</item>
+
+<item>
+<entry>416</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Zvino isu vamwe zvichovha zvacho ngezvekunongera mani.</IPA_transcription>
+<gloss>For me.... The care I have is not that good.</gloss>
+</item>
+
+<item>
+<entry>417</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa!</IPA_transcription>
+<gloss>Ah!</gloss>
+</item>
+
+<item>
+<entry>418</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aaa Benzi!</IPA_transcription>
+<gloss>Ah....  Benz!</gloss>
+</item>
+
+<item>
+<entry>419</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Muchatenga chete.</IPA_transcription>
+<gloss>You will certainly buy one in the near future.</gloss>
+</item>
+
+<item>
+<entry>420</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa.... unonetsa.  Ini ndiri kuda kutotenga nhisani....</IPA_transcription>
+<gloss>Ah, you are unsurpased.  I also am at buying....</gloss>
+</item>
+
+<item>
+<entry>421</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Chii?</IPA_transcription>
+<gloss>What?</gloss>
+</item>
+
+<item>
+<entry>422</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Benziwoso mazuva ari kutevera anoava.</IPA_transcription>
+<gloss>A Benz.</gloss>
+</item>
+
+<item>
+<entry>423</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oo!</IPA_transcription>
+<gloss>Oh!</gloss>
+</item>
+
+<item>
+<entry>424</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Andidi zvekukurirwa kurirwa nevamwe vafana esi.</IPA_transcription>
+<gloss>I like to keep pace with the market.</gloss>
+</item>
+
+<item>
+<entry>425</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ko motika yeunayo inozwi chiyi mazuva ano?</IPA_transcription>
+<gloss>What's the make of your car at present?</gloss>
+</item>
+
+<item>
+<entry>426</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Iko zvino....?</IPA_transcription>
+<gloss>You mean now?</gloss>
+</item>
+
+<item>
+<entry>427</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>428</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>I Celica Toyota.</IPA_transcription>
+<gloss>It's Celica Toyota.</gloss>
+</item>
+
+<item>
+<entry>429</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oo yaa!</IPA_transcription>
+<gloss>Oh is that it?</gloss>
+</item>
+
+<item>
+<entry>430</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa yegore rino iri.</IPA_transcription>
+<gloss>Yes, for this year.</gloss>
+</item>
+
+<item>
+<entry>431</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Inga wakaoma wani.</IPA_transcription>
+<gloss>You are really at the top.</gloss>
+</item>
+
+<item>
+<entry>432</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa.... Yaa yakaoma mbichanaso;  Zvinhu zvenhamoso ungadii.</IPA_transcription>
+<gloss>Ah.... Right.... It's a great car, but not that much....  I got it as a necessity....  What else could I do?</gloss>
+</item>
+
+<item>
+<entry>433</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Benzi, ungoziva kuti kuitenga unoba watsum_ kutenga upenyu hwako hwese.</IPA_transcription>
+<gloss>Benzi; as you know, to buy it is almost like sacrifising your life completely.</gloss>
+</item>
+
+<item>
+<entry>434</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa.... chose....  Aa zvokwadi.</IPA_transcription>
+<gloss>Ah.... Right.... Ah that's true.</gloss>
+</item>
+
+<item>
+<entry>435</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Saku ini ndakaita laki (luck) nokuti ndinodziidzisa pachikoro pano.</IPA_transcription>
+<gloss>I was really lucky because I also teach this university.</gloss>
+</item>
+
+<item>
+<entry>436</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ei!</IPA_transcription>
+<gloss>Eh!</gloss>
+</item>
+
+<item>
+<entry>437</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>438</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Saka waa....</IPA_transcription>
+<gloss>That means you are…</gloss>
+</item>
+
+<item>
+<entry>439</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Saka ndinopota ndichingoti bvisei mare zvishomanana.</IPA_transcription>
+<gloss>That means I keep on paying for my Benz a little bit at a time.</gloss>
+</item>
+
+<item>
+<entry>440</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ndikwo kuita kwachoso.</IPA_transcription>
+<gloss>That's the way to do it.</gloss>
+</item>
+
+<item>
+<entry>441</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ehe.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>442</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Nyangwe ini ndizvo zvendinotoitawo paCelica yacho nokuti yakati wei mbichana kamariso.  Saka ndiri kutofa nekupeyaso; munhu unopinda chikoro nekuenda kubasaso.</IPA_transcription>
+<gloss>Even me, I also pay a little bit at a time for my Celica, because it's a lot of money for person going to school and working at the same time.</gloss>
+</item>
+
+<item>
+<entry>443</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ko iwe Josh unowana rini iwe?</IPA_transcription>
+<gloss>Hey Josh!  When do you want to marry?</gloss>
+</item>
+
+<item>
+<entry>444</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Inini?</IPA_transcription>
+<gloss>Me?</gloss>
+</item>
+
+<item>
+<entry>445</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>446</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa ndinofunga ndichazowana kana ndadzoke__ kumba esi.</IPA_transcription>
+<gloss>Ah, I think I will marry after I get back home.</gloss>
+</item>
+
+<item>
+<entry>447</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ko amai varipi.</IPA_transcription>
+<gloss>How about your girlfriend....  Where is she?</gloss>
+</item>
+
+<item>
+<entry>448</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa amai vacho varikowo kumba ikwoyo.</IPA_transcription>
+<gloss>Ah....  She is back home.</gloss>
+</item>
+
+<item>
+<entry>449</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ari kumba?</IPA_transcription>
+<gloss>She is at home?</gloss>
+</item>
+
+<item>
+<entry>450</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>451</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ari kumba audi kuti auye kuno nhai?</IPA_transcription>
+<gloss>She is at home.... Do you like her to come over?</gloss>
+</item>
+
+<item>
+<entry>452</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa muzaya....</IPA_transcription>
+<gloss>Friend!</gloss>
+</item>
+
+<item>
+<entry>453</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ee?</IPA_transcription>
+<gloss>What?</gloss>
+</item>
+
+<item>
+<entry>454</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Mari mani....</IPA_transcription>
+<gloss>Money....</gloss>
+</item>
+
+<item>
+<entry>455</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Mari?</IPA_transcription>
+<gloss>Money?</gloss>
+</item>
+
+<item>
+<entry>456</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ee.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>457</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa.... Mari inonetsa ere kana ukazvifunga iwe.</IPA_transcription>
+<gloss>Ah....  Money is no problem if you work at it.</gloss>
+</item>
+
+<item>
+<entry>458</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Aa mari inonetsa wena.</IPA_transcription>
+<gloss>Ah....  Money is a problem.</gloss>
+</item>
+
+<item>
+<entry>459</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa.</IPA_transcription>
+<gloss>Ah.</gloss>
+</item>
+
+<item>
+<entry>460</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ko iwe ke, vadzimai vako vacho vari pari?</IPA_transcription>
+<gloss>How about you?  Where is your girlfriend?</gloss>
+</item>
+
+<item>
+<entry>461</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Vadzimai vari kumba wena.  Iye zvino vari kudziidzisa wena.</IPA_transcription>
+<gloss>She is also back home.  At present she is teaching.</gloss>
+</item>
+
+<item>
+<entry>462</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ko vari kudziidzisa nhai?</IPA_transcription>
+<gloss>Is that it?</gloss>
+</item>
+
+<item>
+<entry>463</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Vari kudziidzisa.</IPA_transcription>
+<gloss>Right, she is teaching.</gloss>
+</item>
+
+<item>
+<entry>464</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ko vari kuuya?</IPA_transcription>
+<gloss>Is she coming over?</gloss>
+</item>
+
+<item>
+<entry>465</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Vange vachichemera kuda kuuya mani.</IPA_transcription>
+<gloss>She was planning to come over.</gloss>
+</item>
+
+<item>
+<entry>466</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Oo!</IPA_transcription>
+<gloss>Oh!</gloss>
+</item>
+
+<item>
+<entry>467</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Asi ndakavaudza kuti andifungi kuti zvichabudaso.</IPA_transcription>
+<gloss>But I told her that it won't be likely.</gloss>
+</item>
+
+<item>
+<entry>468</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Oho.</IPA_transcription>
+<gloss>Oh!</gloss>
+</item>
+
+<item>
+<entry>469</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yaa.</gloss>
+</item>
+
+<item>
+<entry>470</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Inda, imari?</IPA_transcription>
+<gloss>Why, is it because of money?</gloss>
+</item>
+
+<item>
+<entry>471</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa ndichaona hangu kana ndapedza yonini yangu so....  Ndikapedza Medicine yangu.</IPA_transcription>
+<gloss>Ah, I will decide after completing my Medical Studies.</gloss>
+</item>
+
+<item>
+<entry>472</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe.</IPA_transcription>
+<gloss>Eh!</gloss>
+</item>
+
+<item>
+<entry>473</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa.</IPA_transcription>
+<gloss>Yah.</gloss>
+</item>
+
+<item>
+<entry>474</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Kuda vangauya.</IPA_transcription>
+<gloss>Maybe she will come.</gloss>
+</item>
+
+<item>
+<entry>475</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa, ndinoti kuda vanga uyaso.</IPA_transcription>
+<gloss>Yah, maybe she will come.</gloss>
+</item>
+
+<item>
+<entry>476</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa unoziva vadzimaiso vanonetsa chose so, nokuti vari kumba futi anoda kuuya kuno uku.</IPA_transcription>
+<gloss>Yah, she likes to come and join me.</gloss>
+</item>
+
+<item>
+<entry>477</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aa?</IPA_transcription>
+<gloss>Is that it?</gloss>
+</item>
+
+<item>
+<entry>478</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Zvino vangu murapi.</IPA_transcription>
+<gloss>My girlfriend is a physician.</gloss>
+</item>
+
+<item>
+<entry>479</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oo!</IPA_transcription>
+<gloss>Oh!</gloss>
+</item>
+
+<item>
+<entry>480</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa, vanoda kuuya kuno futi.</IPA_transcription>
+<gloss>Yah, she likes come over.</gloss>
+</item>
+
+<item>
+<entry>481</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oho.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>482</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Saka....</IPA_transcription>
+<gloss>Thus....</gloss>
+</item>
+
+<item>
+<entry>483</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Saka ndichazokuonaso.</IPA_transcription>
+<gloss>I will see you then.</gloss>
+</item>
+
+<item>
+<entry>484</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Okay.</IPA_transcription>
+<gloss>Okay.</gloss>
+</item>
+
+<item>
+<entry>485</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Oo.... Zvakanaka.</IPA_transcription>
+<gloss>Oh....  I will see then.</gloss>
+</item>
+
+<item>
+<entry>486</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa, wosara zvakanakaso.</IPA_transcription>
+<gloss>Remain in peace.</gloss>
+</item>
+
+<item>
+<entry>487</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Newewoso, wosara zvakanaka.</IPA_transcription>
+<gloss>The same to you.</gloss>
+</item>
+
+<item>
+<entry>488</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa tozokuona wouya kuno uku.</IPA_transcription>
+<gloss>Yah, we shall see on your visit.</gloss>
+</item>
+
+<item>
+<entry>489</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yaa ndiri kuuyako.</IPA_transcription>
+<gloss>Yes, I will surely visit you.</gloss>
+</item>
+
+<item>
+<entry>490</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa tinenge takakumirira.</IPA_transcription>
+<gloss>Yah we will looking forward to seeing you.</gloss>
+</item>
+
+<item>
+<entry>491</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Monondigarira muchibikua.</IPA_transcription>
+<gloss>Preprare a home dish.</gloss>
+</item>
+
+<item>
+<entry>492</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yaa, sara zvakanaka.</IPA_transcription>
+<gloss>Yes, stay fine.</gloss>
+</item>
+
+<item>
+<entry>493</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Okay, bye!</IPA_transcription>
+<gloss>Okay, Bye!</gloss>
+</item>
+
+<item>
+<entry>494</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Bye!</IPA_transcription>
+<gloss>Bye!</gloss>
+</item>
+</wordlist>

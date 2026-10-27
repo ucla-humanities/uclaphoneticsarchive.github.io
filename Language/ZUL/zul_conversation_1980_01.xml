@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Zulu</language_name>
+
+
+<headers>
+
+<orthography_header>Speaker</orthography_header>
+<IPA_header>Zulu</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ya, kunjani?</IPA_transcription>
+<gloss>So, how are you?</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Hayi, sikhona Phrofesa.</IPA_transcription>
+<gloss>No, Prof.  I'm fine.</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Hayi-bo; nathi sikhona.  Manje ihambe kanjani leyandoda izolo?</IPA_transcription>
+<gloss>No problem; I'm fine too.  Now, how did it go with that man yesterday?</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Cha, uhambe kahle.  Ukuthi nje bese bematasatasa, sebexoshisa isikhathi.</IPA_transcription>
+<gloss>No, everything when well.  It's just that they were rushed for time.</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>O, ya.  Bafike bakubeka ekhaya…</IPA_transcription>
+<gloss>Yes.  Did they drop you at home (by car)…</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Bafike bangibeka ekhaya, badlula njalo njalo.</IPA_transcription>
+<gloss>Yes, they did and left shortly after.</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>O, …</IPA_transcription>
+<gloss>I see…</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>…sebeya lapho-ke, ehotela labo.</IPA_transcription>
+<gloss>…to go to their hotel (where they were staying).</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ehotela [false start].  Konje ubemenywe yilomlungu emzini wakhe?</IPA_transcription>
+<gloss>The hotel [false start].  By the way he was invited by some White?</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe, bebeya edineni elithize.</IPA_transcription>
+<gloss>Yes, they were going to some dinner somewhere.</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Uye wajabula ukukubona…  Hawu, kwenzenjani?  Wawuthe uzombona loya ndoda?</IPA_transcription>
+<gloss>Was he pleased to see you…?   By the way what happened?  You had said you would see that man?</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Yiphi indoda?  Yiphi indoda Phrofesa?</IPA_transcription>
+<gloss>Which man?  Which man, Professor?</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Yena phela uNkabinde.  Wawuthe uzombona.</IPA_transcription>
+<gloss>He, Nkabinde.  You had said you would see him.</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Hawu, phela angithi isikhathi asibangakhona.</IPA_transcription>
+<gloss>After all, there was no time.</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ekuseni?</IPA_transcription>
+<gloss>In the morning?</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Nini?  Ekuseni?  Cha, ekuseni aka-phumelelanga ukuza ekilasini lethu ugoba ubenenye indawo la beku-fanele aye khona…</IPA_transcription>
+<gloss>When?  In the morning?  No, in the morning he couldn’t make it to our class because he had to go somewhere else…</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>O, aye khona.</IPA_transcription>
+<gloss>O, had to go somewhere else.</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe, akakwazanga ukuza ekilasini.</IPA_transcription>
+<gloss>Yes, he couldn't come to class.</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>O.</IPA_transcription>
+<gloss>I see.</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Cha, akakwazanga mpelampela.</IPA_transcription>
+<gloss>No, he couldn't come to class at all.</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>O. [pause] Wayenjani esikoleni?  Sengisho ukuthi ubukeka engumuntu onomoya omuhle.</IPA_transcription>
+<gloss>I see.  [pause]  How was he at school?  I mean, he looks like he's a nice guy.</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Cha, unomoya omuhle kabi, bantu.</IPA_transcription>
+<gloss>Oh yes, he's a nice guy.</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ehe…</IPA_transcription>
+<gloss>Yes…</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Unomoya omuhle kabi.  Into nje wayesifeyilisa.</IPA_transcription>
+<gloss>He's a very nice guy.  Only he used to fail us.</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>[pause]  Wayefeyilisa.</IPA_transcription>
+<gloss>[pause]  He used to fail you.</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Wayesifeyilisa.  Akazange afake uthando ikthina lokuthi siluthande ulimi lwethu, siziqhenye ngalo.</IPA_transcription>
+<gloss>Yes, he used to fail us.  He never instilled in us love for our language, that we should be proud of it.</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>O, konje wayefundisa isiZulu yena?</IPA_transcription>
+<gloss>By the way, he used to teach Zulu?</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe, wayefundisa isiZulu.  Kangangoba nje, uyabona nje elchaya; uma nje ufunda ugogoda izilimi zesintu, awu, abangane bakho bakubukela phansi kabi.</IPA_transcription>
+<gloss>Yes, he did.  So much so that-you see back home when one is a major in African languages, one's friends look down upon him.</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ya, phela kwenziwa ukuthi bakhohlisiwe, ngoba phela izifiki lezi zabelungu, ziyabakhohlisa.</IPA_transcription>
+<gloss>Yes, it's because they have been brainwashed, because these Western foreigners are good at brainwashing.</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe…</IPA_transcription>
+<gloss>Yes…</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kanti manje bona, isiNgisi sabo basifunda!  Yisona esiphambili…</IPA_transcription>
+<gloss>And yet they so study their English, that it's advanced.</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Kabi.</IPA_transcription>
+<gloss>Oh, yes indeed.</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ubona, nje, ilokhuza, abafundi abaningi bagcwele khona esiNgisini…</IPA_transcription>
+<gloss>That's why most students flock to the English Department.</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe, esiNgisini.</IPA_transcription>
+<gloss>Yes, the English Dept.</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Bagcwele esiNgisini.  Yinqwaba.  Benzela ukuthi bakhohlwe ulimi lwabo bese begijimela isiNgisi.</IPA_transcription>
+<gloss>Lots of them study in the English Dept.  Multitudes.  The idea is to let you forget your native language and concentrate on English.</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Bayasifeyila futhi.  Laphaya Kuleyunivesithi ebengikuyona, lapha eWits ___ izitshudeni eziningi njalo zazingenzi isiZulu ngoba zinothando…</IPA_transcription>
+<gloss>Equally well, they fail it.  At Wits where I taught most students did not study Zulu out of interest…</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>O, ya.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Zazenza isiZulu ngani ngoba mhlawumbe uthola ukuthi la efunda khona, kufanele ukuba ufunde nje okungenani noma ulimi olulodwa.</IPA_transcription>
+<gloss>They took Zulu, in some cases just to satisfy requirements e.g. one language.</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>O, ya…</IPA_transcription>
+<gloss>Yes…</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Baqale ngapha esiNgisini sakubo…</IPA_transcription>
+<gloss>They'd try their English…</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>O, ya.</IPA_transcription>
+<gloss>Yes…</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Bafeyile, baphume no"F" amagrade.  Bathole o"F"…</IPA_transcription>
+<gloss>And fail to the extent of socring "F's".  Getting "F's".</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Hawu, umuntu alhulwe ulimi lwakhe?</IPA_transcription>
+<gloss>You mean, they would fail their mother tongue?</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Hawu, afeyile umuntu aze aze anikwe ___ kukhona igrade ekhaya etuthiwa u"FF".  U"FF" usho ukuthi ushwebe kangangoba awusavunyelwe nokuthi uzame ukuphinda.  Uyaxoshwa…</IPA_transcription>
+<gloss>Yes, they would fail to such an extent that ___ there's a grade in SA called "FF".  "FF" means the student has failed so dismally that he may not even repeat the class.  He is simply excluded…</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Sebethi "Hamba Kahle".</IPA_transcription>
+<gloss>Then they say "Good-bye".</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Bathi "Hamba Kahle".  Iningi laliza lapha kithina njena ezilimini zethu zesintu ngoba selihlulekile, libalekangapha esiNgisini.</IPA_transcription>
+<gloss>Yes, it means "Good-bye".  Most would take African languages after having failed-running away from English.</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Selizokhalela.</IPA_transcription>
+<gloss>Just to lick their wounds.</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Hm.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Hawu, madoda!</IPA_transcription>
+<gloss>My God, I can't believe it!</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Nayo-ke into embi ayenza uthisha lo, obela.  Wayesifundisa kahle kabi, kodwa nje esincisha amamaki, alenze ulimi lubne lukhuni, lubukeke sengathi lukhuni.  Ngenxa yalokho abantu abaningi baze baphelelwa umdlandla.</IPA_transcription>
+<gloss>That's the sad thing that this teacher (Prof.) who was here did to us.  He was a very good teacher although he was miserly with grades and set such tough exams that Zulu would seem difficult.  Because of that, most students lost interest (in the language).</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kusho ukuthi wayethi uyaluqunisa ngoba phela wayazi ukuthi abantu bayaye… [false start]  Ingani phela ngithe ngikhuluma nomunye ngithi "Hawu, ufikile lana uzombona na?"  Wathi "Ho, usho lo owathola idigri ngesiZulu…?"</IPA_transcription>
+<gloss>Probably, he was trying to make it seem difficult because… [false start]  Just recently when I said to someone "He's around.  Are you gonna see him?".  His reply was "You mean that (Prof) who majored in Zulu?"</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Hm.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Washo wahleka…</IPA_transcription>
+<gloss>Then, he giggled…</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Washo wahleka…</IPA_transcription>
+<gloss>Giggled…</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ngasho ngathi wo, okungabantu akwazi lutho…</IPA_transcription>
+<gloss>Then I said to myself "People just don't know much".</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Akwazi lutho…</IPA_transcription>
+<gloss>Yes, they don't know much…</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Akwazi ukuthi imfundo…  Uma umuntu efunda, ulwazi uluthola ngezinto eziningi…</IPA_transcription>
+<gloss>They don't know that education…  When you study you gain education from a number of things…</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Eziningi…</IPA_transcription>
+<gloss>A number of things, yes…</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kakhulukazi ulimi…</IPA_transcription>
+<gloss>Especially from language(s)…</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ulimi…</IPA_transcription>
+<gloss>Language(s)…</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ngoba phela uma lengasekho ulimi, ungeke usasho ukuthi ulwazi lwakini lolo.</IPA_transcription>
+<gloss>Because if you don't have a language then you have no culture.</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Mm.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Sekuwulwazi lwalabo bantu.</IPA_transcription>
+<gloss>Then the culture (people have) has been dispossed.</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Angithi uboneke manje ngoba ngenzxa yokuthi ulwimi lwethu silu lahlile, lucoshwe yiwo lamankengane.  Athe esuka…</IPA_transcription>
+<gloss>Just see.  Now that we have forsaken our language (Zulu) it has been adopted by foreigners.  They they…</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>E…</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ayesezenza izazi ezinkulu, abhala izincwadi - ODoke laba, amakhela…</IPA_transcription>
+<gloss>Pretended to be custodians (of our langauge), wrote grammars - People like old man Doke (Prof. Emeritus C. M. Doke)…</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Awuboni-ke.</IPA_transcription>
+<gloss>You see….</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Babhala izincwadi; baxova bebhala okungamaqiniso nokungamanga.  Manje sekulukhuni…</IPA_transcription>
+<gloss>Wrote grammars - confused things, writing both truths and untruths.  Now it's difficult…</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Sekulukhuni…</IPA_transcription>
+<gloss>It's difficult…</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ukuthi silungise…</IPA_transcription>
+<gloss>To right the wrong…</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ngoba manje umuntu sekukhona asebelubalekele.</IPA_transcription>
+<gloss>Because most scholars have forsaken the language.</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Siyakhala manje.  Siyakhala ngalezi zincwadi zikaDoke.  Siyabonga.  Sithi wazama.  Kodwa siyahlaba.  Izinto eziningi kabi…</IPA_transcription>
+<gloss>We regret it.  We lament Doke's books.  We thank him.  We appreciate his efforts.  Yet, we criticize.  We criticize a number of things…</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Aziphelele.</IPA_transcription>
+<gloss>Which are missing…</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Mm.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Kodwa manje aniqhamuki…</IPA_transcription>
+<gloss>But then you don't contribute (anything)</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Asiqhamuki.</IPA_transcription>
+<gloss>Yes, we don't contribute.</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Nezenu.</IPA_transcription>
+<gloss>Your own.</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Asiqhamuki nezethu.</IPA_transcription>
+<gloss>We don't contribute our own.</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Manje, uthe uma nikhuluma akakulugniseli uma uya ekhaya?</IPA_transcription>
+<gloss>While you were discussing, did he say anything about when you go back home?</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Cha, asizange sikhulume indaba yokuyofundisa kwakhe.</IPA_transcription>
+<gloss>No, we never mentioned my idea of having to teach at his school (university).</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Hawu, manje akazange ayiphathe leyo?</IPA_transcription>
+<gloss>You mean he didn't mention that one?</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Cha, azange siyikhulume.</IPA_transcription>
+<gloss>No, we never touched on that.</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Uthi unawo amandla?</IPA_transcription>
+<gloss>Do you think he has the power?</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ingani uyena ophethe nje?  Uyena uthishanhloko weYunivesithi.  Iphethwe uye nje?</IPA_transcription>
+<gloss>How couldn't he?  He's in power.  He is the head of the university (President).  It's run by him.</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Habe!  Ubani okunguyena ab'ambiza ngokuthi "uChancellor"?</IPA_transcription>
+<gloss>What?  Who then is the "Chancellor"?</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>UMangosuthu.</IPA_transcription>
+<gloss>Mangosuthu (Chief Gatsha Buthelezi).</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>O, uyena?</IPA_transcription>
+<gloss>Is it he?</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>UMangosuthu uChancellor, Yena unguVice-Chancellor ophethe isikole.  Ulokhuzana uyena ophethe isikole.</IPA_transcription>
+<gloss>Mangosuthu is the Chancellor.  He (NKabinde) is the Vice-Chancellor.  What's name (Prof. Nkabinde) runs the school.</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>O, ngiyabona.  Uyena ophethe indawo.</IPA_transcription>
+<gloss>Now, I understand.  He runs the whole show.</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Mm.  Akasafundisi.  Usehlala nje ehovisi.  UNKabinde unguthishanhloko.</IPA_transcription>
+<gloss>Yes.  He does not even teach.  He just works from his office.  NKabinde is the Principal.</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Habe!</IPA_transcription>
+<gloss>What!</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe, uyena uThishanhloko ophethe iYunivesithi yasoNgoye.</IPA_transcription>
+<gloss>Yes.  He is the Head who runs the entire University of Ngoye.</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Uyiphethe nje jikelele?</IPA_transcription>
+<gloss>You mean he runs it completely?</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Jikelele.  Ekhaya-ke ukuthi, phecelezi bathi "uRector".</IPA_transcription>
+<gloss>Completely.  At home (in SA) we call him the "Rector".</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Bangasho ukuthi uyena [faint].</IPA_transcription>
+<gloss>They don't say that it's he [faint].</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Bathi "uRector" le ekhaya.</IPA_transcription>
+<gloss>They say "Rector" at home.</gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ya, so manje wenzenjani?  Zihamba kanjani izifundo zakho?</IPA_transcription>
+<gloss>So now, how's the going with your studies?</gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe.  Ngibabele khona nje ukuthi uma siqeda ukukhuluma la…</IPA_transcription>
+<gloss>Yes, I'm just dying that when we finish here…</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ehe…</IPA_transcription>
+<gloss>Yes…</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ngikhulume nawe indaba yezifundo zami ngoba ngidinga usizo lwakho.</IPA_transcription>
+<gloss>Then we can talk about my studies, because I need your help.</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Uzoluthola…</IPA_transcription>
+<gloss>You'll get it…</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe, ngidinga usizo lwakho ngendaba yezifundo zami.</IPA_transcription>
+<gloss>Yes, I need your help concerning my studies.</gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ya, zikuxakile…</IPA_transcription>
+<gloss>Things are getting tough…</gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Cha.  Kufanele ungifundise.  Kukhona izifundo zakho ekufanele ngizithathe.</IPA_transcription>
+<gloss>Not really.  You have to give me lessons.  There are some of your classes I have to take.</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>O…</IPA_transcription>
+<gloss>Yes…</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Kukhona izifundo zakho ekufanele ngizithathe.  Kodwa kulekota akulu-nganga.</IPA_transcription>
+<gloss>There are some of your classes I have to take.  But this Quarter, things just didn't work well.</gloss>
+</item>
+
+<item>
+<entry>107</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>O…</IPA_transcription>
+<gloss>Yes…</gloss>
+</item>
+
+<item>
+<entry>108</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Kodwa ngaphambi kokuba ngihambe, kuyodingeka ukuba ngithathe izifundo zakho.</IPA_transcription>
+<gloss>But before I go home, I'll have to take some of your classes.</gloss>
+</item>
+
+<item>
+<entry>109</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Zithathe ngoba ziyokusiza.</IPA_transcription>
+<gloss>Take them because they'll help you.</gloss>
+</item>
+
+<item>
+<entry>110</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>111</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ehe, ngoba nami ngizama ukwakha indlela entsha yokufunda lezizifundo.  Ngoba manje into kakhulu ehluphayo ukuthi izifundo lezi zasesilungwini umuntu uyaye athi uma ezifunda, ebese sezikhona ezinye akade ezifundile, njengoHistory nobani nobani.</IPA_transcription>
+<gloss>Yes, because I too, am trying to develop a new methology for learning these ideas.  You see, the main problem is that when people take my classes they have already taken such Western-oriented classes as History etc.</gloss>
+</item>
+
+<item>
+<entry>112</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe…</IPA_transcription>
+<gloss>Yes…</gloss>
+</item>
+
+<item>
+<entry>113</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Manje-ke, kudingeka ukuthi nathi siyafilca la emlandweni yethu, bese sikhombisa ukuthi lento uma yenzeka, yenzeka iphumaphi.</IPA_transcription>
+<gloss>So, what we have to do is, if we have to deal with our own history then, we must show where it originates from.</gloss>
+</item>
+
+<item>
+<entry>114</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe…</IPA_transcription>
+<gloss>Yes…</gloss>
+</item>
+
+<item>
+<entry>115</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>Ibe neminyombo yayo…</IPA_transcription>
+<gloss>So that we can see the origion (the etymology).</gloss>
+</item>
+
+<item>
+<entry>116</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Ehe…</IPA_transcription>
+<gloss>Yes…</gloss>
+</item>
+
+<item>
+<entry>117</entry>
+<native_orthography>I</native_orthography>
+<IPA_transcription>So, ngizama ukuveza neminyombo…</IPA_transcription>
+<gloss>So, I'm trying to show the mythological origins.</gloss>
+</item>
+
+<item>
+<entry>118</entry>
+<native_orthography>II</native_orthography>
+<IPA_transcription>Iminyombo.  Awu, kuhle lokho.</IPA_transcription>
+<gloss>Mythological origins.  That's fine.</gloss>
+</item>
+</wordlist>
+
+
+
+
+

@@ -1,0 +1,2213 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0040)http://linguistlist.org/unicode/ipa.html -->
+<!-- saved from url=(0057)http://web.uvic.ca/ling/resources/ipa/charts/ipachart.htm -->
+
+<HTML><HEAD><TITLE>The IPA Chart</TITLE>
+<LINK REL="SHORTCUT ICON" HREF="../../images/favicon.ico">
+
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<STYLE type=text/css>A:link {
+	COLOR: #003399; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #003399; TEXT-DECORATION: none
+}
+A:hover {
+	BORDER-LEFT-COLOR: #666666; BORDER-BOTTOM-COLOR: #666666; COLOR: #0099ff; BORDER-TOP-COLOR: #000000; BORDER-RIGHT-COLOR: #666666
+}
+A:active {
+	COLOR: #003399
+}
+.small {
+	FONT-WEIGHT: lighter; FONT-SIZE: 9px; COLOR: #000000; FONT-FAMILY: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif
+}
+.strwtext {
+	FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: "Trebuchet MS", Verdana, Arial, sans-serif; FONT-VARIANT: normal
+}
+.header {
+	FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #000000; FONT-FAMILY: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; FONT-VARIANT: normal
+}
+.smallheader {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif; FONT-VARIANT: normal
+}
+.weelables {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif
+}
+.emphasis {
+	FONT-WEIGHT: bold; FONT-SIZE: 11pt; VERTICAL-ALIGN: middle; COLOR: #e80000; FONT-FAMILY: "Arial"; TEXT-ALIGN: center
+}
+.unichars {
+	FONT-SIZE: 23px; VERTICAL-ALIGN: middle; COLOR: #000000; FONT-FAMILY: "Arial Unicode MS" , Code2000, "Lucida Sans Unicode"; TEXT-ALIGN: center
+}
+.unichars2 {
+	FONT-SIZE: 10px; FONT-FAMILY: "Arial Unicode MS" , Code2000, "Lucida Sans Unicode";
+}
+.unichars3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; FONT-FAMILY: "Arial Unicode MS" , Code2000, "Lucida Sans Unicode";
+}
+.unichars4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 24px; FONT-FAMILY: "Arial Unicode MS" , Code2000, "Lucida Sans Unicode";
+}
+.unicharspace {
+	FONT-SIZE: 14px; FONT-FAMILY: "Arial Unicode MS" , Code2000, "Lucida Sans Unicode";
+}
+.borderbottom {
+	BORDER-RIGHT: #000000 0px solid; BORDER-TOP: #000000 0px solid; BORDER-LEFT: #000000 0px solid; BORDER-BOTTOM: #000000 1px solid
+}
+.borderright {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 0px solid; BORDER-LEFT: #000000 0px solid; BORDER-BOTTOM: #000000 0px solid
+}
+.bordercorner {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 0px solid; BORDER-LEFT: #000000 0px solid; BORDER-BOTTOM: #000000 1px solid
+}
+.bullet {
+	FONT-SIZE: 14px; FONT-FAMILY: "Lucida Sans Unicode"
+}
+.greyedout {
+	COLOR: #888888; FONT-FAMILY: "Arial Unicode MS" , Code2000, "Lucida Sans Unicode";
+}
+</STYLE>
+
+<META content="MSHTML 5.50.4134.600" name=GENERATOR></HEAD>
+<BODY bgColor=#e9e3bc onLoad="loadForm()">
+<SCRIPT LANGUAGE="JavaScript">
+var ID;
+function getSearchAsArray() {
+	var minNav3 = (navigator.appName == "Netscape" && 
+parseInt(navigator.appVersion) >= 3)
+	var minIE4 = (navigator.appName.indexOf("Microsoft") >= 0 && parseInt(navigator.appVersion) >= 4)
+	var minDOM = minNav3 || minIE4   // baseline DOM required for this function
+	var results = new Array()
+	if (minDOM) {
+		var input = unescape(location.search.substr(1))
+		if (input) {
+			var srchArray = input.split("&")
+			var tempArray = new Array()
+			for (var i = 0; i < srchArray.length; i++) {
+				tempArray = srchArray[i].split("=")
+				//alert("left"+tempArray[0]);
+				//alert("right"+tempArray[1]);
+				results[tempArray[0]] = tempArray[1]
+			}
+		}
+	}
+	return results
+}
+function loadForm() {
+	if (location.search) {
+		var srchArray = getSearchAsArray()
+		if (srchArray["ID"]) {
+			ID = srchArray["ID"]
+		}
+	}
+}
+
+if (!document.layers&&!document.all)
+event="test"
+function showtip(current,e,text){
+
+if (document.all){
+thetitle=text.split('<br>')
+if (thetitle.length>1){
+thetitles=''
+for (i=0;i<thetitle.length;i++)
+thetitles+=thetitle[i]
+current.title=thetitles
+}
+else
+current.title=text
+}
+
+else if (document.layers){
+document.tooltip.document.write('<layer bgColor="white" style="border:1px solid black;font-size:12px;">'+text+'</layer>')
+document.tooltip.document.close()
+document.tooltip.left=e.pageX+5
+document.tooltip.top=e.pageY+5
+document.tooltip.visibility="show"
+}
+}
+
+function hidetip(){
+if (document.layers)
+document.tooltip.visibility="hidden"
+}
+
+function Update(){
+var temp_text = document.form1.text1.value;
+var temp_value = "window.opener.document.form1."+ID+".value";
+var Name = navigator.appName;
+if (Name.indexOf("Microsoft") >= 0 )
+window.opener.document.all.item(ID).value = eval(temp_value)+temp_text;
+else if (Name.indexOf("Netscape") >= 0 )
+window.opener.document.form1.eval(ID).value = eval(temp_value)+temp_text;
+window.close();
+}
+
+function copyToClipboard(){
+form1.text1.select()
+therange=form1.text1.createTextRange()
+therange.execCommand("Copy")
+}
+
+</SCRIPT>
+
+<DIV id=tooltip style="VISIBILITY: hidden; POSITION: absolute"></DIV>
+<SPAN class=header>THE INTERNATIONAL PHONETIC ALPHABET
+<SPAN class=strwtext>(revised 
+to 1993, updated 1996)<BR>Copyright International Phonetic Association, from the 
+<A href="http://web.uvic.ca/ling">Department of Linguistics, University of 
+Victoria</A>, Canada</SPAN></SPAN>
+<!--
+     The data entry form: instructions, text box, and buttons
+	 ONCLICK="Update('#URL.ID#')"
+-->
+<form name="form1" action="javascript:Update()" method="post">
+<P class=smallheader>Type into the text box below by clicking on the characters in the
+chart. When entering diacritics, enter the base character first,
+followed by the diacritics associated with it (in any order). Click the Space button to add a space to the string. Click Reset to clear the text box. When you are done, click the Send Back button.</P>
+<input type="text" class="unichars4" SIZE="32" name="text1" value="">
+<INPUT TYPE="BUTTON" NAME="Button1" VALUE="Space" 
+ONCLICK="form1.text1.value = form1.text1.value + ' ';">
+<INPUT TYPE="BUTTON" NAME="Button2" VALUE="Reset" 
+ONCLICK="form1.text1.value = '';">
+<INPUT TYPE="Submit" NAME="Submit" VALUE="Send Back" >
+</form>
+<!--- <cfoutput>
+ID: #URL.ID#
+</cfoutput>  --->
+<TABLE cellSpacing=0 cellPadding=0 width=650 border=0>
+  <TBODY>
+  <TR vAlign=center>
+    <TD colSpan=2><SPAN class=smallheader>PULMONIC CONSONANTS</SPAN></TD></TR>
+  <TR>
+    <TD colSpan=2>
+      <TABLE class=small borderColor=#999999 cellSpacing=0 cellPadding=0 
+      width=627 align=left bgColor=#ffffff border=1>
+        <TBODY>
+        <TR>
+          <TD width=63 height=14>
+            <DIV align=center>&nbsp;</DIV></TD>
+          <TD class=weelables vAlign=center width=55 height=14>
+            <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+            onmouseout=hidetip() href="javascript:;">Bilabial</A></DIV></TD>
+          <TD class=weelables vAlign=center width=55 height=14>
+            <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+            onmouseout=hidetip() href="javascript:;">Labiodental</A></DIV></TD>
+          <TD class=weelables vAlign=center width=55 height=14>
+            <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+            onmouseout=hidetip() href="javascript:;">Dental</A></DIV></TD>
+          <TD class=weelables vAlign=center width=55 height=14>
+            <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+            onmouseout=hidetip() href="javascript:;">Alveolar</A></DIV></TD>
+          <TD class=weelables vAlign=center width=55 height=14>
+            <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+            onmouseout=hidetip() href="javascript:;">&nbsp;Postalveolar</A></DIV></TD>
+          <TD class=weelables vAlign=center width=55 height=14>
+            <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+            onmouseout=hidetip() href="javascript:;">Retroflex</A></DIV></TD>
+          <TD class=weelables vAlign=center width=55 height=14>
+            <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+            onmouseout=hidetip() href="javascript:;">Palatal</A></DIV></TD>
+          <TD class=weelables vAlign=center width=55 height=14>
+            <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+            onmouseout=hidetip() href="javascript:;">Velar</A></DIV></TD>
+          <TD class=weelables vAlign=center width=55 height=14>
+            <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+            onmouseout=hidetip() href="javascript:;">Uvular</A></DIV></TD>
+          <TD class=weelables vAlign=center width=55 height=14>
+            <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+            onmouseout=hidetip() href="javascript:;">Pharyngeal</A></DIV></TD>
+          <TD class=weelables vAlign=center width=55 height=14>
+            <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+            onmouseout=hidetip() href="javascript:;">Glottal</A></DIV></TD></TR>
+        <TR>
+          <TD class=weelables vAlign=center width=80
+height=14>&nbsp;Plosive</TD>
+          <TD width=63 height=14>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+
+<!-- **************************************************************
+
+     The IPA characters start here.  Each character is inside an 
+     <A> tag. Within each <A> tag, add: 
+
+        onclick="form1.text1.value=form1.text1.value + 'X';"
+
+     where X is the UTF-8 string for the character. Copy it from
+     what is between <A> and </A>.
+
+     ************************************************************* -->
+
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0070')" onmouseout=hidetip() onclick="form1.text1.value=form1.text1.value + 'p';"
+                  href="javascript:;">p</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0062')" onmouseout=hidetip()
+onclick="form1.text1.value=form1.text1.value + 'b';" 
+                  href="javascript:;">b</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=14>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD colSpan=3 height=14>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width=63>&nbsp;</TD>
+                <TD>
+                  <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+                  border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width="50%">
+                        <DIV class=unichars align=center><A 
+                        onmouseover="showtip(this,event,'U0074')" 
+                        onmouseout=hidetip() onclick="form1.text1.value=form1.text1.value + 't';" href="javascript:;">t</A></DIV></TD>
+                      <TD width="50%">
+                        <DIV class=unichars align=center><A 
+                        onmouseover="showtip(this,event,'U0064')" 
+                        onmouseout=hidetip() 
+                    href="javascript:;"onclick="form1.text1.value=form1.text1.value + 'd';">d</A></DIV></TD></TR></TBODY></TABLE></TD>
+                <TD width=63>&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=14>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0288')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʈ';">ʈ</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0256')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɖ';">ɖ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=14>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0063')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'c';">c</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U025F')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɟ';">ɟ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=14>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U006B')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'k';">k</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0261')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'g';">g</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=14>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0071')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'q';">q</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0262')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɢ';">ɢ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=14>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+                  onmouseout=hidetip() href="javascript:;"></A></DIV></TD>
+                <TD width="50%" bgColor=#cccccc>
+                  <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+                  onmouseout=hidetip() 
+              href="javascript:;"></A>&nbsp;</DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=14>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0294')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʔ';">ʔ</A></DIV></TD>
+                <TD width="50%" 
+        bgColor=#cccccc>&nbsp;</TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=weelables vAlign=center width=63 height=30>&nbsp;Nasal</TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+                  onmouseout=hidetip() href="javascript:;"></A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U006D')" onmouseout=hidetip()
+onclick="form1.text1.value=form1.text1.value + 'm';" 
+                  href="javascript:;">m</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0271')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɱ';">ɱ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD colSpan=3 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width=63>&nbsp;</TD>
+                <TD>
+                  <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+                  border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width="50%">
+                        <DIV align=center><A 
+                        onmouseover="showtip(this,event,'U')" 
+                        onmouseout=hidetip() href="javascript:;"></A></DIV></TD>
+                      <TD width="50%">
+                        <DIV class=unichars align=center><A 
+                        onmouseover="showtip(this,event,'U006E')" 
+                        onmouseout=hidetip() 
+                    href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'n';">n</A></DIV></TD></TR></TBODY></TABLE></TD>
+                <TD width=63>&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+                  onmouseout=hidetip() href="javascript:;"></A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0273')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɳ';">ɳ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+                  onmouseout=hidetip() href="javascript:;"></A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0272')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɲ';">ɲ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+                  onmouseout=hidetip() href="javascript:;"></A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U014B')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ŋ';">ŋ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+                  onmouseout=hidetip() href="javascript:;"></A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0274')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɴ';">ɴ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 bgColor=#cccccc height=22>&nbsp;</TD>
+          <TD width=63 bgColor=#cccccc height=22>&nbsp;</TD></TR>
+        <TR>
+          <TD class=weelables vAlign=center width=63 height=22>&nbsp;Trill</TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+                  onmouseout=hidetip() href="javascript:;"></A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0299')" onmouseout=hidetip()
+onclick="form1.text1.value=form1.text1.value + 'ʙ';" 
+                  href="javascript:;">ʙ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD colSpan=3 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width=63>&nbsp;</TD>
+                <TD>
+                  <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+                  border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width="50%">&nbsp;</TD>
+                      <TD width="50%">
+                        <DIV class=unichars align=center><A 
+                        onmouseover="showtip(this,event,'U0072')" 
+                        onmouseout=hidetip() 
+                    href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'r';">r</A></DIV></TD></TR></TBODY></TABLE></TD>
+                <TD width=63>&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 bgColor=#cccccc height=30>&nbsp;</TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0280')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʀ';">ʀ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 bgColor=#cccccc height=22>&nbsp;</TD></TR>
+        <TR>
+          <TD class=weelables vAlign=center width=63 height=22>&nbsp;Tap or 
+            Flap</TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+                  onmouseout=hidetip() href="javascript:;"></A></DIV></TD>
+                <TD width="50%">
+                  <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+                  onmouseout=hidetip() 
+              href="javascript:;"></A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD colSpan=3 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width=63>&nbsp;</TD>
+                <TD>
+                  <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+                  border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width="50%">&nbsp;</TD>
+                      <TD width="50%">
+                        <DIV class=unichars align=center><A 
+                        onmouseover="showtip(this,event,'U027E')" 
+                        onmouseout=hidetip() 
+                    href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɾ';">ɾ</A></DIV></TD></TR></TBODY></TABLE></TD>
+                <TD width=63>&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U027D')" onmouseout=hidetip() 
+onclick="form1.text1.value=form1.text1.value + 'ɽ';"
+                  href="javascript:;">ɽ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 bgColor=#cccccc height=22>&nbsp;</TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 bgColor=#cccccc height=22>&nbsp;</TD></TR>
+        <TR>
+          <TD class=weelables vAlign=center width=63 
+          height=22>&nbsp;Fricative</TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0278')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɸ';">ɸ</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U03B2')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'β';"
+>β</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0066')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'f';">f</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'0076-')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'v';">v</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U03B8')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'θ';">θ</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U00F0')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ð';">ð</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0073')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 's';">s</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U007A')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'z';">z</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0283')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʃ';">ʃ</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0292')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʒ';">ʒ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0282')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʂ';">ʂ</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0290')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʐ';">ʐ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U00E7')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ç';">ç</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U029D')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʝ';">ʝ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0078')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'x';">x</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0263')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɣ';">ɣ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U03C7')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'χ';">χ</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0281')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʁ';">ʁ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0127')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ħ';">ħ</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0295')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʕ';">ʕ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=30>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0068')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'h';">h</A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0266')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɦ';">ɦ</A></DIV></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=weelables vAlign=center width=63 height=22 nowrap>&nbsp;Lateral 
+           &nbsp;&nbsp;fricative </TD>
+          <TD width=63 bgColor=#cccccc height=22>&nbsp;</TD>
+          <TD width=63 bgColor=#cccccc height=22>&nbsp;</TD>
+          <TD colSpan=3 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width=63>
+                  <P>&nbsp;</P></TD>
+                <TD>
+                  <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+                  border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width="50%">
+                        <DIV class=unichars align=center><A 
+                        onmouseover="showtip(this,event,'U026C')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɬ';">ɬ</A></DIV></TD>
+                      <TD width="50%">
+                        <DIV class=unichars align=center><A 
+                        onmouseover="showtip(this,event,'U026E')" 
+                        onmouseout=hidetip() 
+                    Href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɮ';">ɮ</A></DIV></TD></TR></TBODY></TABLE></TD>
+                <TD width=63>&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 bgColor=#cccccc height=22>&nbsp;</TD>
+          <TD width=63 bgColor=#cccccc height=22>&nbsp;</TD></TR>
+        <TR>
+          <TD class=weelables vAlign=center width=63 
+            height=22>&nbsp;Approximant</TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+                  onmouseout=hidetip() href="javascript:;"></A></DIV></TD>
+                <TD width="50%">
+                  <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+                  onmouseout=hidetip() 
+              href="javascript:;"></A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">
+                  <DIV align=center><A onmouseover="showtip(this,event,'U')" 
+                  onmouseout=hidetip() href="javascript:;"></A></DIV></TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U028B')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʋ';">ʋ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD colSpan=3 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width=63>&nbsp;</TD>
+                <TD>
+                  <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+                  border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width="50%">
+                        <DIV align=center><A 
+                        onmouseover="showtip(this,event,'U')" 
+                        onmouseout=hidetip() href="javascript:;"></A></DIV></TD>
+                      <TD width="50%">
+                        <DIV class=unichars align=center><A 
+                        onmouseover="showtip(this,event,'U0279')" 
+                        onmouseout=hidetip() 
+                    href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɹ';">ɹ</A></DIV></TD></TR></TBODY></TABLE></TD>
+                <TD width=63>&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U027B')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɻ';">ɻ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U006A')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'j';">j</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U0270')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɰ';">ɰ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 bgColor=#cccccc height=22>&nbsp;</TD></TR>
+        <TR>
+          <TD class=weelables vAlign=center width=63 height=22>&nbsp;Lateral 
+           &nbsp;approximant </TD>
+          <TD width=63 bgColor=#cccccc height=22>&nbsp;</TD>
+          <TD width=63 bgColor=#cccccc height=22>&nbsp;</TD>
+          <TD colSpan=3 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width=63>&nbsp;</TD>
+                <TD>
+                  <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+                  border=0>
+                    <TBODY>
+                    <TR>
+                      <TD width="50%">
+                        <DIV align=center><A 
+                        onmouseover="showtip(this,event,'U')" 
+                        onmouseout=hidetip() href="javascript:;"></A></DIV></TD>
+                      <TD width="50%">
+                        <DIV class=unichars align=center><A 
+                        onmouseover="showtip(this,event,'U006C')" 
+                        onmouseout=hidetip() 
+                    href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'l';">l</A></DIV></TD></TR></TBODY></TABLE></TD>
+                <TD width=63>&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U026D')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɭ';">ɭ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U028E')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʎ';">ʎ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">
+                  <DIV class=unichars align=center><A 
+                  onmouseover="showtip(this,event,'U029F')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʟ';">ʟ</A></DIV></TD></TR></TBODY></TABLE></TD>
+          <TD width=63 height=22>
+            <TABLE height="100%" cellSpacing=0 cellPadding=0 width="100%" 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD width="50%">&nbsp;</TD>
+                <TD width="50%">&nbsp;</TD></TR></TBODY></TABLE></TD>
+          <TD width=63 bgColor=#cccccc height=30>&nbsp;</TD>
+          <TD width=63 bgColor=#cccccc 
+  height=30>&nbsp;</TD></TR></TBODY></TABLE></TBODY> </TABLE>
+  <span  class=small>When symbols appear in pairs, the one 
+to the right represents a voiced consonant. Shaded areas denote articulations 
+judged impossible.</SPAN>
+<TABLE cellSpacing=0 cellPadding=0 width=650>
+  <TBODY>
+  <TR>
+    <TD vAlign=top>
+      <TABLE cellSpacing=0 cellPadding=0 width=285 border=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <DIV align=left><SPAN class=smallheader>CONSONANTS (NON-PULMONIC) 
+            </SPAN></DIV></TD></TR>
+        <TR>
+          <TD height=40>
+            <TABLE cellSpacing=0 cellPadding=0 width=282 bgColor=#999999 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <TABLE cellSpacing=1 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR bgColor=#ffffff>
+                      <TD>
+                        <DIV class=strwtext 
+                      align=center><B>Clicks</B></DIV></TD>
+                      <TD>
+                        <DIV class=strwtext align=center><B>Voiced 
+                        implosives</B></DIV></TD>
+                      <TD>
+                        <DIV class=strwtext 
+                        align=center><B>Ejectives</B></DIV></TD></TR>
+                    <TR bgColor=#ffffff>
+                      <TD>
+                        <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+border=0>
+                          <TBODY>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV><A onmouseover="showtip(this,event,'U0298')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʘ';">ʘ</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline>
+                              <DIV align=left>Bilabial</DIV></TD></TR>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV><A onmouseover="showtip(this,event,'U01C0')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ǀ';">ǀ</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline>
+                              <DIV align=left>Dental</DIV></TD></TR>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV><A onmouseover="showtip(this,event,'U01C3')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ǃ';">ǃ</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline>
+                              <DIV align=left>(Post)alveolar</DIV></TD></TR>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV><A onmouseover="showtip(this,event,'U01C2')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ǂ';">ǂ</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline>
+                              <DIV align=left>Palatoalveolar</DIV></TD></TR>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV><A onmouseover="showtip(this,event,'U01C1')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ǁ';">ǁ</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline>
+                              <DIV align=left>Aveolar 
+                          lateral</DIV></TD></TR></TBODY></TABLE></TD>
+                      <TD>
+                        <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+border=0>
+                          <TBODY>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV><A onmouseover="showtip(this,event,'U0253')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɓ';">ɓ</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline>
+                              <DIV align=left>Bilabial</DIV></TD></TR>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV><A onmouseover="showtip(this,event,'U0257')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɗ';">ɗ</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline>
+                              <DIV align=left>Dental/alveolar</DIV></TD></TR>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV><A onmouseover="showtip(this,event,'U0284')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʄ';">ʄ</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline>
+                              <DIV align=left>Palatal</DIV></TD></TR>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV><A onmouseover="showtip(this,event,'U0260')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɠ';">ɠ</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline>
+                              <DIV align=left>Velar</DIV></TD></TR>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV><A onmouseover="showtip(this,event,'U029B')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʛ';">ʛ</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline>
+                              <DIV 
+                        align=left>Uvular</DIV></TD></TR></TBODY></TABLE></TD>
+                      <TD>
+                        <TABLE cellSpacing=0 cellPadding=0 width="100%" 
+border=0>
+                          <TBODY>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV><A onmouseover="showtip(this,event,'U2019')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + '’';">’</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline>
+                              <DIV align=left>Examples:</DIV></TD></TR>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV align=left>&nbsp;<A 
+                              onmouseover="showtip(this,event,'U0070 + U2019')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'p’';">p’</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline>
+                              <DIV align=left>&nbsp;Bilabial</DIV></TD></TR>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV align=left>&nbsp;<A 
+                              onmouseover="showtip(this,event,'U0074 + U2019')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + '';">t’</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline>
+                              <DIV 
+                          align=left>&nbsp;Dental/alveolar</DIV></TD></TR>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV align=left>&nbsp;<A 
+                              onmouseover="showtip(this,event,'U006B + U2019')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'k’';">k’</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline>
+                              <DIV align=left>&nbsp;Velar</DIV></TD></TR>
+                          <TR>
+                            <TD class=unichars width=30>
+                              <DIV align=left>&nbsp;<A 
+                              onmouseover="showtip(this,event,'U0073 + U2019')" 
+                              onmouseout=hidetip() 
+                              href="javascript:;" onclick="form1.text1.value=form1.text1.value + 's’';">s’</A></DIV></TD>
+                            <TD class=strwtext vAlign=baseline noWrap>
+                              <DIV align=left>&nbsp;Alveolar 
+                            fricative</DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+    <TD vAlign=top>
+      <TABLE cellSpacing=0 cellPadding=0 width=125 bgColor=#f5f3e0>
+        <TBODY>
+        <TR>
+          <TD class=bordercorner><SPAN class=smallheader>Vowels</SPAN></TD>
+          <TD class=borderbottom colSpan=2><SPAN 
+class=strwtext>Front</SPAN></TD>
+          <TD class=borderbottom>&nbsp;</TD>
+          <TD class=borderbottom>&nbsp;</TD>
+          <TD class=borderbottom>&nbsp;</TD>
+          <TD class=borderbottom>&nbsp;</TD>
+          <TD class=borderbottom colSpan=3><SPAN 
+          class=strwtext>Central</SPAN></TD>
+          <TD class=borderbottom>&nbsp;</TD>
+          <TD class=borderbottom>&nbsp;</TD>
+          <TD class=borderbottom>&nbsp;</TD>
+          <TD class=borderbottom>&nbsp;</TD>
+          <TD class=borderbottom colSpan=3><SPAN 
+        class=strwtext>Back</SPAN></TD></TR>
+        <TR>
+          <TD class=borderright vAlign=baseline width="6%"><SPAN 
+            class=strwtext>Close</SPAN></TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0069')" 
+            onmouseout=hidetip()
+href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'i';">i</A></DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV class=bullet align=center>∙</DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0079')" 
+            onmouseout=hidetip()
+onclick="form1.text1.value=form1.text1.value + 'y';" href="javascript:;">y</A></DIV></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0268')" 
+            onmouseout=hidetip()
+onclick="form1.text1.value=form1.text1.value + 'ɨ';"  href="javascript:;">ɨ</A></DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV class=bullet align=center>∙</DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0289')" 
+            onmouseout=hidetip()
+onclick="form1.text1.value=form1.text1.value + 'ʉ';" href="javascript:;">ʉ</A></DIV></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center></TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U026F')" 
+            onmouseout=hidetip()
+onclick="form1.text1.value=form1.text1.value + 'ɯ';"  href="javascript:;">ɯ</A></DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV class=bullet align=center>∙</DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0075')" 
+            onmouseout=hidetip() 
+onclick="form1.text1.value=form1.text1.value + 'u';" href="javascript:;">u</A></DIV></TD></TR>
+        <TR>
+          <TD class=borderright vAlign=baseline width="6%">&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U026A')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɪ';">ɪ</A></DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U028F')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʏ';">ʏ</A></DIV></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U028A')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʊ';">ʊ</A></DIV></TD>
+          <TD vAlign=center></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD></TR>
+        <TR>
+          <TD class=borderright vAlign=baseline noWrap width="6%"><SPAN 
+            class=strwtext>Close-mid</SPAN></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0065')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'e';">e</A></DIV></TD>
+          <TD class=bullet vAlign=center>∙</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U00F8')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ø';">ø</A></DIV></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0258')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɘ';">ɘ</A></DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV class=bullet align=center>∙</DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0275')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɵ';">ɵ</A></DIV></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0264')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɤ';">ɤ</A></DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV class=bullet align=center>∙</DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U006F')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'o';">o</A></DIV></TD></TR>
+        <TR>
+          <TD class=borderright vAlign=baseline width="6%">&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0259')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ə';">ə</A></DIV></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD></TR>
+        <TR>
+          <TD class=borderright vAlign=baseline noWrap width="6%"><SPAN 
+            class=strwtext>Open-mid</SPAN></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U025B')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɛ';">ɛ</A></DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV class=bullet align=center>∙</DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0153')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'œ';">œ</A></DIV></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U025C')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɜ';">ɜ</A></DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV class=bullet align=center>∙</DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U025E')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɞ';">ɞ</A></DIV></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U028C')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʌ';">ʌ</A></DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV class=bullet align=center>∙</DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0254')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɔ';">ɔ</A></DIV></TD></TR>
+        <TR>
+          <TD class=borderright vAlign=baseline width="6%">&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U00E6')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'æ';">æ</A></DIV></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0250')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɐ';">ɐ</A></DIV></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD></TR>
+        <TR>
+          <TD class=borderright vAlign=baseline width="6%"><SPAN 
+            class=strwtext>Open</SPAN></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0061')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'a';">a</A></DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV class=bullet align=center>∙</DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0276')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɶ';">ɶ</A></DIV></TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD vAlign=center>&nbsp;</TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0251')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɑ';">ɑ</A></DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV class=bullet align=center>∙</DIV></TD>
+          <TD class=unichars vAlign=center>
+            <DIV align=center><A onmouseover="showtip(this,event,'U0252')" 
+            onmouseout=hidetip() 
+      href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɒ';">ɒ</A></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR>
+<TABLE cellSpacing=0 cellPadding=0 width=850 border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=top rowSpan=2>
+      <TABLE cellSpacing=0 cellPadding=0 border=0>
+        <TBODY>
+        <TR>
+          <TD class=smallheader>OTHER SYMBOLS</TD></TR>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=0 bgColor=#999999 border=0>
+              <TBODY>
+              <TR>
+                <TD>
+                  <TABLE cellSpacing=0 cellPadding=0 width=503 bgColor=#ffffff 
+                  border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD class=unichars width=35>
+                        <DIV align=center><A 
+                        onmouseover="showtip(this,event,'U028D')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʍ';">ʍ</A></DIV></TD>
+                      <TD class=strwtext noWrap width=206>&nbsp;Voiceless 
+                        labial-velar fricative</TD>
+                      <TD class=unichars width=35>
+                        <DIV align=center><A 
+                        onmouseover="showtip(this,event,'U0255')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɕ';">ɕ</A><A 
+                        onmouseover="showtip(this,event,'U0291')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʑ';">ʑ</A></DIV></TD>
+                      <TD class=strwtext noWrap 
+                        width=180>&nbsp;Alveolo-palatal fricatives</TD>
+                      <TD class=unichars width=47>&nbsp; </TD></TR>
+                    <TR vAlign=baseline>
+                      <TD class=unichars width=35>
+                        <DIV align=center><A 
+                        onmouseover="showtip(this,event,'U0077')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'w';">w</A></DIV></TD>
+                      <TD class=strwtext noWrap width=206>&nbsp;Voiced 
+                        labial-velar approximant</TD>
+                      <TD class=unichars width=35>
+                        <DIV align=center><A 
+                        onmouseover="showtip(this,event,'U027A')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɺ';">ɺ</A></DIV></TD>
+                      <TD class=strwtext noWrap width=180>&nbsp;Voiced 
+                        alveolar lateral flap</TD>
+                      <TD class=unichars width=47>&nbsp;</TD></TR>
+                    <TR vAlign=baseline>
+                      <TD class=unichars width=35>
+                        <DIV align=center><A 
+                        onmouseover="showtip(this,event,'U0265')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɥ';">ɥ</A></DIV></TD>
+                      <TD class=strwtext noWrap width=206>&nbsp;Voiced 
+                        labial-palatal approximant</TD>
+                      <TD class=unichars width=35>
+                        <DIV align=center><A 
+                        onmouseover="showtip(this,event,'U0267')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɧ';">ɧ</A></DIV></TD>
+                      <TD class=strwtext noWrap width=180>Simultaneous <SPAN 
+                        class=unichars>ʃ</SPAN> and<SPAN class=unichars> 
+                      x</SPAN></TD>
+                      <TD width=47>&nbsp;</TD></TR>
+                    <TR vAlign=baseline>
+                      <TD class=unichars width=35>
+                        <DIV align=center><A 
+                        onmouseover="showtip(this,event,'U029C')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʜ';">ʜ</A></DIV></TD>
+                      <TD class=strwtext noWrap width=206>&nbsp;Voiceless 
+                        epiglottal fricative</TD>
+                      <TD class=strwtext vAlign=center noWrap colSpan=2 
+                      rowSpan=3>
+                        <P>&nbsp;Affricates and double 
+                        articulations<BR>&nbsp;can be represented by two 
+                        symbols<BR>&nbsp;joined by a tie bar if necessary. 
+                      </P></TD>
+                      <TD class=unichars vAlign=center rowSpan=3><A 
+                        onmouseover="showtip(this,event,'tie bar above - U0361')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'kp͡';">kp͡</A></TD></TR>
+                    <TR vAlign=baseline>
+                      <TD class=unichars width=35>
+                        <DIV align=center><A 
+                        onmouseover="showtip(this,event,'U02A2')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʢ';">ʢ</A></DIV></TD>
+                      <TD class=strwtext noWrap width=206>&nbsp;Voiced 
+                        epiglottal fricative</TD></TR>
+                    <TR vAlign=baseline>
+                      <TD class=unichars width=35>
+                        <DIV align=center><A 
+                        onmouseover="showtip(this,event,'U02A1')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʡ';">ʡ</A></DIV></TD>
+                      <TD class=strwtext noWrap width=206>&nbsp;Epiglottal 
+                        plosive</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR>
+      <TABLE cellSpacing=0 cellPadding=0 border=0>
+        <TBODY>
+        <TR>
+          <TD class=smallheader vAlign=top colSpan=2>DIACRITICS&nbsp;<SPAN 
+            class=strwtext>Diacritics may be placed above a symbol with a 
+            descender, e.g.</SPAN> <SPAN class=unichars><A 
+            onmouseover="showtip(this,event,'ring above - U030A')" 
+            onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ŋ̊';">ŋ̊</A></SPAN></TD></TR>
+        <TR>
+          <TD colSpan=2>
+            <TABLE borderColor=#999999 cellSpacing=0 cellPadding=1 width=575 
+            bgColor=#ffffff border=1>
+              <TBODY>
+              <TR>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U0325')" 
+                        onmouseout=hidetip()
+onclick="form1.text1.value=form1.text1.value + '̥';" 
+                        href="javascript:;">&nbsp;̥</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Voiceless</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>n̥d̥</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U0324')" 
+                        onmouseout=hidetip()
+onclick="form1.text1.value=form1.text1.value + '̤';" 
+                        href="javascript:;">&nbsp;̤</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Breathy voiced</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>b̤a̤</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U032A')" 
+                        onmouseout=hidetip()
+onclick="form1.text1.value=form1.text1.value + '̪';" 
+                        href="javascript:;">&nbsp;̪</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Dental</SPAN></TD>
+                      <TD width=50>
+                        <DIV class=unichars align=left>&nbsp;t<SPAN 
+                        class=unicharspace>&nbsp;</SPAN>̪d̪</DIV></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U032C')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̬';">&nbsp;̬</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Voiced</SPAN></TD>
+                      <TD width=50>
+                        <DIV class=unichars align=left>s̬ t<SPAN 
+                        class=unicharspace>&nbsp;</SPAN>̬</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars2 align=center>&nbsp;<A 
+                        onmouseover="showtip(this,event,'U0330')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̰';"><SPAN 
+                        class=unichars4> ̰</span></A></DIV></TD>
+                      <TD><SPAN class=strwtext>Creaky voiced</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>b̰a̰</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U033A')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̺';">&nbsp;̺</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Apical</SPAN></TD>
+                      <TD width=50>
+                        <DIV class=unichars align=left>&nbsp;t<SPAN 
+                        class=unicharspace>&nbsp;</SPAN>̺d̺</DIV></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U02B0')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʰ';">ʰ</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Aspirated</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>tʰdʰ</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U033C')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̼';">&nbsp;̼</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Linguolabial</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>&nbsp;t<SPAN 
+                        class=unicharspace>&nbsp;</SPAN>̼d̼</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U033B')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̻';">&nbsp;̻</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Laminal</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>&nbsp;t<SPAN 
+                        class=unicharspace>&nbsp;</SPAN>̻d̻</DIV></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=bottom>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U0339')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̹';">&nbsp;̹</A></DIV></TD>
+                      <TD><SPAN class=strwtext>More Rounded</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>ɔ̹</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U02B7')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʷ';">ʷ</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Labialized</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>tʷdʷ</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U0303')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̃';">&nbsp;̃</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Nasalized</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>ẽ</DIV></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U031C')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̜';">&nbsp;̜</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Less Rounded</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>ɔ̜</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U02B2')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʲ';">ʲ</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Palatalized</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>tʲdʲ</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U207F')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ⁿ';">ⁿ</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Nasal release</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>dⁿ</DIV></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U031F')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̟';">&nbsp;̟</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Advanced</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>u̟</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U02E0')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ˠ';">ˠ</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Velarized</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>tˠdˠ</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U02E1')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ˡ';">ˡ</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Lateral release</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>dˡ</DIV></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U0331')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̱';">&nbsp;̱</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Retracted</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>e̱</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U02E4')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ˤ';">ˤ</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Pharyngealized</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>tˤdˤ</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U031A')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̚';">&nbsp;̚</A></DIV></TD>
+                      <TD><SPAN class=strwtext>No audible release</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>d ̚</DIV></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U0308')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̈';">&nbsp;̈</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Centralized</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>ë</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext colSpan=2 height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U0334')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̴';">&nbsp;̴</A></DIV></TD>
+                      <TD width=171><SPAN class=strwtext>Velarized or 
+                        pharyngealized</SPAN></TD>
+                      <TD class=unichars width=217>
+                        <DIV align=left><A 
+                        onmouseover="showtip(this,event,'precomposed character U026B')" 
+                        onmouseout=hidetip() 
+                    href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɫ';">ɫ</A></DIV></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U033D')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̽';">&nbsp;̽</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Mid-centralized</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>e̽</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext colSpan=2 height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U031D')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̝';">&nbsp;̝</A></DIV></TD>
+                      <TD width=75><SPAN class=strwtext>Raised</SPAN></TD>
+                      <TD class=unichars align=left>e̝&nbsp;&nbsp;&nbsp;<SPAN 
+                        class=strwtext>&nbsp;(</SPAN><SPAN class=unichars>ɹ<SPAN 
+                        class=unicharspace>&nbsp;</SPAN>̝</SPAN><SPAN 
+                        class=strwtext>= voiced alveolar 
+                    fricative)</SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U0329')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̣';">&nbsp;̣</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Syllabic</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>ṇ</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext colSpan=2 height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U031E')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̞';">&nbsp;̞</A></DIV></TD>
+                      <TD width=75><SPAN class=strwtext>Lowered</SPAN></TD>
+                      <TD class=unichars align=left>e̞&nbsp;&nbsp;&nbsp;<SPAN 
+                        class=strwtext>&nbsp;(</SPAN><SPAN 
+                        class=unichars>β̞</SPAN> <SPAN class=strwtext>= voiced 
+                        bilabial approximant)</SPAN></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD class=strwtext height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U032F')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̯';">&nbsp;̯</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Non-syllabic</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left>e̯</DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext colSpan=2 height=30>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U0318')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̘';">&nbsp;̘</A></DIV></TD>
+                      <TD width=171><SPAN class=strwtext>Advanced Tongue 
+                        Root</SPAN></TD>
+                      <TD class=unichars width=217>
+                        <DIV align=left>e̘</DIV></TD></TR></TBODY></TABLE></TD></TR>
+              <TR>
+                <TD class=strwtext height=38>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=left><A 
+                        onmouseover="showtip(this,event,'U02DE')" 
+                        onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + '˞';">˞</A></DIV></TD>
+                      <TD><SPAN class=strwtext>Rhoticity</SPAN></TD>
+                      <TD class=unichars width=50>
+                        <DIV align=left><A 
+                        onmouseover="showtip(this,event,'precomposed character U025A')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɚ';">ɚ</A>
+<A
+                        onmouseover="showtip(this,event,'precomposed character U025A')"
+                        onmouseout=hidetip()
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'a˞';">a˞</A></DIV></TD></TR></TBODY></TABLE></TD>
+                <TD class=strwtext colSpan=2 height=38>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR vAlign=baseline>
+                      <TD width=20>
+                        <DIV class=unichars4 align=center><A 
+                        onmouseover="showtip(this,event,'U0319')" 
+                        onmouseout=hidetip() 
+                        href="javascript:;" onclick="form1.text1.value=form1.text1.value + '̙';">&nbsp;̙</A></DIV></TD>
+                      <TD width=171><SPAN class=strwtext>Retracted Tongue 
+                        Root</SPAN></TD>
+                      <TD class=unichars width=217>
+                        <DIV 
+              align=left>e̙</DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD>
+    <TD vAlign=top align=left>
+      <TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=0 bgColor=#f5f3e0 border=0>
+              <TBODY>
+              <TR>
+                <TD class=borderbottom align=middle colSpan=3><SPAN 
+                  class=smallheader>SUPRASEGMENTALS</SPAN></TD></TR>
+              <TR vAlign=baseline>
+                <TD class=unichars4>
+                  <DIV align=left><A onmouseover="showtip(this,event,'U02C8')" 
+                  onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ˈ';">ˈ</A></DIV></TD>
+                <TD class=strwtext colSpan=2>Primary stress</TD></TR>
+              <TR vAlign=baseline>
+                <TD class=unichars4>
+                  <DIV align=left><A onmouseover="showtip(this,event,'U02CC')" 
+                  onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ˌ';">ˌ</A></DIV></TD>
+                <TD class=strwtext colSpan=2>Secondary stress</TD></TR>
+              <TR vAlign=baseline>
+                <TD noWrap colSpan=3>
+                  <DIV align=right><B><SPAN class=strwtext>stress 
+                  eg.&nbsp;</SPAN></B><SPAN 
+                  class=unichars3>ˌfoʊnəˈtɪʃən</SPAN></DIV></TD></TR>
+              <TR vAlign=baseline>
+                <TD class=unichars4><A 
+                  onmouseover="showtip(this,event,'U02D0')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ː';">ː</A></TD>
+                <TD><SPAN class=strwtext>Long</SPAN></TD>
+                <TD class=unichars align=left>e<SPAN 
+                class=unichars4>ː</SPAN></TD></TR>
+              <TR vAlign=baseline>
+                <TD class=unichars4><A 
+                  onmouseover="showtip(this,event,'U02D1')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ˑ';">ˑ</A></TD>
+                <TD noWrap><SPAN class=strwtext>Half-long</SPAN></TD>
+                <TD class=unichars align=left>e<SPAN 
+                class=unichars4>ˑ</SPAN></TD></TR>
+              <TR vAlign=baseline>
+                <TD class=unichars4><A 
+                  onmouseover="showtip(this,event,'U0306')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + '&nbsp;&nbsp;̆';">&nbsp;&nbsp;̆</A></TD>
+                <TD class=strwtext noWrap>Extra-short</TD>
+                <TD class=unichars align=left>ĕ</TD></TR>
+              <TR vAlign=baseline>
+                <TD>
+                  <DIV align=left><SPAN class=unichars><A 
+                  onmouseover="showtip(this,event,'U007C')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + '|';">|</A></SPAN></DIV></TD>
+                <TD class=strwtext colSpan=2>Minor (foot) group</TD></TR>
+              <TR vAlign=baseline>
+                <TD>
+                  <DIV align=left><SPAN class=unichars><A 
+                  onmouseover="showtip(this,event,'U2016')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + '‖';">‖</A></SPAN></DIV></TD>
+                <TD class=strwtext colSpan=2>Major (intonation) group</TD></TR>
+              <TR vAlign=baseline>
+                <TD>
+                  <DIV align=left><SPAN class=unichars4><A 
+                  onmouseover="showtip(this,event,'U002E')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + '.';">.</A></SPAN></DIV></TD>
+                <TD class=strwtext colSpan=2>Syllabic break</TD></TR>
+              <TR vAlign=baseline>
+                <TD noWrap colSpan=3>
+                  <DIV align=right><B><SPAN class=strwtext>break 
+                  eg.</SPAN></B>&nbsp;&nbsp;<SPAN class=unichars3>ɹi.ækt</SPAN> 
+                  </DIV></TD></TR>
+              <TR vAlign=baseline>
+                <TD>
+                  <DIV align=left><SPAN class=unichars4><A 
+                  onmouseover="showtip(this,event,'U203F')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + '‿';">‿</A></SPAN></DIV></TD>
+                <TD class=strwtext noWrap colSpan=2>Linking (absence of a 
+                  break)</TD></TR></TBODY></TABLE><BR><BR>
+            <TABLE cellSpacing=0 cellPadding=0 align=left bgColor=#f5f3e0>
+              <TBODY>
+              <TR>
+                <TD class=borderbottom colSpan=4>
+                  <DIV align=center><SPAN class=smallheader>TONES AND WORD 
+                  ACCENTS</SPAN></DIV></TD></TR>
+              <TR>
+                <TD colSpan=2>
+                  <DIV class=strwtext align=center><B>Level</B></DIV></TD>
+                <TD colSpan=2>
+                  <DIV class=strwtext align=center><B>Contour</B></DIV></TD></TR>
+              <TR vAlign=baseline>
+                <TD noWrap><SPAN class=unichars><A 
+                  onmouseover="showtip(this,event,'U0065 + U030B')" 
+                  onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'e̋';">e̋</A></SPAN> <SPAN 
+                  class=strwtext>or</SPAN> <SPAN class=unichars><A 
+                  onmouseover="showtip(this,event,'U02E5')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + '˥';">˥</A></SPAN></TD>
+                <TD class=strwtext noWrap>Extra high</TD>
+                <TD class=unichars></TD>
+                <TD class=emphasis>NOT YET</TD></TR>
+              <TR vAlign=baseline>
+                <TD noWrap><SPAN class=unichars><A 
+                  onmouseover="showtip(this,event,'U0065 + U0301')" 
+                  onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'é';">é</A></SPAN> <SPAN 
+                  class=strwtext>or</SPAN> <SPAN class=unichars><A 
+                  onmouseover="showtip(this,event,'U02E6')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + '˦';">˦</A></SPAN></TD>
+                <TD class=strwtext>High</TD>
+                <TD class=unichars></TD>
+                <TD class=emphasis>SUPPORTED</TD></TR>
+              <TR vAlign=baseline>
+                <TD noWrap><SPAN class=unichars><A 
+                  onmouseover="showtip(this,event,'U0065 + U0304')" 
+                  onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ē';">ē</A></SPAN> <SPAN 
+                  class=strwtext>or</SPAN> <SPAN class=unichars><A 
+                  onmouseover="showtip(this,event,'U02E7')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + '˧';">˧</A></SPAN></TD>
+                <TD class=strwtext>Mid</TD>
+                <TD class=unichars></TD>
+                <TD class=emphasis noWrap>BY</TD></TR>
+              <TR vAlign=baseline>
+                <TD noWrap><SPAN class=unichars><A 
+                  onmouseover="showtip(this,event,'U0065 + U0301')" 
+                  onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'è';">è</A></SPAN> <SPAN 
+                  class=strwtext>or</SPAN> <SPAN class=unichars><A 
+                  onmouseover="showtip(this,event,'U02E8')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + '˨';">˨</A></SPAN></TD>
+                <TD class=strwtext>Low</TD>
+                <TD class=unichars></TD>
+                <TD class=emphasis noWrap>UNICODE</TD></TR>
+              <TR vAlign=baseline>
+                <TD noWrap><SPAN class=unichars><A 
+                  onmouseover="showtip(this,event,'U0065 + U030F')" 
+                  onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ȅ';">ȅ</A></SPAN> <SPAN 
+                  class=strwtext>or</SPAN> <SPAN class=unichars><A 
+                  onmouseover="showtip(this,event,'U02E9')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + '˩';">˩</A></SPAN></TD>
+                <TD class=strwtext noWrap>Extra low</TD>
+                <TD class=unichars></TD>
+                <TD></TD></TR>
+              <TR vAlign=baseline>
+                <TD class=unichars noWrap><A 
+                  onmouseover="showtip(this,event,'U2193')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + '↓';">↓</A></TD>
+                <TD class=strwtext noWrap>Downstep</TD>
+                <TD class=unichars><A 
+                  onmouseover="showtip(this,event,'U2197')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + '↗';">↗</A></TD>
+                <TD class=strwtext noWrap>Global rise</TD></TR>
+              <TR vAlign=baseline>
+                <TD class=unichars noWrap><A 
+                  onmouseover="showtip(this,event,'U2191')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + '↑';">↑</A></TD>
+                <TD class=strwtext noWrap>Upstep</TD>
+                <TD class=unichars><A 
+                  onmouseover="showtip(this,event,'U2198')" onmouseout=hidetip() 
+                  href="javascript:;" onclick="form1.text1.value=form1.text1.value + '↘';">↘</A></TD>
+                <TD class=strwtext noWrap>Global 
+        fall</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><BR>
+<TABLE cellSpacing=0 cellPadding=0>
+  <TBODY>
+  <TR bgColor=#003399>
+    <TD noWrap colSpan=9 height=25>
+      <DIV class=borderbottom align=center><SPAN class=smallheader><FONT 
+      color=#ffffff>Some useful precomposed characters that do not fit into the 
+      official IPA.</FONT></SPAN></DIV></TD></TR>
+  <TR>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U0297')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʗ';">ʗ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U02A3')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʣ';">ʣ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U02A4')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʤ';">ʤ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U02A5')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʥ';">ʥ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U025D')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɝ';">ɝ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U029A')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʚ';">ʚ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U0269')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɩ';">ɩ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U029E')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʞ';">ʞ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U0142')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ł';">ł</A></TD></TR>
+  <TR>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD></TR>
+  <TR>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U02A0')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʠ';">ʠ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U029A')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʚ';">ʚ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U027C')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɼ';">ɼ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U029F')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ɿ';">ɿ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U0285')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʅ';">ʅ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U0286')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʆ';">ʆ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U0161')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'š';">š</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U0287')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʇ';">ʇ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U02A8')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʨ';">ʨ</A></TD></TR>
+  <TR>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD></TR>
+  <TR>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U02A7')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʧ';">ʧ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U02A6')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʦ';">ʦ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U03BB')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'λ';">λ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U019B')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ƛ';">ƛ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U017E')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ž';">ž</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U0296')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʖ';">ʖ</A></TD>
+    <TD class=unichars><A onmouseover="showtip(this,event,'U01BE')" 
+      onmouseout=hidetip() href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ƾ';">ƾ</A></TD></TR>
+  <TR>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD></TR>
+  <TR>
+    <TD colSpan=9>&nbsp;</TD></TR>
+  <TR bgColor=#003399>
+    <TD class=borderbottom colSpan=9 height=25>
+      <DIV align=center><SPAN class=smallheader><FONT 
+      color=#ffffff>Miscellaneous modifiers.</FONT></SPAN> </DIV></TD></TR>
+  <TR>
+    <TD class=unichars><SPAN class=greyedout>ტ</SPAN><A 
+      onmouseover="showtip(this,event,'U02B1')" onmouseout=hidetip() 
+      href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʱ';">ʱ</A></TD>
+    <TD class=unichars><SPAN class=greyedout>ტ</SPAN><A 
+      onmouseover="showtip(this,event,'U02B2')" onmouseout=hidetip() 
+      href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʲ';">ʲ</A></TD>
+    <TD class=unichars><SPAN class=greyedout>ტ</SPAN><A 
+      onmouseover="showtip(this,event,'U02E1')" onmouseout=hidetip() 
+      href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ˡ';">ˡ</A></TD>
+    <TD class=unichars><SPAN class=greyedout>ტ</SPAN><A 
+      onmouseover="showtip(this,event,'U02B3')" onmouseout=hidetip() 
+      href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʳ';">ʳ</A></TD>
+    <TD class=unichars><SPAN class=greyedout>ტ</SPAN><A 
+      onmouseover="showtip(this,event,'U02B4')" onmouseout=hidetip() 
+      href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʴ';">ʴ</A></TD>
+    <TD class=unichars><SPAN class=greyedout>ტ</SPAN><A 
+      onmouseover="showtip(this,event,'U02B5')" onmouseout=hidetip() 
+      href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʵ';">ʵ</A></TD>
+    <TD class=unichars><SPAN class=greyedout>ტ</SPAN><A 
+      onmouseover="showtip(this,event,'U02B6')" onmouseout=hidetip() 
+      href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʶ';">ʶ</A></TD>
+    <TD class=unichars><SPAN class=greyedout>ტ</SPAN><A 
+      onmouseover="showtip(this,event,'U02E2')" onmouseout=hidetip() 
+      href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ˢ';">ˢ</A></TD>
+    <TD class=unichars><SPAN class=greyedout>ტ</SPAN><A 
+      onmouseover="showtip(this,event,'U02B8')" onmouseout=hidetip() 
+      href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ʸ';">ʸ</A></TD></TR>
+  <TR>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD></TR>
+  <TR>
+    <TD class=unichars><SPAN class=greyedout>ტ</SPAN><A 
+      onmouseover="showtip(this,event,'U02E3')" onmouseout=hidetip() 
+      href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ˣ';">ˣ</A></TD>
+    <TD class=unichars><SPAN class=greyedout>ტ</SPAN><A 
+      onmouseover="showtip(this,event,'U02C0')" onmouseout=hidetip() 
+      href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ˀ';">ˀ</A></TD>
+    <TD class=unichars><SPAN class=greyedout>ტ</SPAN><A 
+      onmouseover="showtip(this,event,'U02C1')" onmouseout=hidetip() 
+      href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ˁ';">ˁ</A></TD>
+    <TD class=unichars><SPAN class=greyedout>ტ</SPAN><A 
+      onmouseover="showtip(this,event,'U02E4')" onmouseout=hidetip() 
+      href="javascript:;" onclick="form1.text1.value=form1.text1.value + 'ˤ';">ˤ</A></TD>
+    <TD class=unichars></TD>
+    <TD class=unichars></TD>
+    <TD class=unichars></TD>
+    <TD class=unichars></TD>
+    <TD class=unichars></TD></TR>
+  <TR>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN class=strwtext></SPAN>&nbsp;</DIV></TD>
+    <TD class=borderbottom>
+      <DIV align=center><SPAN 
+class=strwtext></SPAN>&nbsp;</DIV></TD></TR></TBODY></TABLE></BODY></HTML>

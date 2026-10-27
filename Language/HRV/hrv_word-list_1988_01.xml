@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Croatian</language_name>
+
+
+
+
+
+
+<headers>
+
+<orthography_header>Place and Manner of Articulation</orthography_header>
+<alt_orthography_header></alt_orthography_header>
+<IPA_header>Croatian Orthography</IPA_header>
+<alt_IPA_header>IPA Transcription</alt_IPA_header>
+<gloss_header>English Gloss</gloss_header>
+<alt_gloss_header></alt_gloss_header>
+<semantic_category_header>Sound Illustrated</semantic_category_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>voiceless bilabial plosive</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>piti</IPA_transcription>
+<alt_IPA_transcription>piti</alt_IPA_transcription>
+<gloss>to drink </gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>p</semantic_category>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>voiced bilabial plosive</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>biti</IPA_transcription>
+<alt_IPA_transcription>biti</alt_IPA_transcription>
+<gloss>to be</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>b</semantic_category>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>voiceless dental plosive</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ta</IPA_transcription>
+<alt_IPA_transcription>t̪aː</alt_IPA_transcription>
+<gloss>that one</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>t̪</semantic_category>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>voiced dental plosive</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>da</IPA_transcription>
+<alt_IPA_transcription>da̪ʔ</alt_IPA_transcription>
+<gloss>yes</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>d̪</semantic_category>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>voiceless velar plosive</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kod</IPA_transcription>
+<alt_IPA_transcription>kod̪</alt_IPA_transcription>
+<gloss>at</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>k</semantic_category>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>voiced velar plosive</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>god</IPA_transcription>
+<alt_IPA_transcription>god̪</alt_IPA_transcription>
+<gloss>wherever</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>g</semantic_category>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>voiceless apico-dental affricate</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>car</IPA_transcription>
+<alt_IPA_transcription>t̪sar</alt_IPA_transcription>
+<gloss>czar</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>t̪s</semantic_category>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>voiceless lamino-dental affricate</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ćemer</IPA_transcription>
+<alt_IPA_transcription>t̪ʃemer</alt_IPA_transcription>
+<gloss>money belt</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>t̪ʃ</semantic_category>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>voiceless retroflex affricate</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>čemer</IPA_transcription>
+<alt_IPA_transcription>ʈsemer</alt_IPA_transcription>
+<gloss>bitterness</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>ʈs</semantic_category>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>voiced lamino-dental affricate</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>đak</IPA_transcription>
+<alt_IPA_transcription>d̪ʒak</alt_IPA_transcription>
+<gloss>student</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>d̪ʒ</semantic_category>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>voiced retroflex affricate</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>džak</IPA_transcription>
+<alt_IPA_transcription>ɖzak</alt_IPA_transcription>
+<gloss>sack</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>ɖz</semantic_category>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>voiceless labiodental fricative</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>faza</IPA_transcription>
+<alt_IPA_transcription>faːza</alt_IPA_transcription>
+<gloss>phase</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>f</semantic_category>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>voiced labiodental fricative</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>vaza</IPA_transcription>
+<alt_IPA_transcription>vaːza</alt_IPA_transcription>
+<gloss>vase</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>v</semantic_category>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>voiceless alveolar (sibilant) fricative</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>sa</IPA_transcription>
+<alt_IPA_transcription>saʔ</alt_IPA_transcription>
+<gloss>with </gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>s </semantic_category>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>voiced alveolar (sibilant) fricative </native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>za</IPA_transcription>
+<alt_IPA_transcription>zaʔ</alt_IPA_transcription>
+<gloss>for</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>z</semantic_category>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>voiceless retroflex (sibilant) fricative</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>šah</IPA_transcription>
+<alt_IPA_transcription>ʂah</alt_IPA_transcription>
+<gloss>chess</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>sʂ</semantic_category>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>voiced retroflex (sibilant) fricative</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>žaba</IPA_transcription>
+<alt_IPA_transcription>ʐaba</alt_IPA_transcription>
+<gloss>frog</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>ʐ</semantic_category>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>voiced retroflex affricate</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>dzaba</IPA_transcription>
+<alt_IPA_transcription>ɖzaba</alt_IPA_transcription>
+<gloss>free</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>dz</semantic_category>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>voiceless velar fricative</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>hrabar</IPA_transcription>
+<alt_IPA_transcription>xraːbar</alt_IPA_transcription>
+<gloss>brave</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>x</semantic_category>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>bilabial nasal</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>mu</IPA_transcription>
+<alt_IPA_transcription>muʔ</alt_IPA_transcription>
+<gloss>to him</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>m</semantic_category>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>dental nasal</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>nu</IPA_transcription>
+<alt_IPA_transcription>n̪uʔ</alt_IPA_transcription>
+<gloss>look at this</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>n̪</semantic_category>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>palatal nasal</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>nju</IPA_transcription>
+<alt_IPA_transcription>ɲuː</alt_IPA_transcription>
+<gloss>her</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>nɲ</semantic_category>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>voiced alveolar approximant</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>lak</IPA_transcription>
+<alt_IPA_transcription>lak</alt_IPA_transcription>
+<gloss>light</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>l </semantic_category>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>voiced alveolar trill</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>rak</IPA_transcription>
+<alt_IPA_transcription>rak</alt_IPA_transcription>
+<gloss>cancer (sign)</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>r</semantic_category>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>consonantal /r/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>treba</IPA_transcription>
+<alt_IPA_transcription>t̪reba</alt_IPA_transcription>
+<gloss>it is necessary</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>r</semantic_category>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>vowel /r/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tvrd</IPA_transcription>
+<alt_IPA_transcription>t̪vrd</alt_IPA_transcription>
+<gloss>hard</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>r</semantic_category>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>voiced central approximant</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>lak</IPA_transcription>
+<alt_IPA_transcription>jaːk</alt_IPA_transcription>
+<gloss>strong</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>j</semantic_category>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>voiced lateral approximant</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Ljilja</IPA_transcription>
+<alt_IPA_transcription>ʎiʎa</alt_IPA_transcription>
+<gloss>girl's name</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>ʎ</semantic_category>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>high front unrounded short vowel</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>mi</IPA_transcription>
+<alt_IPA_transcription>miʔ</alt_IPA_transcription>
+<gloss>me (dative)</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>i</semantic_category>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>high front unrounded long vowel</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>mi</IPA_transcription>
+<alt_IPA_transcription>miː</alt_IPA_transcription>
+<gloss>we (nominative)</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>iː</semantic_category>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>higher-mid front unrounded short vowel</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>zena</IPA_transcription>
+<alt_IPA_transcription>zen̪a</alt_IPA_transcription>
+<gloss>woman (nominative sing.)</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>e</semantic_category>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>higher-mid front unrounded long vowel</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>zena</IPA_transcription>
+<alt_IPA_transcription>zeːn̪a</alt_IPA_transcription>
+<gloss>women (genitive pl.)</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>eː</semantic_category>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>low central back unrounded short vowel</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>grad</IPA_transcription>
+<alt_IPA_transcription>grad̪</alt_IPA_transcription>
+<gloss>hail</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>a</semantic_category>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>low central back unrounded long vowel</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>grad</IPA_transcription>
+<alt_IPA_transcription>graːd̪</alt_IPA_transcription>
+<gloss>city</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>aː</semantic_category>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>higher-mid back rounded short vowel</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>vođa</IPA_transcription>
+<alt_IPA_transcription>vodʒa</alt_IPA_transcription>
+<gloss>ruler</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>o</semantic_category>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>higher-mid back rounded long vowel</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>vodža</IPA_transcription>
+<alt_IPA_transcription>voːɖza</alt_IPA_transcription>
+<gloss>rulers</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>oː</semantic_category>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>high back rounded short vowel</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>luk</IPA_transcription>
+<alt_IPA_transcription>luk</alt_IPA_transcription>
+<gloss>onion</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>u</semantic_category>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>high back rounded long vowel</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>luk</IPA_transcription>
+<alt_IPA_transcription>luːk</alt_IPA_transcription>
+<gloss>arch</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>uː</semantic_category>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Rej</IPA_transcription>
+<alt_IPA_transcription>rei</alt_IPA_transcription>
+<gloss>Ray</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>ej</semantic_category>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>raj</IPA_transcription>
+<alt_IPA_transcription>rai</alt_IPA_transcription>
+<gloss>paradise</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>aj</semantic_category>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>roj</IPA_transcription>
+<alt_IPA_transcription>roi</alt_IPA_transcription>
+<gloss>swarm</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>oj</semantic_category>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ruj</IPA_transcription>
+<alt_IPA_transcription>rui</alt_IPA_transcription>
+<gloss>sumac</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>uj</semantic_category>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>front voiceless velar plosive /k̟/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kip</IPA_transcription>
+<alt_IPA_transcription>kiːp</alt_IPA_transcription>
+<gloss>statue</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>Allophonic variations: k</semantic_category>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>back voiceless velar plosive /k̞/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kupi</IPA_transcription>
+<alt_IPA_transcription>kupiː</alt_IPA_transcription>
+<gloss>he picks up</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>central voiceless velar plosive /k/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>klada</IPA_transcription>
+<alt_IPA_transcription>klad̪a</alt_IPA_transcription>
+<gloss>block of wood</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>palatal fricative /ç/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>hiljada</IPA_transcription>
+<alt_IPA_transcription>çiʎada</alt_IPA_transcription>
+<gloss>thousand</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>Allophonic variations: x</semantic_category>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>glottal fricative /h/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>hajduk</IPA_transcription>
+<alt_IPA_transcription>hajd̪uk</alt_IPA_transcription>
+<gloss>hero</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>velar fricative /x/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>hrabar</IPA_transcription>
+<alt_IPA_transcription>xraːbar</alt_IPA_transcription>
+<gloss>brave</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>velar nasal /ŋ/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>banka</IPA_transcription>
+<alt_IPA_transcription>baŋka</alt_IPA_transcription>
+<gloss>bank</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>Nasal assimilation </semantic_category>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>dental nasal /n/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>banda</IPA_transcription>
+<alt_IPA_transcription>ban̪d̪a</alt_IPA_transcription>
+<gloss>band</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>devoiced /r̥/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>hram</IPA_transcription>
+<alt_IPA_transcription>xr̥aːm</alt_IPA_transcription>
+<gloss>temple</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>Devoicing after velar fricative</semantic_category>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>voiced /r/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ram</IPA_transcription>
+<alt_IPA_transcription>raːm</alt_IPA_transcription>
+<gloss>frame</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>devoiced /l̥/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>hlad</IPA_transcription>
+<alt_IPA_transcription>xl̥aːd̪</alt_IPA_transcription>
+<gloss>cool</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>voiced /l/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>led</IPA_transcription>
+<alt_IPA_transcription>leːd̪</alt_IPA_transcription>
+<gloss>ice</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>devoiced /r̥/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>govor</IPA_transcription>
+<alt_IPA_transcription>govor̥</alt_IPA_transcription>
+<gloss>speech</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>Devoicing in word final position</semantic_category>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>voiced /r/</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>govoriti</IPA_transcription>
+<alt_IPA_transcription>govoriti</alt_IPA_transcription>
+<gloss>to speak</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ptica</IPA_transcription>
+<alt_IPA_transcription>pt̪it̪sa</alt_IPA_transcription>
+<gloss>bird</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>pt</semantic_category>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>pcela</IPA_transcription>
+<alt_IPA_transcription>pʈ̩sela</alt_IPA_transcription>
+<gloss>bee</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>pc</semantic_category>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>gnoj</IPA_transcription>
+<alt_IPA_transcription>gnoi</alt_IPA_transcription>
+<gloss>manure</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>gn</semantic_category>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>hteti</IPA_transcription>
+<alt_IPA_transcription>xt̪et̪i</alt_IPA_transcription>
+<gloss>to want</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>ht</semantic_category>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>dlan</IPA_transcription>
+<alt_IPA_transcription>d̪lan</alt_IPA_transcription>
+<gloss>palm</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>dl</semantic_category>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tvoj</IPA_transcription>
+<alt_IPA_transcription>t̪voj</alt_IPA_transcription>
+<gloss>yours</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>tv</semantic_category>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kvar</IPA_transcription>
+<alt_IPA_transcription>kvaːr</alt_IPA_transcription>
+<gloss>wreck</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>kv</semantic_category>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>svet</IPA_transcription>
+<alt_IPA_transcription>sveːt̪</alt_IPA_transcription>
+<gloss>world</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>sv</semantic_category>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>zbivanje</IPA_transcription>
+<alt_IPA_transcription>zbivaɲe</alt_IPA_transcription>
+<gloss>existence</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>zb</semantic_category>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>zdravo</IPA_transcription>
+<alt_IPA_transcription>zd̪ravo</alt_IPA_transcription>
+<gloss>hello</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>zd</semantic_category>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>zgrada</IPA_transcription>
+<alt_IPA_transcription>zgrad̪a</alt_IPA_transcription>
+<gloss>building</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>zg</semantic_category>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>zmaj</IPA_transcription>
+<alt_IPA_transcription>zmail</alt_IPA_transcription>
+<gloss>dragon</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>zm</semantic_category>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>znati</IPA_transcription>
+<alt_IPA_transcription>zn̪at̪i</alt_IPA_transcription>
+<gloss>to know</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>zn</semantic_category>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>zloh</IPA_transcription>
+<alt_IPA_transcription>zlox</alt_IPA_transcription>
+<gloss>bad, evil</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>zl</semantic_category>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>zrelo</IPA_transcription>
+<alt_IPA_transcription>zrelo</alt_IPA_transcription>
+<gloss>ripe</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>zr</semantic_category>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>zvoniti</IPA_transcription>
+<alt_IPA_transcription>zvon̪it̪i</alt_IPA_transcription>
+<gloss>to ring</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>zv</semantic_category>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bačva</IPA_transcription>
+<alt_IPA_transcription>baʈsva</alt_IPA_transcription>
+<gloss>barrel</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>tsv</semantic_category>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bezvlasce</IPA_transcription>
+<alt_IPA_transcription>bezvlast̪ʃe</alt_IPA_transcription>
+<gloss>anarchy</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>zvl</semantic_category>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>knez</IPA_transcription>
+<alt_IPA_transcription>kneːz</alt_IPA_transcription>
+<gloss>duke</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>kn</semantic_category>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>knjiga</IPA_transcription>
+<alt_IPA_transcription>kɲiga</alt_IPA_transcription>
+<gloss>book</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>knj</semantic_category>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>para</IPA_transcription>
+<alt_IPA_transcription>párà</alt_IPA_transcription>
+<gloss>steam</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>Pitch accent as phoneme</semantic_category>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>para</IPA_transcription>
+<alt_IPA_transcription>pǎːrà</alt_IPA_transcription>
+<gloss>moneys</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>para</IPA_transcription>
+<alt_IPA_transcription>pâːrà</alt_IPA_transcription>
+<gloss>two pair</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>konja</IPA_transcription>
+<alt_IPA_transcription>kóɲà</alt_IPA_transcription>
+<gloss>horse (accusative)</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>konja</IPA_transcription>
+<alt_IPA_transcription>kǒːɲà</alt_IPA_transcription>
+<gloss>horse (genitive pl.)</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Lepa si ko ruža.</IPA_transcription>
+<alt_IPA_transcription>lepa si ko ruz̥a</alt_IPA_transcription>
+<gloss>You are as beautiful as a rose.</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>sentence</semantic_category>
+</item>
+</wordlist>
+
+
+
+
+
+
+
+
+

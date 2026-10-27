@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Cantonese</language_name>
+
+<headers>
+
+<native_orthography>Sound Illustrated</native_orthography>
+<alt_orthography>definition</alt_orthography>
+<IPA_header>IPA</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>p</native_orthography>
+<alt_orthography>voiceless unaspirated bilabial plosive</alt_orthography>
+<IPA_transcription>pa⁶</IPA_transcription>
+<gloss>white</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>pʰ</native_orthography>
+<alt_orthography>voiceless aspirated bilabial plosive</alt_orthography>
+<IPA_transcription>pʰa³</IPA_transcription>
+<gloss>bat</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>t</native_orthography>
+<alt_orthography>voiceless unaspirated alveolar plosive</alt_orthography>
+<IPA_transcription>ta⁶</IPA_transcription>
+<gloss>answer</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>tʰ</native_orthography>
+<alt_orthography>voiceless aspirated alvoelar plosive</alt_orthography>
+<IPA_transcription>tʰa³</IPA_transcription>
+<gloss>he</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>k</native_orthography>
+<alt_orthography>voiceless unaspirated velar plosive</alt_orthography>
+<IPA_transcription>kɔŋ²</IPA_transcription>
+<gloss>harbor</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>kʰ</native_orthography>
+<alt_orthography>voiceless aspirated velar plosive</alt_orthography>
+<IPA_transcription>kʰa¹</IPA_transcription>
+<gloss>card</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>m</native_orthography>
+<alt_orthography>(slightly voiced) bilabial nasal</alt_orthography>
+<IPA_transcription>ma⁵</IPA_transcription>
+<gloss>horse</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>n</native_orthography>
+<alt_orthography>(slightly voiced) alveolar nasal</alt_orthography>
+<IPA_transcription>na²</IPA_transcription>
+<gloss>milk</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>ŋ</native_orthography>
+<alt_orthography>(slightly voiced) velar nasal</alt_orthography>
+<IPA_transcription>ŋa⁴</IPA_transcription>
+<gloss>tooth</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>f</native_orthography>
+<alt_orthography>voiceless labiodental fricative</alt_orthography>
+<IPA_transcription>fa¹</IPA_transcription>
+<gloss>flower</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>s</native_orthography>
+<alt_orthography>voiceless alveolar fricative</alt_orthography>
+<IPA_transcription>sa¹</IPA_transcription>
+<gloss>sand</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography></native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ʃiɷ²</IPA_transcription>
+<gloss>small</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography></native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ʃin³</IPA_transcription>
+<gloss>thread</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>x</native_orthography>
+<alt_orthography>voiceless velar fricative</alt_orthography>
+<IPA_transcription>xoɷ²</IPA_transcription>
+<gloss>good</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>w</native_orthography>
+<alt_orthography>voiced labio-velar approximant - less labialized than english w</alt_orthography>
+<IPA_transcription>wat⁶</IPA_transcription>
+<gloss>slippery</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>j</native_orthography>
+<alt_orthography>voiced palatal approximant</alt_orthography>
+<IPA_transcription>ja²</IPA_transcription>
+<gloss>too</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>l</native_orthography>
+<alt_orthography>voiced alveolar lateral</alt_orthography>
+<IPA_transcription>lan⁶</IPA_transcription>
+<gloss>rotten</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>kʷ</native_orthography>
+<alt_orthography>voiceless unaspirated labialized velar plosive</alt_orthography>
+<IPA_transcription>kʷa¹</IPA_transcription>
+<gloss>melon</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>kʷʰ</native_orthography>
+<alt_orthography>voiceless aspirated labialized velar plosive</alt_orthography>
+<IPA_transcription>kʷʰa¹</IPA_transcription>
+<gloss>praise</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>ts</native_orthography>
+<alt_orthography>voiceless unaspirated alveolar affricate</alt_orthography>
+<IPA_transcription>tsa¹</IPA_transcription>
+<gloss>rubbish</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography></native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>tʃiɷ¹</IPA_transcription>
+<gloss>morning</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography></native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>tʃy¹</IPA_transcription>
+<gloss>red</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>tsʰ</native_orthography>
+<alt_orthography>voiceless aspirated alveolar affricate</alt_orthography>
+<IPA_transcription>tsʰək¹</IPA_transcription>
+<gloss>measure</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography></native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>tʃʰy⁵</IPA_transcription>
+<gloss>pillar</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography></native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>tʃʰyn⁴</IPA_transcription>
+<gloss>complete</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>m</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>səm¹</IPA_transcription>
+<gloss>heart</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>n</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>sən¹</IPA_transcription>
+<gloss>new</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>ŋ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>təŋ¹</IPA_transcription>
+<gloss>climb</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>p</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kəp¹</IPA_transcription>
+<gloss>hurry</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>t</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>pət¹</IPA_transcription>
+<gloss>not</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>k</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>tsʰəʔk¹</IPA_transcription>
+<gloss>measure</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>i</native_orthography>
+<alt_orthography>high front tense vowel, close to cardinal vowel 1</alt_orthography>
+<IPA_transcription>ji¹</IPA_transcription>
+<gloss>clothing</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>y</native_orthography>
+<alt_orthography>high front rounded vowel, close to cardinal vowel 9</alt_orthography>
+<IPA_transcription>ʃy¹</IPA_transcription>
+<gloss>book</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>ɩ</native_orthography>
+<alt_orthography>high front lax vowel</alt_orthography>
+<IPA_transcription>jɩt⁶</IPA_transcription>
+<gloss>hot</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>ɛ</native_orthography>
+<alt_orthography>mid front vowel</alt_orthography>
+<IPA_transcription>tʃʰɛ¹</IPA_transcription>
+<gloss>car</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>œ</native_orthography>
+<alt_orthography>mid front rounded vowel</alt_orthography>
+<IPA_transcription>xœ¹</IPA_transcription>
+<gloss>boot</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>ə</native_orthography>
+<alt_orthography>mid central vowel</alt_orthography>
+<IPA_transcription>tsʰət¹</IPA_transcription>
+<gloss>seven</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>u</native_orthography>
+<alt_orthography>high back tense rounded vowel, close to cardinal vowel 8.</alt_orthography>
+<IPA_transcription>ku³</IPA_transcription>
+<gloss>evaluate</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>ɷ</native_orthography>
+<alt_orthography>high back lax rounded vowel (lower and less rounded than [u])</alt_orthography>
+<IPA_transcription>lɷk³</IPA_transcription>
+<gloss>six</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>ɔ</native_orthography>
+<alt_orthography>mid back rounded vowel</alt_orthography>
+<IPA_transcription>xɔt³</IPA_transcription>
+<gloss>thirsty</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>a</native_orthography>
+<alt_orthography>low central vowel</alt_orthography>
+<IPA_transcription>pat³</IPA_transcription>
+<gloss>eight</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>eɩ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>teɩ⁶</IPA_transcription>
+<gloss>earth</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>əɩ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>səɩ³</IPA_transcription>
+<gloss>thin</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>aɩ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>maɩ⁵</IPA_transcription>
+<gloss>buy</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>uɩ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kuɩ⁶</IPA_transcription>
+<gloss>tired</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>ɷɩ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>tɷɩ⁶</IPA_transcription>
+<gloss>right</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>ɔɩ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>hɔɩ¹</IPA_transcription>
+<gloss>open</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>iɷ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ʃiɷ³</IPA_transcription>
+<gloss>laughter</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>əɷ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kəɷ³</IPA_transcription>
+<gloss>enough</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>aɷ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kaɷ³</IPA_transcription>
+<gloss>teach</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>oɷ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>loɷ⁵</IPA_transcription>
+<gloss>old</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>m</native_orthography>
+<alt_orthography>bilabial nasal</alt_orthography>
+<IPA_transcription>m⁴</IPA_transcription>
+<gloss>not</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>m͡ŋ</native_orthography>
+<alt_orthography>a syllabic velar nasal pronounced with the lips closed</alt_orthography>
+<IPA_transcription>m͡ŋ⁵</IPA_transcription>
+<gloss>five</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>pitch 1</native_orthography>
+<alt_orthography>55, ˥</alt_orthography>
+<IPA_transcription>wəɩ¹</IPA_transcription>
+<gloss>might</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>pitch 2</native_orthography>
+<alt_orthography>35, ˧˥</alt_orthography>
+<IPA_transcription>wəɩ²</IPA_transcription>
+<gloss>appoint</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>pitch 3</native_orthography>
+<alt_orthography>33, ˧</alt_orthography>
+<IPA_transcription>wəɩ³</IPA_transcription>
+<gloss>fear</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>pitch 4</native_orthography>
+<alt_orthography>21, ˨˩</alt_orthography>
+<IPA_transcription>wəɩ⁴</IPA_transcription>
+<gloss>only</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>pitch 5</native_orthography>
+<alt_orthography>23, ˨˧</alt_orthography>
+<IPA_transcription>wəɩ⁵</IPA_transcription>
+<gloss>great</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>pitch 6</native_orthography>
+<alt_orthography>22, ˨</alt_orthography>
+<IPA_transcription>wəɩ⁶</IPA_transcription>
+<gloss>stomach</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>pitch 1</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>yət¹</IPA_transcription>
+<gloss>one</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>pitch 6</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ji⁶</IPA_transcription>
+<gloss>two</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>pitch 1</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>sam¹</IPA_transcription>
+<gloss>three</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>pitch 3</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>seɩ³</IPA_transcription>
+<gloss>four</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>pitch 5</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>m͡ŋ⁵</IPA_transcription>
+<gloss>five</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>pitch 6</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>lɷk⁶</IPA_transcription>
+<gloss>six</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>pitch 1</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>tsʰəp¹</IPA_transcription>
+<gloss>seven</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>pitch 3</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>pat³</IPA_transcription>
+<gloss>eight</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>pitch 2</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kəɷ²</IPA_transcription>
+<gloss>nine</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>pitch 4</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>lɩŋ⁴</IPA_transcription>
+<gloss>zero</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography></native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ŋɔ⁵ jɷ³ xɔʔk⁶ kʷɔŋ² tɷŋ³ wa² tʰɔŋ⁴ jɩŋ¹ wən²</IPA_transcription>
+<gloss>I want to learn both Cantonese and English</gloss>
+</item>
+</wordlist>

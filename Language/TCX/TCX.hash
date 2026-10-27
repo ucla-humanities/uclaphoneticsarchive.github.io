@@ -1,0 +1,485 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#tcx.html#2008.08.31@15.29:45
+6ced893a831d9e32024c728bf47a43a8 *tcx.html
+#md5#tcx.html.LCK#2008.08.31@15.15:41
+fbef01db4c2bc685e88f1970d1c19123 *tcx.html.LCK
+#md5#tcx.xml#2006.07.25@11.03:37
+5177532cb58209650c7ccf0e2b8940fd *tcx.xml
+#md5#tcx_metadata.xls#2006.07.25@11.03:37
+fcfb5b3c0a67a7942560bc6502e5bd0a *tcx_metadata.xls
+#md5#tcx_metadata.xls.LCK#2008.08.31@15.17:01
+fbef01db4c2bc685e88f1970d1c19123 *tcx_metadata.xls.LCK
+#md5#tcx_record_details.html#2006.07.25@11.03:38
+3a25ac0259fe38108ad5a493537a512f *tcx_record_details.html
+#md5#tcx_story.html#2006.07.25@11.03:38
+25b69170f6e77bcf95ff2cbfdb58d969 *tcx_story.html
+#md5#tcx_story.xls#2006.07.25@11.03:38
+37d70b0f77163557f907935f14c13b72 *tcx_story.xls
+#md5#tcx_story.xls.LCK#2008.08.31@15.16:42
+fbef01db4c2bc685e88f1970d1c19123 *tcx_story.xls.LCK
+#md5#tcx_story.xml#2006.07.25@11.03:38
+90ecc83a7e5db5806fe48af08d994006 *tcx_story.xml
+#md5#tcx_word-list_1990_01.html#2006.07.25@11.03:38
+fb4d82d1df93be202bb2645e2b2c1005 *tcx_word-list_1990_01.html
+#md5#tcx_word-list_1990_01.jpg#2006.07.25@11.03:39
+95dcb9dd6220a9a65cf597ee3e7fc488 *tcx_word-list_1990_01.jpg
+#md5#tcx_word-list_1990_01.mp3#2006.07.25@11.03:40
+18df436638fc919004d01e46b569f3e9 *tcx_word-list_1990_01.mp3
+#md5#tcx_word-list_1990_01.mp3.LCK#2008.08.31@15.19:21
+fbef01db4c2bc685e88f1970d1c19123 *tcx_word-list_1990_01.mp3.LCK
+#md5#tcx_word-list_1990_01.tif#2006.07.25@11.03:42
+0a8f45e0eb814f08130cbf658067e4ad *tcx_word-list_1990_01.tif
+#md5#tcx_word-list_1990_01.wav#2006.07.25@11.03:55
+bc48617130af0b80e612e72d0ffe5133 *tcx_word-list_1990_01.wav
+#md5#tcx_word-list_1990_01.xls#2006.07.25@11.03:55
+8dd27d2b7ea1a2a16e509e7e9c23625d *tcx_word-list_1990_01.xls
+#md5#tcx_word-list_1990_01.xml#2006.07.25@11.03:55
+61aeeb0adf07920db914f5003819dffe *tcx_word-list_1990_01.xml
+#md5#tcx_word-list_1990_02.jpg#2006.07.25@11.03:56
+de0b5c2b29613c3e83743068dc9e7180 *tcx_word-list_1990_02.jpg
+#md5#tcx_word-list_1990_02.mp3#2006.07.25@11.03:57
+79a8f5b041334bcdd2671f150b60d06c *tcx_word-list_1990_02.mp3
+#md5#tcx_word-list_1990_02.tif#2006.07.25@11.03:58
+4ebac001688b54a9da6a812fb58ac32a *tcx_word-list_1990_02.tif
+#md5#tcx_word-list_1990_02.wav#2006.07.25@11.04:03
+ec12b125e18703f40e86a940f31da199 *tcx_word-list_1990_02.wav
+#md5#tcx_word-list_1990_03.jpg#2006.07.25@11.04:04
+e49ee641950a8aeca86d0dbf68c71fa4 *tcx_word-list_1990_03.jpg
+#md5#tcx_word-list_1990_03.mp3#2006.07.25@11.04:05
+8b2e83ecf3d93bb030051bc59b94dd17 *tcx_word-list_1990_03.mp3
+#md5#tcx_word-list_1990_03.tif#2006.07.25@11.04:07
+fb5205b87047690a257ddef0fb006c1a *tcx_word-list_1990_03.tif
+#md5#tcx_word-list_1990_03.wav#2006.07.25@11.04:22
+760a988eeac3ef8c896271f7763e9334 *tcx_word-list_1990_03.wav
+#md5#tcx_word-list_1990_04.jpg#2006.07.25@11.04:22
+a7383b7bd9c81602995da672388ea767 *tcx_word-list_1990_04.jpg
+#md5#tcx_word-list_1990_04.mp3#2006.07.25@11.04:23
+f6351d811ac248b8241d1f474643d294 *tcx_word-list_1990_04.mp3
+#md5#tcx_word-list_1990_04.tif#2006.07.25@11.04:24
+350bdf56403a07bfc56ad8f889ffb25c *tcx_word-list_1990_04.tif
+#md5#tcx_word-list_1990_04.wav#2006.07.25@11.04:28
+463b61a2bccdd61bb79ad371a6b61a56 *tcx_word-list_1990_04.wav
+#md5#tcx_word-list_1990_05.jpg#2006.07.25@11.04:28
+2af3b17e02a34fa55073e684c1661011 *tcx_word-list_1990_05.jpg
+#md5#tcx_word-list_1990_05.mp3#2006.07.25@11.04:29
+3a98837b474999216199eeeadd38cd1c *tcx_word-list_1990_05.mp3
+#md5#tcx_word-list_1990_05.tif#2006.07.25@11.04:30
+71e607720f69ab4a20442ab695e842a9 *tcx_word-list_1990_05.tif
+#md5#tcx_word-list_1990_05.wav#2006.07.25@11.04:36
+d64194a5e2093a41fb16506cc2f433c3 *tcx_word-list_1990_05.wav
+#md5#tcx_word-list_1990_06.jpg#2006.07.25@11.04:37
+0f0905773664e6ac18d22ad3944b4e4c *tcx_word-list_1990_06.jpg
+#md5#tcx_word-list_1990_06.tif#2006.07.25@11.04:38
+2bdb75c2451ea1bad99706410d8ff0b2 *tcx_word-list_1990_06.tif
+#md5#tcx_word-list_1990_07.jpg#2006.07.25@11.04:39
+b0870537379ed980cdd500c4eafa4da6 *tcx_word-list_1990_07.jpg
+#md5#tcx_word-list_1990_07.tif#2006.07.25@11.04:39
+43aba986631bd727115f7fbf20cd6200 *tcx_word-list_1990_07.tif
+#md5#tcx_word-list_1990_08.jpg#2006.07.25@11.04:40
+963743eea4f64b1d0652d545a20b0df7 *tcx_word-list_1990_08.jpg
+#md5#tcx_word-list_1990_08.tif#2006.07.25@11.04:42
+8bec2e972afa5132692bd0e73b37b344 *tcx_word-list_1990_08.tif
+#md5#tcx_word-list_1992_01.html#2006.07.25@11.04:42
+a31654880e5e5ebb87d1a7e9c8e2a97f *tcx_word-list_1992_01.html
+#md5#tcx_word-list_1992_01.jpg#2006.07.25@11.04:42
+8d4403ec3d56510edc99389ff2d51fa7 *tcx_word-list_1992_01.jpg
+#md5#tcx_word-list_1992_01.mp3#2006.07.25@11.04:43
+eb5b07169d9f60ca6e022ea3e87aa98e *tcx_word-list_1992_01.mp3
+#md5#tcx_word-list_1992_01.tif#2006.07.25@11.04:44
+e0aadde00dd8b46d5995bd6a087538fe *tcx_word-list_1992_01.tif
+#md5#tcx_word-list_1992_01.wav#2006.07.25@11.04:50
+ea591503147961f2a98a3754e835606b *tcx_word-list_1992_01.wav
+#md5#tcx_word-list_1992_01.xls#2006.07.25@11.04:50
+7ade268b1c81143b9691c4776a3410d8 *tcx_word-list_1992_01.xls
+#md5#tcx_word-list_1992_01.xml#2006.07.25@11.04:50
+ea560aae40444b0bd1bb90e29d07059c *tcx_word-list_1992_01.xml
+#md5#tcx_word-list_1992_02.html#2006.07.25@11.04:51
+9e3674119bc7b8add249756b1a8dba9a *tcx_word-list_1992_02.html
+#md5#tcx_word-list_1992_02.jpg#2006.07.25@11.04:51
+acc0e8e4692fa8b9c43fe77f45797dc3 *tcx_word-list_1992_02.jpg
+#md5#tcx_word-list_1992_02.mp3#2006.07.25@11.04:52
+6d40dcfd5f1f9fe7e4d8a3081e94b234 *tcx_word-list_1992_02.mp3
+#md5#tcx_word-list_1992_02.tif#2006.07.25@11.04:54
+38fa3062469bd167932f2bb9eb3dc3f1 *tcx_word-list_1992_02.tif
+#md5#tcx_word-list_1992_02.wav#2006.07.25@11.04:58
+87e029bd8d825cbc1dd5b04a6e1f1d1f *tcx_word-list_1992_02.wav
+#md5#tcx_word-list_1992_02.xls#2006.07.25@11.04:58
+bda24dc2bc6b868253e0e9cce38b5195 *tcx_word-list_1992_02.xls
+#md5#tcx_word-list_1992_02.xml#2006.07.25@11.04:58
+5ee1a43623149891ae2e6cff94888918 *tcx_word-list_1992_02.xml
+#md5#tcx_word-list_1992_03.html#2006.07.25@11.04:59
+7afea4752686d0f0d99fc06bf2450ef5 *tcx_word-list_1992_03.html
+#md5#tcx_word-list_1992_03.jpg#2006.07.25@11.04:59
+a7bfaf0f70f1c8d29fa99dae6fae14e3 *tcx_word-list_1992_03.jpg
+#md5#tcx_word-list_1992_03.mp3#2006.07.25@11.05:00
+2b2eeb63b331db6e6d1dfcc37ec0ab24 *tcx_word-list_1992_03.mp3
+#md5#tcx_word-list_1992_03.tif#2006.07.25@11.05:02
+665bf39a767ca7d91b90b86bdebcdaeb *tcx_word-list_1992_03.tif
+#md5#tcx_word-list_1992_03.wav#2006.07.25@11.05:06
+43525ebdc1463581711f7fe9d4c63491 *tcx_word-list_1992_03.wav
+#md5#tcx_word-list_1992_03.xls#2006.07.25@11.05:06
+dd1df64d97f90bddecd0736330ca0d2e *tcx_word-list_1992_03.xls
+#md5#tcx_word-list_1992_03.xml#2006.07.25@11.05:06
+12cc19e0b348bcf0ab2d0edb8a1b5c4c *tcx_word-list_1992_03.xml
+#md5#tcx_word-list_1992_04.html#2006.07.25@11.05:06
+22ab72dd441a98d72655d69e831052c2 *tcx_word-list_1992_04.html
+#md5#tcx_word-list_1992_04.jpg#2006.07.25@11.05:07
+2daafee9d7116ce915c7b5a9fb733ca2 *tcx_word-list_1992_04.jpg
+#md5#tcx_word-list_1992_04.mp3#2006.07.25@11.05:07
+c2c4211ef7236b4ed1cb66dcb9211b4b *tcx_word-list_1992_04.mp3
+#md5#tcx_word-list_1992_04.tif#2006.07.25@11.05:09
+a9ce4e6b1d6d571455f3324300a7f42b *tcx_word-list_1992_04.tif
+#md5#tcx_word-list_1992_04.wav#2006.07.25@11.05:12
+0f7a531313fb7b05c77796efb248d027 *tcx_word-list_1992_04.wav
+#md5#tcx_word-list_1992_04.xls#2006.07.25@11.05:12
+4ee0bb06fe2b582e8fc7517cbfffa460 *tcx_word-list_1992_04.xls
+#md5#tcx_word-list_1992_04.xml#2006.07.25@11.05:13
+dde14d1242c56ae835f1e9495549ecf8 *tcx_word-list_1992_04.xml
+#md5#tcx_word-list_1992_05.html#2006.07.25@11.05:13
+cb18b7507ab98cb0ea34938754f8f0a0 *tcx_word-list_1992_05.html
+#md5#tcx_word-list_1992_05.jpg#2006.07.25@11.05:14
+a3bbb9c5b5d2355c68e2d45cbfde96ba *tcx_word-list_1992_05.jpg
+#md5#tcx_word-list_1992_05.mp3#2006.07.25@11.05:14
+c87a4f6d24fd57409f2a65c0f8c69a56 *tcx_word-list_1992_05.mp3
+#md5#tcx_word-list_1992_05.tif#2006.07.25@11.05:16
+c79f462150a7dbcc91f58da237d90c4a *tcx_word-list_1992_05.tif
+#md5#tcx_word-list_1992_05.wav#2006.07.25@11.05:20
+a6748ab45e98464afb04b53fef3abe30 *tcx_word-list_1992_05.wav
+#md5#tcx_word-list_1992_05.xls#2006.07.25@11.05:20
+9be776de4d1363df2bfad0415d194243 *tcx_word-list_1992_05.xls
+#md5#tcx_word-list_1992_05.xml#2006.07.25@11.05:21
+2be6be93c9557da29e433edc17e10e91 *tcx_word-list_1992_05.xml
+#md5#tcx_word-list_1992_06.html#2006.07.25@11.05:21
+c2d184de678e2e30c71e932276205905 *tcx_word-list_1992_06.html
+#md5#tcx_word-list_1992_06.jpg#2006.07.25@11.05:21
+71ec957bf7dc1a464cfeae9374d25136 *tcx_word-list_1992_06.jpg
+#md5#tcx_word-list_1992_06.mp3#2006.07.25@11.05:22
+68a0b12320eeed5e032ea4413be4f638 *tcx_word-list_1992_06.mp3
+#md5#tcx_word-list_1992_06.tif#2006.07.25@11.05:23
+747133517da4d4807fe3ff49af03ff91 *tcx_word-list_1992_06.tif
+#md5#tcx_word-list_1992_06.wav#2006.07.25@11.05:27
+def0c039fc1508e4b430fdd81c5d3477 *tcx_word-list_1992_06.wav
+#md5#tcx_word-list_1992_06.xls#2006.07.25@11.05:27
+c967d2011f332b120dcc219a309fc930 *tcx_word-list_1992_06.xls
+#md5#tcx_word-list_1992_06.xml#2006.07.25@11.05:27
+3c59a91cb583604163a886b4ff1a1355 *tcx_word-list_1992_06.xml
+#md5#tcx_word-list_1992_07.html#2006.07.25@11.05:27
+1d458dbfce696532eebc35584ad66e13 *tcx_word-list_1992_07.html
+#md5#tcx_word-list_1992_07.jpg#2006.07.25@11.05:29
+9028a583f405526bd8c88d1c98c14862 *tcx_word-list_1992_07.jpg
+#md5#tcx_word-list_1992_07.mp3#2006.07.25@11.05:29
+fee1924e0722f63d905aac5e1fa4191a *tcx_word-list_1992_07.mp3
+#md5#tcx_word-list_1992_07.tif#2006.07.25@11.05:30
+b44161730d057283673cc027bc51f271 *tcx_word-list_1992_07.tif
+#md5#tcx_word-list_1992_07.wav#2006.07.25@11.05:36
+b0c0169df4ac025859ff80bf39300d5f *tcx_word-list_1992_07.wav
+#md5#tcx_word-list_1992_07.xls#2006.07.25@11.05:36
+ff63872efeec6bcc1ef358eac417213c *tcx_word-list_1992_07.xls
+#md5#tcx_word-list_1992_07.xml#2006.07.25@11.05:36
+05923cd019c07c5a0a30adac3bf8e8a8 *tcx_word-list_1992_07.xml
+#md5#tcx_word-list_1992_08.jpg#2006.07.25@11.05:37
+b54c744a0ccc11ea3e8d4da0b8ba5786 *tcx_word-list_1992_08.jpg
+#md5#tcx_word-list_1992_08.mp3#2006.07.25@11.05:37
+d17a38cd149896ec27a6054c8a3f8e5b *tcx_word-list_1992_08.mp3
+#md5#tcx_word-list_1992_08.tif#2006.07.25@11.05:39
+924f51def5d723bf9afaebf1436e24a0 *tcx_word-list_1992_08.tif
+#md5#tcx_word-list_1992_08.wav#2006.07.25@11.05:42
+0d2cc014433b7dcefd9fa1519c574060 *tcx_word-list_1992_08.wav
+#md5#tcx_word-list_1992_09.jpg#2006.07.25@11.05:42
+12a67c1958c3faf75bd0acac0ebc57ea *tcx_word-list_1992_09.jpg
+#md5#tcx_word-list_1992_09.mp3#2006.07.25@11.05:43
+c87ee3dfbcbe4b3e2695268d115e2c71 *tcx_word-list_1992_09.mp3
+#md5#tcx_word-list_1992_09.tif#2006.07.25@11.05:45
+6e58dd3d9a3f019f2ca366cdd6095ca5 *tcx_word-list_1992_09.tif
+#md5#tcx_word-list_1992_09.wav#2006.07.25@11.05:50
+418bcda2c53d1c3b593c98e43e7d97ec *tcx_word-list_1992_09.wav
+#md5#tcx_word-list_1992_10.jpg#2006.07.25@11.05:50
+c4487dab633b1123a433e95c05d5d13f *tcx_word-list_1992_10.jpg
+#md5#tcx_word-list_1992_10.mp3#2006.07.25@11.05:51
+52a836c29ed7a114ec2c7e1f3b8a85de *tcx_word-list_1992_10.mp3
+#md5#tcx_word-list_1992_10.tif#2006.07.25@11.05:53
+780cf50ab214574f63bf9baf3749e84c *tcx_word-list_1992_10.tif
+#md5#tcx_word-list_1992_10.wav#2006.07.25@11.05:55
+a9ec157083ec252ffb35fe1889166e21 *tcx_word-list_1992_10.wav
+#md5#tcx_word-list_1992_11.jpg#2006.07.25@11.05:56
+91911e569bb9ad7aad3fe6faccc7b56c *tcx_word-list_1992_11.jpg
+#md5#tcx_word-list_1992_11.mp3#2006.07.25@11.05:57
+345bd1c5b86dd912e554f4d9a7bcd86c *tcx_word-list_1992_11.mp3
+#md5#tcx_word-list_1992_11.tif#2006.07.25@11.05:58
+38c88f961ab9f8c32cd1ea77842fc300 *tcx_word-list_1992_11.tif
+#md5#tcx_word-list_1992_11.wav#2006.07.25@11.06:02
+398516f3c1f9949dee2cfc0636495ba7 *tcx_word-list_1992_11.wav
+#md5#tcx_word-list_1992_12.jpg#2006.07.25@11.06:03
+4b2ce0de2e3c803731f38f28f30d739b *tcx_word-list_1992_12.jpg
+#md5#tcx_word-list_1992_12.mp3#2006.07.25@11.06:03
+d9e4ef1856ca729084af7e779018845d *tcx_word-list_1992_12.mp3
+#md5#tcx_word-list_1992_12.tif#2006.07.25@11.06:05
+beef60e5396f54742ebaafd46ab66877 *tcx_word-list_1992_12.tif
+#md5#tcx_word-list_1992_12.wav#2006.07.25@11.06:07
+c0b1239dfffcbb14dc50e5617aa06d3b *tcx_word-list_1992_12.wav
+#md5#tcx_word-list_1992_13.jpg#2006.07.25@11.06:07
+8333e6545d664e3fef68e2e9d27b699d *tcx_word-list_1992_13.jpg
+#md5#tcx_word-list_1992_13.mp3#2006.07.25@11.06:08
+0e6f33ca750e057ebb7bfe40bdcea08c *tcx_word-list_1992_13.mp3
+#md5#tcx_word-list_1992_13.tif#2006.07.25@11.06:09
+5da535de22fd470a321d43736a9e4b38 *tcx_word-list_1992_13.tif
+#md5#tcx_word-list_1992_13.wav#2006.07.25@11.06:15
+e904c6eab800ab88fb8e7b727bb14767 *tcx_word-list_1992_13.wav
+#md5#tcx_word-list_1992_14.jpg#2006.07.25@11.06:16
+5b804a7e5769fadaf8cee8fc83344486 *tcx_word-list_1992_14.jpg
+#md5#tcx_word-list_1992_14.mp3#2006.07.25@11.06:17
+c48342bfc537af8b3beb979278978e6a *tcx_word-list_1992_14.mp3
+#md5#tcx_word-list_1992_14.tif#2006.07.25@11.06:18
+17250d40571461dddfa81e280f466863 *tcx_word-list_1992_14.tif
+#md5#tcx_word-list_1992_14.wav#2006.07.25@11.06:21
+4565af0ace1be7b98da3abeb277c6ecb *tcx_word-list_1992_14.wav
+#md5#tcx_word-list_1992_15.jpg#2006.07.25@11.06:21
+f81565395df1cf23b062cce3223e8ed4 *tcx_word-list_1992_15.jpg
+#md5#tcx_word-list_1992_15.mp3#2006.07.25@11.06:22
+f21849379e73fbeb7f0e576628f608ec *tcx_word-list_1992_15.mp3
+#md5#tcx_word-list_1992_15.tif#2006.07.25@11.06:22
+3107d49332156954fca57fcbcb47b80c *tcx_word-list_1992_15.tif
+#md5#tcx_word-list_1992_15.wav#2006.07.25@11.06:25
+dcbec7fbe45a411205155396263ae436 *tcx_word-list_1992_15.wav
+#md5#tcx_word-list_1992_16.jpg#2006.07.25@11.06:25
+92e68cc9c94ffccae38fded69e2894c9 *tcx_word-list_1992_16.jpg
+#md5#tcx_word-list_1992_16.mp3#2006.07.25@11.06:26
+27bf4e641c4ac8f793fe986c1e7cd493 *tcx_word-list_1992_16.mp3
+#md5#tcx_word-list_1992_16.tif#2006.07.25@11.06:26
+91b251808c654170bd39df1556f640c6 *tcx_word-list_1992_16.tif
+#md5#tcx_word-list_1992_16.wav#2006.07.25@11.06:29
+1686d6e4ffe21e547d42aa77b972e147 *tcx_word-list_1992_16.wav
+#md5#tcx_word-list_1992_17.jpg#2006.07.25@11.06:29
+da24f6dafce819c1ae2078d8ce1b753a *tcx_word-list_1992_17.jpg
+#md5#tcx_word-list_1992_17.mp3#2006.07.25@11.06:30
+2b148d18368d22ac136d4302e1bea650 *tcx_word-list_1992_17.mp3
+#md5#tcx_word-list_1992_17.tif#2006.07.25@11.06:31
+2d3f540e9029882b9f573c5c22f401fd *tcx_word-list_1992_17.tif
+#md5#tcx_word-list_1992_17.wav#2006.07.25@11.06:34
+e86bb656a9662fa7e272eda1fbfdf735 *tcx_word-list_1992_17.wav
+#md5#tcx_word-list_1992_18.jpg#2006.07.25@11.06:35
+fd45064accdee169fd2e8a3f0c2aa6f2 *tcx_word-list_1992_18.jpg
+#md5#tcx_word-list_1992_18.mp3#2006.07.25@11.06:36
+194388330cf75ec870eefebd5d1541bd *tcx_word-list_1992_18.mp3
+#md5#tcx_word-list_1992_18.tif#2006.07.25@11.06:38
+5befd3cf64d0f90f614e8cd684578d82 *tcx_word-list_1992_18.tif
+#md5#tcx_word-list_1992_18.wav#2006.07.25@11.06:41
+2a466f2a2cbc2ae4a5a7e671f2b4646e *tcx_word-list_1992_18.wav
+#md5#tcx_word-list_1992_19.jpg#2006.07.25@11.06:42
+50dc3fbde41ebb3aad982458fdd3aae5 *tcx_word-list_1992_19.jpg
+#md5#tcx_word-list_1992_19.mp3#2006.07.25@11.06:42
+1adacccc4b648d21edea576d1250b031 *tcx_word-list_1992_19.mp3
+#md5#tcx_word-list_1992_19.tif#2006.07.25@11.06:43
+15d22422164938406b29da3431c6e045 *tcx_word-list_1992_19.tif
+#md5#tcx_word-list_1992_19.wav#2006.07.25@11.06:46
+f7a2c0d0f494d9b539b2743500b3aba6 *tcx_word-list_1992_19.wav
+#md5#tcx_word-list_1992_20.jpg#2006.07.25@11.06:47
+bf65b26ca5cb4a039fc277e00a9d6c82 *tcx_word-list_1992_20.jpg
+#md5#tcx_word-list_1992_20.mp3#2006.07.25@11.06:47
+f59c9b604e3633950fe2a81713d05448 *tcx_word-list_1992_20.mp3
+#md5#tcx_word-list_1992_20.tif#2006.07.25@11.06:48
+1b78e52b686020d1e4d8381e9c2da385 *tcx_word-list_1992_20.tif
+#md5#tcx_word-list_1992_20.wav#2006.07.25@11.06:51
+83d1851d5a47a4491726008d00c210e4 *tcx_word-list_1992_20.wav
+#md5#tcx_word-list_1992_21.jpg#2006.07.25@11.06:52
+c5bc7b5eaa4ac164226c32fc62329aa8 *tcx_word-list_1992_21.jpg
+#md5#tcx_word-list_1992_21.mp3#2006.07.25@11.06:52
+acd2d77afc5757f47819a21264368757 *tcx_word-list_1992_21.mp3
+#md5#tcx_word-list_1992_21.tif#2006.07.25@11.06:54
+87a4ba3a78b93f7830c7039448a8befd *tcx_word-list_1992_21.tif
+#md5#tcx_word-list_1992_21.wav#2006.07.25@11.06:56
+481e8c729edc58064857a883106798ca *tcx_word-list_1992_21.wav
+#md5#tcx_word-list_1992_22.jpg#2006.07.25@11.06:56
+44fd42121e937d937d147afe52622f33 *tcx_word-list_1992_22.jpg
+#md5#tcx_word-list_1992_22.mp3#2006.07.25@11.06:57
+47ef6686158615bc3ed7f649d75bf362 *tcx_word-list_1992_22.mp3
+#md5#tcx_word-list_1992_22.tif#2006.07.25@11.06:58
+304e33cbd2ee7f2878577e0947c6147f *tcx_word-list_1992_22.tif
+#md5#tcx_word-list_1992_22.wav#2006.07.25@11.07:00
+8ad0fb9fa14e0f58fae2f1c640429c51 *tcx_word-list_1992_22.wav
+#md5#tcx_word-list_1992_23.mp3#2006.07.25@11.07:00
+33e155b70be3cb25bd0941b15116f1f0 *tcx_word-list_1992_23.mp3
+#md5#tcx_word-list_1992_23.wav#2006.07.25@11.07:02
+5e66fef4bf2d755a736401ddbc0f5447 *tcx_word-list_1992_23.wav
+#md5#tcx_word-list_1992_24.mp3#2006.07.25@11.07:03
+e221b8235acf76d7e2ef2eb1d89d239f *tcx_word-list_1992_24.mp3
+#md5#tcx_word-list_1992_24.wav#2006.07.25@11.07:07
+24cf50dc2e9d2d117b5c8ecb92168e2e *tcx_word-list_1992_24.wav
+#md5#tcx_word-list_1992_25.mp3#2006.07.25@11.07:07
+941ab64a408b72ddf63f88aef7e6f267 *tcx_word-list_1992_25.mp3
+#md5#tcx_word-list_1992_25.wav#2006.07.25@11.07:11
+d0b44f3150d882ac3e65cb5df8cb33fd *tcx_word-list_1992_25.wav
+#md5#tcx_word-list_1992_26.mp3#2006.07.25@11.07:11
+04da6815155e0cfdc6fa7f019ebc524f *tcx_word-list_1992_26.mp3
+#md5#tcx_word-list_1992_26.wav#2006.07.25@11.07:17
+349b1d7b9765f1941e456134cc56cfd0 *tcx_word-list_1992_26.wav
+#md5#tcx_word-list_1992_27.mp3#2006.07.25@11.07:18
+304ff916617a122015d70b4ac20d7008 *tcx_word-list_1992_27.mp3
+#md5#tcx_word-list_1992_27.wav#2006.07.25@11.07:23
+247ff5dd755dc24ab3785531d3077188 *tcx_word-list_1992_27.wav
+#md5#tcx_word-list_1992_28.mp3#2006.07.25@11.07:23
+5efd1ab5cb84b43ece28a6521e0d570e *tcx_word-list_1992_28.mp3
+#md5#tcx_word-list_1992_28.wav#2006.07.25@11.07:24
+e983434edbce01d94ea73165367c9a2c *tcx_word-list_1992_28.wav
+#md5#tcx_word-list_1992_29.mp3#2006.07.25@11.07:25
+e5d256a549c0d55e906b27450044b9a0 *tcx_word-list_1992_29.mp3
+#md5#tcx_word-list_1992_29.wav#2006.07.25@11.07:27
+e81bfb1227ae054853304f0b5e9d502d *tcx_word-list_1992_29.wav
+#md5#tcx_word-list_1992_30.mp3#2006.07.25@11.07:28
+9af86c278366cbb3314c1c759f75bcf3 *tcx_word-list_1992_30.mp3
+#md5#tcx_word-list_1992_30.wav#2006.07.25@11.07:31
+c18c33387442156adb0d386d98187a5f *tcx_word-list_1992_30.wav
+#md5#tcx_word-list_1992_31.mp3#2006.07.25@11.07:31
+730c6b82445d8efb1bee2494944d4628 *tcx_word-list_1992_31.mp3
+#md5#tcx_word-list_1992_31.wav#2006.07.25@11.07:35
+a826042c1b7730258ca3867baeb804a2 *tcx_word-list_1992_31.wav
+#md5#tcx_word-list_1992_32.mp3#2006.07.25@11.07:36
+5382f509b3927f4f831f159c6de00242 *tcx_word-list_1992_32.mp3
+#md5#tcx_word-list_1992_32.wav#2006.07.25@11.07:38
+696c8e130b93e89df24eefba1e4585b7 *tcx_word-list_1992_32.wav
+#md5#tcx_word-list_1992_33.mp3#2006.07.25@11.07:39
+b6ed8cd76c952bc3f554534daf57032c *tcx_word-list_1992_33.mp3
+#md5#tcx_word-list_1992_33.wav#2006.07.25@11.07:42
+b128097d442190dbf8da4cf71b5bcc24 *tcx_word-list_1992_33.wav
+#md5#tcx_word-list_1992_34.mp3#2006.07.25@11.07:43
+48b79abd213515a34aa54fe0f0de568c *tcx_word-list_1992_34.mp3
+#md5#tcx_word-list_1992_34.wav#2006.07.25@11.07:47
+6754b9d0ed83fe4df028e2d1680f490c *tcx_word-list_1992_34.wav
+#md5#tcx_word-list_1992_35.mp3#2006.07.25@11.07:48
+703b3a79852f5e995bec50379fa049a2 *tcx_word-list_1992_35.mp3
+#md5#tcx_word-list_1992_35.wav#2006.07.25@11.07:52
+9ca4e97e6a887b9cd14b2a6b01a9cf9b *tcx_word-list_1992_35.wav
+#md5#tcx_word-list_1992_36.mp3#2006.07.25@11.07:52
+ee5b57f8b64ee2d9681bde72b236d635 *tcx_word-list_1992_36.mp3
+#md5#tcx_word-list_1992_36.wav#2006.07.25@11.07:55
+362589a8fbe086676d68ee4540bc8d63 *tcx_word-list_1992_36.wav
+#md5#tcx_word-list_1992_37.mp3#2006.07.25@11.07:55
+aebd41276ca3d06807ac57c4283ff132 *tcx_word-list_1992_37.mp3
+#md5#tcx_word-list_1992_37.wav#2006.07.25@11.07:58
+4dc9084a305c5aabb4a7329d225f209a *tcx_word-list_1992_37.wav
+#md5#tcx_word-list_1992_38.mp3#2006.07.25@11.07:59
+a33145944d80aca1b4c9868b02acb8ce *tcx_word-list_1992_38.mp3
+#md5#tcx_word-list_1992_38.wav#2006.07.25@11.08:00
+e0a8a26a26bc9fc73f401b001f8dd2a8 *tcx_word-list_1992_38.wav
+#md5#tcx_word-list_1992_39.mp3#2006.07.25@11.08:01
+0c6d7032ea20ae86a032125ed1fccb2b *tcx_word-list_1992_39.mp3
+#md5#tcx_word-list_1992_39.wav#2006.07.25@11.08:03
+4a56d975ff534decfa913fde88a07b1b *tcx_word-list_1992_39.wav
+#md5#tcx_word-list_1992_40.mp3#2006.07.25@11.08:04
+e1f7469517e3a9e1fba1354bbc7943ff *tcx_word-list_1992_40.mp3
+#md5#tcx_word-list_1992_40.wav#2006.07.25@11.08:07
+1328d9ad8e7ff1c46ea4acd12c66f70b *tcx_word-list_1992_40.wav
+#md5#tcx_word-list_1992_41.mp3#2006.07.25@11.08:07
+8612d390fcd74eec1db38e0e8b146124 *tcx_word-list_1992_41.mp3
+#md5#tcx_word-list_1992_41.wav#2006.07.25@11.08:10
+a41be4eddac18df1d68e2c6eb4c3583b *tcx_word-list_1992_41.wav
+#md5#tcx_word-list_1992_42.mp3#2006.07.25@11.08:10
+79490ba0628b91e89422f031c2fb6825 *tcx_word-list_1992_42.mp3
+#md5#tcx_word-list_1992_42.wav#2006.07.25@11.08:13
+8c9a4fef98b3a1b531d1a4872dbc06c6 *tcx_word-list_1992_42.wav
+#md5#tcx_word-list_1992_43.mp3#2006.07.25@11.08:14
+2a32c7d9324f3736203ef327d0f5fd5f *tcx_word-list_1992_43.mp3
+#md5#tcx_word-list_1992_43.wav#2006.07.25@11.08:18
+a80446004b24c33088854c7afc00d387 *tcx_word-list_1992_43.wav
+#md5#tcx_word-list_1992_44.mp3#2006.07.25@11.08:19
+254c4d9b7e6978129251cd0a1fdb9eed *tcx_word-list_1992_44.mp3
+#md5#tcx_word-list_1992_44.wav#2006.07.25@11.08:22
+da6adb75a6c931175fc6ef43981e20b5 *tcx_word-list_1992_44.wav
+#md5#tcx_word-list_1992_45.mp3#2006.07.25@11.08:23
+3e76056e5c6a8afac9b27c3ae8de7fcf *tcx_word-list_1992_45.mp3
+#md5#tcx_word-list_1992_45.wav#2006.07.25@11.08:26
+cdf1aaf8c948e427ec6a2876c3be1216 *tcx_word-list_1992_45.wav
+#md5#tcx_word-list_1992_46.mp3#2006.07.25@11.08:27
+89ef2181b07755f76bcc665a787297bd *tcx_word-list_1992_46.mp3
+#md5#tcx_word-list_1992_46.wav#2006.07.25@11.08:30
+3df8a6792ee0c7b09e29179cbc6174ad *tcx_word-list_1992_46.wav
+#md5#tcx_word-list_1992_47.mp3#2006.07.25@11.08:31
+57715332fa17cc26898b0496ff8ea928 *tcx_word-list_1992_47.mp3
+#md5#tcx_word-list_1992_47.wav#2006.07.25@11.08:34
+3a3ad06456990573ab9eb0bb784003f0 *tcx_word-list_1992_47.wav
+#md5#tcx_word-list_1992_48.mp3#2006.07.25@11.08:35
+3f21fab5be55c187854a0aae5eeebefc *tcx_word-list_1992_48.mp3
+#md5#tcx_word-list_1992_48.wav#2006.07.25@11.08:37
+8f0af68b5bd2d414eb5dd2738217cd87 *tcx_word-list_1992_48.wav
+#md5#tcx_word-list_1992_49.mp3#2006.07.25@11.08:38
+b1425d6b3f1d4582c2cf5b875d98404d *tcx_word-list_1992_49.mp3
+#md5#tcx_word-list_1992_49.wav#2006.07.25@11.08:39
+3e67ffc32de5d5f927c68d9315b1ddad *tcx_word-list_1992_49.wav
+#md5#tcx_word-list_1992_50.mp3#2006.07.25@11.08:40
+54bfb8120b4f7e2db98a903658ae286d *tcx_word-list_1992_50.mp3
+#md5#tcx_word-list_1992_50.wav#2006.07.25@11.08:44
+3fcb81aa382d98a058439ae05b3f6462 *tcx_word-list_1992_50.wav
+#md5#tcx_word-list_1992_51.mp3#2006.07.25@11.08:45
+9d76e2c7af6d103e81524b5c9f878a64 *tcx_word-list_1992_51.mp3
+#md5#tcx_word-list_1992_51.wav#2006.07.25@11.08:53
+e514f0b5191b10d7d8593064c8ca2180 *tcx_word-list_1992_51.wav
+#md5#tcx_word-list_1992_52.mp3#2006.07.25@11.08:54
+e5fc6b2cabaf975798ac3d03bad91756 *tcx_word-list_1992_52.mp3
+#md5#tcx_word-list_1992_52.wav#2006.07.25@11.09:00
+389cda418cd3ccad64e47581dbcf1b5e *tcx_word-list_1992_52.wav
+#md5#tcx_word-list_1992_53.mp3#2006.07.25@11.09:00
+55381de588ce05f7bcda51ddaa194efd *tcx_word-list_1992_53.mp3
+#md5#tcx_word-list_1992_53.wav#2006.07.25@11.09:04
+7e480ef24a52defa7dcc304b403950c1 *tcx_word-list_1992_53.wav
+#md5#tcx_word-list_1992_54.mp3#2006.07.25@11.09:05
+39243058f6fd2460eb61686ea6b3b8e1 *tcx_word-list_1992_54.mp3
+#md5#tcx_word-list_1992_54.wav#2006.07.25@11.09:06
+e3902c28347b4e8a1cbeb85d59995a56 *tcx_word-list_1992_54.wav
+#md5#tcx_word-list_1992_55.mp3#2006.07.25@11.09:07
+8282e10e124b4fc0a7e97c3154284127 *tcx_word-list_1992_55.mp3
+#md5#tcx_word-list_1992_55.wav#2006.07.25@11.09:14
+26fe35c3b569de42905708239eb05cae *tcx_word-list_1992_55.wav
+#md5#tcx_word-list_1992_56.mp3#2006.07.25@11.09:15
+1e959cdbcb66e913937ff7e97889768f *tcx_word-list_1992_56.mp3
+#md5#tcx_word-list_1992_56.wav#2006.07.25@11.09:20
+315af705951fdb95fb096ce134845828 *tcx_word-list_1992_56.wav
+#md5#tcx_word-list_1992_57.mp3#2006.07.25@11.09:22
+e2f019ab15abd5a86d58301c24697356 *tcx_word-list_1992_57.mp3
+#md5#tcx_word-list_1992_57.wav#2006.07.25@11.09:26
+5a6cfccac1aaae062b442d62583e2ddf *tcx_word-list_1992_57.wav
+#md5#tcx_word-list_1992_58.mp3#2006.07.25@11.09:26
+53d6e367ab06ff70e682c637d342f298 *tcx_word-list_1992_58.mp3
+#md5#tcx_word-list_1992_58.wav#2006.07.25@11.09:28
+37fe42c7a0ae2c825812545bec58a3e1 *tcx_word-list_1992_58.wav
+#md5#tcx_word-list_1992_59.mp3#2006.07.25@11.09:29
+bf9a72d88a828f04f714182280dd9e30 *tcx_word-list_1992_59.mp3
+#md5#tcx_word-list_1992_59.wav#2006.07.25@11.09:31
+04cf928b5fb97b140533edb7a7cbba8c *tcx_word-list_1992_59.wav
+#md5#tcx_word-list_1992_60.mp3#2006.07.25@11.09:31
+ced9209c16af2a6f80eaf03df94cd1a0 *tcx_word-list_1992_60.mp3
+#md5#tcx_word-list_1992_60.wav#2006.07.25@11.09:36
+c0b9f1a0c14f15d2ad3b0739d1b1c9ed *tcx_word-list_1992_60.wav
+#md5#tcx_word-list_1992_61.mp3#2006.07.25@11.09:36
+d8c7bb4475118f446d9d5d79f080c7e2 *tcx_word-list_1992_61.mp3
+#md5#tcx_word-list_1992_61.wav#2006.07.25@11.09:38
+d76bd9a9e20c008052628c451a77dbda *tcx_word-list_1992_61.wav
+#md5#tcx_word-list_1992_62.mp3#2006.07.25@11.09:39
+0e0a373002375aefb4f49042d6983d64 *tcx_word-list_1992_62.mp3
+#md5#tcx_word-list_1992_62.wav#2006.07.25@11.09:42
+fde5548a4b633359805c322f9eee6e68 *tcx_word-list_1992_62.wav
+#md5#tcx_word-list_1992_63.mp3#2006.07.25@11.09:43
+db40221d569110fd3439318dc41affc5 *tcx_word-list_1992_63.mp3
+#md5#tcx_word-list_1992_63.wav#2006.07.25@11.09:51
+2965c4b38912109cf5dd82742b7ae9eb *tcx_word-list_1992_63.wav
+#md5#tcx_word-list_1992_64.mp3#2006.07.25@11.09:51
+ee50932061e63290a8650f274493c4c2 *tcx_word-list_1992_64.mp3
+#md5#tcx_word-list_1992_64.wav#2006.07.25@11.10:00
+8b373b7ff8cb5a5b597ff0c7947f0251 *tcx_word-list_1992_64.wav
+#md5#tcx_word-list_1992_65.mp3#2006.07.25@11.10:01
+721e682362cb4ad6128a61f83e1fbc4d *tcx_word-list_1992_65.mp3
+#md5#tcx_word-list_1992_65.wav#2006.07.25@11.10:07
+a80494092723cccd54f260a831f069c7 *tcx_word-list_1992_65.wav
+#md5#tcx_word-list_1992_66.mp3#2006.07.25@11.10:08
+993fcc065efd5ae990bf990ded5400de *tcx_word-list_1992_66.mp3
+#md5#tcx_word-list_1992_66.wav#2006.07.25@11.10:10
+fe7daf13366a1632a6da10980a9db58f *tcx_word-list_1992_66.wav
+#md5#tcx_word-list_1992_67.mp3#2006.07.25@11.10:10
+1916631f370dbd6f1dfeb0a120d6ad60 *tcx_word-list_1992_67.mp3
+#md5#tcx_word-list_1992_67.wav#2006.07.25@11.10:14
+a56a599f6feb5d3e352e6b4415543d69 *tcx_word-list_1992_67.wav
+#md5#tcx_word-list_1992_68.mp3#2006.07.25@11.10:14
+5f9d5c1a96e77dd3c4cbddad13e33add *tcx_word-list_1992_68.mp3
+#md5#tcx_word-list_1992_68.wav#2006.07.25@11.10:18
+2542173dac203ae5c54f88965dabf4b3 *tcx_word-list_1992_68.wav

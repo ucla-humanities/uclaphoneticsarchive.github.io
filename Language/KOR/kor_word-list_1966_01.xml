@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Korean</language_name>
+
+
+<headers>
+
+<IPA_header>Note</IPA_header>
+<gloss_header>IPA Transcription</gloss_header>
+<alt_gloss_header>English</alt_gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<IPA_transcription>order of each sequence of voiceless stops varies slightly</IPA_transcription>
+<gloss>igʌsɪn pulida</gloss>
+<alt_gloss>This is fire.</alt_gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<IPA_transcription></IPA_transcription>
+<gloss>igʌsɪn pʰulida</gloss>
+<alt_gloss>This is grass.</alt_gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<IPA_transcription></IPA_transcription>
+<gloss>igʌsɪn pʼulida</gloss>
+<alt_gloss>This is a horn.</alt_gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<IPA_transcription></IPA_transcription>
+<gloss>igʌsɪn talida</gloss>
+<alt_gloss>This is the moon.</alt_gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<IPA_transcription></IPA_transcription>
+<gloss>igʌsɪn tʰalida</gloss>
+<alt_gloss>This is a mask.</alt_gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<IPA_transcription></IPA_transcription>
+<gloss>igʌsɪn tʼalida</gloss>
+<alt_gloss>This is a daughter.</alt_gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<IPA_transcription></IPA_transcription>
+<gloss>igʌsɪn koŋida</gloss>
+<alt_gloss>This is a ball.</alt_gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<IPA_transcription></IPA_transcription>
+<gloss>igʌsɪn kʼoŋida</gloss>
+<alt_gloss>This is a (nonsense word).</alt_gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<IPA_transcription></IPA_transcription>
+<gloss>igʌsɪn kʰoŋida</gloss>
+<alt_gloss>These are beans.</alt_gloss>
+</item>
+</wordlist>
+
+
+
+
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Hindi</language_name>
+
+
+<headers>
+
+<orthography_header>Orthography</orthography_header>
+<IPA_header>Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>तप</native_orthography>
+<IPA_transcription>t̪ɑp</IPA_transcription>
+<gloss>hot</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>टप</native_orthography>
+<IPA_transcription>ʈɑp</IPA_transcription>
+<gloss>a kind of beat</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>दब</native_orthography>
+<IPA_transcription>d̪ɑb</IPA_transcription>
+<gloss>pressure</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>डब</native_orthography>
+<IPA_transcription>ɖɑb</IPA_transcription>
+<gloss>a kind of fruit</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>अरि</native_orthography>
+<IPA_transcription>ɑri</IPA_transcription>
+<gloss>saw (noun)</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>अरि</native_orthography>
+<IPA_transcription>ɑɽi</IPA_transcription>
+<gloss>crooked (adjective, fem.)</gloss>
+</item>
+</wordlist>
+
+
+
+
+

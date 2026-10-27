@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Yiddish</language_name>
+
+
+<headers>
+
+<IPA_header>Odessa Dialect Transcription</IPA_header>
+<gloss_header>Kobrin Dialect Transcription</gloss_header>
+<alt_gloss_header>English</alt_gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<IPA_transcription>a</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<IPA_transcription>ɔ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<IPA_transcription>ɛ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<IPA_transcription>u</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<IPA_transcription>i</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<IPA_transcription>arʲɛs'tilt</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>arrest</alt_gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<IPA_transcription>gast</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>guest</alt_gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<IPA_transcription>ɔvn̩t</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>evening</alt_gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<IPA_transcription>ɛrʲ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>he</alt_gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<IPA_transcription>u'rʲɛinikl</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>great grand-child</alt_gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<IPA_transcription>irʲʃvɛstɛrʲ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>her sister</alt_gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<IPA_transcription>ai</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<IPA_transcription>ɛi</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<IPA_transcription>ɔi</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<IPA_transcription>drʲai</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>three</alt_gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<IPA_transcription>drʲɛi</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>turn</alt_gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<IPA_transcription>gɔi</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>gentile</alt_gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<IPA_transcription>bajʊnz</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>by us</alt_gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<IPA_transcription>brʲɛit</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>bread</alt_gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<IPA_transcription>bɔix</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>stomach</alt_gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<IPA_transcription>faia'tɔn</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>coach</alt_gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<IPA_transcription>frʲɛilax</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>happiness</alt_gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<IPA_transcription>frʲɔilarʲ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>lazy person</alt_gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<IPA_transcription>ix</IPA_transcription>
+<gloss>jiχ</gloss>
+<alt_gloss>I</alt_gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<IPA_transcription>id</IPA_transcription>
+<gloss>jɪd</gloss>
+<alt_gloss>Jew</alt_gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<IPA_transcription>idn̩</IPA_transcription>
+<gloss>jidɛn</gloss>
+<alt_gloss>Jews</alt_gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<IPA_transcription>lɛrʲaniŋgl̩</IPA_transcription>
+<gloss>lɛrʲanjɪŋgl̩</gloss>
+<alt_gloss>apprentice</alt_gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<IPA_transcription>nidkainid</IPA_transcription>
+<gloss>nidkaiɲjɪd</gloss>
+<alt_gloss>non-Jew</alt_gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<IPA_transcription>tvisɛ</IPA_transcription>
+<gloss>tvisi</gloss>
+<alt_gloss>prison</alt_gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<IPA_transcription>kalɛ</IPA_transcription>
+<gloss>kali</gloss>
+<alt_gloss>bride</alt_gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<IPA_transcription>brɔit</IPA_transcription>
+<gloss>brɛit</gloss>
+<alt_gloss>bread</alt_gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<IPA_transcription>dirʲ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>you</alt_gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<IPA_transcription>tirʲ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>door</alt_gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<IPA_transcription>gɛlt</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>money</alt_gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<IPA_transcription>kʰalt</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>cold</alt_gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<IPA_transcription>xasɛnɛ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>wedding</alt_gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<IPA_transcription>χɔsɛn</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>groom</alt_gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<IPA_transcription>smɛtɛnɛ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>sourcream</alt_gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<IPA_transcription>ʃmɔl</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>narrow</alt_gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<IPA_transcription>salat</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>salad</alt_gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<IPA_transcription>zalz'ʃitɛrʲ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>saltshaker</alt_gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<IPA_transcription>ʃnɛi</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>snow</alt_gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<IPA_transcription>kɛstɛlɛ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>box</alt_gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<IPA_transcription>zi</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>she</alt_gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<IPA_transcription>kama'zɪlkʲɛ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>vest</alt_gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<IPA_transcription>ʃabɪs</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>Sabbath</alt_gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<IPA_transcription>ʒabɛ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>frog</alt_gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<IPA_transcription>ka'miʃ 'brʲɔit</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>cornbread</alt_gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<IPA_transcription>farʲʒavɛrʲt</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>rusty</alt_gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<IPA_transcription>kats</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>cat</alt_gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<IPA_transcription>katʃkɛ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>duck</alt_gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<IPA_transcription>tsi'trin</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>lemon</alt_gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<IPA_transcription>tsvɛi</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>two</alt_gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<IPA_transcription>tsɛn</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>ten</alt_gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<IPA_transcription>a'bisl̩</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>a little bit</alt_gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<IPA_transcription>a'bis</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>a bite</alt_gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<IPA_transcription>aʃifl̩</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>a boat</alt_gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<IPA_transcription>ʃɪf</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>a ship</alt_gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<IPA_transcription>a'sat 'mɛntʃn̩</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>a lot of people</alt_gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<IPA_transcription>a'mɛntʃ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>person</alt_gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<IPA_transcription>ʃpraxn̩</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>languages</alt_gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<IPA_transcription>ʃprax</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>language</alt_gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<IPA_transcription>bɛzm̩</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>broom</alt_gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<IPA_transcription>bɪ'zɔin</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>shame</alt_gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<IPA_transcription>a'gutn̩ tɔg</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>goodbye</alt_gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<IPA_transcription>a'gut 'mɔrgn̩</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>good morning</alt_gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<IPA_transcription>a'gutn̩ avn̩t</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>good evening</alt_gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<IPA_transcription>harpst</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>Autumn</alt_gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<IPA_transcription>kalt</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>cold</alt_gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<IPA_transcription>ziʃpriŋt</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>you jump</alt_gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<IPA_transcription>farʲʒavɛrʲt</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>rusty</alt_gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<IPA_transcription>rʲaxerʲ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>revenge</alt_gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<IPA_transcription>a'xin</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>there</alt_gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<IPA_transcription>vɛrʲtɛrʲ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>words</alt_gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<IPA_transcription>vɛtɛʲ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>the weather</alt_gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<IPA_transcription>ba'ʃɛrʲt</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>your fate</alt_gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<IPA_transcription>baʃɛf'tit</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>occupied</alt_gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<IPA_transcription>arʲaixerʲ mɛntʃ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>a rich person</alt_gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<IPA_transcription>rʲaixɛ mɛntʃn̩</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>rich people</alt_gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<IPA_transcription>hɛidn̩</IPA_transcription>
+<gloss>ɛivm̩</gloss>
+<alt_gloss>yeast</alt_gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<IPA_transcription>holtz</IPA_transcription>
+<gloss>oltz</gloss>
+<alt_gloss>wood</alt_gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<IPA_transcription>a'xin gi'gangɛn</IPA_transcription>
+<gloss>a'in gi'gagɛn</gloss>
+<alt_gloss>he went there</alt_gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<IPA_transcription>kul'turʲ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>culture</alt_gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<IPA_transcription>kalɛ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>bride</alt_gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<IPA_transcription>ʃvaχ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>week</alt_gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<IPA_transcription>bɛidm̩</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>attic</alt_gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<IPA_transcription>nɔstixl̩</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>handkerchief</alt_gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<IPA_transcription>bɔix</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>stomach</alt_gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<IPA_transcription>mi'ʃugɛ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>crazy</alt_gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<IPA_transcription>hɛidn̩</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>yeast</alt_gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<IPA_transcription>ʒabɛ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>frog</alt_gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<IPA_transcription>gɛlt</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>money</alt_gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<IPA_transcription>putɛrʲ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>butter</alt_gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<IPA_transcription>farʲtax</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>apron</alt_gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<IPA_transcription>ɛins</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>one</alt_gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<IPA_transcription>flɛiʃ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>meat</alt_gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<IPA_transcription>irʲʃvɛstɛrʲ</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>her sister</alt_gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<IPA_transcription>ɔvn̩t</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>evening</alt_gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<IPA_transcription>ʃpriŋt</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>you jump</alt_gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<IPA_transcription>frʲɛilax</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>happiness</alt_gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<IPA_transcription>main 'ɛinikl̩ iz a 'wundɛrʲ 'ʃɛini 'mɛidl̩ un 'ɔix zɛrʲ gɛ'ʃmakɛi mɛidl̩</IPA_transcription>
+<gloss>not recorded</gloss>
+<alt_gloss>no English phrase given</alt_gloss>
+</item>
+</wordlist>
+
+
+
+
+

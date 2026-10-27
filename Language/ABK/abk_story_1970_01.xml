@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Abkhaz (Bzyb)</language_name>
+
+
+
+
+
+
+    <headers>
+
+<orthography_header>Abkhaz Orthography</orthography_header>
+<alt_orthography_header>Alt Orthography</alt_orthography_header>
+<IPA_header>Transcription</IPA_header>
+<alt_IPA_header>Romanization</alt_IPA_header>
+<gloss_header>Russian Gloss</gloss_header>
+<alt_gloss_header>English Gloss</alt_gloss_header>
+
+</headers>
+    
+<item>
+<entry>1</entry>
+<native_orthography>Алыми Амшәи</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ʔäɫə̆mi ˀämɕi</IPA_transcription>
+<alt_IPA_transcription>aləməj amš⁰əj</alt_IPA_transcription>
+<gloss>Лев и Медведь</gloss>
+<alt_gloss>The Lion and the Bear</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+    
+<item>
+<entry>2</entry>
+<native_orthography>Алыми амшәи бнакы иеицылан.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ˈˀäləmi ˈˀamɕi bənɜˈkɜ jeĭˈt͡səlän</IPA_transcription>
+<alt_IPA_transcription>aləməj amš⁰əj bnaḳə jℯjcəlan.</alt_IPA_transcription>
+<gloss>Лев и медведь жили вместе в одном лесу.</gloss>
+<alt_gloss>The lion and the bear lived together in one forest.</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+    
+<item>
+<entry>3</entry>
+<native_orthography>Есқьынагьы иара абри абна еимакны иеислон дара.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+"<IPA_transcription>jɛ̈sˈkʲnɛ̈ɡʲɩ jɛˈrʌ ʌbri ˀämrə
+        jeˑmɜɡˈnɜ jeˑsɫon dɜraˑ
+    </IPA_transcription>"
+<alt_IPA_transcription>eskə̃nag̾ə jara abrəj abna ejmaḳnə ejslon dara.</alt_IPA_transcription>
+<gloss>Все время они спорили между собой из-за этого леса.</gloss>
+<alt_gloss>All the time they argued between themselves because of this wood.</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+    
+<item>
+<entry>4</entry>
+<native_orthography>Зны иеидшыланы ишеисуаз икараха иҟалан</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription></IPA_transcription>
+<alt_IPA_transcription>znə jejdšᵊəlanə jšᵊejswaz jḳaraxa jəq̣alan</alt_IPA_transcription>
+<gloss>Однажды, утомившись в драке между собой,</gloss>
+<alt_gloss>Once, having gotten tired of fighting between themselves,</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+    
+<item>
+<entry>5</entry>
+<native_orthography>иеинышәарц иақуркит.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription></IPA_transcription>
+<alt_IPA_transcription>jejnəš⁰arc jak⁰ərḳəjṭ.</alt_IPA_transcription>
+<gloss>решили примириться.</gloss>
+<alt_gloss>they decided to reconcile.</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+    
+<item>
+<entry>6</entry>
+<native_orthography>Иеилаӡеит абна агуҭа иеиҟараны иршарц, аха дара рымала-заҵәык ирзымшеит:</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription></IPA_transcription>
+<alt_IPA_transcription>jejlaʒejṭ abna ag⁰ta jejq̣aranə jəršᵊarc, axa dara rəmala-zac̣⁰əḳ jərzəmšᵊejṭ:</alt_IPA_transcription>
+<gloss>Договорились поделить лес ровно пополам но они сами не смогли этого сделать:</gloss>
+<alt_gloss>They agreed to divide the wood exactly in half but they themselves could not do this:</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+    
+<item>
+<entry>7</entry>
+<native_orthography>аҩбагьы амцху ртаххеит.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription></IPA_transcription>
+<alt_IPA_transcription>aω̈⁰bag̾ə amcx⁰ rtaxxejt.</alt_IPA_transcription>
+<gloss>каждый из них захотел побольше.</gloss>
+<alt_gloss>each of them wanted more.</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+    
+<item>
+<entry>8</entry>
+<native_orthography>Амшә ҩагылан ус аҳәеит:</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription></IPA_transcription>
+<alt_IPA_transcription>amš⁰ ω̈⁰agəlan wəs ah⁰ejṭ:</alt_IPA_transcription>
+<gloss>Медведь встал и сказал:</gloss>
+<alt_gloss>The bear rose and said:</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+    
+<item>
+<entry>9</entry>
+<native_orthography>— Аӡбаҩцәа алаҳхып, ҳусгьы ҳааиқушаҳаҭны убарҭ ираҳҭап. Сара усызҵааыазар, ӡбаҩыс ҳәа ацгу ықусыргылоит, уара уус аҽада анапы ианҵа: аҽада аӡбараҿы иҟазоу акы ауп, иагьыџьбароуп.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription></IPA_transcription>
+<alt_IPA_transcription>— aʒbaω̈⁰ca alahxəp̣, hwəsg̾ə haajk⁰əšᵊahatnə wəbart jrahtap̣. sara wsəzc̣aawazar, ʒbaω̈⁰əs h⁰a acg⁰ə ək⁰sərgəlojṭ, wara wəwəs ačᵊada aʒbarač̣ᵊə jq̣azow aḳə awp̣, jag̾əǯbarowp.</alt_IPA_transcription>
+<gloss>Выберем судей и наше дело поручим им; если спросить меня, в качестве судьи я выставлю кошку, а твое дело ты поручи ослу; осел в судейском деле—специалист, к тому же—крепок.</gloss>
+"<alt_gloss>Let’s choose judges and with our business we will charge them; if you ask me, in quality
+        judges I put forward the cat (dim.), and your business you charge the donkey; the donkey is a specialist in judicial business, anyways, it’s strong.
+    </alt_gloss>"
+<semantic_category></semantic_category>
+</item>
+</wordlist>
+
+
+
+
+
+
+
+
+

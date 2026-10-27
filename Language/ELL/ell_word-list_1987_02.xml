@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Greek</language_name>
+
+
+<headers>
+
+<orthography_header>Phonemic Transcription</orthography_header>
+<IPA_header>Phonetic Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>pino</native_orthography>
+<IPA_transcription>ˈpʰin̪o</IPA_transcription>
+<gloss>I drink</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>tino</native_orthography>
+<IPA_transcription>ˈt̪ʰin̪o</IPA_transcription>
+<gloss>island</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>kano</native_orthography>
+<IPA_transcription>ˈkan̪o</IPA_transcription>
+<gloss>I do</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>bɛno</native_orthography>
+<IPA_transcription>ˈbɛn̪o</IPA_transcription>
+<gloss>I enter</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>dino</native_orthography>
+<IPA_transcription>ˈd̪in̪o</IPA_transcription>
+<gloss>being dressed</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>ɡɾinja</native_orthography>
+<IPA_transcription>ˈɡɾiɲa</IPA_transcription>
+<gloss>nagging</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>koɾitsi</native_orthography>
+<IPA_transcription>koˈɾiʦi</IPA_transcription>
+<gloss>girl</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>dzidzikas</native_orthography>
+<IPA_transcription>ˈʣiʣikas</IPA_transcription>
+<gloss>cricket</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>foɾos</native_orthography>
+<IPA_transcription>ˈfoɾos</IPA_transcription>
+<gloss>tax</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>voɾios</native_orthography>
+<IPA_transcription>ˈvoɾios</IPA_transcription>
+<gloss>north</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>θio</native_orthography>
+<IPA_transcription>ˈθio</IPA_transcription>
+<gloss>uncle</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>ðio</native_orthography>
+<IPA_transcription>ˈðio</IPA_transcription>
+<gloss>two</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>xazos</native_orthography>
+<IPA_transcription>xaːˈzos</IPA_transcription>
+<gloss>stupid</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>ɣazos</native_orthography>
+<IPA_transcription>ˈɣazos, ˈɡazos</IPA_transcription>
+<gloss>hook</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>psaɾi</native_orthography>
+<IPA_transcription>ˈp͡saɾi</IPA_transcription>
+<gloss>fish</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>zaɾi</native_orthography>
+<IPA_transcription>ˈzaɾi</IPA_transcription>
+<gloss>dice</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>mɛɾo</native_orthography>
+<IPA_transcription>ˈmɛɾo</IPA_transcription>
+<gloss>place</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>nɛɾo</native_orthography>
+<IPA_transcription>ˈnɛɾo</IPA_transcription>
+<gloss>water</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>ɾipi</native_orthography>
+<IPA_transcription>ˈɾipi</IPA_transcription>
+<gloss>pollution</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>lipi</native_orthography>
+<IPA_transcription>ˈl̪ipi</IPA_transcription>
+<gloss>sorrow</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>jɛɾos</native_orthography>
+<IPA_transcription>ˈjɛɾos</IPA_transcription>
+<gloss>old man</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>kiɾia</native_orthography>
+<IPA_transcription>kʰiɾˈiə</IPA_transcription>
+<gloss>madam</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>kɛɾos</native_orthography>
+<IPA_transcription>kʰɛɾˈos</IPA_transcription>
+<gloss>weather</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>koɾi</native_orthography>
+<IPA_transcription>ˈkoɾi</IPA_transcription>
+<gloss>daughter</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>kala</native_orthography>
+<IPA_transcription>kal̪ˈa</IPA_transcription>
+<gloss>good</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>kalu</native_orthography>
+<IPA_transcription>kal̪ˈu</IPA_transcription>
+<gloss>good</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>tsai</native_orthography>
+<IPA_transcription>ˈʦa̯i</IPA_transcription>
+<gloss>tea</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>lɛo</native_orthography>
+<IPA_transcription>ˈl̪ɛ̯o</IPA_transcription>
+<gloss>speak</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>pai</native_orthography>
+<IPA_transcription>ˈpa̯i</IPA_transcription>
+<gloss>go</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>ɾoloi</native_orthography>
+<IPA_transcription>ɾoˈlo̯˞i</IPA_transcription>
+<gloss>watch</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>koɾais</native_orthography>
+<IPA_transcription>koɾaˈi̯s</IPA_transcription>
+<gloss>proper name</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>naos</native_orthography>
+<IPA_transcription>n̪aˈo̯s</IPA_transcription>
+<gloss>shrine</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>nau</native_orthography>
+<IPA_transcription>n̪aˈu̯</IPA_transcription>
+<gloss>the people</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>pɾoi</native_orthography>
+<IPA_transcription>pɾo˞ˈi̯</IPA_transcription>
+<gloss>morning</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>ˈɛna</native_orthography>
+<IPA_transcription>ˈɛn̪ə</IPA_transcription>
+<gloss>one</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>aˈθina</native_orthography>
+<IPA_transcription>aθiˈn̪a</IPA_transcription>
+<gloss>a name</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>sas paɾakalo</native_orthography>
+<IPA_transcription>səs paɾakaˈl̪o</IPA_transcription>
+<gloss>please excuse me</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>paputsia</native_orthography>
+<IPA_transcription>paˈpuʦia</IPA_transcription>
+<gloss>shoes</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>sinɣɾafɛas</native_orthography>
+<IPA_transcription>siɣɾaˈfeas</IPA_transcription>
+<gloss>writer</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>anθɾopos</native_orthography>
+<IPA_transcription>ˈaθɾopos</IPA_transcription>
+<gloss>man</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>ton filon</native_orthography>
+<IPA_transcription>t̪õn̪ ˈfil̪õn̪</IPA_transcription>
+<gloss>of the friends</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>ɛlɛnxos</native_orthography>
+<IPA_transcription>ˈɛl̪ɛxos</IPA_transcription>
+<gloss>checking</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>sɛ+to</native_orthography>
+<IPA_transcription>ˈsto</IPA_transcription>
+<gloss>at the (masc.)</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>sɛ+tis</native_orthography>
+<IPA_transcription>ˈstĩs</IPA_transcription>
+<gloss>at the (fem.)</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>vaθia</native_orthography>
+<IPA_transcription>vaˈθja</IPA_transcription>
+<gloss>deep</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>kɾasia</native_orthography>
+<IPA_transcription>kɾaˈsja</IPA_transcription>
+<gloss>wine</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>aðia</native_orthography>
+<IPA_transcription>ˈaðja</IPA_transcription>
+<gloss>empty</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>i vaɾka</native_orthography>
+<IPA_transcription>i ˈvaɾka</IPA_transcription>
+<gloss>the boat</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>i vaɾkɛs</native_orthography>
+<IPA_transcription>i vaɾˈkʲɛs</IPA_transcription>
+<gloss>the boats</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>o fθongos</native_orthography>
+<IPA_transcription>o ˈf͡θoŋɡos</IPA_transcription>
+<gloss>fungus</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>i fθongi</native_orthography>
+<IPA_transcription>i ˈf͡θoŋɣi</IPA_transcription>
+<gloss>fungi</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>ɛxo</native_orthography>
+<IPA_transcription>ˈɛxo</IPA_transcription>
+<gloss>I have</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>ɛxi</native_orthography>
+<IPA_transcription>ˈeçi</IPA_transcription>
+<gloss>I had</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>piɣa</native_orthography>
+<IPA_transcription>ˈpiɣa</IPA_transcription>
+<gloss>I went</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>piɣɛ</native_orthography>
+<IPA_transcription>ˈpijɛ</IPA_transcription>
+<gloss>you went</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>laði</native_orthography>
+<IPA_transcription>ˈlaði</IPA_transcription>
+<gloss>oil</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>malia</native_orthography>
+<IPA_transcription>maʎ(j)ˈa</IPA_transcription>
+<gloss>hair</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>nɛɾo</native_orthography>
+<IPA_transcription>nɛˈɾo</IPA_transcription>
+<gloss>water</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>pania</native_orthography>
+<IPA_transcription>paɲˈa</IPA_transcription>
+<gloss>sails</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>fɛnɡaɾi</native_orthography>
+<IPA_transcription>feˈɡaɾi</IPA_transcription>
+<gloss>moon</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>sim vɛni</native_orthography>
+<IPA_transcription>siɱ ˈvɛn̪i</IPA_transcription>
+<gloss>it happens</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>ston piɾɛa</native_orthography>
+<IPA_transcription>stom biɾɛˈa</IPA_transcription>
+<gloss>at Pireas</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>ton psɛfti</native_orthography>
+<IPA_transcription>t̪om ˈb͡zɛfti</IPA_transcription>
+<gloss>the liar</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>stin banka</native_orthography>
+<IPA_transcription>stim ˈbaŋɡa</IPA_transcription>
+<gloss>at the bank</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>san toniða</native_orthography>
+<IPA_transcription>san̪ d̪on̪ ˈiða</IPA_transcription>
+<gloss>I thought I saw him</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>stin tsɛpi</native_orthography>
+<IPA_transcription>stin̪ ˈdzɛpi</IPA_transcription>
+<gloss>in the pocket</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>tin koɾi</native_orthography>
+<IPA_transcription>t̪iŋ ˈɡoɾi</IPA_transcription>
+<gloss>the daughter</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>ðɛn ksɛɾo</native_orthography>
+<IPA_transcription>ðɛn ˈgzɛɾo</IPA_transcription>
+<gloss>I don't know</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>ton gɾɛmis</native_orthography>
+<IPA_transcription>t̪on ˈɡɾɛmisɛ</IPA_transcription>
+<gloss>he wrecked it</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>o jos mu</native_orthography>
+<IPA_transcription>o ˈjoz mu</IPA_transcription>
+<gloss>my son</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography></native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>the light</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>stis ðeka</native_orthography>
+<IPA_transcription>stiz ˈðɛkə</IPA_transcription>
+<gloss>at 10 o'clock</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>stoma</native_orthography>
+<IPA_transcription>ˈstoma</IPA_transcription>
+<gloss>mouth</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>ptoma</native_orthography>
+<IPA_transcription>ˈp͡toma</IPA_transcription>
+<gloss>body</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>ksilo</native_orthography>
+<IPA_transcription>ˈk͡sil̪o</IPA_transcription>
+<gloss>wood</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>psilo</native_orthography>
+<IPA_transcription>ˈp͡sil̪o</IPA_transcription>
+<gloss>tick</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography></native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>feather</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>ɣloba</native_orthography>
+<IPA_transcription>ˈɣloba</IPA_transcription>
+<gloss>light bulb</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>pnɛvma</native_orthography>
+<IPA_transcription>ˈp͡ʼn̪ɛ̃vma</IPA_transcription>
+<gloss>soul</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>knosos</native_orthography>
+<IPA_transcription>k͡nõˈsos</IPA_transcription>
+<gloss>Knossos</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>xtima</native_orthography>
+<IPA_transcription>ˈx͡tĩma</IPA_transcription>
+<gloss>building</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>ktima</native_orthography>
+<IPA_transcription>ˈk͡tĩma</IPA_transcription>
+<gloss>farm</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>san̪ t̪onˈiða stiz ˈðɛka i ˈoɾa stim baŋɡa</IPA_transcription>
+<gloss>I thought I saw him at 10 o'clock in the bank.</gloss>
+</item>
+</wordlist>
+
+
+
+
+

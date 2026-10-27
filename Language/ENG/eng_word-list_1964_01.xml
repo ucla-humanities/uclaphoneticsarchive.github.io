@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>English</language_name>
+
+
+
+<headers>
+
+<native_orthography>Sound Illustrated</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_header>IPA</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>(no IPA given for most items)</IPA_transcription>
+<gloss>necktie</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>blackball</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>leaky</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>glottal closure reinforcing [p]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>tapemeasure</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>voiceless affricate</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Gattling Gun</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>pickaxe</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>britches</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+#REF!
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>tankcar</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+#REF!
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>thank you</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>glottal closure reinforcing [tʃ]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>beaches</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>kitten</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kat͡ʔn̥</IPA_transcription>
+<gloss>cotton</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>bɛt͡ʔn̥</IPA_transcription>
+<gloss>bettin'</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Benton</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Cantonese</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>fence</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>tents</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>pepper</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>better</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>pecker</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>glottal closure reinforcing first [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ˈðæʔt ˈtʰɑim</IPA_transcription>
+<gloss>that time</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>glottal closure reinforcing first [p]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ˈsːkɹæp͡ʔˌpeɪpə˞</IPA_transcription>
+<gloss>scrap-paper</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>copper</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>caper</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>cater</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>baker</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>thirty</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>apron</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>petriət͡ʔ</IPA_transcription>
+<gloss>patriot</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>sækɹ̥ɪfɑɪs</IPA_transcription>
+<gloss>sacrifice</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>lavatory</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>mimicry</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>pantry</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>culprit</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>poplar</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>buckler</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>sɛt͡ʔlə˞</IPA_transcription>
+<gloss>settler</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>marquis</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>popular</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>voiceless affricate</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>spatula</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>voiceless affricate</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>bachelor</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>voiceless affricate</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>teacher</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>once</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Constance</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>youngster</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>seventh</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>camphor</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>triumph</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>months</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>dancing</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>substantial</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>unthinkable</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>compliment</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>accurate</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>apron</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>emphasis</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>something</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>comply</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>accuse</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>three-pronged</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>emphatic</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>enthusiasm</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>glottal closure reinforcing [p]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>happ'm</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>butt'n</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>glottal closure reinforcing [k]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>bac'n</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>molt͡ʔn̥</IPA_transcription>
+<gloss>molt'n</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>glottal closure reinforcing [p]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>up 'n' down</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>unsafe</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>achieve</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>shrunken</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>up an incline</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>pattern</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>up</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>can't</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>milk</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>shouldn't</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>upper</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>cast</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>milky</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>jumping</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>upsets</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>glottal closure reinforcing [tʃ]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>filch</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>white shoes</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Hank rows</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>voiceless affricate</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>why choose</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>hang crows</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>thanks</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>glottal closure reinforcing [p], [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ikʍɪp͡ʔmɛnʔ͡tʰ</IPA_transcription>
+<gloss>equipment</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>glottal closure reinforcing [tʃ], [p]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>it's much less damp now</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>motley</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>backwards</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>upright</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography>glottal closure reinforcing second [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>beetroot</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography>voiceless affricate</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>matches</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I lent you a book</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>hotly</gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>backwoods</gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<native_orthography>voiceless stop</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>uprising</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography>glottal closure reinforcing [t]</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>boat race</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography>voiceless affricate</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>screech owl</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography>voiceless affricate</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I lent you a book</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography>voiced implosives ɓ, ɗ, ɠ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography>voiced plosives and implosives contrasted</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography>stops in continuous speech</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The necktie was next to the tieclip.</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography>stops in continuous speech</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>I want to thank you for the present you sent.</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography>stops in continuous speech</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Please buy some of those very fine trinkets.</gloss>
+</item>
+</wordlist>
+
+
+
+
+
+

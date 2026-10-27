@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Vietnamese</language_name>
+
+
+<headers>
+
+<orthography_header>Broad Transcription</orthography_header>
+<IPA_header>Narrow Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>t̪æ³³</native_orthography>
+<IPA_transcription>t̪æ³³</IPA_transcription>
+<gloss>I</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>t̪ʰæ³³</native_orthography>
+<IPA_transcription>t̪æ³³</IPA_transcription>
+<gloss>to excuse</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>ʈʂæ³³</native_orthography>
+<IPA_transcription>ʈʂæ³³</IPA_transcription>
+<gloss>to put</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>kʲæ³³</native_orthography>
+<IPA_transcription>kʲæ³³</IPA_transcription>
+<gloss>father</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>kæ³³</native_orthography>
+<IPA_transcription>kæ³³</IPA_transcription>
+<gloss>to sing</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>fæ³³</native_orthography>
+<IPA_transcription>fæ³³</IPA_transcription>
+<gloss>to ix</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>væ³³</native_orthography>
+<IPA_transcription>væ³³</IPA_transcription>
+<gloss>he, she</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>sæ³³</native_orthography>
+<IPA_transcription>sæ³³</IPA_transcription>
+<gloss>far</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>jæ³³</native_orthography>
+<IPA_transcription>jæ³³</IPA_transcription>
+<gloss>skin</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>kʰæ³³</native_orthography>
+<IPA_transcription>kʰæ³³</IPA_transcription>
+<gloss>elder brother</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>ɣæ³³</native_orthography>
+<IPA_transcription>ɣæ³³</IPA_transcription>
+<gloss>accelerator</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>hæ³³</native_orthography>
+<IPA_transcription>hæ³³</IPA_transcription>
+<gloss>(exclamation)</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>mæ³³</native_orthography>
+<IPA_transcription>mæ̃³³</IPA_transcription>
+<gloss>ghost</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>n̪æ³³</native_orthography>
+<IPA_transcription>n̪æ̃³³</IPA_transcription>
+<gloss>sugar apple</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>ɲæ³³</native_orthography>
+<IPA_transcription>ɲæ̃³³</IPA_transcription>
+<gloss>office</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>ŋæ³³</native_orthography>
+<IPA_transcription>ŋæ̃³³</IPA_transcription>
+<gloss>swan</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>ɽæ³³</native_orthography>
+<IPA_transcription>ɽæ³³</IPA_transcription>
+<gloss>to exit</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>læ³³</native_orthography>
+<IPA_transcription>læ³³</IPA_transcription>
+<gloss>to scold</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>jæ³³</native_orthography>
+<IPA_transcription>jæ³³</IPA_transcription>
+<gloss>house</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>hoæ³³</native_orthography>
+<IPA_transcription>hw̥æ³³</IPA_transcription>
+<gloss>earring</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>ɓæ³³</native_orthography>
+<IPA_transcription>ɓæ³³</IPA_transcription>
+<gloss>three</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>ɗ̪æ³³</native_orthography>
+<IPA_transcription>ɗ̪æ³³</IPA_transcription>
+<gloss>much</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>mɑk³⁵</native_orthography>
+<IPA_transcription>mɑk͡p̚³⁵</IPA_transcription>
+<gloss>dew</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>mɑŋ³⁵</native_orthography>
+<IPA_transcription>mɑŋ͡m̚³⁵</IPA_transcription>
+<gloss>foundation</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>mʌɓ³⁵</native_orthography>
+<IPA_transcription>mʌp̚³⁵</IPA_transcription>
+<gloss>hollow</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>t̪ʊt̪³⁵</native_orthography>
+<IPA_transcription>t̪ʊt̪̚³⁵</IPA_transcription>
+<gloss>almost invisible</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>t̪ic³⁵</native_orthography>
+<IPA_transcription>t̪it̪̚³⁵</IPA_transcription>
+<gloss>to regret</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>t̪ec³⁵</native_orthography>
+<IPA_transcription>t̪et̪̚³⁵</IPA_transcription>
+<gloss>to vanish</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>t̪ɛ³⁵</native_orthography>
+<IPA_transcription>t̪eə³⁵</IPA_transcription>
+<gloss>to fall</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>t̪ɑc³⁵</native_orthography>
+<IPA_transcription>t̪ak̚³⁵</IPA_transcription>
+<gloss>to dare</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>t̪æ³⁵</native_orthography>
+<IPA_transcription>t̪æː³⁵</IPA_transcription>
+<gloss>dozen</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>t̪ʰɯk³⁵</native_orthography>
+<IPA_transcription>t̪ʰɯk̚³⁵</IPA_transcription>
+<gloss>manner</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>t̪ɤŋ³⁵</native_orthography>
+<IPA_transcription>t̪ɤ̃ŋ³⁵</IPA_transcription>
+<gloss>bold</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>t̪ʌt̪³⁵</native_orthography>
+<IPA_transcription>t̪ʌk̚³⁵</IPA_transcription>
+<gloss>certainly</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>t̪up³⁵</native_orthography>
+<IPA_transcription>t̪up̚³⁵</IPA_transcription>
+<gloss>hut</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>t̪ot̪³⁵</native_orthography>
+<IPA_transcription>t̪ok̚³⁵</IPA_transcription>
+<gloss>soldier</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>t̪ɔp³⁵</native_orthography>
+<IPA_transcription>t̪ʌp̚³⁵</IPA_transcription>
+<gloss>to shrink</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>t̪iɑ³⁵</native_orthography>
+<IPA_transcription>t̪iə³⁵</IPA_transcription>
+<gloss>father</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>t̪ij³⁵</native_orthography>
+<IPA_transcription>t̪ɪj³⁵</IPA_transcription>
+<gloss>tiny bit</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>t̪ei³⁵</native_orthography>
+<IPA_transcription>t̪eɪ³⁵</IPA_transcription>
+<gloss>to help</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>t̪ɑi³⁵</native_orthography>
+<IPA_transcription>t̪ɑɪ³⁵</IPA_transcription>
+<gloss>pale</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>t̪ɑʊ³⁵</native_orthography>
+<IPA_transcription>t̪aʊ³⁵</IPA_transcription>
+<gloss>bold</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>t̪aj³⁵ maj³⁵</native_orthography>
+<IPA_transcription>t̪aj³⁵ mãj³⁵</IPA_transcription>
+<gloss>curious</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>t̪ʰɯ³³</native_orthography>
+<IPA_transcription>t̪ʰɯ̰u³³</IPA_transcription>
+<gloss>book</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>t̪ʊu³⁵</native_orthography>
+<IPA_transcription>t̪ʊ̯u³⁵</IPA_transcription>
+<gloss>elegant</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>t̪ɤɯ³⁵</native_orthography>
+<IPA_transcription>t̪ɤɯ³⁵</IPA_transcription>
+<gloss>servant</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>t̪ɤi³⁵</native_orthography>
+<IPA_transcription>t̪ɤi³⁵</IPA_transcription>
+<gloss>torn</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>t̪oʊ³⁵</native_orthography>
+<IPA_transcription>t̪oʊ³⁵</IPA_transcription>
+<gloss>to sue</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>t̪ʌj³⁵</native_orthography>
+<IPA_transcription>t̪ʌ̞j³⁵</IPA_transcription>
+<gloss>to swell</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>t̪ɔi³³</native_orthography>
+<IPA_transcription>t̪ɔi³²</IPA_transcription>
+<gloss>useless</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>t̪æ³³</native_orthography>
+<IPA_transcription>t̪æ³³</IPA_transcription>
+<gloss>I</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>t̪æ³¹</native_orthography>
+<IPA_transcription>t̪æ³¹</IPA_transcription>
+<gloss>to be dishonest</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>t̪æ³⁵</native_orthography>
+<IPA_transcription>t̪æ³⁵</IPA_transcription>
+<gloss>dozen</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>t̪æ²¹³</native_orthography>
+<IPA_transcription>t̪æʔ²¹³</IPA_transcription>
+<gloss>to think</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>t̪æ¹⁵</native_orthography>
+<IPA_transcription>t̪æʔ¹⁵</IPA_transcription>
+<gloss>to describe</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>t̪æ¹⁵</native_orthography>
+<IPA_transcription>t̪æʔ¹⁵</IPA_transcription>
+<gloss>diaper</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>mæk³⁵</native_orthography>
+<IPA_transcription>mæk̚³⁵</IPA_transcription>
+<gloss>knife</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>mɑk³⁵</native_orthography>
+<IPA_transcription>mɑk͡p̚³⁵</IPA_transcription>
+<gloss>dew</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>mæŋ³⁵</native_orthography>
+<IPA_transcription>mæ̃ŋ̚³⁵</IPA_transcription>
+<gloss>gutter</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>mɑŋ³⁵</native_orthography>
+<IPA_transcription>mɑ̃ŋ͡m̚³⁵</IPA_transcription>
+<gloss>foundation</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>mæŋ³⁵</native_orthography>
+<IPA_transcription>mæŋ̚³⁵</IPA_transcription>
+<gloss>(tribe)</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>mɑŋ³⁵</native_orthography>
+<IPA_transcription>mɑŋ̚³⁵</IPA_transcription>
+<gloss>dish</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>mæt̪³⁵</native_orthography>
+<IPA_transcription>mæk̚³⁵</IPA_transcription>
+<gloss>cool, fresh</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>mɑc³⁵</native_orthography>
+<IPA_transcription>mɑt̪̚³⁵</IPA_transcription>
+<gloss>to report</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>mæk³⁵</native_orthography>
+<IPA_transcription>mæk̚³⁵</IPA_transcription>
+<gloss>knife</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>tæm³⁵</native_orthography>
+<IPA_transcription>tæ̃m³⁵</IPA_transcription>
+<gloss>eight</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>mæŋ³⁵</native_orthography>
+<IPA_transcription>mæ̃ŋ̚³⁵</IPA_transcription>
+<gloss>(tribe)</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>mɑɲ³⁵</native_orthography>
+<IPA_transcription>mɑ̃ɲ̚³⁵</IPA_transcription>
+<gloss>trick</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>ɣi³³</native_orthography>
+<IPA_transcription>ɣi³³</IPA_transcription>
+<gloss>to record</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>ɗ̪æŋ³⁵ ɣi³³ ɲo</native_orthography>
+<IPA_transcription>ɗ̪æŋ³⁵ ɣi³³ ɲo³⁵</IPA_transcription>
+<gloss>noteworthy</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>kʌt³⁵</native_orthography>
+<IPA_transcription>kʌt̚³⁵</IPA_transcription>
+<gloss>visitor</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>fɑʊŋ³³ kʌt̪³⁵</native_orthography>
+<IPA_transcription>fɑʊŋ³³ kʌt̪̚³⁵</IPA_transcription>
+<gloss>living room</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>kiɲ³³</native_orthography>
+<IPA_transcription>kin̪̚³³</IPA_transcription>
+<gloss>scornful</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>kuŋ¹⁵ kiɲ³³</native_orthography>
+<IPA_transcription>kuŋ¹⁵ kin̪̚³³</IPA_transcription>
+<gloss>on bad terms with</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>ɓʌɓ²¹³ ɓei²¹³</native_orthography>
+<IPA_transcription>ɓʌʔ²² ɓei²¹³</IPA_transcription>
+<gloss>to mutter</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>gæɓ³⁵ ɓɔi²¹³</native_orthography>
+<IPA_transcription>gæʔ³⁵ ɓɔi²¹³</IPA_transcription>
+<gloss>manifold</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>ɗ̪æt̪²¹³ ɗ̪ɑʊ³⁵</native_orthography>
+<IPA_transcription>ɗ̪æ̰ʔ²² ɗ̪ɑʊ³⁵</IPA_transcription>
+<gloss>to realize</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>kɛt̪³⁵ ɗ̪ɔi²¹³</native_orthography>
+<IPA_transcription>kɛʔ³⁵ ɗ̪ɔi²¹³</IPA_transcription>
+<gloss> to marry</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>jæ³³</native_orthography>
+<IPA_transcription>jæ³³</IPA_transcription>
+<gloss>skin</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>ɽæ³³</native_orthography>
+<IPA_transcription>ɽæ³³</IPA_transcription>
+<gloss>to exit</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>jɔi³⁵</native_orthography>
+<IPA_transcription>jɔi³⁵</IPA_transcription>
+<gloss>to lie</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>ɽæ³³</native_orthography>
+<IPA_transcription>ɽɔi³³</IPA_transcription>
+<gloss>tangled</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>sæ³³</native_orthography>
+<IPA_transcription>sæ³³</IPA_transcription>
+<gloss>sand</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>sʊi³³</native_orthography>
+<IPA_transcription>sʊi³³</IPA_transcription>
+<gloss>to boil</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>ʈʂæ³³</native_orthography>
+<IPA_transcription>ʈʂæ³³</IPA_transcription>
+<gloss>to put</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography>ʈʂʊi³⁵</native_orthography>
+<IPA_transcription>tʂʊi³⁵</IPA_transcription>
+<gloss>exhausted</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>væ³³</native_orthography>
+<IPA_transcription>væ³³</IPA_transcription>
+<gloss>he, she</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>vɯə³³</native_orthography>
+<IPA_transcription>jɯə¹³</IPA_transcription>
+<gloss>to have just</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>vɔi³³</native_orthography>
+<IPA_transcription>jɔi³³</IPA_transcription>
+<gloss>elephant</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography>hoæ³³</native_orthography>
+<IPA_transcription>hwæ³³</IPA_transcription>
+<gloss>earring</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography>ɔi³³</native_orthography>
+<IPA_transcription>ʔɔi³³</IPA_transcription>
+<gloss>basket</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography>hɔi³³</native_orthography>
+<IPA_transcription>hɔi³³</IPA_transcription>
+<gloss>to smell</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography>t̪iep³⁵</native_orthography>
+<IPA_transcription>t̪ip̚³⁵</IPA_transcription>
+<gloss>to continue</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography>t̪ieʊ³⁵</native_orthography>
+<IPA_transcription>t̪iu³⁵</IPA_transcription>
+<gloss>to mock</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography>t̪ʰɯɤ³⁵</native_orthography>
+<IPA_transcription>t̪ʰɯk̚³⁵</IPA_transcription>
+<gloss>meter</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography>t̪ʰɯɤi³⁵</native_orthography>
+<IPA_transcription>t̪ʰɯj³⁵</IPA_transcription>
+<gloss>to protrude</gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<native_orthography>t̪uet̪³⁵</native_orthography>
+<IPA_transcription>t̪ʊk̚³⁵</IPA_transcription>
+<gloss>all</gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<native_orthography>t̪uoi</native_orthography>
+<IPA_transcription>t̪uj¹⁵</IPA_transcription>
+<gloss>year of age</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography>ʌm³³</native_orthography>
+<IPA_transcription>ʔʌ̃m³³</IPA_transcription>
+<gloss>sound</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography>e³³</native_orthography>
+<IPA_transcription>ʔe³³</IPA_transcription>
+<gloss>numb</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography>eɛm³³</native_orthography>
+<IPA_transcription>ʔeɛ̃m̚³³</IPA_transcription>
+<gloss>calm, soft</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography>ɪi³¹</native_orthography>
+<IPA_transcription>ʔɪi³¹</IPA_transcription>
+<gloss>motionless</gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography>ɔ³¹</native_orthography>
+<IPA_transcription>ʔɔ³¹</IPA_transcription>
+<gloss>paternal aunt</gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography>ɤɯ³¹</native_orthography>
+<IPA_transcription>ɤɯ³¹</IPA_transcription>
+<gloss>yes</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography>u³⁵ æ³³ u³⁵ ɤɯ³⁵</native_orthography>
+<IPA_transcription>ʔu³⁵ ʔæ³³ ʔu³⁵ ʔɤɯ³⁵</IPA_transcription>
+<gloss>to speak incoherently</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography>t̪ei³³</native_orthography>
+<IPA_transcription>t̪ei³³</IPA_transcription>
+<gloss>numb</gloss>
+</item>
+
+<item>
+<entry>107</entry>
+<native_orthography>t̪ei³¹</native_orthography>
+<IPA_transcription>t̪ei²¹</IPA_transcription>
+<gloss>to regulate</gloss>
+</item>
+
+<item>
+<entry>108</entry>
+<native_orthography>t̪ei³⁵</native_orthography>
+<IPA_transcription>t̪e̝iʔ³⁵</IPA_transcription>
+<gloss>to help</gloss>
+</item>
+
+<item>
+<entry>109</entry>
+<native_orthography>t̪ei²¹³</native_orthography>
+<IPA_transcription>t̪eiʔ²¹³</IPA_transcription>
+<gloss>my</gloss>
+</item>
+
+<item>
+<entry>110</entry>
+<native_orthography>t̪ei¹⁵</native_orthography>
+<IPA_transcription>t̪ei²⁵</IPA_transcription>
+<gloss>to slaughter</gloss>
+</item>
+
+<item>
+<entry>111</entry>
+<native_orthography>t̪ei¹⁵</native_orthography>
+<IPA_transcription>t̪ei²⁵</IPA_transcription>
+<gloss>to compound medicine</gloss>
+</item>
+
+<item>
+<entry>112</entry>
+<native_orthography>mæ¹⁵</native_orthography>
+<IPA_transcription>mæ²¹⁵</IPA_transcription>
+<gloss>grave</gloss>
+</item>
+
+<item>
+<entry>113</entry>
+<native_orthography>mæ¹⁵</native_orthography>
+<IPA_transcription>mæ̰̃²¹⁵</IPA_transcription>
+<gloss>horse</gloss>
+</item>
+
+<item>
+<entry>114</entry>
+<native_orthography>ku¹⁵</native_orthography>
+<IPA_transcription>ku²⁴</IPA_transcription>
+<gloss>old</gloss>
+</item>
+
+<item>
+<entry>115</entry>
+<native_orthography>kuŋ¹⁵</native_orthography>
+<IPA_transcription>kuŋ¹⁵</IPA_transcription>
+<gloss>to consolidate</gloss>
+</item>
+
+<item>
+<entry>116</entry>
+<native_orthography>ku¹⁵ hɑɲ³³</native_orthography>
+<IPA_transcription>ku²¹⁵ hɑ̃n̪³³</IPA_transcription>
+<gloss>onion</gloss>
+</item>
+
+<item>
+<entry>117</entry>
+<native_orthography>mæ²¹³</native_orthography>
+<IPA_transcription>mæʔ²¹²</IPA_transcription>
+<gloss>rice seedling</gloss>
+</item>
+
+<item>
+<entry>118</entry>
+<native_orthography>mæt̪²¹³</native_orthography>
+<IPA_transcription>mæk²²</IPA_transcription>
+<gloss>end</gloss>
+</item>
+
+<item>
+<entry>119</entry>
+<native_orthography>mæɲ²¹³</native_orthography>
+<IPA_transcription>mæn̪¹²</IPA_transcription>
+<gloss>strong</gloss>
+</item>
+
+<item>
+<entry>120</entry>
+<native_orthography>ki³³ n̪ɑʊ⁵³ oŋ³³ ɗi³³</native_orthography>
+<IPA_transcription>ˌki³³ n̪ɑ̃ʊ⁵³ ʌ̃ŋ͡m⁴³ ˈɗi⁴²</IPA_transcription>
+<gloss>Whenever you go…</gloss>
+</item>
+
+<item>
+<entry>121</entry>
+<native_orthography>ki³³ n̪ɑʊ⁵³ tɔi³³ ɗi³³</native_orthography>
+<IPA_transcription>ˌki³³ n̪ɑ̃ʊ⁵³ ˈt̪ɔi⁴³ ɗ̪i³²</IPA_transcription>
+<gloss>Wheever I go…</gloss>
+</item>
+
+<item>
+<entry>122</entry>
+<native_orthography>t̪ɔi³³ kʊʌŋ³³ ɗi³³</native_orthography>
+<IPA_transcription>ˈt̪ɔi³⁴ kʊʌ̃ŋ͡m̚⁴³ ɗi³²</IPA_transcription>
+<gloss>I'm not going.</gloss>
+</item>
+
+<item>
+<entry>123</entry>
+<native_orthography>oŋ³³ ko³³ ɓiet̪³⁵ kʊʌŋ³³</native_orthography>
+<IPA_transcription>ʊʌ̃ŋ⁴³ ko³⁵ ˈɓit̪⁴⁵ kʊʌ̃ŋ͡m̚⁴³</IPA_transcription>
+<gloss>Do you really know?</gloss>
+</item>
+
+<item>
+<entry>124</entry>
+<native_orthography>ɗi³³ kʊʌŋ³³</native_orthography>
+<IPA_transcription>ɗ̪i³³ ˈkʊʌ̃ŋ͡m̚³²</IPA_transcription>
+<gloss>Are you going?</gloss>
+</item>
+
+<item>
+<entry>125</entry>
+<native_orthography>t̪ɔi kʊʌŋ ɗi</native_orthography>
+<IPA_transcription>ˈt̪ɔi³⁴ kʊʌ̃ŋ͡m̚⁴³ ɗ̪i³³</IPA_transcription>
+<gloss>I'm not goingǃ</gloss>
+</item>
+</wordlist>
+
+
+
+
+

@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+
+<language_name>English</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language</lang_name_header>
+<dialect_header>Dialect</dialect_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<origin_header>Speaker Origin</origin_header>
+<speakers_header>Speaker Name</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>TIFF Image</image_tif_header>
+<image_tif2_header>TIFF Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality</tif_quality_header>
+<jpg_quality_header>JPG Image Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>18 December, 1964</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1964_01</filename_audio>
+<filename_wav>eng_word-list_1964_01.wav</filename_wav>
+<filename_mp3>eng_word-list_1964_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1964_01.html</wordlist>
+<wordlist_entries>1 - 106</wordlist_entries>
+<image_tif>eng_word-list_1964_01.tif</image_tif>
+<image_tif2>eng_word-list_1964_02.tif</image_tif2>
+<image_jpg>eng_word-list_1964_01.jpg</image_jpg>
+<image_jpg2>eng_word-list_1964_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1964_01.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1964_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>English</lang_name>
+<dialect>American (New York)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>1 June, 1966</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>New York, New York, U.S.A.</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1966_01</filename_audio>
+<filename_wav>eng_word-list_1966_01.wav</filename_wav>
+<filename_mp3>eng_word-list_1966_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1966_01.html</wordlist>
+<wordlist_entries>1 - 46</wordlist_entries>
+<image_tif>eng_word-list_1966_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1966_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#2</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1966_01.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1966_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>3</entry>
+<lang_name>English</lang_name>
+<dialect>American (Midwest)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>30 November, 1966</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1966_02</filename_audio>
+<filename_wav>eng_word-list_1966_02.wav</filename_wav>
+<filename_mp3>eng_word-list_1966_02.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1966_02.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>eng_word-list_1966_02.tif</image_tif>
+<image_tif2>eng_word-list_1966_03.tif</image_tif2>
+<image_jpg>eng_word-list_1966_02.jpg</image_jpg>
+<image_jpg2>eng_word-list_1966_03.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#3</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1966_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1966_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>4</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>23 September, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_01</filename_audio>
+<filename_wav>eng_word-list_1976_01.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_01.html</wordlist>
+<wordlist_entries>1 - 8</wordlist_entries>
+<image_tif></image_tif>
+<image_tif2></image_tif2>
+<image_jpg></image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#4</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_01.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>5</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>18 February, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_02</filename_audio>
+<filename_wav>eng_word-list_1976_02.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_02.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#5</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>6</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>18 February, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_03</filename_audio>
+<filename_wav>eng_word-list_1976_03.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_03.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#6</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>7</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>18 February, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_04</filename_audio>
+<filename_wav>eng_word-list_1976_04.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_04.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#7</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>8</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>19 February, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_05</filename_audio>
+<filename_wav>eng_word-list_1976_05.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_05.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#8</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>9</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>19 February, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_06</filename_audio>
+<filename_wav>eng_word-list_1976_06.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_06.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#9</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>10</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>19 February, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_07</filename_audio>
+<filename_wav>eng_word-list_1976_07.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_07.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#10</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>11</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>19 February, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_08</filename_audio>
+<filename_wav>eng_word-list_1976_08.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_08.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#11</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>12</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>19 February, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_09</filename_audio>
+<filename_wav>eng_word-list_1976_09.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_09.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#12</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>13</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>19 February, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_10</filename_audio>
+<filename_wav>eng_word-list_1976_10.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_10.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#13</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>14</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>25 February, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_11</filename_audio>
+<filename_wav>eng_word-list_1976_11.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_11.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#14</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>15</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>1 March, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_12</filename_audio>
+<filename_wav>eng_word-list_1976_12.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_12.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#15</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>16</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>1 March, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_13</filename_audio>
+<filename_wav>eng_word-list_1976_13.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_13.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#16</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>17</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>17 May, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_14</filename_audio>
+<filename_wav>eng_word-list_1976_14.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_14.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#17</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>18</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>17 May, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_15</filename_audio>
+<filename_wav>eng_word-list_1976_15.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_15.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#18</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>19</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>26 May, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_16</filename_audio>
+<filename_wav>eng_word-list_1976_16.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_16.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#19</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>20</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>26 May, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_17</filename_audio>
+<filename_wav>eng_word-list_1976_17.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_17.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#20</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>21</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>unknown</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_18</filename_audio>
+<filename_wav>eng_word-list_1976_18.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_18.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#21</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>22</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>4 November, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_19</filename_audio>
+<filename_wav>eng_word-list_1976_19.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_19.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#22</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>23</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>unknown</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_20</filename_audio>
+<filename_wav>eng_word-list_1976_20.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_20.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#23</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>24</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>5 September, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>unknown</origin>
+<speakers>N/A</speakers>
+<filename_audio>eng_word-list_1976_21</filename_audio>
+<filename_wav>eng_word-list_1976_21.wav</filename_wav>
+<filename_mp3>eng_word-list_1976_21.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1976_02.html</wordlist>
+<wordlist_entries>1 - 11</wordlist_entries>
+<image_tif>eng_word-list_1976_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>eng_word-list_1976_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#24</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1976_02.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1976_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>25</entry>
+<lang_name>English</lang_name>
+<dialect>American (not specified)</dialect>
+<sil_code>eng</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>1977</recording_date>
+<fieldworkers>R. Harshman, P. Ladefoged, L. Goldstein (see Factor analysis of tongue shapes, 1977)</fieldworkers>
+<origin>unknown</origin>
+<speakers> Mr. Bailey, Mr. Bohan, Mr. Grasso, Mr.Jacobus, Mr. Kotok, Mr. ?</speakers>
+<filename_audio>eng_word-list_1977_01</filename_audio>
+<filename_wav>eng_word-list_1977_01.wav</filename_wav>
+<filename_mp3>eng_word-list_1977_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>eng_word-list_1977_01.html</wordlist>
+<wordlist_entries>1 - 12</wordlist_entries>
+<image_tif></image_tif>
+<image_tif2></image_tif2>
+<image_jpg></image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>eng_record_details.html#25</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>eng_word-list_1977_01.html</wordlist_no_repetition>
+<link_within_wordlist>eng_word-list_1977_01.html#1</link_within_wordlist>
+</item>
+</metadata>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

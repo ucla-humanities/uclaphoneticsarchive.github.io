@@ -1,0 +1,83 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Oro Win</language_name>
+
+
+
+
+<headers>
+
+<native_orthography_header>Wari'</native_orthography_header>
+
+<IPA_header>IPA</IPA_header>
+<alt_IPA_header>IPA 2</alt_IPA_header>
+<gloss_header>English</gloss_header>
+<alt_gloss_header>Swahili</alt_gloss_header>
+
+</headers>
+<item>
+<entry>1</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tʙ̥otʙ̥ok inan</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>I walk on logs.</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kotʙ̥ok inan</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>I start a motor.</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>katʙ̥ʉ na</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>It is an owl.</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tʙ̥untʙʉ na</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>It is a helicopter.</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tʙ̥um</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>Small boy.</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+</wordlist>
+
+
+
+
+
+
+
+
+

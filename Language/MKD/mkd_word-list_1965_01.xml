@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Macedonian</language_name>
+
+<headers>
+
+<native_orthography>Sound Illustrated</native_orthography>
+<alt_orthography>Phonemic Transcription</alt_orthography>
+<IPA_header>IPA</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>/p/ after /s/</native_orthography>
+<alt_orthography>spaf</alt_orthography>
+<IPA_transcription>spɑf</IPA_transcription>
+<gloss>I know</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>/p/ after /s/</native_orthography>
+<alt_orthography>gospot</alt_orthography>
+<IPA_transcription>ˈɣospotʰ</IPA_transcription>
+<gloss>God</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>initial /p/</native_orthography>
+<alt_orthography>pravo</alt_orthography>
+<IPA_transcription>ˈpʰrɑvo</IPA_transcription>
+<gloss>straight</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>initial /p/</native_orthography>
+<alt_orthography>pr̩sti</alt_orthography>
+<IPA_transcription>ˈpʰṛsti</IPA_transcription>
+<gloss>fast</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>initial /p/</native_orthography>
+<alt_orthography>prijatel</alt_orthography>
+<IPA_transcription>ˈpriət̪ʰɛl</IPA_transcription>
+<gloss>friend</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>initial /p/</native_orthography>
+<alt_orthography>pročitaf</alt_orthography>
+<IPA_transcription>ˈpʰrot̪ɕit̪ʰəf</IPA_transcription>
+<gloss>I finish</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>initial /p/</native_orthography>
+<alt_orthography>plivam</alt_orthography>
+<IPA_transcription>̪ˈpʰlivəm</IPA_transcription>
+<gloss>I swim</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>initial /p/</native_orthography>
+<alt_orthography>planina</alt_orthography>
+<IPA_transcription>ˈpʰlɑninɑ</IPA_transcription>
+<gloss>mountain</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>initial /p/</native_orthography>
+<alt_orthography>palec</alt_orthography>
+<IPA_transcription>ˈpʰɑlɛts</IPA_transcription>
+<gloss>toe</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>initial /p/</native_orthography>
+<alt_orthography>poleka</alt_orthography>
+<IPA_transcription>ˈpʰolɛ˔kʰ</IPA_transcription>
+<gloss>slow</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>initial /p/</native_orthography>
+<alt_orthography>pero</alt_orthography>
+<IPA_transcription>ˈpʰɛɾo</IPA_transcription>
+<gloss>pen</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>initial /p/</native_orthography>
+<alt_orthography>pismo</alt_orthography>
+<IPA_transcription>ˈpʰismo</IPA_transcription>
+<gloss>letter</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>initial /p/</native_orthography>
+<alt_orthography>pusčif</alt_orthography>
+<IPA_transcription>ˈpʰuʃt̪ɕɩf</IPA_transcription>
+<gloss>I drop</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>medial /p/</native_orthography>
+<alt_orthography>topol</alt_orthography>
+<IPA_transcription>ˈtʰopʰol</IPA_transcription>
+<gloss>warm</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>medial /p/</native_orthography>
+<alt_orthography>skapo</alt_orthography>
+<IPA_transcription>ˈs̪kɑpʰo</IPA_transcription>
+<gloss>expensive</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>medial /p/</native_orthography>
+<alt_orthography>čupe</alt_orthography>
+<IPA_transcription>ˈt̪ɕupʰe</IPA_transcription>
+<gloss>child</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>final /p/</native_orthography>
+<alt_orthography>čorap</alt_orthography>
+<IPA_transcription>ˈt̪ɕoɾəpm̩</IPA_transcription>
+<gloss>stocking</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>/k/ after /s/</native_orthography>
+<alt_orthography>skapo</alt_orthography>
+<IPA_transcription>ˈskʰɑpʰo</IPA_transcription>
+<gloss>expensive</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>/k/ after /s/</native_orthography>
+<alt_orthography>žeško</alt_orthography>
+<IPA_transcription>ˈʑɛɕkʰo</IPA_transcription>
+<gloss>hot</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>/k/ after /s/</native_orthography>
+<alt_orthography>niska</alt_orthography>
+<IPA_transcription>ˈniskʰɑ</IPA_transcription>
+<gloss>short</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>/k/ after /s/</native_orthography>
+<alt_orthography>skeršena</alt_orthography>
+<IPA_transcription>ˈskʰə˔ɹɕɛn</IPA_transcription>
+<gloss>broken</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>initial /k/</native_orthography>
+<alt_orthography>kamen</alt_orthography>
+<IPA_transcription>ˈkʰɑmɛn</IPA_transcription>
+<gloss>rock</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>initial /k/</native_orthography>
+<alt_orthography>kostum</alt_orthography>
+<IPA_transcription>ˈkʰost̪ʰum</IPA_transcription>
+<gloss>suit</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>initial /k/</native_orthography>
+<alt_orthography>kosa</alt_orthography>
+<IPA_transcription>ˈkʰosɑ</IPA_transcription>
+<gloss>hair</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>initial /k/</native_orthography>
+<alt_orthography>kufer</alt_orthography>
+<IPA_transcription>ˈkʰufɛṛ</IPA_transcription>
+<gloss>suitcase</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>initial /k/</native_orthography>
+<alt_orthography>kilim</alt_orthography>
+<IPA_transcription>ˈkxilim</IPA_transcription>
+<gloss>rug</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>initial /k/</native_orthography>
+<alt_orthography>kino</alt_orthography>
+<IPA_transcription>ˈkxino</IPA_transcription>
+<gloss>movie</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>initial /k/</native_orthography>
+<alt_orthography>klenaf</alt_orthography>
+<IPA_transcription>ˈklɛknəf</IPA_transcription>
+<gloss>I kick</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>initial /k/</native_orthography>
+<alt_orthography>krenaf</alt_orthography>
+<IPA_transcription>ˈkrenəf</IPA_transcription>
+<gloss>I lift</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>initial /k/</native_orthography>
+<alt_orthography>klepka</alt_orthography>
+<IPA_transcription>ˈklɛpkʰɑ</IPA_transcription>
+<gloss>eyelash</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>medial /k/</native_orthography>
+<alt_orthography>jako</alt_orthography>
+<IPA_transcription>ˈjɑkʰo</IPA_transcription>
+<gloss>hard</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>medial /k/</native_orthography>
+<alt_orthography>majka</alt_orthography>
+<IPA_transcription>ˈmɑjkʰɑ</IPA_transcription>
+<gloss>mother</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>medial /k/</native_orthography>
+<alt_orthography>majki</alt_orthography>
+<IPA_transcription>mɑjkxi</IPA_transcription>
+<gloss>mothers</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>medial /k/</native_orthography>
+<alt_orthography>reka</alt_orthography>
+<IPA_transcription>ɾekʰɑ</IPA_transcription>
+<gloss>river</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>medial /k/</native_orthography>
+<alt_orthography>cveke</alt_orthography>
+<IPA_transcription>tsveⁱkxe</IPA_transcription>
+<gloss>flower</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>medial /k/</native_orthography>
+<alt_orthography>valkan</alt_orthography>
+<IPA_transcription>vɑlkʰɑn</IPA_transcription>
+<gloss>dirty</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>final /k/</native_orthography>
+<alt_orthography>pesok</alt_orthography>
+<IPA_transcription>ˈpʰesokʰ</IPA_transcription>
+<gloss>sand</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>final /k/</native_orthography>
+<alt_orthography>nisok</alt_orthography>
+<IPA_transcription>ˈnisokʰ</IPA_transcription>
+<gloss>short</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>final /k/</native_orthography>
+<alt_orthography>žežuk</alt_orthography>
+<IPA_transcription>ˈʑɛʑukŋ̥</IPA_transcription>
+<gloss>hot</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>palatalized /k/</native_orthography>
+<alt_orthography>pleka</alt_orthography>
+<IPA_transcription>plekxʲɑ</IPA_transcription>
+<gloss>back</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>palatalized /k/</native_orthography>
+<alt_orthography>dujkan</alt_orthography>
+<IPA_transcription>dujcçɑn</IPA_transcription>
+<gloss>store</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>palatalized /k/</native_orthography>
+<alt_orthography>gajka</alt_orthography>
+<IPA_transcription>gɑjcçɑ</IPA_transcription>
+<gloss>underwear</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>/t/ after /s/</native_orthography>
+<alt_orthography>mosto</alt_orthography>
+<IPA_transcription>ˈmosθo</IPA_transcription>
+<gloss>bridge</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>/t/ after /s/</native_orthography>
+<alt_orthography>stol</alt_orthography>
+<IPA_transcription>ˈst̪ol</IPA_transcription>
+<gloss>chair</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>/t/ after /s/</native_orthography>
+<alt_orthography>stara</alt_orthography>
+<IPA_transcription>ˈst̪ɑɽɑ</IPA_transcription>
+<gloss>old</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>/t/ after /s/</native_orthography>
+<alt_orthography>čista</alt_orthography>
+<IPA_transcription>ˈt̪ɕisθɑ</IPA_transcription>
+<gloss>clean</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>/t/ after /s/</native_orthography>
+<alt_orthography>studen</alt_orthography>
+<IPA_transcription>ˈst̪uðɛn</IPA_transcription>
+<gloss>cold</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>initial /t/</native_orthography>
+<alt_orthography>topka</alt_orthography>
+<IPA_transcription>t̪ʰopʰkʰɑ</IPA_transcription>
+<gloss>ball</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>initial /t/</native_orthography>
+<alt_orthography>turnam</alt_orthography>
+<IPA_transcription>tʰurnəm</IPA_transcription>
+<gloss>I push</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>initial /t/</native_orthography>
+<alt_orthography>tatko</alt_orthography>
+<IPA_transcription>t̪ʰɑt̪ʰkʰo</IPA_transcription>
+<gloss>father</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>initial /t/</native_orthography>
+<alt_orthography>tetka</alt_orthography>
+<IPA_transcription>t̪ʰɛt̪ʰkʰɑ</IPA_transcription>
+<gloss>Aunt</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>medial /t/</native_orthography>
+<alt_orthography>zatfor</alt_orthography>
+<IPA_transcription>ˈzat̪ʰfoṛ</IPA_transcription>
+<gloss>bad man</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>medial /t/</native_orthography>
+<alt_orthography>furtuna</alt_orthography>
+<IPA_transcription>ˈfuṛt̪ʰuna</IPA_transcription>
+<gloss>weather</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>medial /t/</native_orthography>
+<alt_orthography>utre</alt_orthography>
+<IPA_transcription>ˈʔut̪ʰre</IPA_transcription>
+<gloss>tomorrow</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>medial /t/</native_orthography>
+<alt_orthography>dete</alt_orthography>
+<IPA_transcription>d̪ɛt̪ʰe</IPA_transcription>
+<gloss>child</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>medial /t/</native_orthography>
+<alt_orthography>leto</alt_orthography>
+<IPA_transcription>let̪ʰo</IPA_transcription>
+<gloss>summer</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>medial /t/</native_orthography>
+<alt_orthography>sfetlo</alt_orthography>
+<IPA_transcription>sfɛt̪lo</IPA_transcription>
+<gloss>bright</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>medial /t/</native_orthography>
+<alt_orthography>eftino</alt_orthography>
+<IPA_transcription>ˈʔɛftʰino</IPA_transcription>
+<gloss>cheap</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>medial /t/</native_orthography>
+<alt_orthography>naluten</alt_orthography>
+<IPA_transcription>nɑˈlutʰɛn</IPA_transcription>
+<gloss>mad</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>medial /t/</native_orthography>
+<alt_orthography>čitam</alt_orthography>
+<IPA_transcription>t̪ɕit̪ʰəm</IPA_transcription>
+<gloss>I read</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>final /t/</native_orthography>
+<alt_orthography>vervlist</alt_orthography>
+<IPA_transcription>vərvlɩst̪ʰ</IPA_transcription>
+<gloss>pointed</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>final /t/</native_orthography>
+<alt_orthography>gospot</alt_orthography>
+<IPA_transcription>ɣospot̪ʰ</IPA_transcription>
+<gloss>God</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>initial /b/</native_orthography>
+<alt_orthography>bolen</alt_orthography>
+<IPA_transcription>ˈbolɛn</IPA_transcription>
+<gloss>sick</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>initial /b/</native_orthography>
+<alt_orthography>bivol</alt_orthography>
+<IPA_transcription>ˈbivol</IPA_transcription>
+<gloss>water buffalo</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>initial /b/</native_orthography>
+<alt_orthography>begam</alt_orthography>
+<IPA_transcription>ˈbegəm</IPA_transcription>
+<gloss>I run</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>initial /b/</native_orthography>
+<alt_orthography>barzam</alt_orthography>
+<IPA_transcription>ˈbərzəm</IPA_transcription>
+<gloss>fast</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>initial /b/</native_orthography>
+<alt_orthography>basma</alt_orthography>
+<IPA_transcription>ˈbɑsmɑ</IPA_transcription>
+<gloss>material</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>medial /b/</native_orthography>
+<alt_orthography>debel</alt_orthography>
+<IPA_transcription>ˈdɛbɛ˔l</IPA_transcription>
+<gloss>fat</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>medial /b/</native_orthography>
+<alt_orthography>slabo</alt_orthography>
+<IPA_transcription>ˈslɑβo</IPA_transcription>
+<gloss>skinny</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>medial /b/</native_orthography>
+<alt_orthography>ǰebo</alt_orthography>
+<IPA_transcription>ˈd̪ʑebo</IPA_transcription>
+<gloss>pocket</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>medial /b/</native_orthography>
+<alt_orthography>nebe</alt_orthography>
+<IPA_transcription>ˈneβe</IPA_transcription>
+<gloss>cloud</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>medial /b/</native_orthography>
+<alt_orthography>tebe</alt_orthography>
+<IPA_transcription>ˈtʰebe</IPA_transcription>
+<gloss>to you</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>medial /b/</native_orthography>
+<alt_orthography>dober</alt_orthography>
+<IPA_transcription>ˈd̪obər</IPA_transcription>
+<gloss>kind</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>medial /b/</native_orthography>
+<alt_orthography>dobri</alt_orthography>
+<IPA_transcription>ˈdobɾi</IPA_transcription>
+<gloss>kind</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>medial /b/</native_orthography>
+<alt_orthography>zabi</alt_orthography>
+<IPA_transcription>ˈzɑbi˕</IPA_transcription>
+<gloss>tooth</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>initial /d/</native_orthography>
+<alt_orthography>dojdi</alt_orthography>
+<IPA_transcription>ˈd̪ojd̪i</IPA_transcription>
+<gloss>he comes</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>initial /d/</native_orthography>
+<alt_orthography>dam</alt_orthography>
+<IPA_transcription>ˈd̪ɑm</IPA_transcription>
+<gloss>I give</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>initial /d/</native_orthography>
+<alt_orthography>dete</alt_orthography>
+<IPA_transcription>ˈd̪ɛt̪e</IPA_transcription>
+<gloss>child</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>initial /d/</native_orthography>
+<alt_orthography>doš</alt_orthography>
+<IPA_transcription>ˈd̪oɕ</IPA_transcription>
+<gloss>rain</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>medial /d/</native_orthography>
+<alt_orthography>odam</alt_orthography>
+<IPA_transcription>ˈʔod̪əm</IPA_transcription>
+<gloss>I go</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>medial /d/</native_orthography>
+<alt_orthography>vidof</alt_orthography>
+<IPA_transcription>ˈvid̪of</IPA_transcription>
+<gloss>I see</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>medial /d/</native_orthography>
+<alt_orthography>dadof</alt_orthography>
+<IPA_transcription>ˈd̪ɑd̪of</IPA_transcription>
+<gloss>I return</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>medial /d/</native_orthography>
+<alt_orthography>zedof</alt_orthography>
+<IPA_transcription>ˈzɛðof</IPA_transcription>
+<gloss>I take</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>medial /d/</native_orthography>
+<alt_orthography>govedo</alt_orthography>
+<IPA_transcription>ˈgovɛd̪o</IPA_transcription>
+<gloss>animal</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>medial /d/</native_orthography>
+<alt_orthography>studen</alt_orthography>
+<IPA_transcription>ˈst̪uðɛn</IPA_transcription>
+<gloss>cold</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography>medial /d/</native_orthography>
+<alt_orthography>vodata</alt_orthography>
+<IPA_transcription>ˈvɔd̪ɑt̪ə</IPA_transcription>
+<gloss>water</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>medial /d/</native_orthography>
+<alt_orthography>gradi</alt_orthography>
+<IPA_transcription>ˈgrɑd̪i</IPA_transcription>
+<gloss>chest</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>medial /d/</native_orthography>
+<alt_orthography>gjerdan</alt_orthography>
+<IPA_transcription>ˈɣɛrd̪ɑn</IPA_transcription>
+<gloss>necklace</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>initial /g/</native_orthography>
+<alt_orthography>gjerdan</alt_orthography>
+<IPA_transcription>ˈɣjɛrd̪ɑn</IPA_transcription>
+<gloss>necklace</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography>initial /g/</native_orthography>
+<alt_orthography>govoritel</alt_orthography>
+<IPA_transcription>ˈɣovoˈɽit̪ʰɛl</IPA_transcription>
+<gloss>speaker</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography>initial /g/</native_orthography>
+<alt_orthography>gijudiram</alt_orthography>
+<IPA_transcription>ˈgiˈuðiɾəm</IPA_transcription>
+<gloss>I hit them</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography>medial /g/</native_orthography>
+<alt_orthography>sigoren</alt_orthography>
+<IPA_transcription>ˈsigoɽɛn</IPA_transcription>
+<gloss>sure</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography>medial /g/</native_orthography>
+<alt_orthography>nikogo</alt_orthography>
+<IPA_transcription>ˈnixoɣo</IPA_transcription>
+<gloss>anyone</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography>medial /g/</native_orthography>
+<alt_orthography>noga</alt_orthography>
+<IPA_transcription>ˈnogɑ</IPA_transcription>
+<gloss>leg</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography>medial /g/</native_orthography>
+<alt_orthography>knigi</alt_orthography>
+<IPA_transcription>ˈk͡ṇiɣi</IPA_transcription>
+<gloss>papers</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography>medial /g/</native_orthography>
+<alt_orthography>sluga</alt_orthography>
+<IPA_transcription>ˈsluɣɑ</IPA_transcription>
+<gloss>servant</gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<native_orthography>medial /g/</native_orthography>
+<alt_orthography>sluginka</alt_orthography>
+<IPA_transcription>ˈsluɣinkʰɑ</IPA_transcription>
+<gloss>maid</gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<native_orthography>medial /g/</native_orthography>
+<alt_orthography>toga</alt_orthography>
+<IPA_transcription>ˈtogɑj</IPA_transcription>
+<gloss>then</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography>medial /g/</native_orthography>
+<alt_orthography>bogati</alt_orthography>
+<IPA_transcription>ˈboɣɑti</IPA_transcription>
+<gloss>rich</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography>medial /g/</native_orthography>
+<alt_orthography>vejga</alt_orthography>
+<IPA_transcription>ˈvejɣʲɑ</IPA_transcription>
+<gloss>eyebrow</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography>medial /g/</native_orthography>
+<alt_orthography>kniga</alt_orthography>
+<IPA_transcription>ˈkʰnigɑ</IPA_transcription>
+<gloss>papers</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography>/l/ with back vowels</native_orthography>
+<alt_orthography>klocenam</alt_orthography>
+<IPA_transcription>ˈkʰlot̪snəm</IPA_transcription>
+<gloss>I kick</gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography>/l/ with back vowels</native_orthography>
+<alt_orthography>žalam</alt_orthography>
+<IPA_transcription>ˈzɑləm</IPA_transcription>
+<gloss>I worry</gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography>/l/ with back vowels</native_orthography>
+<alt_orthography>loš</alt_orthography>
+<IPA_transcription>ˈloɕ</IPA_transcription>
+<gloss>anger</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography>/l/ with back vowels</native_orthography>
+<alt_orthography>topol</alt_orthography>
+<IPA_transcription>tʰopʰol</IPA_transcription>
+<gloss>warm</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography>/l/ with front vowels</native_orthography>
+<alt_orthography>ili</alt_orthography>
+<IPA_transcription>ˈʔili</IPA_transcription>
+<gloss>or</gloss>
+</item>
+
+<item>
+<entry>107</entry>
+<native_orthography>/l/ with front vowels</native_orthography>
+<alt_orthography>lesno</alt_orthography>
+<IPA_transcription>ˈlɛsno</IPA_transcription>
+<gloss>easy</gloss>
+</item>
+
+<item>
+<entry>108</entry>
+<native_orthography>/l/ with front vowels</native_orthography>
+<alt_orthography>uprablijavam</alt_orthography>
+<IPA_transcription>upˈɾɑvˈljɑvəm</IPA_transcription>
+<gloss>rule</gloss>
+</item>
+
+<item>
+<entry>109</entry>
+<native_orthography>/l/ with front vowels</native_orthography>
+<alt_orthography>ličen</alt_orthography>
+<IPA_transcription>ˈlit̪ɕɛ˔n</IPA_transcription>
+<gloss>beautiful</gloss>
+</item>
+
+<item>
+<entry>110</entry>
+<native_orthography>/l/ with front vowels</native_orthography>
+<alt_orthography>pantolomi</alt_orthography>
+<IPA_transcription>pʰənˈtʰolomi</IPA_transcription>
+<gloss>pants</gloss>
+</item>
+
+<item>
+<entry>111</entry>
+<native_orthography>final /r/</native_orthography>
+<alt_orthography>mačor</alt_orthography>
+<IPA_transcription>ˈmat̪ɕor</IPA_transcription>
+<gloss>bull</gloss>
+</item>
+
+<item>
+<entry>112</entry>
+<native_orthography>final /r/</native_orthography>
+<alt_orthography>glavatar</alt_orthography>
+<IPA_transcription>ˈglɑvɑt̪ʰɑṛ</IPA_transcription>
+<gloss>leader</gloss>
+</item>
+
+<item>
+<entry>113</entry>
+<native_orthography>non-final /r/</native_orthography>
+<alt_orthography>zborubam</alt_orthography>
+<IPA_transcription>ˈzboɾuβəm</IPA_transcription>
+<gloss>I talk</gloss>
+</item>
+
+<item>
+<entry>114</entry>
+<native_orthography>non-final /r/</native_orthography>
+<alt_orthography>zatfornik</alt_orthography>
+<IPA_transcription>ˈzat̪ʰfornɩkx</IPA_transcription>
+<gloss>prisoners</gloss>
+</item>
+
+<item>
+<entry>115</entry>
+<native_orthography>non-final /r/</native_orthography>
+<alt_orthography>turnam</alt_orthography>
+<IPA_transcription>ˈtʰurnəm</IPA_transcription>
+<gloss>I push</gloss>
+</item>
+
+<item>
+<entry>116</entry>
+<native_orthography>non-final /r/</native_orthography>
+<alt_orthography>tr̩gnam</alt_orthography>
+<IPA_transcription>ˈt̪ʰr̩gnəm</IPA_transcription>
+<gloss>I pull</gloss>
+</item>
+
+<item>
+<entry>117</entry>
+<native_orthography>non-final /r/</native_orthography>
+<alt_orthography>pr̩sten</alt_orthography>
+<IPA_transcription>ˈpʰr̩stɛn</IPA_transcription>
+<gloss>ring</gloss>
+</item>
+
+<item>
+<entry>118</entry>
+<native_orthography>non-final /r/</native_orthography>
+<alt_orthography>sfirač</alt_orthography>
+<IPA_transcription>ˈsfɩɾət̪ɕ</IPA_transcription>
+<gloss>music</gloss>
+</item>
+
+<item>
+<entry>119</entry>
+<native_orthography>non-final /r/</native_orthography>
+<alt_orthography>prijatel</alt_orthography>
+<IPA_transcription>ˈpʰɾiɑtʰɛl</IPA_transcription>
+<gloss>friend</gloss>
+</item>
+
+<item>
+<entry>120</entry>
+<native_orthography>non-final /r/</native_orthography>
+<alt_orthography>ripnaf</alt_orthography>
+<IPA_transcription>ˈripnəf</IPA_transcription>
+<gloss>I jump</gloss>
+</item>
+
+<item>
+<entry>121</entry>
+<native_orthography>k/x</native_orthography>
+<alt_orthography>žežuk</alt_orthography>
+<IPA_transcription>ˈʑɛʑukx</IPA_transcription>
+<gloss>hot</gloss>
+</item>
+
+<item>
+<entry>122</entry>
+<native_orthography>k/x</native_orthography>
+<alt_orthography>vazdux</alt_orthography>
+<IPA_transcription>ˈvazdu˕x</IPA_transcription>
+<gloss>air</gloss>
+</item>
+
+<item>
+<entry>123</entry>
+<native_orthography>k/x</native_orthography>
+<alt_orthography>kuxnata</alt_orthography>
+<IPA_transcription>ˈkxuxnɑt̪ɑ</IPA_transcription>
+<gloss>kitchen</gloss>
+</item>
+
+<item>
+<entry>124</entry>
+<native_orthography>j/i</native_orthography>
+<alt_orthography>upravljavam</alt_orthography>
+<IPA_transcription>ˈuprɑvljɑvəm</IPA_transcription>
+<gloss>I rule</gloss>
+</item>
+
+<item>
+<entry>125</entry>
+<native_orthography>j/i</native_orthography>
+<alt_orthography>sandaliata</alt_orthography>
+<IPA_transcription>ˈsənd̪əliət̪ə</IPA_transcription>
+<gloss>chair</gloss>
+</item>
+
+<item>
+<entry>126</entry>
+<native_orthography>j/i</native_orthography>
+<alt_orthography>zemja</alt_orthography>
+<IPA_transcription>ˈzɛmjɑ</IPA_transcription>
+<gloss>ground</gloss>
+</item>
+
+<item>
+<entry>127</entry>
+<native_orthography>j/i</native_orthography>
+<alt_orthography>kutia</alt_orthography>
+<IPA_transcription>ˈkʰutʰiɑ</IPA_transcription>
+<gloss>box</gloss>
+</item>
+
+<item>
+<entry>128</entry>
+<native_orthography>/i/</native_orthography>
+<alt_orthography>vesil</alt_orthography>
+<IPA_transcription>̟ˈvɛsɩl</IPA_transcription>
+<gloss>happy</gloss>
+</item>
+
+<item>
+<entry>129</entry>
+<native_orthography>/i/</native_orthography>
+<alt_orthography>eftino</alt_orthography>
+<IPA_transcription>ˈʔɛftʰino</IPA_transcription>
+<gloss>cheap</gloss>
+</item>
+
+<item>
+<entry>130</entry>
+<native_orthography>/i/</native_orthography>
+<alt_orthography>dastanim turkina</alt_orthography>
+<IPA_transcription>d̪əˈstɑnɩm ˈtʰurkʰina</IPA_transcription>
+<gloss>to become Turkish</gloss>
+</item>
+
+<item>
+<entry>131</entry>
+<native_orthography>/e/</native_orthography>
+<alt_orthography>žena</alt_orthography>
+<IPA_transcription>ˈʑɛnɑ</IPA_transcription>
+<gloss>woman</gloss>
+</item>
+
+<item>
+<entry>132</entry>
+<native_orthography>/e/</native_orthography>
+<alt_orthography>lesno</alt_orthography>
+<IPA_transcription>ˈlɛsno</IPA_transcription>
+<gloss>easy</gloss>
+</item>
+
+<item>
+<entry>133</entry>
+<native_orthography>/e/</native_orthography>
+<alt_orthography>sfetlo</alt_orthography>
+<IPA_transcription>ˈsfɛt̪lo</IPA_transcription>
+<gloss>bright</gloss>
+</item>
+
+<item>
+<entry>134</entry>
+<native_orthography>/e/</native_orthography>
+<alt_orthography>silen</alt_orthography>
+<IPA_transcription>ˈsilɛn</IPA_transcription>
+<gloss>loud</gloss>
+</item>
+
+<item>
+<entry>135</entry>
+<native_orthography>/e/</native_orthography>
+<alt_orthography>meko</alt_orthography>
+<IPA_transcription>ˈmekʰo</IPA_transcription>
+<gloss>soft</gloss>
+</item>
+
+<item>
+<entry>136</entry>
+<native_orthography>/e/</native_orthography>
+<alt_orthography>poleka</alt_orthography>
+<IPA_transcription>ˈpʰolɛ˔kʰɑ</IPA_transcription>
+<gloss>slow</gloss>
+</item>
+
+<item>
+<entry>137</entry>
+<native_orthography>/e/</native_orthography>
+<alt_orthography>pejec</alt_orthography>
+<IPA_transcription>ˈpʰeɛts</IPA_transcription>
+<gloss>singer</gloss>
+</item>
+
+<item>
+<entry>138</entry>
+<native_orthography>/a/</native_orthography>
+<alt_orthography>sakam</alt_orthography>
+<IPA_transcription>sɑkxəm</IPA_transcription>
+<gloss>I want</gloss>
+</item>
+
+<item>
+<entry>139</entry>
+<native_orthography>/a/</native_orthography>
+<alt_orthography>probaf</alt_orthography>
+<IPA_transcription>ˈpʰrobəf</IPA_transcription>
+<gloss>I try</gloss>
+</item>
+
+<item>
+<entry>140</entry>
+<native_orthography>/a/</native_orthography>
+<alt_orthography>krenaf</alt_orthography>
+<IPA_transcription>ˈkʰɾenəf</IPA_transcription>
+<gloss>I lift</gloss>
+</item>
+
+<item>
+<entry>141</entry>
+<native_orthography>/a/</native_orthography>
+<alt_orthography>ripnaf</alt_orthography>
+<IPA_transcription>ˈɾipnəf</IPA_transcription>
+<gloss>I jump</gloss>
+</item>
+
+<item>
+<entry>142</entry>
+<native_orthography>/a/</native_orthography>
+<alt_orthography>togaj</alt_orthography>
+<IPA_transcription>ˈt̪ʰogɑj</IPA_transcription>
+<gloss>them</gloss>
+</item>
+
+<item>
+<entry>143</entry>
+<native_orthography>/o/</native_orthography>
+<alt_orthography>noga</alt_orthography>
+<IPA_transcription>ˈnogɑ</IPA_transcription>
+<gloss>leg</gloss>
+</item>
+
+<item>
+<entry>144</entry>
+<native_orthography>/o/</native_orthography>
+<alt_orthography>donesa</alt_orthography>
+<IPA_transcription>ˈdɔ˔nɛsɑ</IPA_transcription>
+<gloss>he brings</gloss>
+</item>
+
+<item>
+<entry>145</entry>
+<native_orthography>/o/</native_orthography>
+<alt_orthography>toj</alt_orthography>
+<IPA_transcription>tʰoj</IPA_transcription>
+<gloss>he</gloss>
+</item>
+
+<item>
+<entry>146</entry>
+<native_orthography>/o/</native_orthography>
+<alt_orthography>narodo</alt_orthography>
+<IPA_transcription>ˈnɑɾoðo˔</IPA_transcription>
+<gloss>people</gloss>
+</item>
+
+<item>
+<entry>147</entry>
+<native_orthography>/u/</native_orthography>
+<alt_orthography>ubiets</alt_orthography>
+<IPA_transcription>ˈʔubits</IPA_transcription>
+<gloss>murderer</gloss>
+</item>
+
+<item>
+<entry>148</entry>
+<native_orthography>/u/</native_orthography>
+<alt_orthography>žežuk</alt_orthography>
+<IPA_transcription>ʑɛʑukx</IPA_transcription>
+<gloss>hot</gloss>
+</item>
+
+<item>
+<entry>149</entry>
+<native_orthography>/u/</native_orthography>
+<alt_orthography>kuika</alt_orthography>
+<IPA_transcription>ˈkʰuicçɑ</IPA_transcription>
+<gloss>house</gloss>
+</item>
+
+<item>
+<entry>150</entry>
+<native_orthography>/r/</native_orthography>
+<alt_orthography>mr̩zlif</alt_orthography>
+<IPA_transcription>ˈmɹ̩zlif</IPA_transcription>
+<gloss>lazy</gloss>
+</item>
+
+<item>
+<entry>151</entry>
+<native_orthography>/r/</native_orthography>
+<alt_orthography>kr̩talesto</alt_orthography>
+<IPA_transcription>kʰɹ̩ˈtʰalɛsto</IPA_transcription>
+<gloss>round</gloss>
+</item>
+
+<item>
+<entry>152</entry>
+<native_orthography>/r/</native_orthography>
+<alt_orthography>tr̩gram</alt_orthography>
+<IPA_transcription>ˈtʰr̩grəm</IPA_transcription>
+<gloss>pull</gloss>
+</item>
+
+<item>
+<entry>153</entry>
+<native_orthography>/r/</native_orthography>
+<alt_orthography>pr̩sten</alt_orthography>
+<IPA_transcription>ˈpʰr̩stɛn</IPA_transcription>
+<gloss>ring</gloss>
+</item>
+</wordlist>

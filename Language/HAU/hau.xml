@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata>
+<language_name>Hausa</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language:</lang_name_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<speakers_header>Speakers</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>Tiff Image</image_tif_header>
+<image_tif2_header>Tiff Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality </tif_quality_header>
+<jpg_quality_header>JPG Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+<item>
+<entry>1</entry>
+<lang_name>Hausa</lang_name>
+<sil_code>HAU</sil_code>
+<content>Word List</content>
+<recording_location>University of Ibadan, Nigeria; speaker is from Zaria, Nigeria</recording_location>
+<recording_date>4 December, 1961</recording_date>
+<fieldworkers>Peter Ladefoged</fieldworkers>
+<speakers>Y. Aliyu</speakers>
+<filename_audio>hau_word-list_1961_01</filename_audio>
+<filename_wav>hau_word-list_1961_01.wav</filename_wav>
+<filename_mp3>hau_word-list_1961_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>hau_word-list_1961_01.html</wordlist>
+<wordlist_entries>1 - 25</wordlist_entries>
+<image_tif>hau_word-list_1961_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>hau_word-list_1961_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>hau_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>hau_word-list_1961_01.html</wordlist_no_repetition>
+<link_within_wordlist>hau_word-list_1961_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>Hausa</lang_name>
+<sil_code>HAU</sil_code>
+<content>Word List</content>
+<recording_location>University of Ibadan, Nigeria; speaker is from Zaria, Nigeria</recording_location>
+<recording_date>9 March, 1962</recording_date>
+<fieldworkers>Peter Ladefoged</fieldworkers>
+<speakers>Y. Aliyu</speakers>
+<filename_audio>hau_word-list_1962_01</filename_audio>
+<filename_wav>hau_word-list_1962_01.wav</filename_wav>
+<filename_mp3>hau_word-list_1962_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>hau_word-list_1962_01.html</wordlist>
+<wordlist_entries>1 - 46</wordlist_entries>
+<image_tif>hau_word-list_1962_01.tif</image_tif>
+<image_tif2>hau_word-list_1962_02.tif</image_tif2>
+<image_jpg>hau_word-list_1962_01.jpg</image_jpg>
+<image_jpg2>hau_word-list_1962_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>hau_record_details.html#2</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>hau_word-list_1962_01.html</wordlist_no_repetition>
+<link_within_wordlist>hau_word-list_1962_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>3</entry>
+<lang_name>Hausa</lang_name>
+<sil_code>HAU</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Laboratory; speaker is from Kano, Nigeria</recording_location>
+<recording_date>23 May, 1973</recording_date>
+<fieldworkers>UCLA student</fieldworkers>
+<speakers>N/A</speakers>
+<filename_audio>hau_word-list_1973_01</filename_audio>
+<filename_wav>hau_word-list_1973_01.wav</filename_wav>
+<filename_mp3>hau_word-list_1973_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>hau_word-list_1973_01.html</wordlist>
+<wordlist_entries>1 - 50</wordlist_entries>
+<image_tif>hau_word-list_1973_01.tif</image_tif>
+<image_tif2>hau_word-list_1973_02.tif</image_tif2>
+<image_jpg>hau_word-list_1973_01.jpg</image_jpg>
+<image_jpg2>hau_word-list_1973_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>hau_record_details.html#3</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>hau_word-list_1973_01.html</wordlist_no_repetition>
+<link_within_wordlist>hau_word-list_1973_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>4</entry>
+<lang_name>Hausa</lang_name>
+<sil_code>HAU</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Laboratory; speaker is from Kano, Nigeria</recording_location>
+<recording_date>23 May, 1973</recording_date>
+<fieldworkers>UCLA student</fieldworkers>
+<speakers>N/A</speakers>
+<filename_audio>hau_word-list_1973_02</filename_audio>
+<filename_wav>hau_word-list_1973_02.wav</filename_wav>
+<filename_mp3>hau_word-list_1973_02.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>hau_word-list_1973_01.html</wordlist>
+<wordlist_entries>51 - 96</wordlist_entries>
+<image_tif>hau_word-list_1973_03.tif</image_tif>
+<image_tif2>hau_word-list_1973_04.tif</image_tif2>
+<image_jpg>hau_word-list_1973_03.jpg</image_jpg>
+<image_jpg2>hau_word-list_1973_04.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>hau_record_details.html#4</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>hau_word-list_1973_01.html#51</link_within_wordlist>
+</item>
+
+<item>
+<entry>5</entry>
+<lang_name>Hausa</lang_name>
+<sil_code>HAU</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Laboratory; speaker is from Azare, Nigeria</recording_location>
+<recording_date>24 May, 1974</recording_date>
+<fieldworkers>UCLA student</fieldworkers>
+<speakers>N/A</speakers>
+<filename_audio>hau_word-list_1974_01</filename_audio>
+<filename_wav>hau_word-list_1974_01.wav</filename_wav>
+<filename_mp3>hau_word-list_1974_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>hau_word-list_1974_01.html</wordlist>
+<wordlist_entries>1 - 46</wordlist_entries>
+<image_tif>hau_word-list_1974_01.tif</image_tif>
+<image_tif2>hau_word-list_1973_02.tif</image_tif2>
+<image_jpg>hau_word-list_1974_01.jpg</image_jpg>
+<image_jpg2>hau_word-list_1974_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>hau_record_details.html#5</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>hau_word-list_1974_01.html</wordlist_no_repetition>
+<link_within_wordlist>hau_word-list_1974_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>6</entry>
+<lang_name>Hausa (Kano)</lang_name>
+<sil_code>HAU</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Laboratory; speaker is from Unguwar Ninzam, Nigeria</recording_location>
+<recording_date>1981</recording_date>
+<fieldworkers>UCLA student</fieldworkers>
+<speakers>N/A</speakers>
+<filename_audio>hau_word-list_1981_01</filename_audio>
+<filename_wav>hau_word-list_1981_01.wav</filename_wav>
+<filename_mp3>hau_word-list_1981_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>hau_word-list_1981_01.html</wordlist>
+<wordlist_entries>1 - 77</wordlist_entries>
+<image_tif>hau_word-list_1981_01.tif</image_tif>
+<image_tif2>hau_word-list_1981_02.tif</image_tif2>
+<image_jpg>hau_word-list_1981_01.jpg</image_jpg>
+<image_jpg2>hau_word-list_1981_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>hau_record_details.html#6</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>hau_word-list_1981_01.html</wordlist_no_repetition>
+<link_within_wordlist>hau_word-list_1981_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>7</entry>
+<lang_name>Hausa</lang_name>
+<sil_code>HAU</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Laboratory; speaker is from Zaria, Nigeria</recording_location>
+<recording_date>unknown</recording_date>
+<fieldworkers>UCLA student</fieldworkers>
+<speakers>N/A</speakers>
+<filename_audio>hau_word-list_0000_01</filename_audio>
+<filename_wav>hau_word-list_0000_01.wav</filename_wav>
+<filename_mp3>hau_word-list_0000_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>hau_word-list_0000_01.html</wordlist>
+<wordlist_entries>1 - 37</wordlist_entries>
+<image_tif>hau_word-list_0000_01.tif</image_tif>
+<image_tif2>hau_word-list_0000_02.tif</image_tif2>
+<image_jpg>hau_word-list_0000_01.jpg</image_jpg>
+<image_jpg2>hau_word-list_0000_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>hau_record_details.html#7</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>hau_word-list_0000_01.html</wordlist_no_repetition>
+<link_within_wordlist>hau_word-list_0000_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>8</entry>
+<lang_name>Hausa</lang_name>
+<sil_code>HAU</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Laboratory; speaker is from Kano, Nigeria</recording_location>
+<recording_date>unknown</recording_date>
+<fieldworkers>UCLA student</fieldworkers>
+<speakers>N/A</speakers>
+<filename_audio>hau_word-list_0000_02</filename_audio>
+<filename_wav>hau_word-list_0000_02.wav</filename_wav>
+<filename_mp3>hau_word-list_0000_02.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>hau_word-list_0000_02.html</wordlist>
+<wordlist_entries>1 - 95</wordlist_entries>
+<image_tif>hau_word-list_0000_03.tif</image_tif>
+<image_tif2>hau_word-list_0000_04.tif</image_tif2>
+<image_jpg>hau_word-list_0000_03.jpg</image_jpg>
+<image_jpg2>hau_word-list_0000_04.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>hau_record_details.html#8</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>hau_word-list_0000_02.html</wordlist_no_repetition>
+<link_within_wordlist>hau_word-list_0000_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>9</entry>
+<lang_name>Hausa</lang_name>
+<sil_code>HAU</sil_code>
+<content>Conversation</content>
+<recording_location>UCLA Phonetics Laboratory</recording_location>
+<recording_date>15 October, 1980</recording_date>
+<fieldworkers>UCLA Phonetics Laboratory</fieldworkers>
+<speakers>Tijjani (from Yola, Nigeria), Abdurrahman (from Kano, Nigeria)</speakers>
+<filename_audio>hau_conversation_1980_01</filename_audio>
+<filename_wav>hau_conversation_1980_01.wav</filename_wav>
+<filename_mp3>hau_conversation_1980_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>hau_conversation_1980_01.html</wordlist>
+<wordlist_entries>1 - 76</wordlist_entries>
+<image_tif>hau_conversation_1980_01.tif</image_tif>
+<image_tif2>hau_conversation_1980_02.tif</image_tif2>
+<image_jpg>hau_conversation_1980_01.jpg</image_jpg>
+<image_jpg2>hau_conversation_1980_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>hau_record_details.html#9</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>hau_conversation_1980_01.html</wordlist_no_repetition>
+<link_within_wordlist>hau_conversation_1980_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>10</entry>
+<lang_name>Hausa</lang_name>
+<sil_code>HAU</sil_code>
+<content>Conversation</content>
+<recording_location>UCLA Phonetics Laboratory</recording_location>
+<recording_date>15 October, 1980</recording_date>
+<fieldworkers>UCLA Phonetics Laboratory</fieldworkers>
+<speakers>Tijjani (from Yola, Nigeria), Abdurrahman (from Kano, Nigeria)</speakers>
+<filename_audio>hau_conversation_1980_02</filename_audio>
+<filename_wav>hau_conversation_1980_02.wav</filename_wav>
+<filename_mp3>hau_conversation_1980_02.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>hau_conversation_1980_01.html</wordlist>
+<wordlist_entries>77 - 140</wordlist_entries>
+<image_tif>hau_conversation_1980_03.tif</image_tif>
+<image_tif2>hau_conversation_1980_04.tif</image_tif2>
+<image_jpg>hau_conversation_1980_03.jpg</image_jpg>
+<image_jpg2>hau_conversation_1980_04.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>hau_record_details.html#10</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>hau_conversation_1980_01.html#77</link_within_wordlist>
+</item>
+
+<item>
+<entry>11</entry>
+<lang_name>Hausa</lang_name>
+<sil_code>HAU</sil_code>
+<content>Conversation</content>
+<recording_location>UCLA Phonetics Laboratory</recording_location>
+<recording_date>15 October, 1980</recording_date>
+<fieldworkers>UCLA Phonetics Laboratory</fieldworkers>
+<speakers>Tijjani (from Yola, Nigeria), Abdurrahman (from Kano, Nigeria)</speakers>
+<filename_audio>hau_conversation_1980_03</filename_audio>
+<filename_wav>hau_conversation_1980_03.wav</filename_wav>
+<filename_mp3>hau_conversation_1980_03.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>hau_conversation_1980_01.html</wordlist>
+<wordlist_entries>133 - 184</wordlist_entries>
+<image_tif>hau_conversation_1980_05.tif</image_tif>
+<image_tif2>hau_conversation_1980_06.tif</image_tif2>
+<image_jpg>hau_conversation_1980_05.jpg</image_jpg>
+<image_jpg2>hau_conversation_1980_06.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>hau_record_details.html#11</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>hau_conversation_1980_01.html#133</link_within_wordlist>
+</item>
+
+<item>
+<entry>12</entry>
+<lang_name>Hausa</lang_name>
+<sil_code>HAU</sil_code>
+<content>Conversation</content>
+<recording_location>UCLA Phonetics Laboratory</recording_location>
+<recording_date>17 October, 1980</recording_date>
+<fieldworkers>UCLA Phonetics Laboratory</fieldworkers>
+<speakers>Tijjani (from Yola, Nigeria), Elaisha (from Garkida, Nigeria)</speakers>
+<filename_audio>hau_conversation_1980_04</filename_audio>
+<filename_wav>hau_conversation_1980_04.wav</filename_wav>
+<filename_mp3>hau_conversation_1980_04.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>hau_conversation_1980_02.html</wordlist>
+<wordlist_entries>1 - 55</wordlist_entries>
+<image_tif>hau_conversation_1980_07.tif</image_tif>
+<image_tif2>hau_conversation_1980_08.tif</image_tif2>
+<image_jpg>hau_conversation_1980_07.jpg</image_jpg>
+<image_jpg2>hau_conversation_1980_08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>hau_record_details.html#12</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>hau_conversation_1980_02.html</wordlist_no_repetition>
+<link_within_wordlist>hau_conversation_1980_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>13</entry>
+<lang_name>Hausa</lang_name>
+<sil_code>HAU</sil_code>
+<content>Conversation</content>
+<recording_location>UCLA Phonetics Laboratory</recording_location>
+<recording_date>17 October, 1980</recording_date>
+<fieldworkers>UCLA Phonetics Laboratory</fieldworkers>
+<speakers>Tijjani (from Yola, Nigeria), Elaisha (from Garkida, Nigeria)</speakers>
+<filename_audio>hau_conversation_1980_05</filename_audio>
+<filename_wav>hau_conversation_1980_05.wav</filename_wav>
+<filename_mp3>hau_conversation_1980_05.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>hau_conversation_1980_02.html</wordlist>
+<wordlist_entries>56 - 128</wordlist_entries>
+<image_tif>hau_conversation_1980_09.tif</image_tif>
+<image_tif2>hau_conversation_1980_10.tif</image_tif2>
+<image_jpg>hau_conversation_1980_09.jpg</image_jpg>
+<image_jpg2>hau_conversation_1980_10.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>hau_record_details.html#13</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>hau_conversation_1980_02.html#56</link_within_wordlist>
+</item>
+
+<item>
+<entry>14</entry>
+<lang_name>Hausa</lang_name>
+<sil_code>HAU</sil_code>
+<content>Conversation</content>
+<recording_location>UCLA Phonetics Laboratory</recording_location>
+<recording_date>17 October, 1980</recording_date>
+<fieldworkers>UCLA Phonetics Laboratory</fieldworkers>
+<speakers>Tijjani (from Yola, Nigeria), Elaisha (from Garkida, Nigeria)</speakers>
+<filename_audio>hau_conversation_1980_06</filename_audio>
+<filename_wav>hau_conversation_1980_06.wav</filename_wav>
+<filename_mp3>hau_conversation_1980_06.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>hau_conversation_1980_02.html</wordlist>
+<wordlist_entries>128 - 166</wordlist_entries>
+<image_tif>hau_conversation_1980_11.tif</image_tif>
+<image_tif2>hau_conversation_1980_12.tif</image_tif2>
+<image_jpg>hau_conversation_1980_11.jpg</image_jpg>
+<image_jpg2>hau_conversation_1980_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>hau_record_details.html#14</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>hau_conversation_1980_02.html#128</link_within_wordlist>
+</item>
+
+</metadata>

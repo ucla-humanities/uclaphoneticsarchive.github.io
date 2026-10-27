@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+
+<language_name>Q'eqchi'</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language</lang_name_header>
+<dialect_header>Dialect</dialect_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<origin_header>Speaker Origin</origin_header>
+<speakers_header>Speaker Name</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>TIFF Image</image_tif_header>
+<image_tif2_header>TIFF Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality</tif_quality_header>
+<jpg_quality_header>JPG Image Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<lang_name>Qʼeqchiʼ</lang_name>
+<dialect>Cobán dialect</dialect>
+<sil_code>kek</sil_code>
+<content>Word List</content>
+<recording_location>Cobán, Guatemala</recording_location>
+<recording_date>22 July, 1978</recording_date>
+<fieldworkers>Ava Berinstein</fieldworkers>
+<origin>Speaker from Cobán, Guatemala</origin>
+<speakers>Jose Pana</speakers>
+<filename_audio>kek_word-list_1978_01</filename_audio>
+<filename_wav>kek_word-list_1978_01.wav</filename_wav>
+<filename_mp3>kek_word-list_1978_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>kek_word-list_1978_01.html</wordlist>
+<wordlist_entries>1 - 88</wordlist_entries>
+<image_tif>kek_word-list_1978_01.tif</image_tif>
+<image_tif2>kek_word-list_1978_02.tif</image_tif2>
+<image_jpg>kek_word-list_1978_01.jpg</image_jpg>
+<image_jpg2>kek_word-list_1978_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kek_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kek_word-list_1978_01.html</wordlist_no_repetition>
+<link_within_wordlist>kek_word-list_1978_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>Qʼeqchiʼ</lang_name>
+<dialect>Cobán dialect</dialect>
+<sil_code>kek</sil_code>
+<content>Word List</content>
+<recording_location>Cobán, Guatemala</recording_location>
+<recording_date>23 July, 1978</recording_date>
+<fieldworkers>Ava Berinstein</fieldworkers>
+<origin>Speaker from Cobán, Guatemala</origin>
+<speakers>Cornelio Cuc</speakers>
+<filename_audio>kek_word-list_1978_02</filename_audio>
+<filename_wav>kek_word-list_1978_02.wav</filename_wav>
+<filename_mp3>kek_word-list_1978_02.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>kek_word-list_1978_01.html</wordlist>
+<wordlist_entries>1 - 88</wordlist_entries>
+<image_tif>kek_word-list_1978_01.tif</image_tif>
+<image_tif2>kek_word-list_1978_02.tif</image_tif2>
+<image_jpg>kek_word-list_1978_01.jpg</image_jpg>
+<image_jpg2>kek_word-list_1978_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kek_record_details.html#2</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kek_word-list_1978_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>3</entry>
+<lang_name>Qʼeqchiʼ</lang_name>
+<dialect>Cobán dialect</dialect>
+<sil_code>kek</sil_code>
+<content>Word List</content>
+<recording_location>Cobán, Guatemala</recording_location>
+<recording_date>23 July, 1978</recording_date>
+<fieldworkers>Ava Berinstein</fieldworkers>
+<origin>Speaker from San Juan Chamelco, Guatemala</origin>
+<speakers>Sebastian Tiul</speakers>
+<filename_audio>kek_word-list_1978_03</filename_audio>
+<filename_wav>kek_word-list_1978_03.wav</filename_wav>
+<filename_mp3>kek_word-list_1978_03.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>kek_word-list_1978_01.html</wordlist>
+<wordlist_entries>1 - 88</wordlist_entries>
+<image_tif>kek_word-list_1978_01.tif</image_tif>
+<image_tif2>kek_word-list_1978_02.tif</image_tif2>
+<image_jpg>kek_word-list_1978_01.jpg</image_jpg>
+<image_jpg2>kek_word-list_1978_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kek_record_details.html#3</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kek_word-list_1978_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>4</entry>
+<lang_name>Qʼeqchiʼ</lang_name>
+<dialect>Cobán dialect</dialect>
+<sil_code>kek</sil_code>
+<content>Word List</content>
+<recording_location>Cobán, Guatemala</recording_location>
+<recording_date>8 August, 1978</recording_date>
+<fieldworkers>Ava Berinstein</fieldworkers>
+<origin>Speaker from Cobán, Guatemala</origin>
+<speakers>Gerado Ochoa</speakers>
+<filename_audio>kek_word-list_1978_04</filename_audio>
+<filename_wav>kek_word-list_1978_04.wav</filename_wav>
+<filename_mp3>kek_word-list_1978_04.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>kek_word-list_1978_01.html</wordlist>
+<wordlist_entries>1 - 88</wordlist_entries>
+<image_tif>kek_word-list_1978_01.tif</image_tif>
+<image_tif2>kek_word-list_1978_02.tif</image_tif2>
+<image_jpg>kek_word-list_1978_01.jpg</image_jpg>
+<image_jpg2>kek_word-list_1978_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kek_record_details.html#4</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kek_word-list_1978_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>5</entry>
+<lang_name>Qʼeqchiʼ</lang_name>
+<dialect>Cobán dialect</dialect>
+<sil_code>kek</sil_code>
+<content>Word List</content>
+<recording_location>Cobán, Guatemala</recording_location>
+<recording_date>8 August, 1978</recording_date>
+<fieldworkers>Ava Berinstein</fieldworkers>
+<origin>Speaker from Cobán, Guatemala</origin>
+<speakers>Ernesto Ochoa</speakers>
+<filename_audio>kek_word-list_1978_05</filename_audio>
+<filename_wav>kek_word-list_1978_05.wav</filename_wav>
+<filename_mp3>kek_word-list_1978_05.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>kek_word-list_1978_01.html</wordlist>
+<wordlist_entries>1 - 88</wordlist_entries>
+<image_tif>kek_word-list_1978_01.tif</image_tif>
+<image_tif2>kek_word-list_1978_02.tif</image_tif2>
+<image_jpg>kek_word-list_1978_01.jpg</image_jpg>
+<image_jpg2>kek_word-list_1978_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kek_record_details.html#5</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kek_word-list_1978_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>6</entry>
+<lang_name>Qʼeqchiʼ</lang_name>
+<dialect>Cobán dialect</dialect>
+<sil_code>kek</sil_code>
+<content>Word List</content>
+<recording_location>Cobán, Guatemala</recording_location>
+<recording_date>9 August, 1978</recording_date>
+<fieldworkers>Ava Berinstein</fieldworkers>
+<origin>Speaker from Cobán, Guatemala</origin>
+<speakers>Raul Rax</speakers>
+<filename_audio>kek_word-list_1978_06</filename_audio>
+<filename_wav>kek_word-list_1978_06.wav</filename_wav>
+<filename_mp3>kek_word-list_1978_06.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>kek_word-list_1978_01.html</wordlist>
+<wordlist_entries>1 - 88</wordlist_entries>
+<image_tif>kek_word-list_1978_01.tif</image_tif>
+<image_tif2>kek_word-list_1978_02.tif</image_tif2>
+<image_jpg>kek_word-list_1978_01.jpg</image_jpg>
+<image_jpg2>kek_word-list_1978_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kek_record_details.html#6</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kek_word-list_1978_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>7</entry>
+<lang_name>Qʼeqchiʼ</lang_name>
+<dialect>Cobán dialect</dialect>
+<sil_code>kek</sil_code>
+<content>Word List</content>
+<recording_location>Cobán, Guatemala</recording_location>
+<recording_date>12 August, 1978</recording_date>
+<fieldworkers>Ava Berinstein</fieldworkers>
+<origin>Speaker from Cobán, Guatemala</origin>
+<speakers>Arnoldo Chen</speakers>
+<filename_audio>kek_word-list_1978_07</filename_audio>
+<filename_wav>kek_word-list_1978_07.wav</filename_wav>
+<filename_mp3>kek_word-list_1978_07.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>kek_word-list_1978_01.html</wordlist>
+<wordlist_entries>1 - 88</wordlist_entries>
+<image_tif>kek_word-list_1978_01.tif</image_tif>
+<image_tif2>kek_word-list_1978_02.tif</image_tif2>
+<image_jpg>kek_word-list_1978_01.jpg</image_jpg>
+<image_jpg2>kek_word-list_1978_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kek_record_details.html#7</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kek_word-list_1978_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>8</entry>
+<lang_name>Qʼeqchiʼ</lang_name>
+<dialect>Cobán dialect</dialect>
+<sil_code>kek</sil_code>
+<content>Word List</content>
+<recording_location>Cobán, Guatemala</recording_location>
+<recording_date>13 August, 1978</recording_date>
+<fieldworkers>Ava Berinstein</fieldworkers>
+<origin>Speaker from Cobán, Guatemala</origin>
+<speakers>Manuel Tzib</speakers>
+<filename_audio>kek_word-list_1978_08</filename_audio>
+<filename_wav>kek_word-list_1978_08.wav</filename_wav>
+<filename_mp3>kek_word-list_1978_08.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>kek_word-list_1978_01.html</wordlist>
+<wordlist_entries>1 - 88</wordlist_entries>
+<image_tif>kek_word-list_1978_01.tif</image_tif>
+<image_tif2>kek_word-list_1978_02.tif</image_tif2>
+<image_jpg>kek_word-list_1978_01.jpg</image_jpg>
+<image_jpg2>kek_word-list_1978_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kek_record_details.html#8</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kek_word-list_1978_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>9</entry>
+<lang_name>Qʼeqchiʼ</lang_name>
+<dialect>Cobán dialect</dialect>
+<sil_code>kek</sil_code>
+<content>Word List</content>
+<recording_location>Cobán, Guatemala</recording_location>
+<recording_date>15 August, 1978</recording_date>
+<fieldworkers>Ava Berinstein</fieldworkers>
+<origin>Speaker from Chamil, Guatemala</origin>
+<speakers>Roberto Cual Cuc</speakers>
+<filename_audio>kek_word-list_1978_09</filename_audio>
+<filename_wav>kek_word-list_1978_09.wav</filename_wav>
+<filename_mp3>kek_word-list_1978_09.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>kek_word-list_1978_01.html</wordlist>
+<wordlist_entries>1 - 88</wordlist_entries>
+<image_tif>kek_word-list_1978_01.tif</image_tif>
+<image_tif2>kek_word-list_1978_02.tif</image_tif2>
+<image_jpg>kek_word-list_1978_01.jpg</image_jpg>
+<image_jpg2>kek_word-list_1978_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kek_record_details.html#9</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kek_word-list_1978_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>10</entry>
+<lang_name>Qʼeqchiʼ</lang_name>
+<dialect>Cobán dialect</dialect>
+<sil_code>kek</sil_code>
+<content>Word List</content>
+<recording_location>Cobán, Guatemala</recording_location>
+<recording_date>21 August, 1978</recording_date>
+<fieldworkers>Ava Berinstein</fieldworkers>
+<origin>Speaker from San Juan Chamelco, Guatemala</origin>
+<speakers>Rodrigo Chotut</speakers>
+<filename_audio>kek_word-list_1978_10</filename_audio>
+<filename_wav>kek_word-list_1978_10.wav</filename_wav>
+<filename_mp3>kek_word-list_1978_10.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>kek_word-list_1978_01.html</wordlist>
+<wordlist_entries>1 - 88</wordlist_entries>
+<image_tif>kek_word-list_1978_01.tif</image_tif>
+<image_tif2>kek_word-list_1978_02.tif</image_tif2>
+<image_jpg>kek_word-list_1978_01.jpg</image_jpg>
+<image_jpg2>kek_word-list_1978_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kek_record_details.html#10</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kek_word-list_1978_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>11</entry>
+<lang_name>Qʼeqchiʼ</lang_name>
+<dialect>Cobán dialect</dialect>
+<sil_code>kek</sil_code>
+<content>Word List</content>
+<recording_location>Cobán, Guatemala</recording_location>
+<recording_date>23 August, 1978</recording_date>
+<fieldworkers>Ava Berinstein</fieldworkers>
+<origin>Speaker from San Pedro Carcha, Guatemala</origin>
+<speakers>Roberto Cus Cucul </speakers>
+<filename_audio>kek_word-list_1978_11</filename_audio>
+<filename_wav>kek_word-list_1978_11.wav</filename_wav>
+<filename_mp3>kek_word-list_1978_11.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>kek_word-list_1978_01.html</wordlist>
+<wordlist_entries>1 - 88</wordlist_entries>
+<image_tif>kek_word-list_1978_01.tif</image_tif>
+<image_tif2>kek_word-list_1978_02.tif</image_tif2>
+<image_jpg>kek_word-list_1978_01.jpg</image_jpg>
+<image_jpg2>kek_word-list_1978_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kek_record_details.html#11</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kek_word-list_1978_01.html#1</link_within_wordlist>
+</item>
+</metadata>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

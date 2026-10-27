@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+<language_name>Gujarati</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language:</lang_name_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<speakers_header>Speakers</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>Tiff Image</image_tif_header>
+<image_tif2_header>Tiff Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality </tif_quality_header>
+<jpg_quality_header>JPG Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<lang_name>Gujarati</lang_name>
+<sil_code>GUJ</sil_code>
+<content>Word List</content>
+<recording_location>University Of California, Los Angeles; speaker is from Bombay, India</recording_location>
+<recording_date>29 October, 1964</recording_date>
+<fieldworkers>Mr. Lee</fieldworkers>
+<speakers>P.J. Mistry</speakers>
+<filename_audio>guj_word-list_1964_01</filename_audio>
+<filename_wav>guj_word-list_1964_01.wav</filename_wav>
+<filename_mp3>guj_word-list_1964_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>guj_word-list_1964_01.html</wordlist>
+<wordlist_entries>1 - 69</wordlist_entries>
+<image_tif>guj_word-list_1964_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>guj_word-list_1964_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>guj_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>guj_word-list_1964_01.html</wordlist_no_repetition>
+<link_within_wordlist>guj_word-list_1964_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>Gujarati</lang_name>
+<sil_code>GUJ</sil_code>
+<content>Word List</content>
+<recording_location>University Of California, Los Angeles; speaker is from Bombay, India</recording_location>
+<recording_date>13 December, 1965</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<speakers>N/A</speakers>
+<filename_audio>guj_word-list_1965_01</filename_audio>
+<filename_wav>guj_word-list_1965_01.wav</filename_wav>
+<filename_mp3>guj_word-list_1965_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>guj_word-list_1965_01.html</wordlist>
+<wordlist_entries>1 - 37</wordlist_entries>
+<image_tif>guj_word-list_1965_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>guj_word-list_1965_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>guj_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>guj_word-list_1965_01.html</wordlist_no_repetition>
+<link_within_wordlist>guj_word-list_1965_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>3</entry>
+<lang_name>Gujarati</lang_name>
+<sil_code>GUJ</sil_code>
+<content>Word List</content>
+<recording_location>University Of California, Los Angeles; speaker is from Bombay, India</recording_location>
+<recording_date>13 December, 1965</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<speakers>N/A</speakers>
+<filename_audio>guj_word-list_1965_01</filename_audio>
+<filename_wav>guj_word-list_1965_02.wav</filename_wav>
+<filename_mp3>guj_word-list_1965_02.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>guj_word-list_1965_01.html</wordlist>
+<wordlist_entries>1 - 37</wordlist_entries>
+<image_tif>guj_word-list_1965_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>guj_word-list_1965_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>guj_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>guj_word-list_1965_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>4</entry>
+<lang_name>Gujarati</lang_name>
+<sil_code>GUJ</sil_code>
+<content>Word List</content>
+<recording_location>University Of California, Los Angeles; speaker is from Ahmedabad, Gujarat State, India</recording_location>
+<recording_date>29 November, 1972</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<speakers>N/A</speakers>
+<filename_audio>guj_word-list_1972_01</filename_audio>
+<filename_wav>guj_word-list_1972_01.wav</filename_wav>
+<filename_mp3>guj_word-list_1972_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>guj_word-list_1972_01.html</wordlist>
+<wordlist_entries>1 - 55</wordlist_entries>
+<image_tif>guj_word-list_1972_01.tif</image_tif>
+<image_tif2>guj_word-list_1972_02.tif</image_tif2>
+<image_jpg>guj_word-list_1972_01.jpg</image_jpg>
+<image_jpg2>guj_word-list_1972_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>guj_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>guj_word-list_1972_01.html</wordlist_no_repetition>
+<link_within_wordlist>guj_word-list_1972_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>5</entry>
+<lang_name>Gujarati</lang_name>
+<sil_code>GUJ</sil_code>
+<content>Word List</content>
+<recording_location>University Of California, Los Angeles; speaker is from St. Louis, Missouri, USA</recording_location>
+<recording_date>3 December, 1976</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<speakers>N/A</speakers>
+<filename_audio>guj_word-list_1976_01</filename_audio>
+<filename_wav>guj_word-list_1976_01.wav</filename_wav>
+<filename_mp3>guj_word-list_1976_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>guj_word-list_1976_01.html</wordlist>
+<wordlist_entries>1 - 63</wordlist_entries>
+<image_tif>guj_word-list_1976_01.tif</image_tif>
+<image_tif2>guj_word-list_1976_02.tif</image_tif2>
+<image_jpg>guj_word-list_1976_01.jpg</image_jpg>
+<image_jpg2>guj_word-list_1976_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>guj_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>guj_word-list_1976_01.html</wordlist_no_repetition>
+<link_within_wordlist>guj_word-list_1976_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>6</entry>
+<lang_name>Gujarati</lang_name>
+<sil_code>GUJ</sil_code>
+<content>Word List</content>
+<recording_location>University Of California, Los Angeles; speaker is from East Africa</recording_location>
+<recording_date>19 May, 1981</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<speakers>N/A</speakers>
+<filename_audio>guj_word-list_1981_01</filename_audio>
+<filename_wav>guj_word-list_1981_01.wav</filename_wav>
+<filename_mp3>guj_word-list_1981_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>guj_word-list_1981_01.html</wordlist>
+<wordlist_entries>1 - 54</wordlist_entries>
+<image_tif>guj_word-list_1981_01.tif</image_tif>
+<image_tif2>guj_word-list_1981_02.tif</image_tif2>
+<image_jpg>guj_word-list_1981_01.jpg</image_jpg>
+<image_jpg2>guj_word-list_1981_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>guj_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>guj_word-list_1981_01.html</wordlist_no_repetition>
+<link_within_wordlist>guj_word-list_1981_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>7</entry>
+<lang_name>Gujarati</lang_name>
+<sil_code>GUJ</sil_code>
+<content>Word List</content>
+<recording_location>University Of California, Los Angeles</recording_location>
+<recording_date>Spring, 1981</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<speakers>N/A</speakers>
+<filename_audio>guj_word-list_1981_02</filename_audio>
+<filename_wav>guj_word-list_1981_02.wav</filename_wav>
+<filename_mp3>guj_word-list_1981_02.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+#REF!
+<original_medium>cassette tape</original_medium>
+<wordlist>guj_word-list_1981_02.html</wordlist>
+<wordlist_entries>1 - 79</wordlist_entries>
+<image_tif>guj_word-list_1981_03.tif</image_tif>
+<image_tif2>guj_word-list_1981_04.tif</image_tif2>
+<image_jpg>guj_word-list_1981_03.jpg</image_jpg>
+<image_jpg2>guj_word-list_1981_04.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>guj_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>guj_word-list_1981_02.html</wordlist_no_repetition>
+<link_within_wordlist>guj_word-list_1981_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry></entry>
+<lang_name></lang_name>
+<sil_code></sil_code>
+<content></content>
+<recording_location></recording_location>
+<recording_date></recording_date>
+<fieldworkers></fieldworkers>
+<speakers></speakers>
+<filename_audio></filename_audio>
+<filename_wav></filename_wav>
+<filename_mp3></filename_mp3>
+<wav_quality></wav_quality>
+<mp3_quality></mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist></wordlist>
+<wordlist_entries></wordlist_entries>
+<image_tif></image_tif>
+<image_tif2></image_tif2>
+<image_jpg></image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality></tif_quality>
+<jpg_quality></jpg_quality>
+<details></details>
+<rights></rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist></link_within_wordlist>
+</item>
+</metadata>

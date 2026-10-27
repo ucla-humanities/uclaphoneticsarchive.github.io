@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Catalan</language_name>
+
+
+
+<headers>
+
+<native_orthography>Sound Illustrated</native_orthography>
+<alt_orthography>Orthography</alt_orthography>
+<IPA_header>IPA</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>98</entry>
+<native_orthography>e</native_orthography>
+<alt_orthography>mestre</alt_orthography>
+<IPA_transcription>mestrə</IPA_transcription>
+<gloss>teacher</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography>ɛ</native_orthography>
+<alt_orthography>merce</alt_orthography>
+<IPA_transcription>mər'sɛs</IPA_transcription>
+<gloss>thank you</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography>No sound specified</native_orthography>
+<alt_orthography>No orthography given</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>itself</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography>ɑ</native_orthography>
+<alt_orthography>ase</alt_orthography>
+<IPA_transcription>ɑzə</IPA_transcription>
+<gloss>donkey</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography>o</native_orthography>
+<alt_orthography>os</alt_orthography>
+<IPA_transcription>os</IPA_transcription>
+<gloss>bear</gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography>ɔ</native_orthography>
+<alt_orthography>os</alt_orthography>
+<IPA_transcription>ɔs</IPA_transcription>
+<gloss>bone</gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography>No sound specified</native_orthography>
+<alt_orthography>No orthography given</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>rosary</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography>ɑ</native_orthography>
+<alt_orthography>dama</alt_orthography>
+<IPA_transcription>d̪ɑ̃mə</IPA_transcription>
+<gloss>lady</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography>o</native_orthography>
+<alt_orthography>dona</alt_orthography>
+<IPA_transcription>d̪onə</IPA_transcription>
+<gloss>give</gloss>
+</item>
+
+<item>
+<entry>107</entry>
+<native_orthography>ɔ</native_orthography>
+<alt_orthography>dona</alt_orthography>
+<IPA_transcription>d̪ɔnə</IPA_transcription>
+<gloss>woman</gloss>
+</item>
+
+<item>
+<entry>108</entry>
+<native_orthography>No sound specified</native_orthography>
+<alt_orthography>No orthography given</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>laziness</gloss>
+</item>
+
+<item>
+<entry>109</entry>
+<native_orthography>No sound specified</native_orthography>
+<alt_orthography>No orthography given</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>pear</gloss>
+</item>
+
+<item>
+<entry>110</entry>
+<native_orthography>ɔ</native_orthography>
+<alt_orthography>pero</alt_orthography>
+<IPA_transcription>pə'rɔ</IPA_transcription>
+<gloss>but</gloss>
+</item>
+
+<item>
+<entry>111</entry>
+<native_orthography>No sound specified</native_orthography>
+<alt_orthography>No orthography given</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>bread</gloss>
+</item>
+
+<item>
+<entry>112</entry>
+<native_orthography>o</native_orthography>
+<alt_orthography>perol</alt_orthography>
+<IPA_transcription>pə'rolə</IPA_transcription>
+<gloss>pan</gloss>
+</item>
+
+<item>
+<entry>113</entry>
+<native_orthography>i</native_orthography>
+<alt_orthography>rapids</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>fast</gloss>
+</item>
+
+<item>
+<entry>114</entry>
+<native_orthography>ə</native_orthography>
+<alt_orthography>desdir</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>to desire</gloss>
+</item>
+
+<item>
+<entry>115</entry>
+<native_orthography>u</native_orthography>
+<alt_orthography>aturar</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>to halt</gloss>
+</item>
+
+<item>
+<entry>116</entry>
+<native_orthography>e</native_orthography>
+<alt_orthography>royal</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>royal</gloss>
+</item>
+
+<item>
+<entry>117</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>el noi</alt_orthography>
+<IPA_transcription>əl'noɪ</IPA_transcription>
+<gloss>the boy</gloss>
+</item>
+
+<item>
+<entry>118</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>gel</alt_orthography>
+<IPA_transcription>ʎel</IPA_transcription>
+<gloss>ice</gloss>
+</item>
+
+<item>
+<entry>119</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>la dona</alt_orthography>
+<IPA_transcription>lə 'd̪onə</IPA_transcription>
+<gloss>the woman</gloss>
+</item>
+
+<item>
+<entry>120</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>mal</alt_orthography>
+<IPA_transcription>mɑl</IPA_transcription>
+<gloss>bad</gloss>
+</item>
+
+<item>
+<entry>121</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>un cavall</alt_orthography>
+<IPA_transcription>un kɑ'vɑl</IPA_transcription>
+<gloss>a horse</gloss>
+</item>
+
+<item>
+<entry>122</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>fum</alt_orthography>
+<IPA_transcription>fum</IPA_transcription>
+<gloss>smoke</gloss>
+</item>
+
+<item>
+<entry>123</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>no ens diguis res</alt_orthography>
+<IPA_transcription>no ənz 'd̪igis rɛs</IPA_transcription>
+<gloss>don't say anything to us</gloss>
+</item>
+
+<item>
+<entry>124</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>dens</alt_orthography>
+<IPA_transcription>dɛ̃ns</IPA_transcription>
+<gloss>thick</gloss>
+</item>
+
+<item>
+<entry>125</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>Ja hi pensem</alt_orthography>
+<IPA_transcription>dʒɑɪpɛnsɛm</IPA_transcription>
+<gloss>we think of you</gloss>
+</item>
+
+<item>
+<entry>126</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>guix</alt_orthography>
+<IPA_transcription>giʃ</IPA_transcription>
+<gloss>chalk</gloss>
+</item>
+
+<item>
+<entry>127</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>Ell es renta</alt_orthography>
+<IPA_transcription>ɛʎɛsrɛntɑ</IPA_transcription>
+<gloss>he washes himself</gloss>
+</item>
+
+<item>
+<entry>128</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>bes</alt_orthography>
+<IPA_transcription>bɛs</IPA_transcription>
+<gloss>kiss</gloss>
+</item>
+
+<item>
+<entry>129</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>vosaltres us renteu</alt_orthography>
+<IPA_transcription>βu'sɑl̪trɛs uzrɑntɛɑw</IPA_transcription>
+<gloss>you wash yourself</gloss>
+</item>
+
+<item>
+<entry>130</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>bus</alt_orthography>
+<IPA_transcription>bus</IPA_transcription>
+<gloss>diver</gloss>
+</item>
+
+<item>
+<entry>131</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>Ell s'ass eu</alt_orthography>
+<IPA_transcription>ɛl səsɛ'ɑw</IPA_transcription>
+<gloss>he sits down</gloss>
+</item>
+
+<item>
+<entry>132</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>pell</alt_orthography>
+<IPA_transcription>pɛl</IPA_transcription>
+<gloss>skin</gloss>
+</item>
+
+<item>
+<entry>133</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>a la mare</alt_orthography>
+<IPA_transcription>ɑlɑ'mɑɾə</IPA_transcription>
+<gloss>at the sea</gloss>
+</item>
+
+<item>
+<entry>134</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>pa</alt_orthography>
+<IPA_transcription>pɑ</IPA_transcription>
+<gloss>bread</gloss>
+</item>
+
+<item>
+<entry>135</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>de Londres</alt_orthography>
+<IPA_transcription>d̪ə'lʌndɾɛs</IPA_transcription>
+<gloss>from London</gloss>
+</item>
+
+<item>
+<entry>136</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>be</alt_orthography>
+<IPA_transcription>bɛ</IPA_transcription>
+<gloss>sheep</gloss>
+</item>
+
+<item>
+<entry>137</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>per correu</alt_orthography>
+<IPA_transcription>pər kure'ɑw</IPA_transcription>
+<gloss>by mail</gloss>
+</item>
+
+<item>
+<entry>138</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>fer</alt_orthography>
+<IPA_transcription>fɛ</IPA_transcription>
+<gloss>to do</gloss>
+</item>
+
+<item>
+<entry>139</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>has escrit</alt_orthography>
+<IPA_transcription>ɑzəz'kɾit</IPA_transcription>
+<gloss>you have written</gloss>
+</item>
+
+<item>
+<entry>140</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>No orthography given</alt_orthography>
+<IPA_transcription>nɑ kũmp'ɾɑβĩn</IPA_transcription>
+<gloss>he bought twenty</gloss>
+</item>
+
+<item>
+<entry>141</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>ca</alt_orthography>
+<IPA_transcription>kɑ</IPA_transcription>
+<gloss>dog</gloss>
+</item>
+
+<item>
+<entry>142</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>han escrit</alt_orthography>
+<IPA_transcription>ɑnəs'kɾit</IPA_transcription>
+<gloss>they have written</gloss>
+</item>
+
+<item>
+<entry>143</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>nan</alt_orthography>
+<IPA_transcription>nɑn</IPA_transcription>
+<gloss>dwarf</gloss>
+</item>
+
+<item>
+<entry>144</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>cosa</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>thing</gloss>
+</item>
+
+<item>
+<entry>145</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>llapis</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>pencil</gloss>
+</item>
+
+<item>
+<entry>146</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>examen</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>exam</gloss>
+</item>
+
+<item>
+<entry>147</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>traguessin</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>swallow</gloss>
+</item>
+
+<item>
+<entry>148</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>règim</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>diet</gloss>
+</item>
+
+<item>
+<entry>149</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>régi</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>royal</gloss>
+</item>
+
+<item>
+<entry>150</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>però</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>but</gloss>
+</item>
+
+<item>
+<entry>151</entry>
+<native_orthography>stress</native_orthography>
+<alt_orthography>peról</alt_orthography>
+<IPA_transcription>No IPA given</IPA_transcription>
+<gloss>pan</gloss>
+</item>
+
+<item>
+<entry>152</entry>
+<native_orthography>liason</native_orthography>
+<alt_orthography>no hi es</alt_orthography>
+<IPA_transcription>no jes</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>153</entry>
+<native_orthography>liason</native_orthography>
+<alt_orthography>ja ho hem vist</alt_orthography>
+<IPA_transcription>ʒɑwɛm bist̪</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>154</entry>
+<native_orthography>liason</native_orthography>
+<alt_orthography>una hora</alt_orthography>
+<IPA_transcription>un'ɔrə</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>155</entry>
+<native_orthography>liason</native_orthography>
+<alt_orthography>no els veig</alt_orthography>
+<IPA_transcription>nolzβɛtʃ</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>156</entry>
+<native_orthography>liason</native_orthography>
+<alt_orthography>tots morts</alt_orthography>
+<IPA_transcription>todzmɔrts</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>157</entry>
+<native_orthography>liason</native_orthography>
+<alt_orthography>els altres amics</alt_orthography>
+<IPA_transcription>əɬz ɑltɾəz əmiks</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>158</entry>
+<native_orthography>liason</native_orthography>
+<alt_orthography>llarg de cames</alt_orthography>
+<IPA_transcription>ʎɑrk d̪ə kɑməs</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>159</entry>
+<native_orthography>liason</native_orthography>
+<alt_orthography>llarg any</alt_orthography>
+<IPA_transcription>ʎɑrg ɑɲ</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>160</entry>
+<native_orthography>liason</native_orthography>
+<alt_orthography>morts i ferits</alt_orthography>
+<IPA_transcription>mɔrz i fəɾits</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>161</entry>
+<native_orthography>liason</native_orthography>
+<alt_orthography>el verd jardi</alt_orthography>
+<IPA_transcription>əl βɛr ʒərði</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>162</entry>
+<native_orthography>liason</native_orthography>
+<alt_orthography>balncs o verds</alt_orthography>
+<IPA_transcription>blaŋz o βerts</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>163</entry>
+<native_orthography>liason</native_orthography>
+<alt_orthography>blanc i negre</alt_orthography>
+<IPA_transcription>blɑŋk i nɛɪgɾə</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+</wordlist>
+
+
+
+
+
+

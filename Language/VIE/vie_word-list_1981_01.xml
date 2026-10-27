@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Vietnamese</language_name>
+
+
+<headers>
+
+<orthography_header>Tone</orthography_header>
+<IPA_header>Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɓɤ</IPA_transcription>
+<gloss>butter</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>vɤ</IPA_transcription>
+<gloss>to sweep off</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>fɤ</IPA_transcription>
+<gloss>old person with white hair</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɗɤ</IPA_transcription>
+<gloss>stiff</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>t̪ɤ</IPA_transcription>
+<gloss>silk</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>t̪ʰɤ</IPA_transcription>
+<gloss>letter</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ʈɤ</IPA_transcription>
+<gloss>still</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>rɤ</IPA_transcription>
+<gloss>to touch</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lɤ</IPA_transcription>
+<gloss>to dissemble</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>sɤ</IPA_transcription>
+<gloss>fibre</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ʂɤ</IPA_transcription>
+<gloss>a little bit</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>jɤ</IPA_transcription>
+<gloss>to raise</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>cɤ</IPA_transcription>
+<gloss>to wait</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>kɔ</IPA_transcription>
+<gloss>to shrink</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>xɔ</IPA_transcription>
+<gloss>warehouse</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɣɔ</IPA_transcription>
+<gloss>weft</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>hɔ</IPA_transcription>
+<gloss>to cough</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>mɤ</IPA_transcription>
+<gloss>to dream</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>nɤ</IPA_transcription>
+<gloss>bow</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>ɲɤ</IPA_transcription>
+<gloss>to remember</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ŋɤ</IPA_transcription>
+<gloss>to ignore</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>æp</IPA_transcription>
+<gloss>to apply pressure down</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>æt̪</IPA_transcription>
+<gloss>to drown out</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>ɐc</IPA_transcription>
+<gloss>yoke</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>æk</IPA_transcription>
+<gloss>cruel</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>æm</IPA_transcription>
+<gloss>bhuddist temple</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>æŋ</IPA_transcription>
+<gloss>peaceful</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɐɲ</IPA_transcription>
+<gloss>elder brother</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>æŋ</IPA_transcription>
+<gloss>bowl</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>kuŋ͡m</IPA_transcription>
+<gloss>palace</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>awŋm</IPA_transcription>
+<gloss>grandfather</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>awŋm</IPA_transcription>
+<gloss>bee</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>huk͡p</IPA_transcription>
+<gloss>to strike</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>awk͡p</IPA_transcription>
+<gloss>snail</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>awk͡p</IPA_transcription>
+<gloss>brain</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>t̪owɑ</IPA_transcription>
+<gloss>perscription</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>high rising, level</native_orthography>
+<IPA_transcription>ɗowɑ wɑ</IPA_transcription>
+<gloss>flower</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>high rising, high rising</native_orthography>
+<IPA_transcription>cowɑ mɐt̪</IPA_transcription>
+<gloss>glaring</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>xwɑ</IPA_transcription>
+<gloss>to lock</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɣɑ</IPA_transcription>
+<gloss>station</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>high rising, level</native_orthography>
+<IPA_transcription>tɯək gɑ</IPA_transcription>
+<gloss>in front of the station</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɣa</IPA_transcription>
+<gloss>station</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>high rising, level</native_orthography>
+<IPA_transcription>suəŋ gɑ</IPA_transcription>
+<gloss>to get off at the station</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>t̪i</IPA_transcription>
+<gloss>tiny bit</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>t̪e</IPA_transcription>
+<gloss>asleep</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>t̪ɛ</IPA_transcription>
+<gloss>to splash</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>t̪u</IPA_transcription>
+<gloss>to drink</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>t̪o</IPA_transcription>
+<gloss>large bowl</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>t̪ɔ</IPA_transcription>
+<gloss>large</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>t̪ɯ</IPA_transcription>
+<gloss>fourth</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>t̪ɤ</IPA_transcription>
+<gloss>silk</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>t̪ɑ</IPA_transcription>
+<gloss>we</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>t̪ʌm</IPA_transcription>
+<gloss>center</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>t̪ɐk</IPA_transcription>
+<gloss>to split</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>t̪iə̯ŋ</IPA_transcription>
+<gloss>fairy</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>t̪uə̯ŋ</IPA_transcription>
+<gloss>to flow</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>t̪ɯə̯ŋ</IPA_transcription>
+<gloss>in rags</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>æk</IPA_transcription>
+<gloss>cruel</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>ɐc</IPA_transcription>
+<gloss>yoke</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>æŋ</IPA_transcription>
+<gloss>work</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɐɲ</IPA_transcription>
+<gloss>elder brother</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>mɑ</IPA_transcription>
+<gloss>ghost</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>mɑ</IPA_transcription>
+<gloss>cheeck</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>mɑ</IPA_transcription>
+<gloss>butter</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>low rising</native_orthography>
+<IPA_transcription>mɑ</IPA_transcription>
+<gloss>tomb</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>high falling-rising</native_orthography>
+<IPA_transcription>mɑ</IPA_transcription>
+<gloss>horse</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>low rising-glottalization</native_orthography>
+<IPA_transcription>mɑ</IPA_transcription>
+<gloss>rice seedling</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>hɑi</IPA_transcription>
+<gloss>two</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>hɑi</IPA_transcription>
+<gloss>to pick</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>hɑi</IPA_transcription>
+<gloss>shoe</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>low rising</native_orthography>
+<IPA_transcription>hɑi</IPA_transcription>
+<gloss>marinus</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>high falling-rising</native_orthography>
+<IPA_transcription>hɑi</IPA_transcription>
+<gloss>afraid</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>low rising-glottalization</native_orthography>
+<IPA_transcription>hɑi</IPA_transcription>
+<gloss>harm</gloss>
+</item>
+</wordlist>
+
+
+
+
+

@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Apache</language_name>
+
+
+<headers>
+
+<orthography_header>Sound Illustrated</orthography_header>
+<IPA_header>Apache</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>zh</native_orthography>
+<IPA_transcription>bizhid</IPA_transcription>
+<gloss>his saliva</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>z </native_orthography>
+<IPA_transcription>bizid</IPA_transcription>
+<gloss>his liver</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>y</native_orthography>
+<IPA_transcription>iyige ̍</IPA_transcription>
+<gloss>nut kernel</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>w</native_orthography>
+<IPA_transcription>dayuwe</IPA_transcription>
+<gloss>on its way</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>tsʔ</native_orthography>
+<IPA_transcription>bitsʔile</IPA_transcription>
+<gloss>his cone</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>tsi</native_orthography>
+<IPA_transcription>bitsiʔ</IPA_transcription>
+<gloss>his daughter</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>tɬʔ</native_orthography>
+<IPA_transcription>bitɬʔiish</IPA_transcription>
+<gloss>his snake</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>tɬ </native_orthography>
+<IPA_transcription>ditɬid</IPA_transcription>
+<gloss>shaky</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>bit'iish</IPA_transcription>
+<gloss>his cottonwood tree</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>t</native_orthography>
+<IPA_transcription>bitisgo</IPA_transcription>
+<gloss>more so</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>sh</native_orthography>
+<IPA_transcription>ishiki ̍n ̍</IPA_transcription>
+<gloss>boys</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>s</native_orthography>
+<IPA_transcription>bisila ̍a ̍da</IPA_transcription>
+<gloss>his army</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>n</native_orthography>
+<IPA_transcription>biniʔ</IPA_transcription>
+<gloss>his property</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>m</native_orthography>
+<IPA_transcription>bime ̍ʔ</IPA_transcription>
+<gloss>his baby</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>ɬ</native_orthography>
+<IPA_transcription>biɬid</IPA_transcription>
+<gloss>his smoke</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>l</native_orthography>
+<IPA_transcription>bilizh</IPA_transcription>
+<gloss>his urine</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>kw</native_orthography>
+<IPA_transcription>dakwi</IPA_transcription>
+<gloss>how many</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>kʔ</native_orthography>
+<IPA_transcription>bikʔisn</IPA_transcription>
+<gloss>his brother</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>k</native_orthography>
+<IPA_transcription>ɬikizh</IPA_transcription>
+<gloss>spotted</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>j</native_orthography>
+<IPA_transcription>izeeʔ idijishi ̍</IPA_transcription>
+<gloss>medicine you spread on</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>hw</native_orthography>
+<IPA_transcription>nahwi</IPA_transcription>
+<gloss>we</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>h</native_orthography>
+<IPA_transcription>bihis</IPA_transcription>
+<gloss>his pus</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>x</native_orthography>
+<IPA_transcription>yizisxi'</IPA_transcription>
+<gloss>he killed it</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>g</native_orthography>
+<IPA_transcription>bigish</IPA_transcription>
+<gloss>his stick</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>dz</native_orthography>
+<IPA_transcription>bidziɬ</IPA_transcription>
+<gloss>his mountain</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>dl</native_orthography>
+<IPA_transcription>i'kʔe'ʔidlishe'</IPA_transcription>
+<gloss>stink bug</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>d</native_orthography>
+<IPA_transcription>bidiɬ</IPA_transcription>
+<gloss>his blood</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>chʔ</native_orthography>
+<IPA_transcription>bichʔid</IPA_transcription>
+<gloss>his blanket</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>ch </native_orthography>
+<IPA_transcription>bichizh</IPA_transcription>
+<gloss>his firewood</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>b</native_orthography>
+<IPA_transcription>bibid</IPA_transcription>
+<gloss>his stomach</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>ʔ</native_orthography>
+<IPA_transcription>diʔil</IPA_transcription>
+<gloss>paralyzed</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>zh</native_orthography>
+<IPA_transcription>magashi bizhaazhe'</IPA_transcription>
+<gloss>calf</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>z </native_orthography>
+<IPA_transcription>izaʔa'</IPA_transcription>
+<gloss>bridle</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>y</native_orthography>
+<IPA_transcription>biyatiʔ</IPA_transcription>
+<gloss>his language</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>w</native_orthography>
+<IPA_transcription>dawaʔ</IPA_transcription>
+<gloss>every</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>tsʔ</native_orthography>
+<IPA_transcription>ditsʔag</IPA_transcription>
+<gloss>strong (hard but flexible)</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>ts </native_orthography>
+<IPA_transcription>bitsaɬ</IPA_transcription>
+<gloss>his needle</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>tɬʔ</native_orthography>
+<IPA_transcription>bitɬʔakaɬ</IPA_transcription>
+<gloss>her dress</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>tɬ</native_orthography>
+<IPA_transcription>nayiɬtɬad</IPA_transcription>
+<gloss>he is greasing it</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>tʔ</native_orthography>
+<IPA_transcription>bitʔah hinzi̜i̜</IPA_transcription>
+<gloss>stand by him</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>t</native_orthography>
+<IPA_transcription>bitazhii</IPA_transcription>
+<gloss>his turkey</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>sh</native_orthography>
+<IPA_transcription>bishash</IPA_transcription>
+<gloss>his bear</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>s</native_orthography>
+<IPA_transcription>bisawo'o'ya</IPA_transcription>
+<gloss>his onion</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>n</native_orthography>
+<IPA_transcription>binada̜'ʔ</IPA_transcription>
+<gloss>his corn</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>m</native_orthography>
+<IPA_transcription>bimagashi</IPA_transcription>
+<gloss>his cattle</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>ɬ</native_orthography>
+<IPA_transcription>nohwi'ɬanachʔʔidikah</IPA_transcription>
+<gloss>our rivalry</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>l</native_orthography>
+<IPA_transcription>bilaga'n</IPA_transcription>
+<gloss>its claw</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>kʔ</native_orthography>
+<IPA_transcription>ikʔah</IPA_transcription>
+<gloss>fat, lard</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>k </native_orthography>
+<IPA_transcription>ikaɬ</IPA_transcription>
+<gloss>hide (animal)</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>j</native_orthography>
+<IPA_transcription>bijad</IPA_transcription>
+<gloss>his leg</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>hw</native_orthography>
+<IPA_transcription>do hwaada</IPA_transcription>
+<gloss>not yet</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>h </native_orthography>
+<IPA_transcription>bihastiin</IPA_transcription>
+<gloss>her old man</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>x</native_orthography>
+<IPA_transcription>xaɬe</IPA_transcription>
+<gloss>hurry</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>gh</native_orthography>
+<IPA_transcription>ighal</IPA_transcription>
+<gloss>bell</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>g </native_orthography>
+<IPA_transcription>bigad</IPA_transcription>
+<gloss>his cedar tree</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>dz</native_orthography>
+<IPA_transcription>na'diidzaa</IPA_transcription>
+<gloss>he got up</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>dl</native_orthography>
+<IPA_transcription>dadidlaʔ</IPA_transcription>
+<gloss>lightening</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>d</native_orthography>
+<IPA_transcription>bidaʔyu'</IPA_transcription>
+<gloss>at its edge</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>chʔ</native_orthography>
+<IPA_transcription>hadichʔaad</IPA_transcription>
+<gloss>it is oozing</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>ch </native_orthography>
+<IPA_transcription>bichan</IPA_transcription>
+<gloss>its feces</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>b</native_orthography>
+<IPA_transcription>iban</IPA_transcription>
+<gloss>buckskin</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>ʔ</native_orthography>
+<IPA_transcription>biʔatʔe'ʔ</IPA_transcription>
+<gloss>his behavior</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>ʔig</native_orthography>
+<IPA_transcription>chʔid</IPA_transcription>
+<gloss>blanket</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>ʔeg</native_orthography>
+<IPA_transcription>kʔegowa̜</IPA_transcription>
+<gloss>home, upper home</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>ʔog</native_orthography>
+<IPA_transcription>be'sh distʔo'g</IPA_transcription>
+<gloss>arrowhead</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>ʔag</native_orthography>
+<IPA_transcription>yiditsʔag</IPA_transcription>
+<gloss>he hears / obeys him</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>ʔi'g</native_orthography>
+<IPA_transcription>ba'ʔi'tsʔi'd</IPA_transcription>
+<gloss>he is lucky</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>ʔo'g</native_orthography>
+<IPA_transcription>ikʔa'n'na'stʔo'g</IPA_transcription>
+<gloss>dough</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>ʔa'g</native_orthography>
+<IPA_transcription>bitsitʔa'gee</IPA_transcription>
+<gloss>top of head (crown)</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>ʔiig</native_orthography>
+<IPA_transcription>na'gonechʔiidi</IPA_transcription>
+<gloss>locust (cicada)</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>ʔeeg</native_orthography>
+<IPA_transcription>da'ɬeɬtʔeego</IPA_transcription>
+<gloss>same way</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>ʔoog</native_orthography>
+<IPA_transcription>tu'hayiɬtʔood</IPA_transcription>
+<gloss>he pumps water</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>ʔaag</native_orthography>
+<IPA_transcription>hadichʔaad</IPA_transcription>
+<gloss>it oozes</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>ʔi'i'g</native_orthography>
+<IPA_transcription>naʔitɬʔi'i'gi'</IPA_transcription>
+<gloss>gopher</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>ʔe'e'g</native_orthography>
+<IPA_transcription>di'yatʔe'e'go</IPA_transcription>
+<gloss>awful</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>ʔo'o'g</native_orthography>
+<IPA_transcription>na'yiɬtʔo'o'd</IPA_transcription>
+<gloss>he soaks it</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>ʔa'a'g</native_orthography>
+<IPA_transcription>hagodnʔa'a'gee</IPA_transcription>
+<gloss>corner (an elevated mound)</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>ʔi̜i̜g</native_orthography>
+<IPA_transcription>chʔaʔa'ni'stʔi̜i̜d</IPA_transcription>
+<gloss>he is hiding</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>ʔe̜e̜g</native_orthography>
+<IPA_transcription>chiyinge̜e̜z</IPA_transcription>
+<gloss>he is unlocking it</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>ʔo̜o̜g</native_orthography>
+<IPA_transcription>kee na'tsʔo̜o̜d</IPA_transcription>
+<gloss>tennis shoes</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>ʔi̜'i̜'g</native_orthography>
+<IPA_transcription>ha'tʔi̜'i̜'go</IPA_transcription>
+<gloss>he wants</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>ʔo̜'o̜'g</native_orthography>
+<IPA_transcription>itsʔo̜'o̜'d</IPA_transcription>
+<gloss>it is bent</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>ʔa̜'a̜'g</native_orthography>
+<IPA_transcription>dahagee oʔiʔa̜'a̜'go</IPA_transcription>
+<gloss>some evening</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>diʔ</native_orthography>
+<IPA_transcription>nagoniʔ</IPA_transcription>
+<gloss>to tell</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>deʔ</native_orthography>
+<IPA_transcription>yuneʔ</IPA_transcription>
+<gloss>inside</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography>doʔ</native_orthography>
+<IPA_transcription>idoʔaaɬ</IPA_transcription>
+<gloss>he sings</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>daʔ</native_orthography>
+<IPA_transcription>na'hiʔnaʔ</IPA_transcription>
+<gloss>she is alive again</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>di'ʔ</native_orthography>
+<IPA_transcription>iɬdi'ʔgee</IPA_transcription>
+<gloss>center</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>de'ʔ</native_orthography>
+<IPA_transcription>yushde'ʔ</IPA_transcription>
+<gloss>come here</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography>do'ʔ</native_orthography>
+<IPA_transcription>aɬdo'ʔ</IPA_transcription>
+<gloss>also</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography>da'ʔ</native_orthography>
+<IPA_transcription>bida'ʔ</IPA_transcription>
+<gloss>against it</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography>ti̜ʔ</native_orthography>
+<IPA_transcription>iɬti̜ʔ tsi</IPA_transcription>
+<gloss>bow</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography>to̜ʔ</native_orthography>
+<IPA_transcription>bikʔa̜a̜go niɬto̜ʔ</IPA_transcription>
+<gloss>it tipped over</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>nagode iyota̜</IPA_transcription>
+<gloss>he is holding on hard</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography>do̜'ʔ</native_orthography>
+<IPA_transcription>do̜'ʔ</IPA_transcription>
+<gloss>fly (insect)</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography>da̜'ʔ</native_orthography>
+<IPA_transcription>aɬkʔida̜'ʔ</IPA_transcription>
+<gloss>already</gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>bi'aadi</IPA_transcription>
+<gloss>it's female</gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<native_orthography>de</native_orthography>
+<IPA_transcription>nawode</IPA_transcription>
+<gloss>hard</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography>do</native_orthography>
+<IPA_transcription>o'odo</IPA_transcription>
+<gloss>gold</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography>da</native_orthography>
+<IPA_transcription>sila'a'da</IPA_transcription>
+<gloss>soldiers</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography>dii</native_orthography>
+<IPA_transcription>chʔinii</IPA_transcription>
+<gloss>gossip</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography>dee</native_orthography>
+<IPA_transcription>inee</IPA_transcription>
+<gloss>Apache</gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography>doo</native_orthography>
+<IPA_transcription>doo hatʔe'da</IPA_transcription>
+<gloss>nothing</gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography>daa</native_orthography>
+<IPA_transcription>hinaa / hidaa</IPA_transcription>
+<gloss>he's alive</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>nago̜kaadi</IPA_transcription>
+<gloss>war</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>jaade</IPA_transcription>
+<gloss>antelope</gloss>
+</item>
+
+<item>
+<entry>107</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>ch'e diku</IPA_transcription>
+<gloss>he retches</gloss>
+</item>
+
+<item>
+<entry>108</entry>
+<native_orthography></native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>109</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>daxa</IPA_transcription>
+<gloss>hurry</gloss>
+</item>
+
+<item>
+<entry>110</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>dii</IPA_transcription>
+<gloss>this/these</gloss>
+</item>
+
+<item>
+<entry>111</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>bindaa</IPA_transcription>
+<gloss>his eyes</gloss>
+</item>
+</wordlist>
+
+
+
+
+

@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Vietnamese</language_name>
+
+
+<headers>
+
+<orthography_header>Tone</orthography_header>
+<IPA_header>Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>bi</IPA_transcription>
+<gloss>marble</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>t̪ʰi</IPA_transcription>
+<gloss>small</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>di</IPA_transcription>
+<gloss>to go</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>ki</IPA_transcription>
+<gloss>term</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>glottalized high rising</native_orthography>
+<IPA_transcription>goɞ</IPA_transcription>
+<gloss>wood</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>tɽi</IPA_transcription>
+<gloss>pertaining to the mind</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>hup</IPA_transcription>
+<gloss>to drink out of a bowl</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>bub</IPA_transcription>
+<gloss>a bud</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>mid falling</native_orthography>
+<IPA_transcription>bit̪</IPA_transcription>
+<gloss>to obstruct</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>mid falling</native_orthography>
+<IPA_transcription>ɲak</IPA_transcription>
+<gloss>music</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>mi</IPA_transcription>
+<gloss>noodle</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>nḭ</IPA_transcription>
+<gloss>I (Chinese)</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>ɲa</IPA_transcription>
+<gloss>house</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>lam</IPA_transcription>
+<gloss>to do</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>t̪weɪn</IPA_transcription>
+<gloss>wise</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>tʰɑŋ</IPA_transcription>
+<gloss>blue</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>ɓɑŋ</IPA_transcription>
+<gloss>equal</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>fi</IPA_transcription>
+<gloss>to smoke</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>vi</IPA_transcription>
+<gloss>purse</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>si</IPA_transcription>
+<gloss>to galvanize</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>di</IPA_transcription>
+<gloss>to migrate</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>xi</IPA_transcription>
+<gloss>gas</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>gi</IPA_transcription>
+<gloss>to record</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>hi</IPA_transcription>
+<gloss>pleasure</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>tʃi</IPA_transcription>
+<gloss>a name</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>si</IPA_transcription>
+<gloss>passion</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>ɹi ɹi</IPA_transcription>
+<gloss>very, very slowly</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>li</IPA_transcription>
+<gloss>glass</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>high falling</native_orthography>
+<IPA_transcription>ɗiə</IPA_transcription>
+<gloss>leech</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>jɯə</IPA_transcription>
+<gloss>pickled cabbage</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>duə</IPA_transcription>
+<gloss>to compete</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɗaɯ</IPA_transcription>
+<gloss>sick</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɗiə</IPA_transcription>
+<gloss>to go</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɗe</IPA_transcription>
+<gloss>riverbank</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɗɛa</IPA_transcription>
+<gloss>to threaten</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>jɯu</IPA_transcription>
+<gloss>leftover</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>jɤ</IPA_transcription>
+<gloss>dirty</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>d̪ʌn</IPA_transcription>
+<gloss>citizen</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɗɶn</IPA_transcription>
+<gloss>stringed instrument</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ja</IPA_transcription>
+<gloss>leather</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ju</IPA_transcription>
+<gloss>to travel</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>ɗoɞ</IPA_transcription>
+<gloss>to write over</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɗɔ</IPA_transcription>
+<gloss>to measure</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>ɔa</IPA_transcription>
+<gloss>burst into tears</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ji</IPA_transcription>
+<gloss>to migrate</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>tʰʷeɪ</IPA_transcription>
+<gloss>tax</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>dʷɑn</IPA_transcription>
+<gloss>to guess</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>kua</IPA_transcription>
+<gloss>to cross over</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>gua</IPA_transcription>
+<gloss>to be widowed</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>glottalized high rising</native_orthography>
+<IPA_transcription>mi</IPA_transcription>
+<gloss>America</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>nui</IPA_transcription>
+<gloss>mountain</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>ɲɤ</IPA_transcription>
+<gloss>to remember</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>ŋuɑi</IPA_transcription>
+<gloss>outside</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>zuɪn</IPA_transcription>
+<gloss>predestined affinity</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>sʷʌn</IPA_transcription>
+<gloss>spring</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>vɯə</IPA_transcription>
+<gloss>to fit</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>hwaŋ</IPA_transcription>
+<gloss>emperor</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>glottalized high rising</native_orthography>
+<IPA_transcription>lɯi</IPA_transcription>
+<gloss>fence</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ta</IPA_transcription>
+<gloss>us</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>te</IPA_transcription>
+<gloss>to crouch</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>ta</IPA_transcription>
+<gloss>a dozen</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>te</IPA_transcription>
+<gloss>to fall</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>ta</IPA_transcription>
+<gloss>bad luck ghost</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>te</IPA_transcription>
+<gloss>to urinate (slang)</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>high falling</native_orthography>
+<IPA_transcription>ta</IPA_transcription>
+<gloss>to describe</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>high falling</native_orthography>
+<IPA_transcription>te</IPA_transcription>
+<gloss>to separate (South)</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>glottalized high rising</native_orthography>
+<IPA_transcription>ta</IPA_transcription>
+<gloss>diaper</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>glottalized high rising</native_orthography>
+<IPA_transcription>te</IPA_transcription>
+<gloss>to separate (North)</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>mid falling</native_orthography>
+<IPA_transcription>ta</IPA_transcription>
+<gloss>a weight</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>mid falling</native_orthography>
+<IPA_transcription>te</IPA_transcription>
+<gloss>no specific meaning</gloss>
+</item>
+</wordlist>
+
+
+
+
+

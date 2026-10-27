@@ -1,0 +1,843 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Piraha</language_name>
+
+<headers>
+
+<IPA_header>Piraha</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+<item>
+<entry>1</entry>
+<IPA_transcription>pii</IPA_transcription>
+<gloss>water</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<IPA_transcription>tii</IPA_transcription>
+<gloss>residue</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<IPA_transcription>ʔií</IPA_transcription>
+<gloss>wood / thing</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<IPA_transcription>bii</IPA_transcription>
+<gloss>blood</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<IPA_transcription>gíiso (not good)</IPA_transcription>
+<gloss>this</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<IPA_transcription>ʔísiisí</IPA_transcription>
+<gloss>fat / body oil</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<IPA_transcription>hiisí</IPA_transcription>
+<gloss>sun</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<IPA_transcription>páahóisí</IPA_transcription>
+<gloss>palm frond (sp.)</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<IPA_transcription>taahoasi</IPA_transcription>
+<gloss>sand</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<IPA_transcription>kaaʔai</IPA_transcription>
+<gloss>macaw</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<IPA_transcription>ʔáapahai</IPA_transcription>
+<gloss>bird arrow</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<IPA_transcription>báagisó</IPA_transcription>
+<gloss>many</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<IPA_transcription>gáata(hai)</IPA_transcription>
+<gloss>can</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<IPA_transcription>ʔísaahái</IPA_transcription>
+<gloss>candle</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<IPA_transcription>poogahai</IPA_transcription>
+<gloss>arrow</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<IPA_transcription>toogiʔi</IPA_transcription>
+<gloss>hoe</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<IPA_transcription>koóʔio</IPA_transcription>
+<gloss>inside</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<IPA_transcription>ʔoosí</IPA_transcription>
+<gloss>seed (sp.)</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<IPA_transcription>boopai</IPA_transcription>
+<gloss>throat / neck</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<IPA_transcription>goó</IPA_transcription>
+<gloss>what's up</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<IPA_transcription>ʔísoobái</IPA_transcription>
+<gloss>down (n.)</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<IPA_transcription>pibaóí</IPA_transcription>
+<gloss>otter</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<IPA_transcription>tigaiti</IPA_transcription>
+<gloss>bushmastersnake</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<IPA_transcription>ʔigíai</IPA_transcription>
+<gloss>OK</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<IPA_transcription>bigí</IPA_transcription>
+<gloss>earth</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<IPA_transcription>gìxaíxi</IPA_transcription>
+<gloss>spider monkey</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<IPA_transcription>ʔísibíoí</IPA_transcription>
+<gloss>liver</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<IPA_transcription>hiʔí</IPA_transcription>
+<gloss>rat</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<IPA_transcription>páʔai</IPA_transcription>
+<gloss>fish (sp.)</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<IPA_transcription>tagasága</IPA_transcription>
+<gloss>machete</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<IPA_transcription>kagáíhiai</IPA_transcription>
+<gloss>jaguar</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<IPA_transcription>ʔagíi(tá)</IPA_transcription>
+<gloss>cold</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<IPA_transcription>bagiái</IPA_transcription>
+<gloss>thief</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<IPA_transcription>gagáía</IPA_transcription>
+<gloss>orange</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<IPA_transcription>ʔisapaí </IPA_transcription>
+<gloss>animal head</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<IPA_transcription>poʔoʔói</IPA_transcription>
+<gloss>small anteater</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<IPA_transcription>tókaaga</IPA_transcription>
+<gloss>tocandeira ant</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<IPA_transcription>kosi</IPA_transcription>
+<gloss>eye</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<IPA_transcription>ʔogií </IPA_transcription>
+<gloss>big</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<IPA_transcription>bogí (not good)</IPA_transcription>
+<gloss>my breast</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<IPA_transcription>gógíi</IPA_transcription>
+<gloss>what is this?</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<IPA_transcription>ʔisopói / xísopóoi</IPA_transcription>
+<gloss>claw</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<IPA_transcription>ti</IPA_transcription>
+<gloss>1st pers. sg.</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<IPA_transcription>bigí</IPA_transcription>
+<gloss>ground</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<IPA_transcription>kaba</IPA_transcription>
+<gloss>not / no</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<IPA_transcription>gogíi</IPA_transcription>
+<gloss>what is it?</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<IPA_transcription>tii</IPA_transcription>
+<gloss>residue</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<IPA_transcription>bíigió</IPA_transcription>
+<gloss>underground</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<IPA_transcription>kaábi</IPA_transcription>
+<gloss>full</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<IPA_transcription>boopai</IPA_transcription>
+<gloss>throat / neck</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<IPA_transcription>bagíai</IPA_transcription>
+<gloss>friend</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<IPA_transcription>gíxaóí</IPA_transcription>
+<gloss>your skin</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<IPA_transcription>bágiái</IPA_transcription>
+<gloss>thief</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<IPA_transcription>xaoí hói</IPA_transcription>
+<gloss>a few foreigners</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<IPA_transcription>ʔáooí [ʔaowí]</IPA_transcription>
+<gloss>Brazil nutshell</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<IPA_transcription>xáooí hoí hiaagaha</IPA_transcription>
+<gloss>many nutshells</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<IPA_transcription>ʔáoói [ʔāōwī]</IPA_transcription>
+<gloss>ear</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<IPA_transcription>ʔóoí [ʔōwi]</IPA_transcription>
+<gloss>jungle</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<IPA_transcription>ʔooí [ʔowí]</IPA_transcription>
+<gloss>hole</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<IPA_transcription>ʔapaí / xaapaí</IPA_transcription>
+<gloss>head</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<IPA_transcription>ʔítaí</IPA_transcription>
+<gloss>hair on body/female</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<IPA_transcription>ʔíkaí</IPA_transcription>
+<gloss>daughter</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<IPA_transcription>ʔaʔái /xaaxái</IPA_transcription>
+<gloss>rock</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<IPA_transcription>hoaobái</IPA_transcription>
+<gloss>flower (sp.)</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<IPA_transcription>hoagái (koí)</IPA_transcription>
+<gloss>to come</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<IPA_transcription>hoasaisì</IPA_transcription>
+<gloss>nambu (bird sp.)</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<IPA_transcription>kahaí</IPA_transcription>
+<gloss>arrow</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<IPA_transcription>paássi [pàássí]</IPA_transcription>
+<gloss>fruit (sp.)</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<IPA_transcription>baíssi [bàíssí]</IPA_transcription>
+<gloss>vine</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<IPA_transcription>ʔísitoí</IPA_transcription>
+<gloss>egg</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<IPA_transcription>ʔogabagaí</IPA_transcription>
+<gloss>want</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<IPA_transcription>?ísitoôgabagí</IPA_transcription>
+<gloss>egg want</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<IPA_transcription>ʔísitoogabaí</IPA_transcription>
+<gloss>egg want</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<IPA_transcription>ʔísapaí</IPA_transcription>
+<gloss>head</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<IPA_transcription>ʔogabagaí</IPA_transcription>
+<gloss>want</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<IPA_transcription>ʔísapaôgabaí</IPA_transcription>
+<gloss>head want</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<IPA_transcription>ʔísapaogabaí</IPA_transcription>
+<gloss>head want</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<IPA_transcription>kahaí</IPA_transcription>
+<gloss>arrow</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<IPA_transcription>ʔogabagaí</IPA_transcription>
+<gloss>want</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<IPA_transcription>kahiôgabaí</IPA_transcription>
+<gloss>arrow want</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<IPA_transcription>kahiogabagaí</IPA_transcription>
+<gloss>arrow want</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<IPA_transcription>xísiisí</IPA_transcription>
+<gloss>oil</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<IPA_transcription>xísaahái</IPA_transcription>
+<gloss>candle</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<IPA_transcription>xísoobái</IPA_transcription>
+<gloss>down (n.)</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<IPA_transcription>bíisai</IPA_transcription>
+<gloss>red</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<IPA_transcription>giopai</IPA_transcription>
+<gloss>dog</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<IPA_transcription>ʔísaibá(há)</IPA_transcription>
+<gloss>much meat</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<IPA_transcription>baahóísi</IPA_transcription>
+<gloss>white-lipped peccary</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<IPA_transcription>ʔáaboípi</IPA_transcription>
+<gloss>paichuba palm</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<IPA_transcription>ʔibóítaipí</IPA_transcription>
+<gloss>to cut</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<IPA_transcription>ʔíbaisaagá</IPA_transcription>
+<gloss>her spouse</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<IPA_transcription>káahoagápáhá</IPA_transcription>
+<gloss>(?)</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<IPA_transcription>hoagái</IPA_transcription>
+<gloss>come</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<IPA_transcription>hoagáihai</IPA_transcription>
+<gloss>will come</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<IPA_transcription>hoaagái</IPA_transcription>
+<gloss>sp. of fruit</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<IPA_transcription>hoaoíi [hwaowíi]</IPA_transcription>
+<gloss>shotgun</gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<IPA_transcription>kagahoaogii</IPA_transcription>
+<gloss>papaya</gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<IPA_transcription>hoaipi</IPA_transcription>
+<gloss>proper name</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<IPA_transcription>kohóaipí</IPA_transcription>
+<gloss>eat</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<IPA_transcription>ʔísipóaí</IPA_transcription>
+<gloss>animal wing</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<IPA_transcription>póai</IPA_transcription>
+<gloss>mango</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<IPA_transcription>biʔí</IPA_transcription>
+<gloss>name</gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<IPA_transcription>ʔabagi</IPA_transcription>
+<gloss>toucan</gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<IPA_transcription>ʔoga / xooga</IPA_transcription>
+<gloss>want</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<IPA_transcription>kogá</IPA_transcription>
+<gloss>but / nevertheless</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<IPA_transcription>sabí</IPA_transcription>
+<gloss>angry / mean</gloss>
+</item>
+
+<item>
+<entry>107</entry>
+<IPA_transcription>gíxapú</IPA_transcription>
+<gloss>(?)</gloss>
+</item>
+
+<item>
+<entry>108</entry>
+<IPA_transcription>paóhoahai</IPA_transcription>
+<gloss>anaconda</gloss>
+</item>
+
+<item>
+<entry>109</entry>
+<IPA_transcription>bigí kaobiigá(baí)</IPA_transcription>
+<gloss>almost falling</gloss>
+</item>
+
+<item>
+<entry>110</entry>
+<IPA_transcription>xísohoá-aáti</IPA_transcription>
+<gloss>search for meat</gloss>
+</item>
+
+<item>
+<entry>111</entry>
+<IPA_transcription>bigí</IPA_transcription>
+<gloss>ground</gloss>
+</item>
+
+<item>
+<entry>112</entry>
+<IPA_transcription>ʔapisí / xaapisí</IPA_transcription>
+<gloss>arm</gloss>
+</item>
+
+<item>
+<entry>113</entry>
+<IPA_transcription>kaitiabí</IPA_transcription>
+<gloss>buzzard</gloss>
+</item>
+
+<item>
+<entry>114</entry>
+<IPA_transcription>hoabóhoi</IPA_transcription>
+<gloss>rapids</gloss>
+</item>
+
+<item>
+<entry>115</entry>
+<IPA_transcription>pihóábigí</IPA_transcription>
+<gloss>(?)</gloss>
+</item>
+
+<item>
+<entry>116</entry>
+<IPA_transcription>xí koabáipáhá</IPA_transcription>
+<gloss>certainly died</gloss>
+</item>
+
+<item>
+<entry>117</entry>
+<IPA_transcription>piahaogisoaípi / piahaogixísáipi</IPA_transcription>
+<gloss>plantain</gloss>
+</item>
+
+<item>
+<entry>118</entry>
+<IPA_transcription>ʔoiboibiísai</IPA_transcription>
+<gloss>sp. of fish</gloss>
+</item>
+
+<item>
+<entry>119</entry>
+<IPA_transcription>kahaíkai(sai)</IPA_transcription>
+<gloss>arrow-maker</gloss>
+</item>
+
+<item>
+<entry>120</entry>
+<IPA_transcription>ʔiboítisai</IPA_transcription>
+<gloss>cutting</gloss>
+</item>
+
+<item>
+<entry>121</entry>
+<IPA_transcription>ʔoóopai</IPA_transcription>
+<gloss>cockroach</gloss>
+</item>
+
+<item>
+<entry>122</entry>
+<IPA_transcription>ʔpoioí</IPA_transcription>
+<gloss>name</gloss>
+</item>
+
+<item>
+<entry>123</entry>
+<IPA_transcription>ʔoii</IPA_transcription>
+<gloss>catfish</gloss>
+</item>
+
+<item>
+<entry>124</entry>
+<IPA_transcription>poioí</IPA_transcription>
+<gloss>name</gloss>
+</item>
+
+<item>
+<entry>125</entry>
+<IPA_transcription>poíao</IPA_transcription>
+<gloss>sp of monkey (zogue zogue)</gloss>
+</item>
+
+<item>
+<entry>126</entry>
+<IPA_transcription>ʔíiibaitopíaáti</IPA_transcription>
+<gloss>cut the wood</gloss>
+</item>
+
+<item>
+<entry>127</entry>
+<IPA_transcription>píai</IPA_transcription>
+<gloss>also</gloss>
+</item>
+
+<item>
+<entry>128</entry>
+<IPA_transcription>ʔíaapisí</IPA_transcription>
+<gloss>her arm</gloss>
+</item>
+
+<item>
+<entry>129</entry>
+<IPA_transcription>xíaaópai</IPA_transcription>
+<gloss>(?)</gloss>
+</item>
+
+<item>
+<entry>130</entry>
+<IPA_transcription>ʔáíasi</IPA_transcription>
+<gloss>Brazil nut grove</gloss>
+</item>
+
+<item>
+<entry>131</entry>
+<IPA_transcription>xágáaáti</IPA_transcription>
+<gloss>make a path</gloss>
+</item>
+
+<item>
+<entry>132</entry>
+<IPA_transcription>giʔáii</IPA_transcription>
+<gloss>spider monkey</gloss>
+</item>
+
+<item>
+<entry>133</entry>
+<IPA_transcription>ʔaió</IPA_transcription>
+<gloss>correct</gloss>
+</item>
+
+<item>
+<entry>134</entry>
+<IPA_transcription>ti xií-oogabagaí</IPA_transcription>
+<gloss>I want clothe</gloss>
+</item>
+
+<item>
+<entry>135</entry>
+<IPA_transcription>ʔiiaagá</IPA_transcription>
+<gloss>she has</gloss>
+</item>
+
+<item>
+<entry>136</entry>
+<IPA_transcription>baaí</IPA_transcription>
+<gloss>collared peccary (small wild pig)</gloss>
+</item>
+
+<item>
+<entry>137</entry>
+<IPA_transcription>saáo(xoi)</IPA_transcription>
+<gloss>(?)</gloss>
+</item>
+
+<item>
+<entry>138</entry>
+<IPA_transcription>ʔóoí</IPA_transcription>
+<gloss>jungle</gloss>
+</item>
+
+</wordlist>
+
+
+
+

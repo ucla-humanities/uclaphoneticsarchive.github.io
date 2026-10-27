@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Amharic</language_name>
+
+
+<headers>
+
+<orthography_header>Speaker</orthography_header>
+<IPA_header>Romanization</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Tariku Tesemaleh?</IPA_transcription>
+<gloss>Tariku, do you hear me?</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Awon esemalehu.</IPA_transcription>
+<gloss>Yes I hear you.</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Ethiopia westʼ min min maedenoch alu?</IPA_transcription>
+<gloss>What kind of minerals are there in Ethiopia?</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Bizu ainet maedenoch alu negergin bemesarya etret yemibe zut alewetum.</IPA_transcription>
+<gloss>There are many kinds but because of shortage of tools they have not been extracted yet.</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Lemisale yahil min min maedenoch alu?</IPA_transcription>
+<gloss>What are some examples of the minerals we have?</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Workʼ, degn.</IPA_transcription>
+<gloss>Gold and phosphorus.</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Sint yeafrica hageroch nachew netsa yalwetʼut?  Tawkaleh?</IPA_transcription>
+<gloss>Do you know how many countries there are in Africa that did not get their independence?</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Bebezat netsa wetʼtewal gin yalwet́uten alawkim.</IPA_transcription>
+<gloss>Many of them have gotten their independence but there are very few that still did not.</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Keafrica hageroch wist habtam ineman nachew?</IPA_transcription>
+<gloss>Which are the richest countries in Africa?</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Debub Africa Nigeriam ahun bezeyet betʼam habtam honalech.</IPA_transcription>
+<gloss>South Africa, and Nigeria recently because of their new oil well discovery are the richest.</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Beersha bekules?</IPA_transcription>
+<gloss>How about in agriculture?</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Esun alawkem.</IPA_transcription>
+<gloss>That I don't know.</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Min addis neger ale nŉtay?</IPA_transcription>
+<gloss>So, what is new in town?</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Minem addis neger yelem.</IPA_transcription>
+<gloss>There is nothing new.</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Tʼeneneteh yetʼebekal?</IPA_transcription>
+<gloss>How are you health wise?</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Awon yetʼebekal.</IPA_transcription>
+<gloss>I am very fine.</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Abateh mechʼe yemetʼalu?</IPA_transcription>
+<gloss>When is your father coming?</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Keand kehulet wer behwala yemet́alu.</IPA_transcription>
+<gloss>He will come in a month or two.</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Debdabe dereseh?</IPA_transcription>
+<gloss>Did you get a letter?</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Awon deresegn.</IPA_transcription>
+<gloss>Yes I did.</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Dehena nachew?</IPA_transcription>
+<gloss>How are they doing?</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Awon betʼam dehna nachew.</IPA_transcription>
+<gloss>They are doing fine.</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Shemagelew temelesew hédu?</IPA_transcription>
+<gloss>Did the old man go back yet?</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Ai altemelesum alu esachew ga ehedalehu biye neber altesakalegnm.</IPA_transcription>
+<gloss>No, he didn't go back.  In fact I wanted to go and see him but I couldn't make it.</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Selkes dewelehelachew tawkaleh?</IPA_transcription>
+<gloss>Do you ever call him?</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Aldewelkum gin semonun edewelalehu.  Wedihena wediya merwarwatʼ selemibeza gizew ayemechem.</IPA_transcription>
+<gloss>No, I didn't.  But I will call him one of these days.  I run around so much that I can't seem to make it.</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Gwadegnocheh bekerb deweleweleh yawkalu?</IPA_transcription>
+<gloss>Did your friends call you recently?</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Manem aldewelelegnm.</IPA_transcription>
+<gloss>No, they did not.</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Ante medewel tetehal.</IPA_transcription>
+<gloss>You dond't call people anymore.</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Altewkum endewim bekedem deweyeleh neber g n enem gizu gize bet alegegnm letʼenat ehedalehu.</IPA_transcription>
+<gloss>You I do call.  In fact I called you a couple of days ago but I don't stay home much.  I go to study at the library.</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Nege temhert bet aleh?</IPA_transcription>
+<gloss>Do you go to school tomorrow?</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Yelegnm.</IPA_transcription>
+<gloss>No, I don't.</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Temhert beth meche new.</IPA_transcription>
+<gloss>What days do you go to school?</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Hamusna maksegno.</IPA_transcription>
+<gloss>Tuesdays and Thursdays.</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Delawen gize tatʼenaleh malet new.</IPA_transcription>
+<gloss>Do you study the rest of the time?</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Awon bedenb atʼenalehu.</IPA_transcription>
+<gloss>Yes I do study very hard.</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Kedamena ehudimin teseraleh?</IPA_transcription>
+<gloss>What do you do on weekends?</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Andandem bematʼnat andandem bemeznanat gizeyen bedenb etekemebetalehu.</IPA_transcription>
+<gloss>I make good use of my time.  Sometimes I study and sometimes I relax.</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>American hager wistʼ des yaleh neger mindinew?</IPA_transcription>
+<gloss>What do you think is the best you got from the U.S.</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Bizu neger temarku.  Nuro min endehone gebtognal.  Yetem hager behed yalemenem ferhat endemenor akalehu.</IPA_transcription>
+<gloss>I learned a lot.  I learned about life.  Now I know I can live in any part of the world without fear.</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Beamerican hager setenor keyehageru selemimetʼut sewoch min tasebaleh?</IPA_transcription>
+<gloss>When you live in the U.S. what do you think of the people that come from different parts of the world?</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Sew enderaseh ayayaz new.  Tʼiru kehonk tiru yihonal met́fom kehonk endezawi negergin kehagereh setewetʼa andand metʼfo neger lidersebeh yechilal ante lemekebel mechal alebih.</IPA_transcription>
+<gloss>It all depends on how you handle them.  If you are nice they will be nice, but if you are not it is likewise.  When you are not in your own country, some things that you don't like might happen but you have to be able to resist.</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Ene ezih hager kechina kevietnam kekoria yemimetʼutin sewoch adenkalehu.</IPA_transcription>
+<gloss>I admire people that come from China, Vietnam and Korea.</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Lemin?  Lemin tadenkachewaleh?</IPA_transcription>
+<gloss>Why?  Why do you admire them?</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Betefetʼro sewenetachew yanese bihonim bemiserut sira betʼam tatariwoch nachew.  Tʼwt mata yitagelalu.</IPA_transcription>
+<gloss>Because even though they look physically small they are very hard working people.  They struggle day and night.</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Hulum yitagelal wanaw alama new ante kenuro min endemitifeleg kawek hulum neger kelal new.</IPA_transcription>
+<gloss>Everybody struggles.  The main thing is to have a goal.  Someone has to know what he wants out of life, then it becomes easy.</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Kayehachew wism Americanoch yemiwedutnina yemaywedutin neger tawkaleh?</IPA_transcription>
+<gloss>From what you have seen.  So far do you know what Americans like and don't like?</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Ene bizum alawkim.</IPA_transcription>
+<gloss>No, I don't know that much.</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Sele tʼekuroch min ainet aste saseb ŉatʼco?</IPA_transcription>
+<gloss>What do you think they think of Black people here?</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Wede poletica wistʼ ategba.  Tʼeyakewocheh adegegna eyehonu metu.</IPA_transcription>
+<gloss>Now you are getting into politics.  Your questions are getting dangerous.</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Eshi alaweram.</IPA_transcription>
+<gloss>Ok.  I won't talk politics.</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Behagerachin terara yibezal weyis meda?</IPA_transcription>
+<gloss>Do we have more mountains or plateau land in Ethiopia?</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Terara yibezal Ethiopia yeterara hager nech.</IPA_transcription>
+<gloss>We have mountains.  Ethiopia is a mountainous country.</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Bealemes?</IPA_transcription>
+<gloss>How about in the wold?</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Selealem bedenb alawkim zore alayehum ahun yemawkew selehagerena tinish seleamerica new kegazetʼa kemanebew mawrat alfelegim.</IPA_transcription>
+<gloss>I don't know much about the rest of the world.  I know only about my country and a little about the U.S.  I do not want to tell you what I have read from the papers.</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>B</native_orthography>
+<IPA_transcription>Yehagerehin bahil keamerican hager bahil gar sitawedader yetignaw bahil alew bileh tamnaleh?</IPA_transcription>
+<gloss>When you compare your culture with the culture of the U.S. who do you think has culture?</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>A</native_orthography>
+<IPA_transcription>Muletum yeyerasachew yeteleyaye bahil alachew.  Ene gin bebekule yerasen bahil ewedalehu.</IPA_transcription>
+<gloss>Both have their own cultures.  But I personally like my own culture.</gloss>
+</item>
+</wordlist>

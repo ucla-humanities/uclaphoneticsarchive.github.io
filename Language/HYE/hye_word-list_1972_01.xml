@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Armenian (Western)</language_name>
+
+
+
+<headers>
+
+<native_orthography>Sound Illustrated</native_orthography>
+<alt_orthography>Orthography</alt_orthography>
+<IPA_header>Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>i</native_orthography>
+<alt_orthography>բիբ</alt_orthography>
+<IPA_transcription>pʰipʰ</IPA_transcription>
+<gloss>pupil</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>ɛ</native_orthography>
+<alt_orthography>պէտք</alt_orthography>
+<IPA_transcription>bɛtʰkʰ</IPA_transcription>
+<gloss>need</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>a</native_orthography>
+<alt_orthography>բադ</alt_orthography>
+<IPA_transcription>pʰatʰ</IPA_transcription>
+<gloss>duck</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>o</native_orthography>
+<alt_orthography>բօթ</alt_orthography>
+<IPA_transcription>pʰotʰ</IPA_transcription>
+<gloss>sad news</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>u</native_orthography>
+<alt_orthography>բութ</alt_orthography>
+<IPA_transcription>pʰutʰ</IPA_transcription>
+<gloss>hurry</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>ɨ</native_orthography>
+<alt_orthography>մըն</alt_orthography>
+<IPA_transcription>mɨn</IPA_transcription>
+<gloss>(indef. article)</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>y</native_orthography>
+<alt_orthography>սըւն</alt_orthography>
+<IPA_transcription>syn</IPA_transcription>
+<gloss>column</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>u͡i</native_orthography>
+<alt_orthography>թոյն</alt_orthography>
+<IPA_transcription>tʰu͡in</IPA_transcription>
+<gloss>poison</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>a͡i</native_orthography>
+<alt_orthography>Հայ</alt_orthography>
+<IPA_transcription>ha͡i</IPA_transcription>
+<gloss>Armenian</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>m</native_orthography>
+<alt_orthography>մեր</alt_orthography>
+<IPA_transcription>meɾ</IPA_transcription>
+<gloss>our</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>n</native_orthography>
+<alt_orthography>ներս</alt_orthography>
+<IPA_transcription>neɾs</IPA_transcription>
+<gloss>inside, within</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>pʰ</native_orthography>
+<alt_orthography>բուռ</alt_orthography>
+<IPA_transcription>pʰur</IPA_transcription>
+<gloss>fist, hand</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>tʰ</native_orthography>
+<alt_orthography>դուռ</alt_orthography>
+<IPA_transcription>tʰur</IPA_transcription>
+<gloss>door</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>kʰ</native_orthography>
+<alt_orthography>գութ</alt_orthography>
+<IPA_transcription>kʰutʰ</IPA_transcription>
+<gloss>affection</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography></native_orthography>
+<alt_orthography>գուբ</alt_orthography>
+<IPA_transcription>kʰupʰ</IPA_transcription>
+<gloss>pit</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>b</native_orthography>
+<alt_orthography>պար</alt_orthography>
+<IPA_transcription>baɾ</IPA_transcription>
+<gloss>dance</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>d</native_orthography>
+<alt_orthography>տաղ</alt_orthography>
+<IPA_transcription>daɣ</IPA_transcription>
+<gloss>verse</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>g</native_orthography>
+<alt_orthography>կաղ</alt_orthography>
+<IPA_transcription>gaɣ</IPA_transcription>
+<gloss>lame</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>f</native_orthography>
+<alt_orthography>Ֆրանսա</alt_orthography>
+<IPA_transcription>ˈfɾansa</IPA_transcription>
+<gloss>France</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>v</native_orthography>
+<alt_orthography>վրան</alt_orthography>
+<IPA_transcription>vɾan</IPA_transcription>
+<gloss>tent</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>β</native_orthography>
+<alt_orthography>հաւ</alt_orthography>
+<IPA_transcription>haβ</IPA_transcription>
+<gloss>hen</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>ɸ</native_orthography>
+<alt_orthography>հեւք</alt_orthography>
+<IPA_transcription>heɸk</IPA_transcription>
+<gloss>panting</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>s</native_orthography>
+<alt_orthography>սար</alt_orthography>
+<IPA_transcription>saɾ</IPA_transcription>
+<gloss>mountain</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>ʃ</native_orthography>
+<alt_orthography>շար</alt_orthography>
+<IPA_transcription>ʃaɾ</IPA_transcription>
+<gloss>line</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>z</native_orthography>
+<alt_orthography>զատ</alt_orthography>
+<IPA_transcription>zadʰ</IPA_transcription>
+<gloss>besides</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>ʒ</native_orthography>
+<alt_orthography>ժամ</alt_orthography>
+<IPA_transcription>ʒam</IPA_transcription>
+<gloss>hour</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>s</native_orthography>
+<alt_orthography>ասի</alt_orthography>
+<IPA_transcription>aˈsi</IPA_transcription>
+<gloss>this</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>z</native_orthography>
+<alt_orthography>ազատ</alt_orthography>
+<IPA_transcription>aˈzadʰ</IPA_transcription>
+<gloss>free</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>ʃ</native_orthography>
+<alt_orthography>աշուն</alt_orthography>
+<IPA_transcription>aˈʃun</IPA_transcription>
+<gloss>autumn</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>ʒ</native_orthography>
+<alt_orthography>աժան</alt_orthography>
+<IPA_transcription>aˈʒan</IPA_transcription>
+<gloss>cheap</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>ts</native_orthography>
+<alt_orthography>ձեր</alt_orthography>
+<IPA_transcription>tseɾ</IPA_transcription>
+<gloss>your</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>tʃ</native_orthography>
+<alt_orthography>ջերմ</alt_orthography>
+<IPA_transcription>tʃerm</IPA_transcription>
+<gloss>warm</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>ts</native_orthography>
+<alt_orthography>ցեղ</alt_orthography>
+<IPA_transcription>tseɣ</IPA_transcription>
+<gloss>race</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>dz</native_orthography>
+<alt_orthography>ծառ</alt_orthography>
+<IPA_transcription>dzar</IPA_transcription>
+<gloss>tree</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>dʒ</native_orthography>
+<alt_orthography>ճառ</alt_orthography>
+<IPA_transcription>dʒar</IPA_transcription>
+<gloss>speech</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>ts</native_orthography>
+<alt_orthography>հաց</alt_orthography>
+<IPA_transcription>hats</IPA_transcription>
+<gloss>bread</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>dz</native_orthography>
+<alt_orthography>կայծ</alt_orthography>
+<IPA_transcription>gaidz</IPA_transcription>
+<gloss>hot coal</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>ts</native_orthography>
+<alt_orthography>օձ</alt_orthography>
+<IPA_transcription>ots</IPA_transcription>
+<gloss>serpent</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>tʃ</native_orthography>
+<alt_orthography>երջանիկ</alt_orthography>
+<IPA_transcription>jeɾtʃaˈnigʰ</IPA_transcription>
+<gloss>happy</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>dʒ</native_orthography>
+<alt_orthography>ճանճ</alt_orthography>
+<IPA_transcription>dʒandʒ</IPA_transcription>
+<gloss>a fly</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>x</native_orthography>
+<alt_orthography>խազ</alt_orthography>
+<IPA_transcription>xaz</IPA_transcription>
+<gloss>musical note</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>ɣ</native_orthography>
+<alt_orthography>Ղազար</alt_orthography>
+<IPA_transcription>ɣaˈzaɾ</IPA_transcription>
+<gloss>Lazar</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>r</native_orthography>
+<alt_orthography>ռազմ</alt_orthography>
+<IPA_transcription>razm̩</IPA_transcription>
+<gloss>battle</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>ɾ</native_orthography>
+<alt_orthography>րոպէ</alt_orthography>
+<IPA_transcription>ɾoˈbe</IPA_transcription>
+<gloss>minute</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>r</native_orthography>
+<alt_orthography>հռետոր</alt_orthography>
+<IPA_transcription>h̩redor</IPA_transcription>
+<gloss>orator</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>ɾ</native_orthography>
+<alt_orthography>հրետ</alt_orthography>
+<IPA_transcription>h̩ɾe ͮd</IPA_transcription>
+<gloss>cannon</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>x</native_orthography>
+<alt_orthography>ախոռ</alt_orthography>
+<IPA_transcription>aˈxor</IPA_transcription>
+<gloss>stable</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>ɣ</native_orthography>
+<alt_orthography>աղօտ</alt_orthography>
+<IPA_transcription>aˈɣod</IPA_transcription>
+<gloss>obscure</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>r</native_orthography>
+<alt_orthography>առողջ</alt_orthography>
+<IPA_transcription>aˈrohtʃ</IPA_transcription>
+<gloss>healthy</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>ɾ</native_orthography>
+<alt_orthography>արօտ</alt_orthography>
+<IPA_transcription>aˈɾod</IPA_transcription>
+<gloss>pasture</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>կեանք</alt_orthography>
+<IPA_transcription>gʲankʰ</IPA_transcription>
+<gloss>life</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>եօթը</alt_orthography>
+<IPA_transcription>ˈjotʰʌ</IPA_transcription>
+<gloss>seven</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>հասցէ</alt_orthography>
+<IPA_transcription>hasˈtse</IPA_transcription>
+<gloss>address</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>յղփանալ</alt_orthography>
+<IPA_transcription>hə ͬxpʰaˈanl</IPA_transcription>
+<gloss>to be stuffed</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>յօրանջել</alt_orthography>
+<IPA_transcription>hɔɾanˈtçeʎ</IPA_transcription>
+<gloss>to yawn</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>յաւելուած</alt_orthography>
+<IPA_transcription>haβeʎˈβadz</IPA_transcription>
+<gloss>appendix</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>յաւիտեան</alt_orthography>
+<IPA_transcription>haβidˈjan</IPA_transcription>
+<gloss>eternal</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>ընչաքաղց</alt_orthography>
+<IPA_transcription>ˌʌntʃaˈka ͬxts</IPA_transcription>
+<gloss>avaricious</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>կմախքներ</alt_orthography>
+<IPA_transcription>gəmaxˈneɾ</IPA_transcription>
+<gloss>skeletons</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>փորձանքներ</alt_orthography>
+<IPA_transcription>poɾtzankˈneɾ</IPA_transcription>
+<gloss>accidents</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>պարտքեր</alt_orthography>
+<IPA_transcription>baɾtˈkeɾ</IPA_transcription>
+<gloss>duties</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>ազզ</alt_orthography>
+<IPA_transcription>azkʰ</IPA_transcription>
+<gloss>nation</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>ազդ</alt_orthography>
+<IPA_transcription>aztʰ</IPA_transcription>
+<gloss>notice</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>աստ</alt_orthography>
+<IPA_transcription>asd</IPA_transcription>
+<gloss>here</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>թանգ</alt_orthography>
+<IPA_transcription>taŋkʰ</IPA_transcription>
+<gloss>expensive</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>գանկ</alt_orthography>
+<IPA_transcription>gaŋg</IPA_transcription>
+<gloss>skull</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>եռանդ</alt_orthography>
+<IPA_transcription>jeˈrantʰ</IPA_transcription>
+<gloss>zeal</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>ժանտ</alt_orthography>
+<IPA_transcription>ʒandʰ</IPA_transcription>
+<gloss>wicked</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>դէմք</alt_orthography>
+<IPA_transcription>demkʰ</IPA_transcription>
+<gloss>face</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>զամբիկ</alt_orthography>
+<IPA_transcription>zampig</IPA_transcription>
+<gloss>mare</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>վարձք</alt_orthography>
+<IPA_transcription>vaɾtskʰ</IPA_transcription>
+<gloss>wages</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>բաղձանք</alt_orthography>
+<IPA_transcription>paxtzaŋkʰ</IPA_transcription>
+<gloss>desire</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>աղջիկ</alt_orthography>
+<IPA_transcription>a ͬxtʃigʰ</IPA_transcription>
+<gloss>girl</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>եղբայր</alt_orthography>
+<IPA_transcription>jeɣˈba͡ir</IPA_transcription>
+<gloss>brother</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>բժչկական</alt_orthography>
+<IPA_transcription>bəˈʒɪʃkaˈgan</IPA_transcription>
+<gloss>medical</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>ընծուղտ</alt_orthography>
+<IPA_transcription>ndzuɣd</IPA_transcription>
+<gloss>giraffe</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>աղբ</alt_orthography>
+<IPA_transcription>a ͬxpʰ</IPA_transcription>
+<gloss>trash</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>ամբարտակ</alt_orthography>
+<IPA_transcription>ampaɾdagʰ</IPA_transcription>
+<gloss>reservoir</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>ումպ</alt_orthography>
+<IPA_transcription>umbʰ</IPA_transcription>
+<gloss>sip</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>թթու</alt_orthography>
+<IPA_transcription>tʰətʰu</IPA_transcription>
+<gloss>sour</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>ապերախտ</alt_orthography>
+<IPA_transcription>abeɾaxd</IPA_transcription>
+<gloss>ungrateful</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>Ան աղջիկ մըն է:</alt_orthography>
+<IPA_transcription>an a ͬxˈtʃig mən e</IPA_transcription>
+<gloss>She is a girl.</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>Մենք հին ազգ մըն ենք: </alt_orthography>
+<IPA_transcription>menk hin ˈask mən ˌeŋkʰ</IPA_transcription>
+<gloss>We are an ancient nation.</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>Դուք քաջ բանակ մըն էք:</alt_orthography>
+<IPA_transcription>tʰuk kʰatʃ paˈnag mən ekʰ</IPA_transcription>
+<gloss>You are a brave army.</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>Անոնք խառն ամբոխ մըն էն:</alt_orthography>
+<IPA_transcription>anoŋk ˈxaɾən amˈpox mən e ͮn</IPA_transcription>
+<gloss>They are a mixed crowd.</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>Ես մչակ մըն էի:</alt_orthography>
+<IPA_transcription>jes məˈʃak mən eˌi</IPA_transcription>
+<gloss>I was a farmer</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>Ան անվախ զինուոր մըն էր:</alt_orthography>
+<IPA_transcription>an anˈvax zinˈvoɾ mən eɾ</IPA_transcription>
+<gloss>He was a fearless soldier.</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>Մենք ազատ ժողովուրդ մըն էինք:</alt_orthography>
+<IPA_transcription>ˌmenk aˈza ʃo oˈvurt mən eˌiŋk</IPA_transcription>
+<gloss>We were a free people.</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>(no sound given)</native_orthography>
+<alt_orthography>(no orthography)</alt_orthography>
+<IPA_transcription>(no transcription)</IPA_transcription>
+<gloss>(continuous speech)</gloss>
+</item>
+</wordlist>
+
+
+
+
+
+

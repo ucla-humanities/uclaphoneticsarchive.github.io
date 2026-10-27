@@ -1,0 +1,541 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Yoruba</language_name>
+
+
+
+<headers>
+
+<alt_orthography_header>Yoruba Orthography</alt_orthography_header>
+<orthography_header>Sound Illustrated</orthography_header>
+<IPA_header>Yoruba (IPA)</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+<item>
+<entry>1</entry>
+<alt_orthography>bá</alt_orthography>
+<native_orthography>b</native_orthography>
+<IPA_transcription>bá</IPA_transcription>
+<gloss>to meet</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<alt_orthography>má</alt_orthography>
+<native_orthography>m</native_orthography>
+<IPA_transcription>má</IPA_transcription>
+<gloss>don't</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<alt_orthography>fà</alt_orthography>
+<native_orthography>f</native_orthography>
+<IPA_transcription>fà</IPA_transcription>
+<gloss>to pull</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<alt_orthography>tà</alt_orthography>
+<native_orthography>t</native_orthography>
+<IPA_transcription>tˢà</IPA_transcription>
+<gloss>to sell</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<alt_orthography>dà</alt_orthography>
+<native_orthography>d</native_orthography>
+<IPA_transcription>dà</IPA_transcription>
+<gloss>to pour</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<alt_orthography>sá</alt_orthography>
+<native_orthography>s</native_orthography>
+<IPA_transcription>sá</IPA_transcription>
+<gloss>to run off</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<alt_orthography>rà</alt_orthography>
+<native_orthography>ɹ</native_orthography>
+<IPA_transcription>ɹà</IPA_transcription>
+<gloss>to buy</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<alt_orthography>lá</alt_orthography>
+<native_orthography>l</native_orthography>
+<IPA_transcription>lá</IPA_transcription>
+<gloss>to wear away</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<alt_orthography>nã̀</alt_orthography>
+<native_orthography>n</native_orthography>
+<IPA_transcription>nɑ̃̀</IPA_transcription>
+<gloss>to flog</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<alt_orthography>sà</alt_orthography>
+<native_orthography>ɗ</native_orthography>
+<IPA_transcription>ɗà</IPA_transcription>
+<gloss>to pick</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<alt_orthography>ʝà</alt_orthography>
+<native_orthography>ɟʲ</native_orthography>
+<IPA_transcription>ɟʲà</IPA_transcription>
+<gloss>to fight</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<alt_orthography>yá</alt_orthography>
+<native_orthography>ʝ</native_orthography>
+<IPA_transcription>ʝá</IPA_transcription>
+<gloss>to lend</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<alt_orthography>ká</alt_orthography>
+<native_orthography>k</native_orthography>
+<IPA_transcription>kʰá</IPA_transcription>
+<gloss>to fold</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<alt_orthography>ga</alt_orthography>
+<native_orthography>ɡ</native_orthography>
+<IPA_transcription>ɡā</IPA_transcription>
+<gloss>to be tall</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<alt_orthography>pa</alt_orthography>
+<native_orthography>k͡p</native_orthography>
+<IPA_transcription>k͡pā</IPA_transcription>
+<gloss>to kill</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<alt_orthography>g͡bà</alt_orthography>
+<native_orthography>ɡ͡b</native_orthography>
+<IPA_transcription>ɡ͡bà̟</IPA_transcription>
+<gloss>to take</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<alt_orthography>wà</alt_orthography>
+<native_orthography>w</native_orthography>
+<IPA_transcription>wà</IPA_transcription>
+<gloss>to be</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<alt_orthography>há</alt_orthography>
+<native_orthography>h</native_orthography>
+<IPA_transcription>h̝á</IPA_transcription>
+<gloss>to be crowded</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<alt_orthography>igi</alt_orthography>
+<native_orthography>ɡ</native_orthography>
+<IPA_transcription>īɡī</IPA_transcription>
+<gloss>tree</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<alt_orthography>ìg͡ba</alt_orthography>
+<native_orthography>ɡ͡b</native_orthography>
+<IPA_transcription>ìɡ͡bà̠</IPA_transcription>
+<gloss>time</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<alt_orthography>ìbà</alt_orthography>
+<native_orthography>b</native_orthography>
+<IPA_transcription>ìbà</IPA_transcription>
+<gloss>homage</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<alt_orthography>ìka</alt_orthography>
+<native_orthography>k</native_orthography>
+<IPA_transcription>ìkā</IPA_transcription>
+<gloss>finger</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<alt_orthography>ipá</alt_orthography>
+<native_orthography>k͡p</native_orthography>
+<IPA_transcription>īk͡pá</IPA_transcription>
+<gloss>strength</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<alt_orthography>pè</alt_orthography>
+<native_orthography>k͡p</native_orthography>
+<IPA_transcription>k͡pè</IPA_transcription>
+<gloss>to call</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<alt_orthography>g͡bé</alt_orthography>
+<native_orthography>ɡ͡b</native_orthography>
+<IPA_transcription>ɡ͡bé̟</IPA_transcription>
+<gloss>to carry</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<alt_orthography>ipè</alt_orthography>
+<native_orthography>k͡p</native_orthography>
+<IPA_transcription>īk͡pè</IPA_transcription>
+<gloss>the call</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<alt_orthography>ig͡be</alt_orthography>
+<native_orthography>ɡ͡b</native_orthography>
+<IPA_transcription>īɡ͡bē̟</IPA_transcription>
+<gloss>the cry</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<alt_orthography>óńbọ̀</alt_orthography>
+<native_orthography>m̩</native_orthography>
+<IPA_transcription>óḿ̩bɔ̀</IPA_transcription>
+<gloss>he is coming</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<alt_orthography>óńtọ̀</alt_orthography>
+<native_orthography>n̩</native_orthography>
+<IPA_transcription>óń̩tɔ̀</IPA_transcription>
+<gloss>he is urinating</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<alt_orthography>óńfò</alt_orthography>
+<native_orthography>ɱ̩</native_orthography>
+<IPA_transcription>óɱ̩́fò</IPA_transcription>
+<gloss>he is jumping</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<alt_orthography>óńyí</alt_orthography>
+<native_orthography>ɲ̩</native_orthography>
+<IPA_transcription>óɲ̩́ʝí̝</IPA_transcription>
+<gloss>it is rolling</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<alt_orthography>óńké</alt_orthography>
+<native_orthography>ŋ̩</native_orthography>
+<IPA_transcription>óŋ̩́ké</IPA_transcription>
+<gloss>he is crying</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<alt_orthography>wà</alt_orthography>
+<native_orthography>a</native_orthography>
+<IPA_transcription>wà</IPA_transcription>
+<gloss>to be</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<alt_orthography>wé</alt_orthography>
+<native_orthography>e</native_orthography>
+<IPA_transcription>wé</IPA_transcription>
+<gloss>to tie</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<alt_orthography>wí</alt_orthography>
+<native_orthography>i</native_orthography>
+<IPA_transcription>wí</IPA_transcription>
+<gloss>to say</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<alt_orthography>wò</alt_orthography>
+<native_orthography>o</native_orthography>
+<IPA_transcription>wò</IPA_transcription>
+<gloss>to look at</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<alt_orthography>wẹ̀</alt_orthography>
+<native_orthography>ɛ</native_orthography>
+<IPA_transcription>wɛ̀</IPA_transcription>
+<gloss>to bathe</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<alt_orthography>wɔ̀</alt_orthography>
+<native_orthography>ɔ</native_orthography>
+<IPA_transcription>wɔ̀</IPA_transcription>
+<gloss>to enter</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<alt_orthography>wù</alt_orthography>
+<native_orthography>u</native_orthography>
+<IPA_transcription>wù</IPA_transcription>
+<gloss>to admire</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<alt_orthography>san</alt_orthography>
+<native_orthography>ɑ̃</native_orthography>
+<IPA_transcription>sɑ̃</IPA_transcription>
+<gloss>to be well</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<alt_orthography>sin</alt_orthography>
+<native_orthography>ĩ</native_orthography>
+<IPA_transcription>sĩ</IPA_transcription>
+<gloss>to bury</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<alt_orthography>sùn</alt_orthography>
+<native_orthography>ũ</native_orthography>
+<IPA_transcription>sũ̀</IPA_transcription>
+<gloss>to sleep</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<alt_orthography>yẹn</alt_orthography>
+<native_orthography>ɛ̃</native_orthography>
+<IPA_transcription>ʝ̃ɛ̃</IPA_transcription>
+<gloss>[determiner]</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<alt_orthography>yí</alt_orthography>
+<native_orthography>ʝ</native_orthography>
+<IPA_transcription>ʝí</IPA_transcription>
+<gloss>to turn</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<alt_orthography>yín</alt_orthography>
+<native_orthography>ʝ̃</native_orthography>
+<IPA_transcription>ʝ̃ĩ́</IPA_transcription>
+<gloss>to husk</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<alt_orthography>wọ</alt_orthography>
+<native_orthography>w</native_orthography>
+<IPA_transcription>wɔ́</IPA_transcription>
+<gloss>crooked</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<alt_orthography>wón</alt_orthography>
+<native_orthography>w̃</native_orthography>
+<IPA_transcription>wɔ̃</IPA_transcription>
+<gloss>to spray</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<alt_orthography>rí</alt_orthography>
+<native_orthography>ɾ</native_orthography>
+<IPA_transcription>ɾí</IPA_transcription>
+<gloss>to see</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<alt_orthography>run</alt_orthography>
+<native_orthography>ɾ̃</native_orthography>
+<IPA_transcription>ɾ̃ũ</IPA_transcription>
+<gloss>to crumble</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<alt_orthography>sùúrù</alt_orthography>
+<native_orthography>u</native_orthography>
+<IPA_transcription>sùúɾú</IPA_transcription>
+<gloss>patience</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<alt_orthography>bèèrè</alt_orthography>
+<native_orthography>e</native_orthography>
+<IPA_transcription>bèèɹè</IPA_transcription>
+<gloss>to ask</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<alt_orthography>òótọ́</alt_orthography>
+<native_orthography>o</native_orthography>
+<IPA_transcription>òótʰɔ́</IPA_transcription>
+<gloss>truth</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<alt_orthography>pọ́</alt_orthography>
+<native_orthography>ɔ́</native_orthography>
+<IPA_transcription>k͡pɔ́</IPA_transcription>
+<gloss>to clean an animal's intestine</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<alt_orthography>pọ́n</alt_orthography>
+<native_orthography>ã</native_orthography>
+<IPA_transcription>k͡pã</IPA_transcription>
+<gloss>to praise </gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<alt_orthography>kí</alt_orthography>
+<native_orthography>i</native_orthography>
+<IPA_transcription>kʰí</IPA_transcription>
+<gloss>to greet</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<alt_orthography>kínlẹ́hì</alt_orthography>
+<native_orthography>ĩ</native_orthography>
+<IPA_transcription>kʰĩ́lɛ́ĩ̀ </IPA_transcription>
+<gloss>to support</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<alt_orthography>níná</alt_orthography>
+<native_orthography>/ĩ/ã/</native_orthography>
+<IPA_transcription>nĩ́nã́</IPA_transcription>
+<gloss>spending</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<alt_orthography>wá</alt_orthography>
+<native_orthography>high tone</native_orthography>
+<IPA_transcription>wá</IPA_transcription>
+<gloss>come</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<alt_orthography>ta</alt_orthography>
+<native_orthography>mid tone</native_orthography>
+<IPA_transcription>tˢā</IPA_transcription>
+<gloss>pepperish</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<alt_orthography>wà</alt_orthography>
+<native_orthography>low tone</native_orthography>
+<IPA_transcription>wà</IPA_transcription>
+<gloss>exist</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<alt_orthography>ig͡bá</alt_orthography>
+<native_orthography>mid-high</native_orthography>
+<IPA_transcription>īɡ͡bá̠</IPA_transcription>
+<gloss>calabash</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<alt_orthography>ig͡ba</alt_orthography>
+<native_orthography>mid-mid</native_orthography>
+<IPA_transcription>īɡ͡bā̠</IPA_transcription>
+<gloss>two hundred</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<alt_orthography>ìg͡bà</alt_orthography>
+<native_orthography>low-low</native_orthography>
+<IPA_transcription>ìɡ͡bà̠</IPA_transcription>
+<gloss>time</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<alt_orthography>ig͡bà</alt_orthography>
+<native_orthography>mid-low</native_orthography>
+<IPA_transcription>īɡ͡bà̠</IPA_transcription>
+<gloss>rope for climbing</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<alt_orthography>ìg͡bá</alt_orthography>
+<native_orthography>low-high</native_orthography>
+<IPA_transcription>īɡ͡bá̠</IPA_transcription>
+<gloss>garden egg</gloss>
+</item>
+
+</wordlist>
+
+
+
+
+
+

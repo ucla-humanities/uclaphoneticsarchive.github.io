@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Swahili</language_name>
+
+
+<headers>
+
+<orthography_header>Orthography</orthography_header>
+<IPA_header>Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>paka</native_orthography>
+<IPA_transcription>ˈpaka</IPA_transcription>
+<gloss>to smear</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>paka</native_orthography>
+<IPA_transcription>ˈpʰaka</IPA_transcription>
+<gloss>a cat</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>bali</native_orthography>
+<IPA_transcription>ˈbali</IPA_transcription>
+<gloss>but</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>mbali</native_orthography>
+<IPA_transcription>m̩ˈbali</IPA_transcription>
+<gloss>far</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>mara</native_orthography>
+<IPA_transcription>ˈmara</IPA_transcription>
+<gloss>time</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>waza</native_orthography>
+<IPA_transcription>ˈwaza</IPA_transcription>
+<gloss>to think</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>faa</native_orthography>
+<IPA_transcription>ˈfaa</IPA_transcription>
+<gloss>to be useful</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>vaa</native_orthography>
+<IPA_transcription>ˈvaa</IPA_transcription>
+<gloss>to wear</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>thamini</native_orthography>
+<IPA_transcription>θaˈmini</IPA_transcription>
+<gloss>value</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>dhamini</native_orthography>
+<IPA_transcription>ðaˈmini</IPA_transcription>
+<gloss>to guarantee</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>taa</native_orthography>
+<IPA_transcription>ˈtaa</IPA_transcription>
+<gloss>lamp</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>taa</native_orthography>
+<IPA_transcription>ˈtaa</IPA_transcription>
+<gloss>skate-fish</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>dara</native_orthography>
+<IPA_transcription>ˈdara</IPA_transcription>
+<gloss>to seize</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>ndara</native_orthography>
+<IPA_transcription>ˈndara</IPA_transcription>
+<gloss>sandal</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>njaa</native_orthography>
+<IPA_transcription>n̩ˈdʒaa</IPA_transcription>
+<gloss>hunger</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>saa</native_orthography>
+<IPA_transcription>ˈsaa</IPA_transcription>
+<gloss>hour</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>zaa</native_orthography>
+<IPA_transcription>ˈzaa</IPA_transcription>
+<gloss>to bear</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>rasi</native_orthography>
+<IPA_transcription>ˈrasi</IPA_transcription>
+<gloss>cape</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>la</native_orthography>
+<IPA_transcription>ˈla</IPA_transcription>
+<gloss>no</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>changu</native_orthography>
+<IPA_transcription>ˈtʃaŋgu</IPA_transcription>
+<gloss>my</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>changu</native_orthography>
+<IPA_transcription>ˈtʃaŋgu</IPA_transcription>
+<gloss>a fish</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>shaba</native_orthography>
+<IPA_transcription>ˈʃaba</IPA_transcription>
+<gloss>copper</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>nama</native_orthography>
+<IPA_transcription>ˈnama</IPA_transcription>
+<gloss>to be flexible</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>nyama</native_orthography>
+<IPA_transcription>ˈɲama</IPA_transcription>
+<gloss>meat</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>jumba</native_orthography>
+<IPA_transcription>ˈɟumba</IPA_transcription>
+<gloss>hall</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>yumba</native_orthography>
+<IPA_transcription>ˈjumba</IPA_transcription>
+<gloss>to stagger</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>kombe</native_orthography>
+<IPA_transcription>ˈkombe</IPA_transcription>
+<gloss>bowl</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>kombe</native_orthography>
+<IPA_transcription>ˈkombe</IPA_transcription>
+<gloss>oyster shell</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>ng'oa</native_orthography>
+<IPA_transcription>ŋ̩ˈõa</IPA_transcription>
+<gloss>uproot</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>ngoa</native_orthography>
+<IPA_transcription>ŋ̩ˈgoa</IPA_transcription>
+<gloss>desire</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>gaidi</native_orthography>
+<IPA_transcription>gaˈidi</IPA_transcription>
+<gloss>bandit</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>ghairi</native_orthography>
+<IPA_transcription>gaˈiri</IPA_transcription>
+<gloss>to change one's mind</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>wakati ule </native_orthography>
+<IPA_transcription>waˈkati ˈule</IPA_transcription>
+<gloss>at that time</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>haba</native_orthography>
+<IPA_transcription>ˈhaba</IPA_transcription>
+<gloss>few</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>pata</native_orthography>
+<IPA_transcription>ˈpata</IPA_transcription>
+<gloss>hinge</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>peta</native_orthography>
+<IPA_transcription>ˈpeta</IPA_transcription>
+<gloss>to bend around</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>pita</native_orthography>
+<IPA_transcription>ˈpita</IPA_transcription>
+<gloss>to pass</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>pota</native_orthography>
+<IPA_transcription>ˈpota</IPA_transcription>
+<gloss>to twist</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>puta</native_orthography>
+<IPA_transcription>ˈputa</IPA_transcription>
+<gloss>to thrash</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>mtu mrefu</native_orthography>
+<IPA_transcription>ˈm̩tu mrefu</IPA_transcription>
+<gloss>a tall person</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>mtu mweusi</native_orthography>
+<IPA_transcription>ˈm̩tu mweusi</IPA_transcription>
+<gloss>a black person</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>miti mirefu</native_orthography>
+<IPA_transcription>ˈmiti miˈrefu</IPA_transcription>
+<gloss>tall trees</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>miti myekundu</native_orthography>
+<IPA_transcription>ˈmiti mjeˈkundu</IPA_transcription>
+<gloss>red trees</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>kitu kizuri</native_orthography>
+<IPA_transcription>ˈkitu kiˈzuri</IPA_transcription>
+<gloss>a beautiful thing</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>kitu chema</native_orthography>
+<IPA_transcription>ˈkitu ˈtʃema</IPA_transcription>
+<gloss>a good thing</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>vitu vizuri</native_orthography>
+<IPA_transcription>ˈvitu viˈzuri</IPA_transcription>
+<gloss>beautiful things</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>vitu vyema</native_orthography>
+<IPA_transcription>ˈvitu ˈvjema</IPA_transcription>
+<gloss>good things</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>uso wangu</native_orthography>
+<IPA_transcription>ˈuso ˈwangu</IPA_transcription>
+<gloss>my face</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>meza yetu</native_orthography>
+<IPA_transcription>ˈmeza ˈjetu</IPA_transcription>
+<gloss>our table</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>nyumbani kwangu</native_orthography>
+<IPA_transcription>njumˈbani ˈkwaŋgu</IPA_transcription>
+<gloss>my home</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>nguo nyeupe</native_orthography>
+<IPA_transcription>ŋ̩ˈguo njˈeupe</IPA_transcription>
+<gloss>a red dress</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>msitu</native_orthography>
+<IPA_transcription>m̩ˈsiːtu</IPA_transcription>
+<gloss>forest</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>msituni</native_orthography>
+<IPA_transcription>m̩siˈtuːni</IPA_transcription>
+<gloss>in the forest</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>linda</native_orthography>
+<IPA_transcription>ˈliːnda</IPA_transcription>
+<gloss>guard</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>tumbo</native_orthography>
+<IPA_transcription>ˈtuːmbo</IPA_transcription>
+<gloss>belly</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>chamua</native_orthography>
+<IPA_transcription>tʃaˈmũːa</IPA_transcription>
+<gloss>yawn</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>kimo</native_orthography>
+<IPA_transcription>ˈkiːmõ</IPA_transcription>
+<gloss>height</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>pata</native_orthography>
+<IPA_transcription>ˈpaːta</IPA_transcription>
+<gloss>get</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>mbwa</native_orthography>
+<IPA_transcription>ˈm̩ːbwa</IPA_transcription>
+<gloss>dog</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>rafiki</native_orthography>
+<IPA_transcription>raˈfiːki</IPA_transcription>
+<gloss>friend</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>nimevileta</native_orthography>
+<IPA_transcription>nimeviˈleːta</IPA_transcription>
+<gloss>I have brought them.</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>Mbwa na nge ni rafiki zangu.</native_orthography>
+<IPA_transcription>ˈm̩bwa na ˈŋge ni rafiki ˈzaŋgu</IPA_transcription>
+<gloss>The dog and scorpion are my pets.</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>Nitakaa huko siku themanini.</native_orthography>
+<IPA_transcription>ˈnitaka ˈhuko ˈsiku θemaˈnini</IPA_transcription>
+<gloss>I will stay there eighty days.</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>Nitakwenda Nairobi kuatembelea jamaa.</native_orthography>
+<IPA_transcription>nitakwenda nairobi kuatembelea ɟamaa</IPA_transcription>
+<gloss>I am going to Nairobi to visit relatives.</gloss>
+</item>
+</wordlist>

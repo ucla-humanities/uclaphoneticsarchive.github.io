@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Chinese, Min Nan</language_name>
+
+
+
+<headers>
+
+<native_orthography>Sound Illustrated</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_header>IPA</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>m</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>mĩ ⁵⁵</IPA_transcription>
+<gloss>noodles</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>n</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>nĩ ⁵¹</IPA_transcription>
+<gloss>to dye</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>ŋ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ŋäʔ ⁴¹</IPA_transcription>
+<gloss>stupefied</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>p</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>pĩ ⁵⁵</IPA_transcription>
+<gloss>side</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>pʰ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>pʰĩ ⁵⁵</IPA_transcription>
+<gloss>page</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>b</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>bɪn ³³</IPA_transcription>
+<gloss>face</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>t</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>te̞n ⁵⁵</IPA_transcription>
+<gloss>upside down</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>tʰ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>tʰe̞n ⁵⁵</IPA_transcription>
+<gloss>sky, heaven</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>d</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>dwi ²¹</IPA_transcription>
+<gloss>to; against</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>k</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ke̞n ⁵⁵</IPA_transcription>
+<gloss>strong, sturdy</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>kʰ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kʰän ⁵⁵</IPA_transcription>
+<gloss>to lead along, pull</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>g</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>(äŋ ²²) gu ⁵⁵</IPA_transcription>
+<gloss>red bean cake</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>ɾ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ɾe̞n ²²</IPA_transcription>
+<gloss>to practice</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>t͡s</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>t͡säp ⁵⁵</IPA_transcription>
+<gloss>ten</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>t͡sʰ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>t͡sʰän ⁵⁵</IPA_transcription>
+<gloss>meal</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>tʃ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>tʃɪŋ ⁵⁵</IPA_transcription>
+<gloss>thousand</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>d͡ʒ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>d͡ʒe̞n ⁵⁵</IPA_transcription>
+<gloss>to fry</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>s</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>se̞n ²²</IPA_transcription>
+<gloss>tired</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>ʃ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ʃĩ ⁵⁵</IPA_transcription>
+<gloss>to bear (a child)</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>h</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>häŋ ⁵⁵</IPA_transcription>
+<gloss>to dry</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>x</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>xĩ ²²</IPA_transcription>
+<gloss>ear</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>m</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>am ²¹</IPA_transcription>
+<gloss>late</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>n</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>an ⁵⁵</IPA_transcription>
+<gloss>peaceful</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>ŋ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>aŋ ⁵⁵</IPA_transcription>
+<gloss>husband</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>p</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ap̚ ²²</IPA_transcription>
+<gloss>box</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>t</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>at̚ ²²</IPA_transcription>
+<gloss>to bend, break</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>k</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>pak̚ ²²</IPA_transcription>
+<gloss>to skin (an animal)</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>ʔ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>aʔ ²²</IPA_transcription>
+<gloss>duck</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>i</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>i ⁵⁵</IPA_transcription>
+<gloss>he</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>ĩ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>mĩ ⁵⁵</IPA_transcription>
+<gloss>noodles</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>ɪ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>bɪt̚ ²²</IPA_transcription>
+<gloss>pen, brush</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>e</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>t͡sʰe ²³</IPA_transcription>
+<gloss>to look for</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>ẽ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>t͡sʰẽ ⁵⁵</IPA_transcription>
+<gloss>blue</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>e</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>e̞ʔ ⁵¹</IPA_transcription>
+<gloss>a kind of vegetable</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>a</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>pʰäʔ ²¹</IPA_transcription>
+<gloss>to hit</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>ã</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>mã ³³</IPA_transcription>
+<gloss>to scold</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>ɔ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>mɔ ⁵⁵</IPA_transcription>
+<gloss>to touch</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>ɔ̃</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>mɔ̃ ²²</IPA_transcription>
+<gloss>cold (catarrh)</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>u</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>u ⁵⁵</IPA_transcription>
+<gloss>to have, exist</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>ja</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ja ²³</IPA_transcription>
+<gloss>to lift</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>jã</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>t͡ʃjä ⁵¹</IPA_transcription>
+<gloss>to request</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>ju</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ju ⁵⁵</IPA_transcription>
+<gloss>worry, care</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>jũ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kjũ ⁵⁵</IPA_transcription>
+<gloss>ginger</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>aj</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>aj ²¹</IPA_transcription>
+<gloss>love</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>ãj</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ãj ²³</IPA_transcription>
+<gloss>to bear, to carry</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>au</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>au ⁵⁵</IPA_transcription>
+<gloss>to bend</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>ãu</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>mãu ⁵⁵</IPA_transcription>
+<gloss>indented, depressed</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>wi</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>wi ²²</IPA_transcription>
+<gloss>to draw</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>wĩ</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>wĩ ⁵⁵</IPA_transcription>
+<gloss>to close</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>wa</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>wä ⁵¹</IPA_transcription>
+<gloss>I, myself</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>wã</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>wã ²³</IPA_transcription>
+<gloss>to change</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>jau</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>jau ⁵⁵</IPA_transcription>
+<gloss>to be hungry</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>jãu</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ŋjaːu ⁵⁵</IPA_transcription>
+<gloss>ticklish</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>jɔu</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>jɔu ⁵⁵</IPA_transcription>
+<gloss>waist</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>waj</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>waj ⁵⁵</IPA_transcription>
+<gloss>crooked</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>(First tone)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kau ³³</IPA_transcription>
+<gloss>hook</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>(Second tone)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kau ²⁴</IPA_transcription>
+<gloss>monkey</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>(Third tone)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kau ⁵¹</IPA_transcription>
+<gloss>nine</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>(Fifth tone)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kau ²¹</IPA_transcription>
+<gloss>to reach, arrive</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>(Seventh tone)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kau ²³</IPA_transcription>
+<gloss>thick</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>(Fourth tone)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kʷut̚ ⁵⁵</IPA_transcription>
+<gloss>to slip, skate</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>(Eighth tone)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kʷut̚ ¹¹</IPA_transcription>
+<gloss>bone</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>(Neutral tone)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>(ɾi) ɾe ⁴</IPA_transcription>
+<gloss>And (you)?</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>(Consonantal Syllables)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>m̩ ²²</IPA_transcription>
+<gloss>no, not</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>(Consonantal Syllables)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ŋ̩ ²⁴</IPA_transcription>
+<gloss>yellow</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>(Consonantal Syllables)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>̩nŋ̩ ²³</IPA_transcription>
+<gloss>two (of something)</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>(Consonantal Syllables)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>tʰŋ̩ ⁵⁵</IPA_transcription>
+<gloss>soup</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>(Consonantal Syllables)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>tʰaŋ ⁵⁵</IPA_transcription>
+<gloss>must, will, want</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>(Geminates)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ɾɪt ⁵⁵</IPA_transcription>
+<gloss> day</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>(Geminates)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>pʷun ⁵¹</IPA_transcription>
+<gloss>source</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>(Geminates)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>ɾɪppʷun ²²/⁵⁵</IPA_transcription>
+<gloss>Japan</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>(Geminates)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>t͡sap ⁵⁵</IPA_transcription>
+<gloss>ten</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>(Geminates)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>tĩu ⁵⁵</IPA_transcription>
+<gloss>page</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>(Geminates)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>t͡sattĩu ²²/⁵⁵</IPA_transcription>
+<gloss>ten pages</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>(Geminates)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>t͡sap ⁵⁵</IPA_transcription>
+<gloss>ten</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>(Geminates)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>kaŋ ⁵⁵</IPA_transcription>
+<gloss>day</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>(Geminates)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>t͡sakkaŋ ²²/⁵⁵</IPA_transcription>
+<gloss>ten days</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>(Geminates)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>in ⁵⁵</IPA_transcription>
+<gloss>his</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>(Assimilation)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>bɔ ⁵¹</IPA_transcription>
+<gloss>wife</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>(Assimilation)</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription>imbɔ ²²/⁵¹</IPA_transcription>
+<gloss>his wife</gloss>
+</item>
+</wordlist>
+
+
+
+
+
+

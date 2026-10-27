@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Vietnamese</language_name>
+
+
+<headers>
+
+<orthography_header>Tone</orthography_header>
+<IPA_header>Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>cheek</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>high broken</native_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>horse</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>mid level</native_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>ghost</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>low broken</native_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>shoot of rice</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>low rising</native_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>grave</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>but, so</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>pin</IPA_transcription>
+<gloss>battery</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>tʌp̚</IPA_transcription>
+<gloss>to practice</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>ba</IPA_transcription>
+<gloss>three</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>tʌt̚</IPA_transcription>
+<gloss>socks</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>tʰa</IPA_transcription>
+<gloss>to forgive</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>di</IPA_transcription>
+<gloss>to go</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>kɞk̚</IPA_transcription>
+<gloss>lily</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>ʔui</IPA_transcription>
+<gloss>authority</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>cçic̚</IPA_transcription>
+<gloss>to inject</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>fa</IPA_transcription>
+<gloss>to mix</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>va</IPA_transcription>
+<gloss>to bump into</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>sa</IPA_transcription>
+<gloss>far</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>za</IPA_transcription>
+<gloss>to go out</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>xa</IPA_transcription>
+<gloss>not bad</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>ɣa</IPA_transcription>
+<gloss>railroad station</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>haɪ</IPA_transcription>
+<gloss>two</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>mõm</IPA_transcription>
+<gloss>mouth</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>nõn</IPA_transcription>
+<gloss>to vomit</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>ɲɛ̃ɲ</IPA_transcription>
+<gloss>fast</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>ŋõŋ</IPA_transcription>
+<gloss>male swan</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>la</IPA_transcription>
+<gloss>to be</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>tʌt̚</IPA_transcription>
+<gloss>socks</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>tʰʌt</IPA_transcription>
+<gloss>true</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>dʌt</IPA_transcription>
+<gloss>expensive</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>nɔ</IPA_transcription>
+<gloss>he/she/it</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>ɲʌnɲɔ</IPA_transcription>
+<gloss>to wince</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>ŋɔ</IPA_transcription>
+<gloss>to look</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>di</IPA_transcription>
+<gloss>to go</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>me</IPA_transcription>
+<gloss>to dream</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>ɛm</IPA_transcription>
+<gloss>younger sibling</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>ət̚</IPA_transcription>
+<gloss>chili</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>tʌt̚</IPA_transcription>
+<gloss>socks</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>ɲʌɲ</IPA_transcription>
+<gloss>fast</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>ta</IPA_transcription>
+<gloss>big</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>ko</IPA_transcription>
+<gloss>Miss</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>ɯ</IPA_transcription>
+<gloss>yes</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>tʰu</IPA_transcription>
+<gloss>autumn</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>haɪ</IPA_transcription>
+<gloss>two</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>cçic̚</IPA_transcription>
+<gloss>to inject</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>ba</IPA_transcription>
+<gloss>three</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>kiʌ</IPA_transcription>
+<gloss>that</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>tʰu</IPA_transcription>
+<gloss>autumn</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>no tone given</native_orthography>
+<IPA_transcription>kɞk̚</IPA_transcription>
+<gloss>lily</gloss>
+</item>
+</wordlist>
+
+
+
+
+

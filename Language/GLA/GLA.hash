@@ -1,0 +1,731 @@
+﻿# made with checksum.. point-and-click hashing for windows (64-bit edition).
+# from corz.org.. http://corz.org/windows/software/checksum/
+#
+#md5#gla.html#2008.12.30@10.45:36
+33b58c58c60d330191e81efe410b0ff5 *gla.html
+#md5#gla.html.LCK#2008.12.30@10.45:36
+fbef01db4c2bc685e88f1970d1c19123 *gla.html.LCK
+#md5#gla.xml#2008.12.30@10.45:37
+2f38cd6bdc3990e75b2aa6e9b004caa8 *gla.xml
+#md5#gla.xml.LCK#2008.12.30@10.45:37
+fbef01db4c2bc685e88f1970d1c19123 *gla.xml.LCK
+#md5#gla_metadata.xls#2008.12.30@10.45:38
+b190d32a968f77427271c05eae9827e9 *gla_metadata.xls
+#md5#gla_metadata.xls.LCK#2008.12.30@10.45:38
+fbef01db4c2bc685e88f1970d1c19123 *gla_metadata.xls.LCK
+#md5#gla_record_details.html#2008.12.30@10.45:38
+1ce1b6755e9104056108254bbadd9630 *gla_record_details.html
+#md5#gla_record_details.html.LCK#2008.12.30@10.45:39
+fbef01db4c2bc685e88f1970d1c19123 *gla_record_details.html.LCK
+#md5#gla_story_1978_01.html#2008.12.30@10.45:39
+70ece623064623655084f2330964a35a *gla_story_1978_01.html
+#md5#gla_story_1978_01.html.LCK#2008.12.30@10.45:39
+fbef01db4c2bc685e88f1970d1c19123 *gla_story_1978_01.html.LCK
+#md5#gla_story_1978_01.jpg#2008.12.30@10.45:40
+0ab1b8d1d1fadaa497ff7711fe911f9d *gla_story_1978_01.jpg
+#md5#gla_story_1978_01.jpg.LCK#2008.12.30@10.45:40
+fbef01db4c2bc685e88f1970d1c19123 *gla_story_1978_01.jpg.LCK
+#md5#gla_story_1978_01.mp3#2008.12.30@10.45:41
+25878db05c82204e41e75a391b6598b6 *gla_story_1978_01.mp3
+#md5#gla_story_1978_01.mp3.LCK#2008.12.30@10.45:42
+fbef01db4c2bc685e88f1970d1c19123 *gla_story_1978_01.mp3.LCK
+#md5#gla_story_1978_01.tif#2008.12.30@10.45:45
+d8be7e748d498c9c076033fe5729aa43 *gla_story_1978_01.tif
+#md5#gla_story_1978_01.tif.LCK#2008.12.30@10.45:45
+fbef01db4c2bc685e88f1970d1c19123 *gla_story_1978_01.tif.LCK
+#md5#gla_story_1978_01.wav#2008.12.30@10.45:48
+1f6538f94a3685346d9b483fed808bbc *gla_story_1978_01.wav
+#md5#gla_story_1978_01.wav.LCK#2008.12.30@10.45:48
+fbef01db4c2bc685e88f1970d1c19123 *gla_story_1978_01.wav.LCK
+#md5#gla_story_1978_01.xls#2008.12.30@10.45:49
+3a4597453f60e3541ab6ce2cc920d752 *gla_story_1978_01.xls
+#md5#gla_story_1978_01.xls.LCK#2008.12.30@10.45:49
+fbef01db4c2bc685e88f1970d1c19123 *gla_story_1978_01.xls.LCK
+#md5#gla_story_1978_01.xml#2008.12.30@10.45:49
+ebbc2e5f81664d677d07e73fc9fd19f3 *gla_story_1978_01.xml
+#md5#gla_story_1978_01.xml.LCK#2008.12.30@10.45:49
+fbef01db4c2bc685e88f1970d1c19123 *gla_story_1978_01.xml.LCK
+#md5#gla_word-list_1997_01.html#2008.12.30@10.45:50
+337c4eab7a2a8eed8265fad1a44aff15 *gla_word-list_1997_01.html
+#md5#gla_word-list_1997_01.html.LCK#2008.12.30@10.45:50
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_01.html.LCK
+#md5#gla_word-list_1997_01.jpg#2008.12.30@10.45:51
+317978787e651a5979011854a448c08e *gla_word-list_1997_01.jpg
+#md5#gla_word-list_1997_01.jpg.LCK#2008.12.30@10.45:51
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_01.jpg.LCK
+#md5#gla_word-list_1997_01.mp3#2008.12.30@10.45:51
+2fe0481d72fe32d6a2427705e301d9a6 *gla_word-list_1997_01.mp3
+#md5#gla_word-list_1997_01.mp3.LCK#2008.12.30@10.45:52
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_01.mp3.LCK
+#md5#gla_word-list_1997_01.tif#2008.12.30@10.45:52
+6edde577b4432e8177f8aaa51503e7b0 *gla_word-list_1997_01.tif
+#md5#gla_word-list_1997_01.tif.LCK#2008.12.30@10.45:53
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_01.tif.LCK
+#md5#gla_word-list_1997_01.wav#2008.12.30@10.45:56
+e4c267122369b5ec5ff2a0b8f3036e16 *gla_word-list_1997_01.wav
+#md5#gla_word-list_1997_01.wav.LCK#2008.12.30@10.45:56
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_01.wav.LCK
+#md5#gla_word-list_1997_01.xls#2008.12.30@10.45:56
+3796d054c2c91ab742825f18ee0e99e9 *gla_word-list_1997_01.xls
+#md5#gla_word-list_1997_01.xls.LCK#2008.12.30@10.45:57
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_01.xls.LCK
+#md5#gla_word-list_1997_01.xml#2008.12.30@10.45:57
+90a4373a97a922a7f011c36b331edddf *gla_word-list_1997_01.xml
+#md5#gla_word-list_1997_01.xml.LCK#2008.12.30@10.45:57
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_01.xml.LCK
+#md5#gla_word-list_1997_02.jpg#2008.12.30@10.45:57
+75a7fb0f99c786d4646fb141b46fc809 *gla_word-list_1997_02.jpg
+#md5#gla_word-list_1997_02.jpg.LCK#2008.12.30@10.45:57
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_02.jpg.LCK
+#md5#gla_word-list_1997_02.mp3#2008.12.30@10.45:58
+124c3df8471fb256a1b2b10625455ec5 *gla_word-list_1997_02.mp3
+#md5#gla_word-list_1997_02.mp3.LCK#2008.12.30@10.45:59
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_02.mp3.LCK
+#md5#gla_word-list_1997_02.tif#2008.12.30@10.45:59
+d0c08b9c4e0491d7a664dde02109af6d *gla_word-list_1997_02.tif
+#md5#gla_word-list_1997_02.tif.LCK#2008.12.30@10.46:00
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_02.tif.LCK
+#md5#gla_word-list_1997_02.wav#2008.12.30@10.46:06
+5788502d7f3eae42b2270718c78858ad *gla_word-list_1997_02.wav
+#md5#gla_word-list_1997_02.wav.LCK#2008.12.30@10.46:07
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_02.wav.LCK
+#md5#gla_word-list_1997_03.jpg#2008.12.30@10.46:07
+e7c92c1e4910c542e643e1638d836679 *gla_word-list_1997_03.jpg
+#md5#gla_word-list_1997_03.jpg.LCK#2008.12.30@10.46:07
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_03.jpg.LCK
+#md5#gla_word-list_1997_03.mp3#2008.12.30@10.46:08
+bcbd8d99c44dbe080bda4282436aae0e *gla_word-list_1997_03.mp3
+#md5#gla_word-list_1997_03.mp3.LCK#2008.12.30@10.46:09
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_03.mp3.LCK
+#md5#gla_word-list_1997_03.tif#2008.12.30@10.46:10
+8b242dbc07af9c536cac6aa5eeffe854 *gla_word-list_1997_03.tif
+#md5#gla_word-list_1997_03.tif.LCK#2008.12.30@10.46:10
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_03.tif.LCK
+#md5#gla_word-list_1997_03.wav#2008.12.30@10.46:15
+520b1aad155ef37d6b78ae365c181ac9 *gla_word-list_1997_03.wav
+#md5#gla_word-list_1997_03.wav.LCK#2008.12.30@10.46:15
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_03.wav.LCK
+#md5#gla_word-list_1997_04.jpg#2008.12.30@10.46:16
+d96b98f6066575b251e1d783562d6beb *gla_word-list_1997_04.jpg
+#md5#gla_word-list_1997_04.jpg.LCK#2008.12.30@10.46:16
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_04.jpg.LCK
+#md5#gla_word-list_1997_04.mp3#2008.12.30@10.46:16
+48af29f9eccf3b6a3692e243d1bc3783 *gla_word-list_1997_04.mp3
+#md5#gla_word-list_1997_04.mp3.LCK#2008.12.30@10.46:16
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_04.mp3.LCK
+#md5#gla_word-list_1997_04.tif#2008.12.30@10.46:18
+2195711062b0639501f40a49f84b7e06 *gla_word-list_1997_04.tif
+#md5#gla_word-list_1997_04.tif.LCK#2008.12.30@10.46:18
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_04.tif.LCK
+#md5#gla_word-list_1997_04.wav#2008.12.30@10.46:24
+337c935c60ca647d60c543c447c95ba3 *gla_word-list_1997_04.wav
+#md5#gla_word-list_1997_04.wav.LCK#2008.12.30@10.46:24
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_04.wav.LCK
+#md5#gla_word-list_1997_05.jpg#2008.12.30@10.46:24
+c2b513bb5830e5775ec5e2a959a488b0 *gla_word-list_1997_05.jpg
+#md5#gla_word-list_1997_05.jpg.LCK#2008.12.30@10.46:24
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_05.jpg.LCK
+#md5#gla_word-list_1997_05.mp3#2008.12.30@10.46:26
+6cf56798d5f127b4dc99caa77a1d0f78 *gla_word-list_1997_05.mp3
+#md5#gla_word-list_1997_05.mp3.LCK#2008.12.30@10.46:26
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_05.mp3.LCK
+#md5#gla_word-list_1997_05.tif#2008.12.30@10.46:27
+dd09cbac41a2eaaafe10961b5cb3ff2c *gla_word-list_1997_05.tif
+#md5#gla_word-list_1997_05.tif.LCK#2008.12.30@10.46:27
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_05.tif.LCK
+#md5#gla_word-list_1997_05.wav#2008.12.30@10.46:31
+e41a8ea63b53941dbda7a4ff72d1f3f1 *gla_word-list_1997_05.wav
+#md5#gla_word-list_1997_05.wav.LCK#2008.12.30@10.46:31
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_05.wav.LCK
+#md5#gla_word-list_1997_06.jpg#2008.12.30@10.46:32
+270dde21f35b499e4a578c6945d9536d *gla_word-list_1997_06.jpg
+#md5#gla_word-list_1997_06.jpg.LCK#2008.12.30@10.46:32
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_06.jpg.LCK
+#md5#gla_word-list_1997_06.mp3#2008.12.30@10.46:32
+c7a3b7d57e8bdfc9fdcea135cc069de9 *gla_word-list_1997_06.mp3
+#md5#gla_word-list_1997_06.mp3.LCK#2008.12.30@10.46:32
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_06.mp3.LCK
+#md5#gla_word-list_1997_06.tif#2008.12.30@10.46:34
+87e31a284abebb81ae609896af1fbe44 *gla_word-list_1997_06.tif
+#md5#gla_word-list_1997_06.tif.LCK#2008.12.30@10.46:34
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_06.tif.LCK
+#md5#gla_word-list_1997_06.wav#2008.12.30@10.46:40
+37d88af2d6b78dcc0e8bae580b7403df *gla_word-list_1997_06.wav
+#md5#gla_word-list_1997_06.wav.LCK#2008.12.30@10.46:40
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_06.wav.LCK
+#md5#gla_word-list_1997_07.jpg#2008.12.30@10.46:41
+f63882be4e2c1c5b60513f4c21e06c89 *gla_word-list_1997_07.jpg
+#md5#gla_word-list_1997_07.jpg.LCK#2008.12.30@10.46:41
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_07.jpg.LCK
+#md5#gla_word-list_1997_07.mp3#2008.12.30@10.46:42
+4ef34a11beae859aa0c2ff732292b723 *gla_word-list_1997_07.mp3
+#md5#gla_word-list_1997_07.mp3.LCK#2008.12.30@10.46:42
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_07.mp3.LCK
+#md5#gla_word-list_1997_07.tif#2008.12.30@10.46:43
+4485e5b375580065f76d9ff29eabeb39 *gla_word-list_1997_07.tif
+#md5#gla_word-list_1997_07.tif.LCK#2008.12.30@10.46:43
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_07.tif.LCK
+#md5#gla_word-list_1997_07.wav#2008.12.30@10.46:45
+a3176268a7f0a1dca15a7b4fce713330 *gla_word-list_1997_07.wav
+#md5#gla_word-list_1997_07.wav.LCK#2008.12.30@10.46:45
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_07.wav.LCK
+#md5#gla_word-list_1997_08.mp3#2008.12.30@10.46:46
+e44c28f9556b37a30b5670d78e33fa9b *gla_word-list_1997_08.mp3
+#md5#gla_word-list_1997_08.mp3.LCK#2008.12.30@10.46:47
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_08.mp3.LCK
+#md5#gla_word-list_1997_08.wav#2008.12.30@10.47:00
+75fbd0808f027654ab05a5cae20defe1 *gla_word-list_1997_08.wav
+#md5#gla_word-list_1997_08.wav.LCK#2008.12.30@10.47:01
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_08.wav.LCK
+#md5#gla_word-list_1997_09.mp3#2008.12.30@10.47:02
+3ade4cc0166e54ce9942d115b02f1300 *gla_word-list_1997_09.mp3
+#md5#gla_word-list_1997_09.mp3.LCK#2008.12.30@10.47:02
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_09.mp3.LCK
+#md5#gla_word-list_1997_09.wav#2008.12.30@10.47:07
+5687e745c48c1bb04f592899d0f4dae7 *gla_word-list_1997_09.wav
+#md5#gla_word-list_1997_09.wav.LCK#2008.12.30@10.47:07
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_09.wav.LCK
+#md5#gla_word-list_1997_10.mp3#2008.12.30@10.47:07
+e8bcdd218afe1ddc2010d9ec1522e2b2 *gla_word-list_1997_10.mp3
+#md5#gla_word-list_1997_10.mp3.LCK#2008.12.30@10.47:08
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_10.mp3.LCK
+#md5#gla_word-list_1997_10.wav#2008.12.30@10.47:11
+e29be5c58045217f488eb13112a03931 *gla_word-list_1997_10.wav
+#md5#gla_word-list_1997_10.wav.LCK#2008.12.30@10.47:11
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_10.wav.LCK
+#md5#gla_word-list_1997_11.mp3#2008.12.30@10.47:12
+3a2bcc90ca82882a056a97c849341482 *gla_word-list_1997_11.mp3
+#md5#gla_word-list_1997_11.mp3.LCK#2008.12.30@10.47:12
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_11.mp3.LCK
+#md5#gla_word-list_1997_11.wav#2008.12.30@10.47:19
+1583f3bfc490797c6e68d8a6ca36f235 *gla_word-list_1997_11.wav
+#md5#gla_word-list_1997_11.wav.LCK#2008.12.30@10.47:19
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_11.wav.LCK
+#md5#gla_word-list_1997_12.mp3#2008.12.30@10.47:19
+0ef9454c06a6fb80c0f40a28447d5beb *gla_word-list_1997_12.mp3
+#md5#gla_word-list_1997_12.mp3.LCK#2008.12.30@10.47:20
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_12.mp3.LCK
+#md5#gla_word-list_1997_12.wav#2008.12.30@10.47:22
+5ee0076f2282242c35a53e1c2dd3e3bd *gla_word-list_1997_12.wav
+#md5#gla_word-list_1997_12.wav.LCK#2008.12.30@10.47:22
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_12.wav.LCK
+#md5#gla_word-list_1997_13.mp3#2008.12.30@10.47:23
+796a41dd1a4438c0c65d802a967b1f3f *gla_word-list_1997_13.mp3
+#md5#gla_word-list_1997_13.mp3.LCK#2008.12.30@10.47:23
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_13.mp3.LCK
+#md5#gla_word-list_1997_13.wav#2008.12.30@10.47:29
+dc46ace941a6ee492a02b3ea440940b8 *gla_word-list_1997_13.wav
+#md5#gla_word-list_1997_13.wav.LCK#2008.12.30@10.47:29
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_13.wav.LCK
+#md5#gla_word-list_1997_14.mp3#2008.12.30@10.47:31
+a7551cbc1e77740c935f3b5d453ee49f *gla_word-list_1997_14.mp3
+#md5#gla_word-list_1997_14.mp3.LCK#2008.12.30@10.47:31
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_14.mp3.LCK
+#md5#gla_word-list_1997_14.wav#2008.12.30@10.47:33
+acd3b3dbbc4b571353cee316143bba0f *gla_word-list_1997_14.wav
+#md5#gla_word-list_1997_14.wav.LCK#2008.12.30@10.47:33
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_14.wav.LCK
+#md5#gla_word-list_1997_15.mp3#2008.12.30@10.47:34
+1d76db4e1ec46f64062e5bf2b2fec1e5 *gla_word-list_1997_15.mp3
+#md5#gla_word-list_1997_15.mp3.LCK#2008.12.30@10.47:35
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_15.mp3.LCK
+#md5#gla_word-list_1997_15.wav#2008.12.30@10.47:40
+48090547e9bdf3679a722d30d77bd42f *gla_word-list_1997_15.wav
+#md5#gla_word-list_1997_15.wav.LCK#2008.12.30@10.47:40
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_15.wav.LCK
+#md5#gla_word-list_1997_16.mp3#2008.12.30@10.47:41
+54a33268f59c0b73602f40a48b8ce994 *gla_word-list_1997_16.mp3
+#md5#gla_word-list_1997_16.mp3.LCK#2008.12.30@10.47:41
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_16.mp3.LCK
+#md5#gla_word-list_1997_16.wav#2008.12.30@10.47:44
+8704b84ec8859422918bbd2b00866408 *gla_word-list_1997_16.wav
+#md5#gla_word-list_1997_16.wav.LCK#2008.12.30@10.47:45
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_16.wav.LCK
+#md5#gla_word-list_1997_17.mp3#2008.12.30@10.47:45
+3208b759b6b641636631dcaaf13e7f7c *gla_word-list_1997_17.mp3
+#md5#gla_word-list_1997_17.mp3.LCK#2008.12.30@10.47:46
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_17.mp3.LCK
+#md5#gla_word-list_1997_17.wav#2008.12.30@10.47:47
+a3a16521a11770f54b36f231f0d93f56 *gla_word-list_1997_17.wav
+#md5#gla_word-list_1997_17.wav.LCK#2008.12.30@10.47:48
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_17.wav.LCK
+#md5#gla_word-list_1997_18.mp3#2008.12.30@10.47:50
+7c7f80693df6f97273e52025c2b29bc8 *gla_word-list_1997_18.mp3
+#md5#gla_word-list_1997_18.mp3.LCK#2008.12.30@10.47:50
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_18.mp3.LCK
+#md5#gla_word-list_1997_18.wav#2008.12.30@10.48:06
+a0c76a6e9a4b69e35b3074eded0a16e3 *gla_word-list_1997_18.wav
+#md5#gla_word-list_1997_18.wav.LCK#2008.12.30@10.48:07
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_18.wav.LCK
+#md5#gla_word-list_1997_19.mp3#2008.12.30@10.48:07
+92904ef5f35e7337cf3931247e99a576 *gla_word-list_1997_19.mp3
+#md5#gla_word-list_1997_19.mp3.LCK#2008.12.30@10.48:07
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_19.mp3.LCK
+#md5#gla_word-list_1997_19.wav#2008.12.30@10.48:09
+6ba7fb1b08d1c3c7dbe04d484c5ea9c0 *gla_word-list_1997_19.wav
+#md5#gla_word-list_1997_19.wav.LCK#2008.12.30@10.48:09
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_19.wav.LCK
+#md5#gla_word-list_1997_20.mp3#2008.12.30@10.48:10
+41ac29a8dd3ac8d479af615f8f48b36f *gla_word-list_1997_20.mp3
+#md5#gla_word-list_1997_20.mp3.LCK#2008.12.30@10.48:11
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_20.mp3.LCK
+#md5#gla_word-list_1997_20.wav#2008.12.30@10.48:16
+7f85172da9ac5d79f6513fa1724af88d *gla_word-list_1997_20.wav
+#md5#gla_word-list_1997_20.wav.LCK#2008.12.30@10.48:16
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_20.wav.LCK
+#md5#gla_word-list_1997_21.mp3#2008.12.30@10.48:17
+b7d6e277346770e95d1d30c2c2be688b *gla_word-list_1997_21.mp3
+#md5#gla_word-list_1997_21.mp3.LCK#2008.12.30@10.48:18
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_21.mp3.LCK
+#md5#gla_word-list_1997_21.wav#2008.12.30@10.48:19
+58a8206d3906641231ae229bdba2330a *gla_word-list_1997_21.wav
+#md5#gla_word-list_1997_21.wav.LCK#2008.12.30@10.48:20
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_21.wav.LCK
+#md5#gla_word-list_1997_22.mp3#2008.12.30@10.48:20
+70bab7ae4a565accb54a481556491109 *gla_word-list_1997_22.mp3
+#md5#gla_word-list_1997_22.mp3.LCK#2008.12.30@10.48:20
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_22.mp3.LCK
+#md5#gla_word-list_1997_22.wav#2008.12.30@10.48:23
+a4cb0268019f49cdf02615014c9c934e *gla_word-list_1997_22.wav
+#md5#gla_word-list_1997_22.wav.LCK#2008.12.30@10.48:23
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_22.wav.LCK
+#md5#gla_word-list_1997_23.mp3#2008.12.30@10.48:24
+a3135a593003c06d33a68814ed4183f4 *gla_word-list_1997_23.mp3
+#md5#gla_word-list_1997_23.mp3.LCK#2008.12.30@10.48:24
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_23.mp3.LCK
+#md5#gla_word-list_1997_23.wav#2008.12.30@10.48:31
+ed0eb67507fcb63ef0eaaa82de87c00a *gla_word-list_1997_23.wav
+#md5#gla_word-list_1997_23.wav.LCK#2008.12.30@10.48:31
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_23.wav.LCK
+#md5#gla_word-list_1997_24.mp3#2008.12.30@10.48:31
+aeb2143f7e687407e8612edac6482d34 *gla_word-list_1997_24.mp3
+#md5#gla_word-list_1997_24.mp3.LCK#2008.12.30@10.48:32
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_24.mp3.LCK
+#md5#gla_word-list_1997_24.wav#2008.12.30@10.48:34
+fa152b3e400d4742801ff07ce7f00b15 *gla_word-list_1997_24.wav
+#md5#gla_word-list_1997_24.wav.LCK#2008.12.30@10.48:35
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_24.wav.LCK
+#md5#gla_word-list_1997_25.mp3#2008.12.30@10.48:35
+f5c15cd56a9cfffaa2210cdfda6943e2 *gla_word-list_1997_25.mp3
+#md5#gla_word-list_1997_25.mp3.LCK#2008.12.30@10.48:35
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_25.mp3.LCK
+#md5#gla_word-list_1997_25.wav#2008.12.30@10.48:41
+598f1bd1b1232f541351ec0ba34c15da *gla_word-list_1997_25.wav
+#md5#gla_word-list_1997_25.wav.LCK#2008.12.30@10.48:41
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_25.wav.LCK
+#md5#gla_word-list_1997_26.mp3#2008.12.30@10.48:42
+5e2946ff46f1dc322b9715c5a5c6a5cb *gla_word-list_1997_26.mp3
+#md5#gla_word-list_1997_26.mp3.LCK#2008.12.30@10.48:43
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_26.mp3.LCK
+#md5#gla_word-list_1997_26.wav#2008.12.30@10.48:45
+17f4defffef8d222a4f6559b357809c2 *gla_word-list_1997_26.wav
+#md5#gla_word-list_1997_26.wav.LCK#2008.12.30@10.48:45
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_26.wav.LCK
+#md5#gla_word-list_1997_27.mp3#2008.12.30@10.48:46
+7c51eeab47041c2f36f3d73fb70516eb *gla_word-list_1997_27.mp3
+#md5#gla_word-list_1997_27.mp3.LCK#2008.12.30@10.48:47
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_27.mp3.LCK
+#md5#gla_word-list_1997_27.wav#2008.12.30@10.48:47
+29014324dab97f4668c80b37bf883b90 *gla_word-list_1997_27.wav
+#md5#gla_word-list_1997_27.wav.LCK#2008.12.30@10.48:48
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_27.wav.LCK
+#md5#gla_word-list_1997_28.mp3#2008.12.30@10.48:48
+73c76c30bd763753909c9bbd77f1a202 *gla_word-list_1997_28.mp3
+#md5#gla_word-list_1997_28.mp3.LCK#2008.12.30@10.48:48
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_28.mp3.LCK
+#md5#gla_word-list_1997_28.wav#2008.12.30@10.48:53
+6f607de37d603734dfa17f0247da968a *gla_word-list_1997_28.wav
+#md5#gla_word-list_1997_28.wav.LCK#2008.12.30@10.48:53
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_28.wav.LCK
+#md5#gla_word-list_1997_29.mp3#2008.12.30@10.48:54
+a64cf5c1691b5a70a35a327d6d732315 *gla_word-list_1997_29.mp3
+#md5#gla_word-list_1997_29.mp3.LCK#2008.12.30@10.48:55
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_29.mp3.LCK
+#md5#gla_word-list_1997_29.wav#2008.12.30@10.48:57
+0fc4f9a45f1d7f4af67dae0d7b9d3560 *gla_word-list_1997_29.wav
+#md5#gla_word-list_1997_29.wav.LCK#2008.12.30@10.48:57
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_29.wav.LCK
+#md5#gla_word-list_1997_30.mp3#2008.12.30@10.48:58
+6437d850acd1307cf910bae1b157d5d2 *gla_word-list_1997_30.mp3
+#md5#gla_word-list_1997_30.mp3.LCK#2008.12.30@10.48:59
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_30.mp3.LCK
+#md5#gla_word-list_1997_30.wav#2008.12.30@10.49:01
+16628222b69aa68d953fb84473333b4a *gla_word-list_1997_30.wav
+#md5#gla_word-list_1997_30.wav.LCK#2008.12.30@10.49:01
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_30.wav.LCK
+#md5#gla_word-list_1997_31.mp3#2008.12.30@10.49:02
+f683986bc0a3acc2d9b54995beca2788 *gla_word-list_1997_31.mp3
+#md5#gla_word-list_1997_31.mp3.LCK#2008.12.30@10.49:02
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_31.mp3.LCK
+#md5#gla_word-list_1997_31.wav#2008.12.30@10.49:07
+e0fa66c23d84734be46847743eb527da *gla_word-list_1997_31.wav
+#md5#gla_word-list_1997_31.wav.LCK#2008.12.30@10.49:08
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_31.wav.LCK
+#md5#gla_word-list_1997_32.mp3#2008.12.30@10.49:09
+6926d28d95b9281b05b62cfba6d381a8 *gla_word-list_1997_32.mp3
+#md5#gla_word-list_1997_32.mp3.LCK#2008.12.30@10.49:09
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_32.mp3.LCK
+#md5#gla_word-list_1997_32.wav#2008.12.30@10.49:13
+238336a7942eadbd18250c77c983c3e8 *gla_word-list_1997_32.wav
+#md5#gla_word-list_1997_32.wav.LCK#2008.12.30@10.49:15
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_32.wav.LCK
+#md5#gla_word-list_1997_33.mp3#2008.12.30@10.49:16
+e766afc280885ef402291187b40fffe0 *gla_word-list_1997_33.mp3
+#md5#gla_word-list_1997_33.mp3.LCK#2008.12.30@10.49:16
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_33.mp3.LCK
+#md5#gla_word-list_1997_33.wav#2008.12.30@10.49:22
+d1b64f656669c5fa7e10fbe45d5760ea *gla_word-list_1997_33.wav
+#md5#gla_word-list_1997_33.wav.LCK#2008.12.30@10.49:23
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_33.wav.LCK
+#md5#gla_word-list_1997_34.mp3#2008.12.30@10.49:23
+a4a8363da70b407d7c965e747b979e98 *gla_word-list_1997_34.mp3
+#md5#gla_word-list_1997_34.mp3.LCK#2008.12.30@10.49:24
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_34.mp3.LCK
+#md5#gla_word-list_1997_34.wav#2008.12.30@10.49:27
+64dabdb38ba53d38993e6455901de4df *gla_word-list_1997_34.wav
+#md5#gla_word-list_1997_34.wav.LCK#2008.12.30@10.49:27
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_34.wav.LCK
+#md5#gla_word-list_1997_35.mp3#2008.12.30@10.49:27
+9650677d6551490502b71e4658f3bd91 *gla_word-list_1997_35.mp3
+#md5#gla_word-list_1997_35.mp3.LCK#2008.12.30@10.49:28
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_35.mp3.LCK
+#md5#gla_word-list_1997_35.wav#2008.12.30@10.49:31
+246760c6cfa433e969a1a1ca458c244c *gla_word-list_1997_35.wav
+#md5#gla_word-list_1997_35.wav.LCK#2008.12.30@10.49:31
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_35.wav.LCK
+#md5#gla_word-list_1997_36.mp3#2008.12.30@10.49:32
+d91088d3f1ced69aa40974650a615dc3 *gla_word-list_1997_36.mp3
+#md5#gla_word-list_1997_36.mp3.LCK#2008.12.30@10.49:32
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_36.mp3.LCK
+#md5#gla_word-list_1997_36.wav#2008.12.30@10.49:36
+d6860bc9b5a5bd080afcc0f559ea201a *gla_word-list_1997_36.wav
+#md5#gla_word-list_1997_36.wav.LCK#2008.12.30@10.49:36
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_36.wav.LCK
+#md5#gla_word-list_1997_37.mp3#2008.12.30@10.49:36
+fd522244ab65a3ba86477150dfe4a02f *gla_word-list_1997_37.mp3
+#md5#gla_word-list_1997_37.mp3.LCK#2008.12.30@10.49:37
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_37.mp3.LCK
+#md5#gla_word-list_1997_37.wav#2008.12.30@10.49:40
+863e930ffffeb5e4242be3aec8b1775f *gla_word-list_1997_37.wav
+#md5#gla_word-list_1997_37.wav.LCK#2008.12.30@10.49:40
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_37.wav.LCK
+#md5#gla_word-list_1997_38.mp3#2008.12.30@10.49:42
+c0ba9a053e5af36de0e0f52f10e996a7 *gla_word-list_1997_38.mp3
+#md5#gla_word-list_1997_38.mp3.LCK#2008.12.30@10.49:42
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_38.mp3.LCK
+#md5#gla_word-list_1997_38.wav#2008.12.30@10.49:48
+2e2301f800efa50fe4b9c27e668feaeb *gla_word-list_1997_38.wav
+#md5#gla_word-list_1997_38.wav.LCK#2008.12.30@10.49:48
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_38.wav.LCK
+#md5#gla_word-list_1997_39.mp3#2008.12.30@10.49:49
+6a3297bd6724d5a5809753da100866b3 *gla_word-list_1997_39.mp3
+#md5#gla_word-list_1997_39.mp3.LCK#2008.12.30@10.49:49
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_39.mp3.LCK
+#md5#gla_word-list_1997_39.wav#2008.12.30@10.49:52
+29f778920bca3febe672c2c48d4780be *gla_word-list_1997_39.wav
+#md5#gla_word-list_1997_39.wav.LCK#2008.12.30@10.49:52
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_39.wav.LCK
+#md5#gla_word-list_1997_40.mp3#2008.12.30@10.49:53
+6535b10e1b4cb5b545d5c838147d44ba *gla_word-list_1997_40.mp3
+#md5#gla_word-list_1997_40.mp3.LCK#2008.12.30@10.49:54
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_40.mp3.LCK
+#md5#gla_word-list_1997_40.wav#2008.12.30@10.50:04
+90b541a4803a2c29d565d9592decd05a *gla_word-list_1997_40.wav
+#md5#gla_word-list_1997_40.wav.LCK#2008.12.30@10.50:04
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_40.wav.LCK
+#md5#gla_word-list_1997_41.mp3#2008.12.30@10.50:04
+0e0b12612a4832dae76e3bdd29a09c00 *gla_word-list_1997_41.mp3
+#md5#gla_word-list_1997_41.mp3.LCK#2008.12.30@10.50:04
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_41.mp3.LCK
+#md5#gla_word-list_1997_41.wav#2008.12.30@10.50:10
+af5bf604afe0937184f23b185751de00 *gla_word-list_1997_41.wav
+#md5#gla_word-list_1997_41.wav.LCK#2008.12.30@10.50:12
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_41.wav.LCK
+#md5#gla_word-list_1997_42.mp3#2008.12.30@10.50:13
+e3242ae6158ff7f7119a7182bce293ac *gla_word-list_1997_42.mp3
+#md5#gla_word-list_1997_42.mp3.LCK#2008.12.30@10.50:13
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_42.mp3.LCK
+#md5#gla_word-list_1997_42.wav#2008.12.30@10.50:17
+0b185518598336f6d14ad20f27388045 *gla_word-list_1997_42.wav
+#md5#gla_word-list_1997_42.wav.LCK#2008.12.30@10.50:17
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_42.wav.LCK
+#md5#gla_word-list_1997_43.mp3#2008.12.30@10.50:18
+3c0dab293e65be041daa2233eccafd1a *gla_word-list_1997_43.mp3
+#md5#gla_word-list_1997_43.mp3.LCK#2008.12.30@10.50:19
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_43.mp3.LCK
+#md5#gla_word-list_1997_43.wav#2008.12.30@10.50:21
+a5b2de3e5e2002fc5263cd491d057a6c *gla_word-list_1997_43.wav
+#md5#gla_word-list_1997_43.wav.LCK#2008.12.30@10.50:21
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_43.wav.LCK
+#md5#gla_word-list_1997_44.mp3#2008.12.30@10.50:22
+66e49830b508cd1a37049d6f7ff6f2d2 *gla_word-list_1997_44.mp3
+#md5#gla_word-list_1997_44.mp3.LCK#2008.12.30@10.50:22
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_44.mp3.LCK
+#md5#gla_word-list_1997_44.wav#2008.12.30@10.50:24
+fa1ff4c485625332ecbb351a7d64e69b *gla_word-list_1997_44.wav
+#md5#gla_word-list_1997_44.wav.LCK#2008.12.30@10.50:24
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_44.wav.LCK
+#md5#gla_word-list_1997_45.mp3#2008.12.30@10.50:24
+54186052532ea0261309e3ff4f95629b *gla_word-list_1997_45.mp3
+#md5#gla_word-list_1997_45.mp3.LCK#2008.12.30@10.50:24
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_45.mp3.LCK
+#md5#gla_word-list_1997_45.wav#2008.12.30@10.50:28
+33e1978696c4bf24a4ff50ad283cb2c2 *gla_word-list_1997_45.wav
+#md5#gla_word-list_1997_45.wav.LCK#2008.12.30@10.50:28
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_45.wav.LCK
+#md5#gla_word-list_1997_46.mp3#2008.12.30@10.50:30
+842b8beb2b61b269eb2dc7012e2c8ad9 *gla_word-list_1997_46.mp3
+#md5#gla_word-list_1997_46.mp3.LCK#2008.12.30@10.50:30
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_46.mp3.LCK
+#md5#gla_word-list_1997_46.wav#2008.12.30@10.50:33
+23dda1f5d6a0984b9bcbc6f97395759e *gla_word-list_1997_46.wav
+#md5#gla_word-list_1997_46.wav.LCK#2008.12.30@10.50:33
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_46.wav.LCK
+#md5#gla_word-list_1997_47.mp3#2008.12.30@10.50:34
+19bd2205d2586cba976f4948a9a53660 *gla_word-list_1997_47.mp3
+#md5#gla_word-list_1997_47.mp3.LCK#2008.12.30@10.50:34
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_47.mp3.LCK
+#md5#gla_word-list_1997_47.wav#2008.12.30@10.50:36
+4fa313de2d0654237917a047505eabe1 *gla_word-list_1997_47.wav
+#md5#gla_word-list_1997_47.wav.LCK#2008.12.30@10.50:36
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_47.wav.LCK
+#md5#gla_word-list_1997_48.mp3#2008.12.30@10.50:37
+0f1f8813943a456c228cba2db4121b9a *gla_word-list_1997_48.mp3
+#md5#gla_word-list_1997_48.mp3.LCK#2008.12.30@10.50:37
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_48.mp3.LCK
+#md5#gla_word-list_1997_48.wav#2008.12.30@10.50:42
+d6aa50fa50a2cce9c8d05d4e3ba78cab *gla_word-list_1997_48.wav
+#md5#gla_word-list_1997_48.wav.LCK#2008.12.30@10.50:43
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_48.wav.LCK
+#md5#gla_word-list_1997_49.mp3#2008.12.30@10.50:43
+53b4159fcb604947a6f5a08690bc8b0a *gla_word-list_1997_49.mp3
+#md5#gla_word-list_1997_49.mp3.LCK#2008.12.30@10.50:43
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_49.mp3.LCK
+#md5#gla_word-list_1997_49.wav#2008.12.30@10.50:44
+a3b96c4e65dc43a54eac6b6d404a8d90 *gla_word-list_1997_49.wav
+#md5#gla_word-list_1997_49.wav.LCK#2008.12.30@10.50:44
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_49.wav.LCK
+#md5#gla_word-list_1997_50.mp3#2008.12.30@10.50:46
+a7e4344e3aa1f0daf2c7527fb10c0e6e *gla_word-list_1997_50.mp3
+#md5#gla_word-list_1997_50.mp3.LCK#2008.12.30@10.50:47
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_50.mp3.LCK
+#md5#gla_word-list_1997_50.wav#2008.12.30@10.50:52
+7d3c50e62ce92e80b759596627fbe9ec *gla_word-list_1997_50.wav
+#md5#gla_word-list_1997_50.wav.LCK#2008.12.30@10.50:53
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_50.wav.LCK
+#md5#gla_word-list_1997_51.mp3#2008.12.30@10.50:55
+693486b0f2cbd57681fe3eddb435d660 *gla_word-list_1997_51.mp3
+#md5#gla_word-list_1997_51.mp3.LCK#2008.12.30@10.50:55
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_51.mp3.LCK
+#md5#gla_word-list_1997_51.wav#2008.12.30@10.50:59
+795e7a2d3c89916190c5e97155c46b37 *gla_word-list_1997_51.wav
+#md5#gla_word-list_1997_51.wav.LCK#2008.12.30@10.50:59
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_51.wav.LCK
+#md5#gla_word-list_1997_52.mp3#2008.12.30@10.51:00
+21057be80ab7c56f980340425a693328 *gla_word-list_1997_52.mp3
+#md5#gla_word-list_1997_52.mp3.LCK#2008.12.30@10.51:00
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_52.mp3.LCK
+#md5#gla_word-list_1997_52.wav#2008.12.30@10.51:04
+801842337cca74969d835ee47d834b73 *gla_word-list_1997_52.wav
+#md5#gla_word-list_1997_52.wav.LCK#2008.12.30@10.51:05
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_52.wav.LCK
+#md5#gla_word-list_1997_53.mp3#2008.12.30@10.51:07
+ed1642de5649bc93a5d47caa08870251 *gla_word-list_1997_53.mp3
+#md5#gla_word-list_1997_53.mp3.LCK#2008.12.30@10.51:07
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_53.mp3.LCK
+#md5#gla_word-list_1997_53.wav#2008.12.30@10.51:12
+58ae3626ce2c7a080abfddb809b7849d *gla_word-list_1997_53.wav
+#md5#gla_word-list_1997_53.wav.LCK#2008.12.30@10.51:12
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_53.wav.LCK
+#md5#gla_word-list_1997_54.mp3#2008.12.30@10.51:12
+7d79151c1659bb18069858e81346bf57 *gla_word-list_1997_54.mp3
+#md5#gla_word-list_1997_54.mp3.LCK#2008.12.30@10.51:12
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_54.mp3.LCK
+#md5#gla_word-list_1997_54.wav#2008.12.30@10.51:17
+dc42caf938437d0f12f9f1d3ae6ddf6a *gla_word-list_1997_54.wav
+#md5#gla_word-list_1997_54.wav.LCK#2008.12.30@10.51:17
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_54.wav.LCK
+#md5#gla_word-list_1997_55.mp3#2008.12.30@10.51:19
+dbc2a309988f3788295225eb533c50b4 *gla_word-list_1997_55.mp3
+#md5#gla_word-list_1997_55.mp3.LCK#2008.12.30@10.51:19
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_55.mp3.LCK
+#md5#gla_word-list_1997_55.wav#2008.12.30@10.51:24
+0dd7e5ced48b54dce4f1383462313c41 *gla_word-list_1997_55.wav
+#md5#gla_word-list_1997_55.wav.LCK#2008.12.30@10.51:24
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_55.wav.LCK
+#md5#gla_word-list_1997_56.mp3#2008.12.30@10.51:25
+92296e10e0d98a2acf7295068c94e86f *gla_word-list_1997_56.mp3
+#md5#gla_word-list_1997_56.mp3.LCK#2008.12.30@10.51:25
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_56.mp3.LCK
+#md5#gla_word-list_1997_56.wav#2008.12.30@10.51:27
+c6f1cdba0aaa9496f4e0b8107a18c91b *gla_word-list_1997_56.wav
+#md5#gla_word-list_1997_56.wav.LCK#2008.12.30@10.51:28
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_56.wav.LCK
+#md5#gla_word-list_1997_57.mp3#2008.12.30@10.51:28
+71cd0987e557a36dd940042262c21f46 *gla_word-list_1997_57.mp3
+#md5#gla_word-list_1997_57.mp3.LCK#2008.12.30@10.51:28
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_57.mp3.LCK
+#md5#gla_word-list_1997_57.wav#2008.12.30@10.51:33
+d16a536923a73573a721261e552fbaaf *gla_word-list_1997_57.wav
+#md5#gla_word-list_1997_57.wav.LCK#2008.12.30@10.51:33
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_57.wav.LCK
+#md5#gla_word-list_1997_58.mp3#2008.12.30@10.51:34
+bd094888cb344a018e0970bbf4bbfa23 *gla_word-list_1997_58.mp3
+#md5#gla_word-list_1997_58.mp3.LCK#2008.12.30@10.51:35
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_58.mp3.LCK
+#md5#gla_word-list_1997_58.wav#2008.12.30@10.51:37
+d92eb41c53e585ff198425d4373cfa49 *gla_word-list_1997_58.wav
+#md5#gla_word-list_1997_58.wav.LCK#2008.12.30@10.51:38
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_58.wav.LCK
+#md5#gla_word-list_1997_59.mp3#2008.12.30@10.51:38
+e30bbbd85eaaf100db0b857cb27571b9 *gla_word-list_1997_59.mp3
+#md5#gla_word-list_1997_59.mp3.LCK#2008.12.30@10.51:39
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_59.mp3.LCK
+#md5#gla_word-list_1997_59.wav#2008.12.30@10.51:43
+f650ea9fb7c372b7e1906760c30f6470 *gla_word-list_1997_59.wav
+#md5#gla_word-list_1997_59.wav.LCK#2008.12.30@10.51:43
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_59.wav.LCK
+#md5#gla_word-list_1997_60.mp3#2008.12.30@10.51:43
+a4431871a36cd646b8a8a3f17689b0f7 *gla_word-list_1997_60.mp3
+#md5#gla_word-list_1997_60.mp3.LCK#2008.12.30@10.51:43
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_60.mp3.LCK
+#md5#gla_word-list_1997_60.wav#2008.12.30@10.51:47
+525a429b1197a6bae7d60e3a1de6b89b *gla_word-list_1997_60.wav
+#md5#gla_word-list_1997_60.wav.LCK#2008.12.30@10.51:47
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_60.wav.LCK
+#md5#gla_word-list_1997_61.mp3#2008.12.30@10.51:47
+87e8b8d8d2603fc95a0a5635ef560216 *gla_word-list_1997_61.mp3
+#md5#gla_word-list_1997_61.mp3.LCK#2008.12.30@10.51:47
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_61.mp3.LCK
+#md5#gla_word-list_1997_61.wav#2008.12.30@10.51:50
+9ae312daee54e7ce849c6fa3a7548e21 *gla_word-list_1997_61.wav
+#md5#gla_word-list_1997_61.wav.LCK#2008.12.30@10.51:51
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_61.wav.LCK
+#md5#gla_word-list_1997_62.mp3#2008.12.30@10.51:51
+a360452566c69fa634c22cbbc501b3c6 *gla_word-list_1997_62.mp3
+#md5#gla_word-list_1997_62.mp3.LCK#2008.12.30@10.51:51
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_62.mp3.LCK
+#md5#gla_word-list_1997_62.wav#2008.12.30@10.51:55
+cbeb8516af4aa10c3c699158c1a610e4 *gla_word-list_1997_62.wav
+#md5#gla_word-list_1997_62.wav.LCK#2008.12.30@10.51:55
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_62.wav.LCK
+#md5#gla_word-list_1997_63.mp3#2008.12.30@10.51:56
+669fd8ee603581ef7c205c99295eec65 *gla_word-list_1997_63.mp3
+#md5#gla_word-list_1997_63.mp3.LCK#2008.12.30@10.51:56
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_63.mp3.LCK
+#md5#gla_word-list_1997_63.wav#2008.12.30@10.51:59
+60c4048713cf71dbfcc8ee626a785fc8 *gla_word-list_1997_63.wav
+#md5#gla_word-list_1997_63.wav.LCK#2008.12.30@10.51:59
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_63.wav.LCK
+#md5#gla_word-list_1997_64.mp3#2008.12.30@10.51:59
+8d8d998175d3e1fee4e5c04a0bca984d *gla_word-list_1997_64.mp3
+#md5#gla_word-list_1997_64.mp3.LCK#2008.12.30@10.51:59
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_64.mp3.LCK
+#md5#gla_word-list_1997_64.wav#2008.12.30@10.52:07
+bf0e6342256437978ffba4abb1deb1ea *gla_word-list_1997_64.wav
+#md5#gla_word-list_1997_64.wav.LCK#2008.12.30@10.52:07
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_64.wav.LCK
+#md5#gla_word-list_1997_65.mp3#2008.12.30@10.52:08
+291350cad5eb293c5d1a49cceb68cb01 *gla_word-list_1997_65.mp3
+#md5#gla_word-list_1997_65.mp3.LCK#2008.12.30@10.52:08
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_65.mp3.LCK
+#md5#gla_word-list_1997_65.wav#2008.12.30@10.52:11
+8e58e6b65980c11bb44a51ee9004d900 *gla_word-list_1997_65.wav
+#md5#gla_word-list_1997_65.wav.LCK#2008.12.30@10.52:11
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_65.wav.LCK
+#md5#gla_word-list_1997_66.mp3#2008.12.30@10.52:12
+c07c9d2cc8d22053a0e378ead76cc400 *gla_word-list_1997_66.mp3
+#md5#gla_word-list_1997_66.mp3.LCK#2008.12.30@10.52:12
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_66.mp3.LCK
+#md5#gla_word-list_1997_66.wav#2008.12.30@10.52:19
+c70c0b0297b6ebba11701ecb15a5152b *gla_word-list_1997_66.wav
+#md5#gla_word-list_1997_66.wav.LCK#2008.12.30@10.52:19
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_66.wav.LCK
+#md5#gla_word-list_1997_67.mp3#2008.12.30@10.52:19
+99713227d269abc2eb075b00161bd6b3 *gla_word-list_1997_67.mp3
+#md5#gla_word-list_1997_67.mp3.LCK#2008.12.30@10.52:19
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_67.mp3.LCK
+#md5#gla_word-list_1997_67.wav#2008.12.30@10.52:23
+fa068b23885f809dd1a280a05e5ba9f5 *gla_word-list_1997_67.wav
+#md5#gla_word-list_1997_67.wav.LCK#2008.12.30@10.52:23
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_67.wav.LCK
+#md5#gla_word-list_1997_68.mp3#2008.12.30@10.52:23
+4c0afa97c02df0fa9d96fd695ef5c961 *gla_word-list_1997_68.mp3
+#md5#gla_word-list_1997_68.mp3.LCK#2008.12.30@10.52:23
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_68.mp3.LCK
+#md5#gla_word-list_1997_68.wav#2008.12.30@10.52:27
+6d31ecc749f6dc8e7b0808a43a5ff679 *gla_word-list_1997_68.wav
+#md5#gla_word-list_1997_68.wav.LCK#2008.12.30@10.52:27
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_68.wav.LCK
+#md5#gla_word-list_1997_69.mp3#2008.12.30@10.52:27
+24f7cc068fb632c47ed7951ca9a0e330 *gla_word-list_1997_69.mp3
+#md5#gla_word-list_1997_69.mp3.LCK#2008.12.30@10.52:27
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_69.mp3.LCK
+#md5#gla_word-list_1997_69.wav#2008.12.30@10.52:33
+9241cd4f55847a3a974c94898227488a *gla_word-list_1997_69.wav
+#md5#gla_word-list_1997_69.wav.LCK#2008.12.30@10.52:33
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_69.wav.LCK
+#md5#gla_word-list_1997_70.mp3#2008.12.30@10.52:34
+32b2f8e23487ae89f575cece8a40779f *gla_word-list_1997_70.mp3
+#md5#gla_word-list_1997_70.mp3.LCK#2008.12.30@10.52:35
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_70.mp3.LCK
+#md5#gla_word-list_1997_70.wav#2008.12.30@10.52:37
+9d62bc8087eddc07aad728102d84fc13 *gla_word-list_1997_70.wav
+#md5#gla_word-list_1997_70.wav.LCK#2008.12.30@10.52:37
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_70.wav.LCK
+#md5#gla_word-list_1997_71.mp3#2008.12.30@10.52:38
+bd9aeacd3cb7ea805a712f142dec419e *gla_word-list_1997_71.mp3
+#md5#gla_word-list_1997_71.mp3.LCK#2008.12.30@10.52:39
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_71.mp3.LCK
+#md5#gla_word-list_1997_71.wav#2008.12.30@10.52:40
+ab9b8b016c2b30eec495afaaad8572a0 *gla_word-list_1997_71.wav
+#md5#gla_word-list_1997_71.wav.LCK#2008.12.30@10.52:40
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_71.wav.LCK
+#md5#gla_word-list_1997_72.mp3#2008.12.30@10.52:40
+a13d14f285041dba3954e30e5f4e2ac4 *gla_word-list_1997_72.mp3
+#md5#gla_word-list_1997_72.mp3.LCK#2008.12.30@10.52:40
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_72.mp3.LCK
+#md5#gla_word-list_1997_72.wav#2008.12.30@10.52:47
+cad2147f14edfa62e4787e91aee6d59c *gla_word-list_1997_72.wav
+#md5#gla_word-list_1997_72.wav.LCK#2008.12.30@10.52:47
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_72.wav.LCK
+#md5#gla_word-list_1997_73.mp3#2008.12.30@10.52:48
+5e7e0b42dd4f94947d2d8128f4ad28c1 *gla_word-list_1997_73.mp3
+#md5#gla_word-list_1997_73.mp3.LCK#2008.12.30@10.52:48
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_73.mp3.LCK
+#md5#gla_word-list_1997_73.wav#2008.12.30@10.52:50
+e48b3a76324911b6c8abbb1fcaec0e74 *gla_word-list_1997_73.wav
+#md5#gla_word-list_1997_73.wav.LCK#2008.12.30@10.52:51
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_73.wav.LCK
+#md5#gla_word-list_1997_74.mp3#2008.12.30@10.52:51
+44f34ee0f2d7d6841463483651615b73 *gla_word-list_1997_74.mp3
+#md5#gla_word-list_1997_74.mp3.LCK#2008.12.30@10.52:51
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_74.mp3.LCK
+#md5#gla_word-list_1997_74.wav#2008.12.30@10.52:57
+7d7f7a9adac3998268ae07423a611172 *gla_word-list_1997_74.wav
+#md5#gla_word-list_1997_74.wav.LCK#2008.12.30@10.52:58
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_74.wav.LCK
+#md5#gla_word-list_1997_75.mp3#2008.12.30@10.52:58
+be7b53e77da1f7e49d6186e41124cca4 *gla_word-list_1997_75.mp3
+#md5#gla_word-list_1997_75.mp3.LCK#2008.12.30@10.52:58
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_75.mp3.LCK
+#md5#gla_word-list_1997_75.wav#2008.12.30@10.53:00
+7b8825b534af6b33b9eff4dc7701a576 *gla_word-list_1997_75.wav
+#md5#gla_word-list_1997_75.wav.LCK#2008.12.30@10.53:00
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_75.wav.LCK
+#md5#gla_word-list_1997_76.mp3#2008.12.30@10.53:02
+ef33446c042ae63a1f4a9374dea2a177 *gla_word-list_1997_76.mp3
+#md5#gla_word-list_1997_76.mp3.LCK#2008.12.30@10.53:02
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_76.mp3.LCK
+#md5#gla_word-list_1997_76.wav#2008.12.30@10.53:14
+e766c79eceb5b6f4ea9ee6b8ba48eeb3 *gla_word-list_1997_76.wav
+#md5#gla_word-list_1997_76.wav.LCK#2008.12.30@10.53:14
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_76.wav.LCK
+#md5#gla_word-list_1997_77.mp3#2008.12.30@10.53:15
+6d09fda5e1ba818ad15679f74fd93f33 *gla_word-list_1997_77.mp3
+#md5#gla_word-list_1997_77.mp3.LCK#2008.12.30@10.53:15
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_77.mp3.LCK
+#md5#gla_word-list_1997_77.wav#2008.12.30@10.53:19
+72667d83672fb4699781d17ead05351a *gla_word-list_1997_77.wav
+#md5#gla_word-list_1997_77.wav.LCK#2008.12.30@10.53:19
+fbef01db4c2bc685e88f1970d1c19123 *gla_word-list_1997_77.wav.LCK

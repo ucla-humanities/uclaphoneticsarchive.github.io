@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Kirundi</language_name>
+
+
+<headers>
+
+<orthography_header>Orthography</orthography_header>
+<IPA_header>Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>kurira</native_orthography>
+<IPA_transcription>kʰuɾiɾa</IPA_transcription>
+<gloss>to cry</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>kurera</native_orthography>
+<IPA_transcription>kʰuɾeɾa</IPA_transcription>
+<gloss>to educate</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>guhára</native_orthography>
+<IPA_transcription>gu'haɾa</IPA_transcription>
+<gloss>to scrape</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>kurora</native_orthography>
+<IPA_transcription>kʰuɾoɾa</IPA_transcription>
+<gloss>to look</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>kurura</native_orthography>
+<IPA_transcription>kʰuɾuɾa</IPA_transcription>
+<gloss>to be bitter</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>azoosiga</native_orthography>
+<IPA_transcription>a'zoːsiga</IPA_transcription>
+<gloss>he will allow</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>azoosiiga</native_orthography>
+<IPA_transcription>a'zoːsiːga</IPA_transcription>
+<gloss>he will coat</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>gehema</native_orthography>
+<IPA_transcription>guhema</IPA_transcription>
+<gloss>to flatter</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>guheema</native_orthography>
+<IPA_transcription>guheːma</IPA_transcription>
+<gloss>to breathe</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>gusaba</native_orthography>
+<IPA_transcription>gu'saβa</IPA_transcription>
+<gloss>to ask</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>gusaaba</native_orthography>
+<IPA_transcription>gu'saːβa</IPA_transcription>
+<gloss>to burst out</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>izookoma</native_orthography>
+<IPA_transcription>izoː'kʰoma</IPA_transcription>
+<gloss>he will hit</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>izookooma</native_orthography>
+<IPA_transcription>izoː'kʰoːma</IPA_transcription>
+<gloss>he will languish</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>azoocura</native_orthography>
+<IPA_transcription>azoː't̠ʃ̠uɾa</IPA_transcription>
+<gloss>he will forge</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>azoocuura</native_orthography>
+<IPA_transcription>azoː't̠ʃ̠uːɾa</IPA_transcription>
+<gloss>he will bring back</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>kumama</native_orthography>
+<IPA_transcription>kʰumama</IPA_transcription>
+<gloss>to motion to be quiet</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>kunága</native_orthography>
+<IPA_transcription>kʰunaga</IPA_transcription>
+<gloss>to sprout</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>kunyaga</native_orthography>
+<IPA_transcription>kʰuɲaga</IPA_transcription>
+<gloss>to dispossess</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>kubába</native_orthography>
+<IPA_transcription>kʰuβaβa</IPA_transcription>
+<gloss>to burn by fire</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>kudaba</native_orthography>
+<IPA_transcription>kʰudaβa</IPA_transcription>
+<gloss>trouble</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>kugaba</native_orthography>
+<IPA_transcription>kʰugaβa</IPA_transcription>
+<gloss>to be in command</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>gupaapaguza</native_orthography>
+<IPA_transcription>gupʰaːpʰaguza</IPA_transcription>
+<gloss>to sing off-key</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>gutaba</native_orthography>
+<IPA_transcription>gutʰaβa</IPA_transcription>
+<gloss>to level a field</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>gukaaba</native_orthography>
+<IPA_transcription>gukʰaːβa</IPA_transcription>
+<gloss>to exchange</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>kuva</native_orthography>
+<IPA_transcription>kʰuva</IPA_transcription>
+<gloss>since</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>kuuza</native_orthography>
+<IPA_transcription>kʰuːdza</IPA_transcription>
+<gloss>to come</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>kuzyǒgoora</native_orthography>
+<IPA_transcription>gusɟoːgoːɾa</IPA_transcription>
+<gloss>to gossip</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>umǔfa</native_orthography>
+<IPA_transcription>u'mufa</IPA_transcription>
+<gloss>sauce</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>gusaaba</native_orthography>
+<IPA_transcription>gusaːβa</IPA_transcription>
+<gloss>to be poured out</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>gusya</native_orthography>
+<IPA_transcription>gusja</IPA_transcription>
+<gloss>to grind</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>gushá</native_orthography>
+<IPA_transcription>guʃa</IPA_transcription>
+<gloss>to burn</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>azooshya</native_orthography>
+<IPA_transcription>azoːça</IPA_transcription>
+<gloss>he will burn himself</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>kuuza</native_orthography>
+<IPA_transcription>kʰuːdza</IPA_transcription>
+<gloss>to come</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>kuja</native_orthography>
+<IPA_transcription>kʰudʒa</IPA_transcription>
+<gloss>to go</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>azoojya</native_orthography>
+<IPA_transcription>azoː'dja</IPA_transcription>
+<gloss>he will ga</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>gupfá</native_orthography>
+<IPA_transcription>gu'fːa</IPA_transcription>
+<gloss>to die</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>umutsaáma</native_orthography>
+<IPA_transcription>umu'tsaːma</IPA_transcription>
+<gloss>banana juice</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>gucá</native_orthography>
+<IPA_transcription>gu'tʃa</IPA_transcription>
+<gloss>to cut</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>gucyá</native_orthography>
+<IPA_transcription>gu'tça</IPA_transcription>
+<gloss>to be daytime</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>uwafúvye</native_orthography>
+<IPA_transcription>u'wafuvje</IPA_transcription>
+<gloss>someone who dressed</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>kuyába</native_orthography>
+<IPA_transcription>kʰujaβa</IPA_transcription>
+<gloss>to be weak</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>Uburaya</native_orthography>
+<IPA_transcription>uβuɾaja</IPA_transcription>
+<gloss>Europe</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>kuraaba</native_orthography>
+<IPA_transcription>kʰuɾaːβa</IPA_transcription>
+<gloss>to look</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>kurwáara</native_orthography>
+<IPA_transcription>kʰuɾgwaːɾa</IPA_transcription>
+<gloss>to be sick</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>abo baari muunzu</native_orthography>
+<IPA_transcription>aβo βaːɾi muːnzu</IPA_transcription>
+<gloss>These were in the house. (recent past)</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>abo báari muunzu</native_orthography>
+<IPA_transcription>aβo 'βaːɾi muːnzu</IPA_transcription>
+<gloss>Whether or not they were in the house (recent past subj.)</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>abo baári muunzu</native_orthography>
+<IPA_transcription>aβo βáːɾi muːnzu</IPA_transcription>
+<gloss>These were in the house. (pret. Tense)</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>abo báári muunzu</native_orthography>
+<IPA_transcription>aβo 'βáːɾi muːnzu</IPA_transcription>
+<gloss>Whether or not they had been in the house (subj. past)</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>ukuguru kwaanjye</native_orthography>
+<IPA_transcription>ukʰuguɾu kwaːndʒe</IPA_transcription>
+<gloss>my leg</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>ukubóko kwaanjye</native_orthography>
+<IPA_transcription>ukʰuβ'okʰo kwaːndʒe</IPA_transcription>
+<gloss>my arm</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>urukǒba rwaanjye</native_orthography>
+<IPA_transcription>uɾukʰo'βa ɾgwaːndʒe</IPA_transcription>
+<gloss>my skin</gloss>
+</item>
+</wordlist>
+
+
+
+
+

@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Juǀʼhoan (ǃXũ)</language_name>
+
+
+
+
+
+
+<headers>
+
+<orthography_header>Section</orthography_header>
+<alt_orthography_header></alt_orthography_header>
+<IPA_header>Orthography</IPA_header>
+<alt_IPA_header>English Gloss</alt_IPA_header>
+<gloss_header></gloss_header>
+<alt_gloss_header></alt_gloss_header>
+<semantic_category>Semantic Category and Notes</semantic_category>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>1.1.1.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamahonǃeng</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>nouns</semantic_category>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamahonǃʼhei</IPA_transcription>
+<alt_IPA_transcription>The child sees the lion.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamahoǀao</IPA_transcription>
+<alt_IPA_transcription>The child sees the buffalo.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamahoǃʼhwã</IPA_transcription>
+<alt_IPA_transcription>The child sees the man.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamahodzʼheu</IPA_transcription>
+<alt_IPA_transcription>The child sees the woman.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamahogǂʼhwĩ</IPA_transcription>
+<alt_IPA_transcription>The child sees the dog.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamahogǃheĩ</IPA_transcription>
+<alt_IPA_transcription>The child sees the tree.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamahoǀʼei</IPA_transcription>
+<alt_IPA_transcription>The child sees the axe.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>nǃeng</IPA_transcription>
+<alt_IPA_transcription>eland</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǀao</IPA_transcription>
+<alt_IPA_transcription>buffalo</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>gǃheĩ</IPA_transcription>
+<alt_IPA_transcription>tree</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>nǃʼhei</IPA_transcription>
+<alt_IPA_transcription>lion</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>gǂʼhwĩ</IPA_transcription>
+<alt_IPA_transcription>dog</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǀʼei</IPA_transcription>
+<alt_IPA_transcription>axe</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamaho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>verbs</semantic_category>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamaǃhũ nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child kills the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamagu nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child catches the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamatšhinǁʼha nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child shoots the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamakwa̭ nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child fears the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamatxa nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child hits the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamaǁaʼe nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child skins the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamaʼm nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child eats the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ho</IPA_transcription>
+<alt_IPA_transcription>sees</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>gu</IPA_transcription>
+<alt_IPA_transcription>catches</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kwa̭</IPA_transcription>
+<alt_IPA_transcription>fears</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>(note: diacritic below /a̭/ indicates pharyngeal friction)</semantic_category>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǁaʼe</IPA_transcription>
+<alt_IPA_transcription>skins</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǃhũ</IPA_transcription>
+<alt_IPA_transcription>kills</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tšhinǁʼha</IPA_transcription>
+<alt_IPA_transcription>shoots</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>txa</IPA_transcription>
+<alt_IPA_transcription>hits</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ʼm</IPA_transcription>
+<alt_IPA_transcription>eats</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamaho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>nouns</semantic_category>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǃʼHwãho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The man sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Nǃeuho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The elder sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Dzʼheuho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The woman sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǀAoho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The buffalo sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Gǂʼhwĩho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The dog sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Nǃʼheiho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The lion sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǃXoho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The elephant sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamaho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>1.1.2.1.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama nǃaʼa ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The big child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>descriptive adnouns</semantic_category>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>nǃaʼa</IPA_transcription>
+<alt_IPA_transcription>big</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ga̭ʼu ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The clean child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ǀʼhom ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The beautiful child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ze ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The new child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama kxʼeni ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The lucky child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ǀxori ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The cunning child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>nǃaʼa</IPA_transcription>
+<alt_IPA_transcription>big</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama nǃaʼa ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>(not on wordlist)</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>1.1.2.2.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama he ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>This child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>demonstrative adnouns</semantic_category>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>he</IPA_transcription>
+<alt_IPA_transcription>this  </alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama he ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>This child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama toʼa ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>That child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama uutoʼa ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>Yonder child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>1.1.3.1.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Gwa̭ǂʼa daʼama ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>Yesterday the child saw the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>temporal adverbs</semantic_category>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>gwa̭ǂʼa</IPA_transcription>
+<alt_IPA_transcription>yesterday  </alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama zaʼaha ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>Long ago the child saw the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ka ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland now.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ǁeʼike ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland today.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama nǃo ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland early.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama nǃoma ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child will see the eland tomorrow.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Zaʼaha daʼama ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>Long ago the child saw the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Ka daʼama ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland now.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǁEʼike daʼama ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>Today the child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Nǃo daʼama ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland early.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Nǃʼhoma daʼama ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child will see the eland tomorrow.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>1.1.3.2.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama šete ho nǃeng </IPA_transcription>
+<alt_IPA_transcription>The child also sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>descriptive adverbs</semantic_category>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama niše ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child nearly saw the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ǁeu ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child wsees the eland well.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama šiniha ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child still sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama nǃobe ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland badly.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama hotama nǃeng </IPA_transcription>
+<alt_IPA_transcription>The child sees the eland unsuccessfully.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ho ǀʼhoma nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland beautifully.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ho nǃoʼowa nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland rapidly.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama nǃoʼo nǃeng ho </IPA_transcription>
+<alt_IPA_transcription>The child sees the eland rapidly.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama he ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama šete ho ǀʼhoma nǃeng</IPA_transcription>
+<alt_IPA_transcription>Again the child sees the eland beautifully.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>1.1.3.3.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ǀwa ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child does not see the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>negative adverbs</semantic_category>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǀwa</IPA_transcription>
+<alt_IPA_transcription>(negative adverb)</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǀwi</IPA_transcription>
+<alt_IPA_transcription>(negative adverb)</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǀu</IPA_transcription>
+<alt_IPA_transcription>(negative adverb)</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǀeu</IPA_transcription>
+<alt_IPA_transcription>(negative adverb)</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǀa</IPA_transcription>
+<alt_IPA_transcription>(negative adverb)</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǀao</IPA_transcription>
+<alt_IPA_transcription>(negative adverb)</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ǀwa ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child does not see the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ǀwi ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child does not see the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ǀu ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child does not see the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ǀeu ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child does not see the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ǀao ho nǃeng?</IPA_transcription>
+<alt_IPA_transcription>The child does not see the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>1.1.3.4.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama re ho nǃeng?</IPA_transcription>
+<alt_IPA_transcription>Does the child see the eland?</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>interrogative adverbs</semantic_category>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama xae ho nǃeng?</IPA_transcription>
+<alt_IPA_transcription>Does the child see the eland?</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ka̭e ho nǃeng?</IPA_transcription>
+<alt_IPA_transcription>Does the child see the eland?</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ba ho nǃeng?</IPA_transcription>
+<alt_IPA_transcription>Does the child see the eland?</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama wa ho nǃeng?</IPA_transcription>
+<alt_IPA_transcription>Does the child see the eland?</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǁEʼike re daʼama ho nǃeng?</IPA_transcription>
+<alt_IPA_transcription>Doe the child see the eland today?</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǁEʼike xae daʼama ho nǃeng?</IPA_transcription>
+<alt_IPA_transcription>Doe the child see the eland today?</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǁEʼike ka̭e daʼama ho nǃeng?</IPA_transcription>
+<alt_IPA_transcription>Doe the child see the eland today?</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>97</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǁEʼike ba daʼama ho nǃeng?</IPA_transcription>
+<alt_IPA_transcription>Doe the child see the eland today?</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>98</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǁEʼike wa daʼama ho nǃeng?</IPA_transcription>
+<alt_IPA_transcription>Doe the child see the eland today?</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography>1.1.4.1.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama sa ǃʼhwã ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child and the man see the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>additive conjunctions</semantic_category>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama sa ǃʼhwã</IPA_transcription>
+<alt_IPA_transcription>the child and the man  </alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kota</IPA_transcription>
+<alt_IPA_transcription>(additive conjunction)</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>keta</IPA_transcription>
+<alt_IPA_transcription>(additive conjunction)</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kosĩ</IPA_transcription>
+<alt_IPA_transcription>(additive conjunction)</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>koti</IPA_transcription>
+<alt_IPA_transcription>(additive conjunction)</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kesĩ</IPA_transcription>
+<alt_IPA_transcription>(additive conjunction)</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>oka</IPA_transcription>
+<alt_IPA_transcription>(additive conjunction)</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>107</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>oko</IPA_transcription>
+<alt_IPA_transcription>(additive conjunction)</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>108</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama kota ǃʼhwã ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child and the man see the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>109</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama keta ǃʼhwã ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child and the man see the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>110</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama kosĩ ǃʼhwã ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child and the man see the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>111</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama kesĩ ǃʼhwã ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child and the man see the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>112</entry>
+<native_orthography>1.1.4.2.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǃʼHwã ǁʼa daʼama ho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The man's child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>possessive conjunction</semantic_category>
+</item>
+
+<item>
+<entry>113</entry>
+<native_orthography>1.1.4.3.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ǀʼa ǃʼhwã ko nǃao</IPA_transcription>
+<alt_IPA_transcription>The child gives the man a bow.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>objectival conjunction</semantic_category>
+</item>
+
+<item>
+<entry>114</entry>
+<native_orthography>1.1.4.4.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼama ho nǃeng te tšinǁʼha te ǃhũ ha</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland and shoots it and kills it.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>narrative conjunction</semantic_category>
+</item>
+
+<item>
+<entry>115</entry>
+<native_orthography>1.1.4.5.</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Daʼamaho nǃeng</IPA_transcription>
+<alt_IPA_transcription>The child sees the eland.</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category>subordinating conjunctions</semantic_category>
+</item>
+
+<item>
+<entry>116</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Ka daʼama ho nǃeng…</IPA_transcription>
+<alt_IPA_transcription>If the child sees the eland…</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>117</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>khama</IPA_transcription>
+<alt_IPA_transcription>because</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>118</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ka</IPA_transcription>
+<alt_IPA_transcription>if, when</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>119</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǁʼaa</IPA_transcription>
+<alt_IPA_transcription>in order to</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>120</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>šiniha</IPA_transcription>
+<alt_IPA_transcription>while, before</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>121</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ǂʼoma</IPA_transcription>
+<alt_IPA_transcription>when</alt_IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+</wordlist>
+
+
+
+
+
+
+
+
+

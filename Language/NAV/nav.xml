@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+
+<language_name>Navajo</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language</lang_name_header>
+<dialect_header>Dialect</dialect_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<origin_header>Speaker Origin</origin_header>
+<speakers_header>Speaker Name</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>TIFF Image</image_tif_header>
+<image_tif2_header>TIFF Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality</tif_quality_header>
+<jpg_quality_header>JPG Image Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>24 May, 1973</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>Speaker from Shiprock, New Mexico, U.S.A.</origin>
+<speakers>N/A</speakers>
+<filename_audio>nav_word-list_1973_01</filename_audio>
+<filename_wav>nav_word-list_1973_01.wav</filename_wav>
+<filename_mp3>nav_word-list_1973_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>nav_word-list_1973_01.html</wordlist>
+<wordlist_entries>1 - 70</wordlist_entries>
+<image_tif></image_tif>
+<image_tif2></image_tif2>
+<image_jpg></image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1973_01.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1973_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Recording location not specified</recording_location>
+<recording_date>1980</recording_date>
+<fieldworkers>Helen George</fieldworkers>
+<origin>Speaker origin not specified</origin>
+<speakers>unknown</speakers>
+<filename_audio>nav_word-list_1980_01</filename_audio>
+<filename_wav>nav_word-list_1980_01.wav</filename_wav>
+<filename_mp3>nav_word-list_1980_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>nav_word-list_1980_01.html</wordlist>
+<wordlist_entries>1 - 20</wordlist_entries>
+<image_tif>nav_word-list_1980_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1980_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#2</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1980_01.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1980_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>3</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Recording location not specified</recording_location>
+<recording_date>1980</recording_date>
+<fieldworkers>Helen George</fieldworkers>
+<origin>Speaker origin not specified</origin>
+<speakers>T. Bennett</speakers>
+<filename_audio>nav_word-list_1980_02</filename_audio>
+<filename_wav>nav_word-list_1980_02.wav</filename_wav>
+<filename_mp3>nav_word-list_1980_02.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>nav_word-list_1980_01.html</wordlist>
+<wordlist_entries>1 - 20</wordlist_entries>
+<image_tif>nav_word-list_1980_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1980_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#3</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1980_01.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1980_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>4</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Recording location not specified</recording_location>
+<recording_date>1980</recording_date>
+<fieldworkers>Helen George</fieldworkers>
+<origin>Speaker origin not specified</origin>
+<speakers>J. John</speakers>
+<filename_audio>nav_word-list_1980_03</filename_audio>
+<filename_wav>nav_word-list_1980_03.wav</filename_wav>
+<filename_mp3>nav_word-list_1980_03.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>nav_word-list_1980_01.html</wordlist>
+<wordlist_entries>1 - 20</wordlist_entries>
+<image_tif>nav_word-list_1980_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1980_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#4</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1980_01.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1980_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>5</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Recording location not specified</recording_location>
+<recording_date>1980</recording_date>
+<fieldworkers>Helen George</fieldworkers>
+<origin>Speaker origin not specified</origin>
+<speakers>B. Yazzie</speakers>
+<filename_audio>nav_word-list_1980_04</filename_audio>
+<filename_wav>nav_word-list_1980_04.wav</filename_wav>
+<filename_mp3>nav_word-list_1980_04.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>nav_word-list_1980_01.html</wordlist>
+<wordlist_entries>1 - 20</wordlist_entries>
+<image_tif>nav_word-list_1980_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1980_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#5</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1980_01.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1980_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>6</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Recording location not specified</recording_location>
+<recording_date>1980</recording_date>
+<fieldworkers>Helen George</fieldworkers>
+<origin>Speaker origin not specified</origin>
+<speakers>J. Watson</speakers>
+<filename_audio>nav_word-list_1980_05</filename_audio>
+<filename_wav>nav_word-list_1980_05.wav</filename_wav>
+<filename_mp3>nav_word-list_1980_05.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>nav_word-list_1980_01.html</wordlist>
+<wordlist_entries>1 - 20</wordlist_entries>
+<image_tif>nav_word-list_1980_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1980_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#6</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1980_01.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1980_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>7</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Recording location not specified</recording_location>
+<recording_date>1980</recording_date>
+<fieldworkers>Helen George</fieldworkers>
+<origin>Speaker origin not specified</origin>
+<speakers>L. Begay</speakers>
+<filename_audio>nav_word-list_1980_06</filename_audio>
+<filename_wav>nav_word-list_1980_06.wav</filename_wav>
+<filename_mp3>nav_word-list_1980_06.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>nav_word-list_1980_01.html</wordlist>
+<wordlist_entries>1 - 20</wordlist_entries>
+<image_tif>nav_word-list_1980_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1980_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#7</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1980_01.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1980_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>8</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Recording location not specified</recording_location>
+<recording_date>1980</recording_date>
+<fieldworkers>Helen George</fieldworkers>
+<origin>Speaker origin not specified</origin>
+<speakers>M. Begay</speakers>
+<filename_audio>nav_word-list_1980_07</filename_audio>
+<filename_wav>nav_word-list_1980_07.wav</filename_wav>
+<filename_mp3>nav_word-list_1980_07.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>nav_word-list_1980_01.html</wordlist>
+<wordlist_entries>1 - 20</wordlist_entries>
+<image_tif>nav_word-list_1980_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1980_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#8</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1980_01.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1980_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>9</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>Fall, 1983</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>Arizona, U.S.A.</origin>
+<speakers>N/A</speakers>
+<filename_audio>nav_word-list_1983_01</filename_audio>
+<filename_wav>nav_word-list_1983_01.wav</filename_wav>
+<filename_mp3>nav_word-list_1983_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1983_01.html</wordlist>
+<wordlist_entries>1 - 49</wordlist_entries>
+<image_tif>nav_word-list_1983_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1983_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#9</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1983_01.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1983_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>10</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Navajo Community College, Shiprock, New Mexico, U.S.A.</recording_location>
+<recording_date>16 April, 1992</recording_date>
+<fieldworkers>Helen George, Peter Ladefoged</fieldworkers>
+<origin>Speakers originate from Navajo areas in northern New Mexico and southern Arizona, U.S.A.</origin>
+<speakers>Helen George, Leland Johnson, Martha Austin-Garrison, Martha Jackson, Louise Nygnard, Lorene Legoh, Tony Goldtooth</speakers>
+<filename_audio>nav_word-list_1992_01</filename_audio>
+<filename_wav>nav_word-list_1992_01.wav</filename_wav>
+<filename_mp3>nav_word-list_1992_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1992_01.html</wordlist>
+<wordlist_entries>1 - 35</wordlist_entries>
+<image_tif>nav_word-list_1992_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1992_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#10</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1992_01.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1992_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>11</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Navajo Community College, Shiprock, New Mexico, U.S.A.</recording_location>
+<recording_date>16 April, 1992</recording_date>
+<fieldworkers>Helen George, Peter Ladefoged</fieldworkers>
+<origin>Speakers originate from Navajo areas in northern New Mexico and southern Arizona, U.S.A.</origin>
+<speakers>Helen George, Leland Johnson, Martha Austin-Garrison, Martha Jackson, Louise Nygnard, Lorene Legoh, Tony Goldtooth</speakers>
+<filename_audio>nav_word-list_1992_02</filename_audio>
+<filename_wav>nav_word-list_1992_02.wav</filename_wav>
+<filename_mp3>nav_word-list_1992_02.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1992_01.html</wordlist>
+<wordlist_entries>36 - 76</wordlist_entries>
+<image_tif>nav_word-list_1992_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1992_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#11</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1992_01.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1992_01.html#36</link_within_wordlist>
+</item>
+
+<item>
+<entry>12</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Navajo Community College, Shiprock, New Mexico, U.S.A.</recording_location>
+<recording_date>16 April, 1992</recording_date>
+<fieldworkers>Helen George, Peter Ladefoged</fieldworkers>
+<origin>Speakers originate from Navajo areas in northern New Mexico and southern Arizona, U.S.A.</origin>
+<speakers>Helen George, Leland Johnson, Martha Austin-Garrison, Martha Jackson, Louise Nygnard, Lorene Legoh, Tony Goldtooth</speakers>
+<filename_audio>nav_word-list_1992_03</filename_audio>
+<filename_wav>nav_word-list_1992_03.wav</filename_wav>
+<filename_mp3>nav_word-list_1992_03.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1992_01.html</wordlist>
+<wordlist_entries>77 - 110</wordlist_entries>
+<image_tif>nav_word-list_1992_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1992_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#12</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1992_01.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1992_01.html#77</link_within_wordlist>
+</item>
+
+<item>
+<entry>13</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Navajo Community College, Shiprock, New Mexico, U.S.A.</recording_location>
+<recording_date>16 April, 1992</recording_date>
+<fieldworkers>Helen George, Peter Ladefoged</fieldworkers>
+<origin>Speakers originate from Navajo areas in northern New Mexico and southern Arizona, U.S.A.</origin>
+<speakers>Helen George, Nancy Lawrence, Marie Lewis, Julia Washburn</speakers>
+<filename_audio>nav_word-list_1992_04</filename_audio>
+<filename_wav>nav_word-list_1992_04.wav</filename_wav>
+<filename_mp3>nav_word-list_1992_04.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1992_02.html</wordlist>
+<wordlist_entries>1 - 64</wordlist_entries>
+<image_tif></image_tif>
+<image_tif2></image_tif2>
+<image_jpg></image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>301 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#13</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1992_02.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1992_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>14</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Navajo Community College, Shiprock, New Mexico, U.S.A.</recording_location>
+<recording_date>16 April, 1992</recording_date>
+<fieldworkers>Helen George, Peter Ladefoged</fieldworkers>
+<origin>Speakers originate from Navajo areas in northern New Mexico and southern Arizona, U.S.A.</origin>
+<speakers>Helen George, Nancy Lawrence, Marie Lewis, Julia Washburn</speakers>
+<filename_audio>nav_word-list_1992_05</filename_audio>
+<filename_wav>nav_word-list_1992_05.wav</filename_wav>
+<filename_mp3>nav_word-list_1992_05.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1992_02.html</wordlist>
+<wordlist_entries>65 - 117</wordlist_entries>
+<image_tif></image_tif>
+<image_tif2></image_tif2>
+<image_jpg></image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>302 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#14</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1992_02.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1992_02.html#65</link_within_wordlist>
+</item>
+
+<item>
+<entry>15</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Navajo Community College, Shiprock, New Mexico, U.S.A.</recording_location>
+<recording_date>17 April, 1992</recording_date>
+<fieldworkers>Helen George, Peter Ladefoged</fieldworkers>
+<origin>Speakers originate from Navajo areas in northern New Mexico and southern Arizona, U.S.A.</origin>
+<speakers>Helen George, Martha Austin-Garrison, Nancy Lawrence, Leland Johnson, Tony Goldtooth, Lorene Legoh</speakers>
+<filename_audio>nav_word-list_1992_06</filename_audio>
+<filename_wav>nav_word-list_1992_06.wav</filename_wav>
+<filename_mp3>nav_word-list_1992_06.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1992_03.html</wordlist>
+<wordlist_entries>1 - 38 </wordlist_entries>
+<image_tif></image_tif>
+<image_tif2></image_tif2>
+<image_jpg></image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>303 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#15</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1992_03.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1992_03.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>16</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Navajo Community College, Shiprock, New Mexico, U.S.A.</recording_location>
+<recording_date>17 April, 1992</recording_date>
+<fieldworkers>Helen George, Peter Ladefoged</fieldworkers>
+<origin>Speakers originate from Navajo areas in northern New Mexico and southern Arizona, U.S.A.</origin>
+<speakers>Helen George, Martha Austin-Garrison, Nancy Lawrence, Leland Johnson, Tony Goldtooth, Lorene Legoh</speakers>
+<filename_audio>nav_word-list_1992_07</filename_audio>
+<filename_wav>nav_word-list_1992_07.wav</filename_wav>
+<filename_mp3>nav_word-list_1992_07.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1992_03.html</wordlist>
+<wordlist_entries>39 - 83  </wordlist_entries>
+<image_tif></image_tif>
+<image_tif2></image_tif2>
+<image_jpg></image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>304 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#16</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1992_03.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1992_03.html#39</link_within_wordlist>
+</item>
+
+<item>
+<entry>17</entry>
+<lang_name>Navajo</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Navajo Community College, Shiprock, New Mexico, U.S.A.</recording_location>
+<recording_date>17 April, 1992</recording_date>
+<fieldworkers>Helen George, Peter Ladefoged</fieldworkers>
+<origin>Speakers originate from Navajo areas in northern New Mexico and southern Arizona, U.S.A.</origin>
+<speakers>Helen George, Martha Austin-Garrison, Nancy Lawrence, Leland Johnson, Tony Goldtooth, Lorene Legoh</speakers>
+<filename_audio>nav_word-list_1992_08</filename_audio>
+<filename_wav>nav_word-list_1992_08.wav</filename_wav>
+<filename_mp3>nav_word-list_1992_08.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1992_03.html</wordlist>
+<wordlist_entries>84 - 120</wordlist_entries>
+<image_tif></image_tif>
+<image_tif2></image_tif2>
+<image_jpg></image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>305 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#17</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1992_03.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1992_03.html#84</link_within_wordlist>
+</item>
+
+<item>
+<entry>18</entry>
+<lang_name>Navajo</lang_name>
+<dialect>Western dialect</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Navajo Mountain, Navajo Reservation, Kayenta, Arizona, U.S.A.</recording_location>
+<recording_date>24 July, 1993</recording_date>
+<fieldworkers>Joyce McDonough, Martha Austin-Garrison</fieldworkers>
+<origin>Speaker origin not specified</origin>
+<speakers>Lucy Laughter</speakers>
+<filename_audio>nav_word-list_1993_01</filename_audio>
+<filename_wav>nav_word-list_1993_01.wav</filename_wav>
+<filename_mp3>nav_word-list_1993_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1993_01.html</wordlist>
+<wordlist_entries>1 - 8</wordlist_entries>
+<image_tif>nav_word-list_1993_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1993_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#18</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1993_01.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1993_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>19</entry>
+<lang_name>Navajo</lang_name>
+<dialect>Western dialect</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Navajo Mountain, Navajo Reservation, Kayenta, Arizona, U.S.A.</recording_location>
+<recording_date>24 July, 1993</recording_date>
+<fieldworkers>Joyce McDonough, Martha Austin-Garrison</fieldworkers>
+<origin>Speaker origin not specified</origin>
+<speakers>Eda Navajo</speakers>
+<filename_audio>nav_word-list_1993_02</filename_audio>
+<filename_wav>nav_word-list_1993_02.wav</filename_wav>
+<filename_mp3>nav_word-list_1993_02.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1993_02.html</wordlist>
+<wordlist_entries>1 - 98</wordlist_entries>
+<image_tif>nav_word-list_1993_02.tif</image_tif>
+<image_tif2>nav_word-list_1993_03.tif</image_tif2>
+<image_jpg>nav_word-list_1993_02.jpg</image_jpg>
+<image_jpg2>nav_word-list_1993_03.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#19</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1993_02.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1993_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>20</entry>
+<lang_name>Navajo</lang_name>
+<dialect>bilingual Navajo/Southern Paiute</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Navajo Mountain, Navajo Reservation, Kayenta, Arizona, U.S.A.</recording_location>
+<recording_date>24 July, 1993</recording_date>
+<fieldworkers>Joyce McDonough, Martha Austin-Garrison</fieldworkers>
+<origin>Speaker origin not specified</origin>
+<speakers>Marianne Owl</speakers>
+<filename_audio>nav_word-list_1993_03</filename_audio>
+<filename_wav>nav_word-list_1993_03.wav</filename_wav>
+<filename_mp3>nav_word-list_1993_03.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1993_02.html</wordlist>
+<wordlist_entries>1 - 98</wordlist_entries>
+<image_tif>nav_word-list_1993_02.tif</image_tif>
+<image_tif2>nav_word-list_1993_03.tif</image_tif2>
+<image_jpg>nav_word-list_1993_02.jpg</image_jpg>
+<image_jpg2>nav_word-list_1993_03.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#20</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1993_02.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1993_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>21</entry>
+<lang_name>Navajo</lang_name>
+<dialect>Western dialect</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Navajo Mountain, Navajo Reservation, Kayenta, Arizona, U.S.A.</recording_location>
+<recording_date>24 July, 1993</recording_date>
+<fieldworkers>Joyce McDonough, Martha Austin-Garrison</fieldworkers>
+<origin>Speaker origin not specified</origin>
+<speakers>Mary Greymountain</speakers>
+<filename_audio>nav_word-list_1993_04</filename_audio>
+<filename_wav>nav_word-list_1993_04.wav</filename_wav>
+<filename_mp3>nav_word-list_1993_04.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1993_02.html</wordlist>
+<wordlist_entries>1 - 98</wordlist_entries>
+<image_tif>nav_word-list_1993_02.tif</image_tif>
+<image_tif2>nav_word-list_1993_03.tif</image_tif2>
+<image_jpg>nav_word-list_1993_02.jpg</image_jpg>
+<image_jpg2>nav_word-list_1993_03.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#21</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1993_02.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1993_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>22</entry>
+<lang_name>Navajo</lang_name>
+<dialect>Western dialect</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Navajo Mountain, Navajo Reservation, Kayenta, Arizona, U.S.A.</recording_location>
+<recording_date>24 July, 1993</recording_date>
+<fieldworkers>Joyce McDonough, Martha Austin-Garrison</fieldworkers>
+<origin>Speaker origin not specified</origin>
+<speakers>Ed Yazzie</speakers>
+<filename_audio>nav_word-list_1993_05</filename_audio>
+<filename_wav>nav_word-list_1993_05.wav</filename_wav>
+<filename_mp3>nav_word-list_1993_05.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1993_02.html</wordlist>
+<wordlist_entries>1 - 98</wordlist_entries>
+<image_tif>nav_word-list_1993_02.tif</image_tif>
+<image_tif2>nav_word-list_1993_03.tif</image_tif2>
+<image_jpg>nav_word-list_1993_02.jpg</image_jpg>
+<image_jpg2>nav_word-list_1993_03.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#22</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1993_02.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1993_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>23</entry>
+<lang_name>Navajo</lang_name>
+<dialect>Western dialect</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Monument Valley High School, Kayenta, Navajo County, Arizona, U.S.A.</recording_location>
+<recording_date>26 July, 1993</recording_date>
+<fieldworkers>Joyce McDonough, Martha Austin-Garrison</fieldworkers>
+<origin>Origin of speakers not specified</origin>
+<speakers>Martha Austin-Garrison, Alyce Bradley, Diana Parish, Marie Salt, Louise Hudgins, Gladys Yellowhair, Zelma King, Rosemary Tsosie, Cecelia Gowan, Sallie Barlow, Freddie Holiday</speakers>
+<filename_audio>nav_word-list_1993_06</filename_audio>
+<filename_wav>nav_word-list_1993_06.wav</filename_wav>
+<filename_mp3>nav_word-list_1993_06.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1993_03.html</wordlist>
+<wordlist_entries>1 - 22</wordlist_entries>
+<image_tif>nav_word-list_1993_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1993_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#23</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1993_03.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1993_03.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>24</entry>
+<lang_name>Navajo</lang_name>
+<dialect>Western dialect</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Monument Valley High School, Kayenta, Navajo County, Arizona, U.S.A.</recording_location>
+<recording_date>26 July, 1993</recording_date>
+<fieldworkers>Joyce McDonough, Martha Austin-Garrison</fieldworkers>
+<origin>Origin of speakers not specified</origin>
+<speakers>Martha Austin-Garrison, Alyce Bradley, Diana Parish, Marie Salt, Louise Hudgins, Gladys Yellowhair, Zelma King, Rosemary Tsosie, Cecelia Gowan, Sallie Barlow, Freddie Holiday</speakers>
+<filename_audio>nav_word-list_1993_07</filename_audio>
+<filename_wav>nav_word-list_1993_07.wav</filename_wav>
+<filename_mp3>nav_word-list_1993_07.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1993_03.html</wordlist>
+<wordlist_entries>23 - 43</wordlist_entries>
+<image_tif>nav_word-list_1993_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1993_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#24</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1993_03.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1993_03.html#23</link_within_wordlist>
+</item>
+
+<item>
+<entry>25</entry>
+<lang_name>Navajo</lang_name>
+<dialect>Western dialect</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Monument Valley High School, Kayenta, Navajo County, Arizona, U.S.A.</recording_location>
+<recording_date>26 July, 1993</recording_date>
+<fieldworkers>Joyce McDonough, Martha Austin-Garrison</fieldworkers>
+<origin>Origin of speakers not specified</origin>
+<speakers>Martha Austin-Garrison, Alyce Bradley, Diana Parish, Marie Salt, Louise Hudgins, Gladys Yellowhair, Zelma King, Rosemary Tsosie, Cecelia Gowan, Sallie Barlow, Freddie Holiday</speakers>
+<filename_audio>nav_word-list_1993_08</filename_audio>
+<filename_wav>nav_word-list_1993_08.wav</filename_wav>
+<filename_mp3>nav_word-list_1993_08.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1993_03.html</wordlist>
+<wordlist_entries>44 - 81</wordlist_entries>
+<image_tif>nav_word-list_1993_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1993_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>nav_record_details.html#25</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1993_03.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1993_03.html#44</link_within_wordlist>
+</item>
+
+<item>
+<entry>26</entry>
+<lang_name>Navajo</lang_name>
+<dialect>Western dialect</dialect>
+<sil_code>nav</sil_code>
+<content>Word List</content>
+<recording_location>Monument Valley High School, Kayenta, Navajo County, Arizona, U.S.A.</recording_location>
+<recording_date>26 July, 1993</recording_date>
+<fieldworkers>Joyce McDonough, Martha Austin-Garrison</fieldworkers>
+<origin>Origin of speakers not specified</origin>
+<speakers>Martha Austin-Garrison, Alyce Bradley, Diana Parish, Marie Salt, Louise Hudgins, Gladys Yellowhair, Zelma King, Rosemary Tsosie, Cecelia Gowan, Sallie Barlow, Freddie Holiday</speakers>
+<filename_audio>nav_word-list_1993_09</filename_audio>
+<filename_wav>nav_word-list_1993_09.wav</filename_wav>
+<filename_mp3>nav_word-list_1993_09.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>nav_word-list_1993_03.html</wordlist>
+<wordlist_entries>82 - 102</wordlist_entries>
+<image_tif>nav_word-list_1993_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>nav_word-list_1993_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>301 dpi</tif_quality>
+<jpg_quality>301 dpi</jpg_quality>
+<details>nav_record_details.html#26</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>nav_word-list_1993_03.html</wordlist_no_repetition>
+<link_within_wordlist>nav_word-list_1993_03.html#82</link_within_wordlist>
+</item>
+</metadata>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

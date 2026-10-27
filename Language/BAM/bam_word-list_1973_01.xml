@@ -1,0 +1,529 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Bamanankan</language_name>
+
+
+<headers>
+
+<orthography_header>Bambara Orthography</orthography_header>
+<IPA_header>Bambara (IPA)</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+<item>
+<entry>1</entry>
+<native_orthography>da</native_orthography>
+<IPA_transcription>dáà</IPA_transcription>
+<gloss>mouth</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>dan</native_orthography>
+<IPA_transcription>dã́</IPA_transcription>
+<gloss>count</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>de</native_orthography>
+<IPA_transcription>dè</IPA_transcription>
+<gloss>emphatic particle</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>dee</native_orthography>
+<IPA_transcription>dẽ́ẽ̀</IPA_transcription>
+<gloss>(the) child</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>dè</native_orthography>
+<IPA_transcription>dɛ́</IPA_transcription>
+<gloss>certainly</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>dèn</native_orthography>
+<IPA_transcription>dɛ̀ɛ̀</IPA_transcription>
+<gloss>(the) kind of fly</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>di</native_orthography>
+<IPA_transcription>dí</IPA_transcription>
+<gloss>give</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>dingè</native_orthography>
+<IPA_transcription>dĩ̀ɛɛ̀</IPA_transcription>
+<gloss>(the) hole</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>dò</native_orthography>
+<IPA_transcription>dɔ́</IPA_transcription>
+<gloss>a certain</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>dòn</native_orthography>
+<IPA_transcription>dɔ̃́</IPA_transcription>
+<gloss>know</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>do</native_orthography>
+<IPA_transcription>dòò</IPA_transcription>
+<gloss>(the) group</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>don</native_orthography>
+<IPA_transcription>dṍõ̀</IPA_transcription>
+<gloss>(the) day</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>du</native_orthography>
+<IPA_transcription>dúù</IPA_transcription>
+<gloss>(the) household</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>dun</native_orthography>
+<IPA_transcription>dṹ</IPA_transcription>
+<gloss>eat</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>ban</native_orthography>
+<IPA_transcription>bã́</IPA_transcription>
+<gloss>finish</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>pan</native_orthography>
+<IPA_transcription>pã́</IPA_transcription>
+<gloss>fly</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>fan</native_orthography>
+<IPA_transcription>fã́ã̀</IPA_transcription>
+<gloss>(the) egg</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>dan</native_orthography>
+<IPA_transcription>dã́</IPA_transcription>
+<gloss>count</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>tan</native_orthography>
+<IPA_transcription>tã́</IPA_transcription>
+<gloss>kick</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>gan</native_orthography>
+<IPA_transcription>ɡã́</IPA_transcription>
+<gloss>jump</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>kan</native_orthography>
+<IPA_transcription>kã́ã̀</IPA_transcription>
+<gloss>(the) neck</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>sanga</native_orthography>
+<IPA_transcription>sã̀ɡaà</IPA_transcription>
+<gloss>(the) mourning</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>Zanga</native_orthography>
+<IPA_transcription>zã̀ɡà</IPA_transcription>
+<gloss>Zanga (personal name)</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>sinin</native_orthography>
+<IPA_transcription>sínĩ</IPA_transcription>
+<gloss>tomorrow</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>shinye</native_orthography>
+<IPA_transcription>ʃìɲɛɛ̀</IPA_transcription>
+<gloss>(the) time</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>ca</native_orthography>
+<IPA_transcription>tʃá</IPA_transcription>
+<gloss>be numerous</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>jan</native_orthography>
+<IPA_transcription>dʒã́ã̀</IPA_transcription>
+<gloss>(the) trap</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>yan</native_orthography>
+<IPA_transcription>jã̀</IPA_transcription>
+<gloss>here</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>wa</native_orthography>
+<IPA_transcription>wà</IPA_transcription>
+<gloss>question marker</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>na</native_orthography>
+<IPA_transcription>̊náà</IPA_transcription>
+<gloss>(the) stew</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>ma</native_orthography>
+<IPA_transcription>màà</IPA_transcription>
+<gloss>(the) sea cow</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>nya</native_orthography>
+<IPA_transcription>ɲáà</IPA_transcription>
+<gloss>(the) eye</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>ŋana</native_orthography>
+<IPA_transcription>ŋànaà</IPA_transcription>
+<gloss>tough</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>kòlò</native_orthography>
+<IPA_transcription>kɔ́lɔɔ̀</IPA_transcription>
+<gloss>(the) kind of nut</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>kòrò</native_orthography>
+<IPA_transcription>kɔ́rɔɔ̀</IPA_transcription>
+<gloss>(the) meaning</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>buru</native_orthography>
+<IPA_transcription>búruù</IPA_transcription>
+<gloss>(the) horn</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>mburu</native_orthography>
+<IPA_transcription>mbúruù</IPA_transcription>
+<gloss>(the) bread</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>pan</native_orthography>
+<IPA_transcription>pã́</IPA_transcription>
+<gloss>jump</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>mpan</native_orthography>
+<IPA_transcription>mpã̀ã̀</IPA_transcription>
+<gloss>(the) sword</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>tòn</native_orthography>
+<IPA_transcription>tɔ̃́ɔ̃̀</IPA_transcription>
+<gloss>(the) nape</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>ntòn</native_orthography>
+<IPA_transcription>ntɔ̃̀ɔ̃̀</IPA_transcription>
+<gloss>(the) cricket</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>firifiri</native_orthography>
+<IPA_transcription>fírifiriì</IPA_transcription>
+<gloss>(the) struggle</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>nfirinfirin</native_orthography>
+<IPA_transcription>nfírĩfirĩĩ̀</IPA_transcription>
+<gloss>(the) butterfly</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>gòmè</native_orthography>
+<IPA_transcription>ɡɔ̀mɛɛ́</IPA_transcription>
+<gloss>(the) small drum</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>ŋòmò</native_orthography>
+<IPA_transcription>ŋɔ̀mɔɔ̀</IPA_transcription>
+<gloss>(the) tree bark</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>ŋgònò</native_orthography>
+<IPA_transcription>ŋɡɔ̀nɔɔ̀</IPA_transcription>
+<gloss>(the) dew</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>kòli</native_orthography>
+<IPA_transcription>kɔ̀liì</IPA_transcription>
+<gloss>(the) misery</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>nkòli</native_orthography>
+<IPA_transcription>nkɔ̀liì</IPA_transcription>
+<gloss>(the) hind leg of a grasshopper</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>sara</native_orthography>
+<IPA_transcription>sáraà</IPA_transcription>
+<gloss>(the) charm</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>nsaransaranin</native_orthography>
+<IPA_transcription>nsárãsaranĩĩ̀</IPA_transcription>
+<gloss>(the) small fish</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>nzègènè</native_orthography>
+<IPA_transcription>nzɛ̀ɡɛ̀nɛɛ̀</IPA_transcription>
+<gloss>(the) wild date</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>cònkò</native_orthography>
+<IPA_transcription>tʃɔ̃́kɔ</IPA_transcription>
+<gloss>press</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>ncògòn</native_orthography>
+<IPA_transcription>nʃɔ̀ɡɔ̃ɔ̃̀</IPA_transcription>
+<gloss>(the) sweet tuber</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>kòrò</native_orthography>
+<IPA_transcription>kɔ́rɔɔ̀</IPA_transcription>
+<gloss>(the) meaning</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>kòlè</native_orthography>
+<IPA_transcription>kɔ́lɛɛ̀</IPA_transcription>
+<gloss>(the) race</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>kolo</native_orthography>
+<IPA_transcription>kóloò</IPA_transcription>
+<gloss>(the) bone</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>dolen</native_orthography>
+<IPA_transcription>dólẽẽ̀</IPA_transcription>
+<gloss>(the) fishhook</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>jègè</native_orthography>
+<IPA_transcription>dʒɛ́ɡɛɛ̀</IPA_transcription>
+<gloss>(the) fish</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>cèrò</native_orthography>
+<IPA_transcription>tʃɛ̀rɔɔ̀</IPA_transcription>
+<gloss>(the) small basket</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>jele</native_orthography>
+<IPA_transcription>dʒléleè</IPA_transcription>
+<gloss>(the) ax</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>kunun</native_orthography>
+<IPA_transcription>kúnũ</IPA_transcription>
+<gloss>wake up</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>kunun</native_orthography>
+<IPA_transcription>kùnũ̀</IPA_transcription>
+<gloss>swallow</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>kunun</native_orthography>
+<IPA_transcription>kúnũ</IPA_transcription>
+<gloss>yesterday</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>ko</native_orthography>
+<IPA_transcription>kó</IPA_transcription>
+<gloss>say</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>ko</native_orthography>
+<IPA_transcription>kò</IPA_transcription>
+<gloss>wash</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>dan</native_orthography>
+<IPA_transcription>dã́</IPA_transcription>
+<gloss>sow</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>dan</native_orthography>
+<IPA_transcription>dã̀</IPA_transcription>
+<gloss>pass beyond</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>kalan</native_orthography>
+<IPA_transcription>kálã</IPA_transcription>
+<gloss>be warm</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>kalan</native_orthography>
+<IPA_transcription>kàlãã̀</IPA_transcription>
+<gloss>reading</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>kònò</native_orthography>
+<IPA_transcription>kɔ́nɔ</IPA_transcription>
+<gloss>inside</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>kònò</native_orthography>
+<IPA_transcription>kɔ́nɔ́</IPA_transcription>
+<gloss>wait for</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>M bè sisikulun ta sògòmada o sògòmada</native_orthography>
+<IPA_transcription>ḿ bɛ sìsìkulũ tà sɔ̀ɡɔ̀màda o sɔ̀ɡɔ̀màda</IPA_transcription>
+<gloss>I take the train every morning</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>E de ye Bamba faga ka an ka dugo bò a ka jonya la</native_orthography>
+<IPA_transcription>é dèje bã̀mba fàɡa kà ã ka dùɡu bɔ à ka dʒɔ̀ɲa la</IPA_transcription>
+<gloss>It is you who killed the alligator to free our city</gloss>
+</item>
+
+</wordlist>
+
+
+
+
+

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Akan (Twi)</language_name>
+
+
+<headers>
+
+<orthography_header>Akan (Twi) Orthography</orthography_header>
+<IPA_header>Akan (Twi) IPA</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>dua</native_orthography>
+<IPA_transcription>düíà</IPA_transcription>
+<gloss>tail</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>dua</native_orthography>
+<IPA_transcription>düìá</IPA_transcription>
+<gloss>tree</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>papa</native_orthography>
+<IPA_transcription>pàpá</IPA_transcription>
+<gloss>father</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>papa</native_orthography>
+<IPA_transcription>pápá</IPA_transcription>
+<gloss>kindness</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>papa</native_orthography>
+<IPA_transcription>pàpà</IPA_transcription>
+<gloss>fan</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>mifi</native_orthography>
+<IPA_transcription>mĩ̀fí</IPA_transcription>
+<gloss>I leave (habitual)</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>mifi</native_orthography>
+<IPA_transcription>mĩ̀fì</IPA_transcription>
+<gloss>I come from (stative)</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>mifi Kumasi</native_orthography>
+<IPA_transcription>mĩ̀fí kùmã́sí</IPA_transcription>
+<gloss>I leave Kumasi</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>mifi Kumasi</native_orthography>
+<IPA_transcription>mĩ̄fì kùmã́sí</IPA_transcription>
+<gloss>I come from Kumasi</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>ɔhyɛ</native_orthography>
+<IPA_transcription>ɔ̀ʃɛ́</IPA_transcription>
+<gloss>he wears (habitual)</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>ɔhyɛ</native_orthography>
+<IPA_transcription>ɔ̀ʃɛ̀</IPA_transcription>
+<gloss>he wears (stative)</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>Kofi kɔɔfie</native_orthography>
+<IPA_transcription>kòfí kɔ̀ːfɪ́ɛ́</IPA_transcription>
+<gloss>Kofi went home</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>Kofi kɔɔfie</native_orthography>
+<IPA_transcription>kòfí kɔ̀ːfɪ́ɛ̂</IPA_transcription>
+<gloss>did Kofi go home?</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>ɔkɔ</native_orthography>
+<IPA_transcription>ɔ̀kɔ́</IPA_transcription>
+<gloss>he's gone</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>ɔkɔ</native_orthography>
+<IPA_transcription>ɔ̀kɔ̂</IPA_transcription>
+<gloss>is he gone?</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>ɔsa</native_orthography>
+<IPA_transcription>ɔ̀sá</IPA_transcription>
+<gloss>he dances</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>ɔsa</native_orthography>
+<IPA_transcription>ɔ̀sâ</IPA_transcription>
+<gloss>does he dance?</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>Kofi</native_orthography>
+<IPA_transcription>kòfí</IPA_transcription>
+<gloss>Kofi</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>Kofi</native_orthography>
+<IPA_transcription>kòfî</IPA_transcription>
+<gloss>Kofi?</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>obue</native_orthography>
+<IPA_transcription>òbùé</IPA_transcription>
+<gloss>he opens</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>obue</native_orthography>
+<IPA_transcription>òbùê</IPA_transcription>
+<gloss>does he open?</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>ɔda</native_orthography>
+<IPA_transcription>ɔ̀dá</IPA_transcription>
+<gloss>he dances</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>ɔda</native_orthography>
+<IPA_transcription>ɔ̀dâ</IPA_transcription>
+<gloss>does he dance?</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>odidi</native_orthography>
+<IPA_transcription>òdìdí</IPA_transcription>
+<gloss>he eats</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>didi</native_orthography>
+<IPA_transcription>dìdì</IPA_transcription>
+<gloss>eat itǃ</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>odidi</native_orthography>
+<IPA_transcription>òdìdí</IPA_transcription>
+<gloss>he eats</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>odidi</native_orthography>
+<IPA_transcription>òdìdî</IPA_transcription>
+<gloss>does he eat?</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>ɔkyerɛɛ adeɛ</native_orthography>
+<IPA_transcription>ɔ̀tʃìrɛ́ɛ̀ àdíɛ́</IPA_transcription>
+<gloss>he taught</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>ɔkyerɛɛ adeɛ</native_orthography>
+<IPA_transcription>ɔ̀tʃìrɛ́ɛ̀ àdíɛ̂</IPA_transcription>
+<gloss>did he teach?</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>ɔkɔtɔ</native_orthography>
+<IPA_transcription>ɔ̀kɔ̀tɔ́</IPA_transcription>
+<gloss>he goes to buy</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>ɔkɔtɔ</native_orthography>
+<IPA_transcription>ɔ̀kɔ́tɔ̀</IPA_transcription>
+<gloss>crab</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>uɔfa</native_orthography>
+<IPA_transcription>uɔ̀fá</IPA_transcription>
+<gloss>they take</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>uɔfa</native_orthography>
+<IPA_transcription>uɔ̀fà</IPA_transcription>
+<gloss>uncle</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>uanim</native_orthography>
+<IPA_transcription>ẃunĩ̀m</IPA_transcription>
+<gloss>you know</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>uafɔn</native_orthography>
+<IPA_transcription>wáfɔ̀ŋ</IPA_transcription>
+<gloss>you've lost weight</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>me papa</native_orthography>
+<IPA_transcription>mĩ̀ pápá</IPA_transcription>
+<gloss>my kindness</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>ma kɔda</native_orthography>
+<IPA_transcription>màkɔ́dá</IPA_transcription>
+<gloss>I've gone to bed</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>aberanteɛ</native_orthography>
+<IPA_transcription>àbìránti</IPA_transcription>
+<gloss>a young man</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>kɔŋkɔŋsani</native_orthography>
+<IPA_transcription>kɔ̀ŋkɔ̀ŋsánĩ</IPA_transcription>
+<gloss>gossip</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>ɔkɔ abɔnten akɔtɔ ataadeɛ abekyɛ</native_orthography>
+<IPA_transcription>ɔ̀kɔ́ àbɔ̀ntĩ́n ákɔ̀tɔ́ àtàːdéɛ́ ábɛ̀ʃɛ́</IPA_transcription>
+<gloss>she's gone out to buy a dress to wear</gloss>
+</item>
+</wordlist>

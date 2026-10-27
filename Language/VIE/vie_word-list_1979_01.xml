@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Vietnamese</language_name>
+
+
+<headers>
+
+<orthography_header>Tone</orthography_header>
+<IPA_header>Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɓi</IPA_transcription>
+<gloss>sad</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɓa</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɗi</IPA_transcription>
+<gloss>go</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɗa</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>tʰi</IPA_transcription>
+<gloss>examination</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>tʰɔ</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ti</IPA_transcription>
+<gloss>establishment</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>tɔ</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ʈi</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ci</IPA_transcription>
+<gloss>branch</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>cɔ</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ki</IPA_transcription>
+<gloss>van</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ko</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ʔi</IPA_transcription>
+<gloss>he</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>vi</IPA_transcription>
+<gloss>microscopic</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>mid dipping</native_orthography>
+<IPA_transcription>vɔ</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>va</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>li</IPA_transcription>
+<gloss>glass</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lɔ</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>la</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>gi</IPA_transcription>
+<gloss>record</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>mid dipping</native_orthography>
+<IPA_transcription>gõ</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>fi</IPA_transcription>
+<gloss>fly</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>fɔ</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>fa</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>sa</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>si</IPA_transcription>
+<gloss>galvanize</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>xi</IPA_transcription>
+<gloss>when</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>xɔ</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>hi</IPA_transcription>
+<gloss>hope</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>mi</IPA_transcription>
+<gloss>eyebrow</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>mid dipping</native_orthography>
+<IPA_transcription>mɔ</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ni</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɲi</IPA_transcription>
+<gloss>infant</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>ɲa</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ŋi</IPA_transcription>
+<gloss>doubt</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ji</IPA_transcription>
+<gloss>transfer</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>wi</IPA_transcription>
+<gloss>majesty</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɽi</IPA_transcription>
+<gloss>type of sparrow</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>mid dipping</native_orthography>
+<IPA_transcription>ɽɔ</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɽa</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>kip̚</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>tip̚</IPA_transcription>
+<gloss>continue</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>ne̝p̚</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>het̚</IPA_transcription>
+<gloss>be used up</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>ic̚</IPA_transcription>
+<gloss>be useful</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>low dipping</native_orthography>
+<IPA_transcription>sac̚</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>dukp̚</IPA_transcription>
+<gloss>perforate</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>kɔkp̚</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>cə̆kp̚</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>tim</IPA_transcription>
+<gloss>heart</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>năm</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>tin</IPA_transcription>
+<gloss>news</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>nan</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>liŋ̚</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɲaŋ̚</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>laŋ̚</IPA_transcription>
+<gloss>villiage</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>duŋ͡m̚</IPA_transcription>
+<gloss>be correct</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ɔŋ͡m̚</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>oŋ͡m̚</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>li</IPA_transcription>
+<gloss>glass</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>le</IPA_transcription>
+<gloss>pear</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lɛ</IPA_transcription>
+<gloss>wild duck</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>la</IPA_transcription>
+<gloss>shout</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lɯ</IPA_transcription>
+<gloss>incense pot</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lə</IPA_transcription>
+<gloss>indifferent</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lu</IPA_transcription>
+<gloss>jar</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lo</IPA_transcription>
+<gloss>lot</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lɔ</IPA_transcription>
+<gloss>worry</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lə̆ŋ</IPA_transcription>
+<gloss>unicorn</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lăŋ</IPA_transcription>
+<gloss>roll</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>liə</IPA_transcription>
+<gloss>throw</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lɯə</IPA_transcription>
+<gloss>donkey</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>luə</IPA_transcription>
+<gloss>drive cattle</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>ləj</IPA_transcription>
+<gloss>interest</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lə̆j</IPA_transcription>
+<gloss>contagious</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>laj</IPA_transcription>
+<gloss>mix blood</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lăj</IPA_transcription>
+<gloss>shake</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>lɯj</IPA_transcription>
+<gloss>lazy</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>luj</IPA_transcription>
+<gloss>go backward</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>loj</IPA_transcription>
+<gloss>drag</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>lɔj</IPA_transcription>
+<gloss>protrude</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>liw</IPA_transcription>
+<gloss>risky</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>lew</IPA_transcription>
+<gloss>tent</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lɛw</IPA_transcription>
+<gloss>climb</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lə̆w</IPA_transcription>
+<gloss>long</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>law</IPA_transcription>
+<gloss>hurl</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lăw</IPA_transcription>
+<gloss>wipe</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>luwkp̚</IPA_transcription>
+<gloss>when</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>lɯw</IPA_transcription>
+<gloss>stop</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography>high rising</native_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>mother</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography>mid dipping</native_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>horse, tomb</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography>level</native_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>ghost</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography>low falling</native_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>but</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography>low dipping</native_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>rice seedling</gloss>
+</item>
+</wordlist>
+
+
+
+
+

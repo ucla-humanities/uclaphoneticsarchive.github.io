@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+
+<language_name>Tagalog</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language</lang_name_header>
+<dialect_header>Dialect</dialect_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<origin_header>Speaker Origin</origin_header>
+<speakers_header>Speaker Name</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>TIFF Image</image_tif_header>
+<image_tif2_header>TIFF Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality</tif_quality_header>
+<jpg_quality_header>JPG Image Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<lang_name>Tagalog</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>tgl</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>21 November, 1973</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>Speaker from Manila, Philippines</origin>
+<speakers>N/A</speakers>
+<filename_audio>tgl_word-list_1973_01</filename_audio>
+<filename_wav>tgl_word-list_1973_01.wav</filename_wav>
+<filename_mp3>tgl_word-list_1973_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>tgl_word-list_1973_01.html</wordlist>
+<wordlist_entries>1 - 42</wordlist_entries>
+<image_tif>tgl_word-list_1973_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>tgl_word-list_1973_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tgl_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tgl_word-list_1973_01.html</wordlist_no_repetition>
+<link_within_wordlist>tgl_word-list_1973_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>Tagalog</lang_name>
+<dialect>native speaker of Ilocano</dialect>
+<sil_code>tgl</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>29 May, 1975</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>Speaker from Philippines</origin>
+<speakers>N/A</speakers>
+<filename_audio>tgl_word-list_1975_01</filename_audio>
+<filename_wav>tgl_word-list_1975_01.wav</filename_wav>
+<filename_mp3>tgl_word-list_1975_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>tgl_word-list_1975_01.html</wordlist>
+<wordlist_entries>1 - 48</wordlist_entries>
+<image_tif>tgl_word-list_1975_01.tif</image_tif>
+<image_tif2>tgl_word-list_1975_02.tif</image_tif2>
+<image_jpg>tgl_word-list_1975_01.jpg</image_jpg>
+<image_jpg2>tgl_word-list_1975_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tgl_record_details.html#2</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tgl_word-list_1975_01.html</wordlist_no_repetition>
+<link_within_wordlist>tgl_word-list_1975_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>3</entry>
+<lang_name>Tagalog</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>tgl</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>6 December, 1979</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>Speaker from Barangay Rizal, Makati, Philippines</origin>
+<speakers>N/A</speakers>
+<filename_audio>tgl_word-list_1979_01</filename_audio>
+<filename_wav>tgl_word-list_1979_01.wav</filename_wav>
+<filename_mp3>tgl_word-list_1979_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>tgl_word-list_1979_01.html</wordlist>
+<wordlist_entries>1 - 28</wordlist_entries>
+<image_tif>tgl_word-list_1979_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>tgl_word-list_1979_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tgl_record_details.html#3</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tgl_word-list_1979_01.html</wordlist_no_repetition>
+<link_within_wordlist>tgl_word-list_1979_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>4</entry>
+<lang_name>Tagalog</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>tgl</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>Fall, 1980</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>Speaker from Cavite City, Luzon, Philippines</origin>
+<speakers>N/A</speakers>
+<filename_audio>tgl_word-list_1980_01</filename_audio>
+<filename_wav>tgl_word-list_1980_01.wav</filename_wav>
+<filename_mp3>tgl_word-list_1980_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>tgl_word-list_1980_01.html</wordlist>
+<wordlist_entries>1 - 80</wordlist_entries>
+<image_tif>tgl_word-list_1980_01.tif</image_tif>
+<image_tif2>tgl_word-list_1980_02.tif</image_tif2>
+<image_jpg>tgl_word-list_1980_01.jpg</image_jpg>
+<image_jpg2>tgl_word-list_1980_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tgl_record_details.html#4</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tgl_word-list_1980_01.html</wordlist_no_repetition>
+<link_within_wordlist>tgl_word-list_1980_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>5</entry>
+<lang_name>Tagalog</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>tgl</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>28 May, 1981</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>Speaker from Manila, Philippines</origin>
+<speakers>N/A</speakers>
+<filename_audio>tgl_word-list_1981_01</filename_audio>
+<filename_wav>tgl_word-list_1981_01.wav</filename_wav>
+<filename_mp3>tgl_word-list_1981_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>tgl_word-list_1981_01.html</wordlist>
+<wordlist_entries>1 - 119</wordlist_entries>
+<image_tif>tgl_word-list_1981_01.tif</image_tif>
+<image_tif2>tgl_word-list_1981_02.tif</image_tif2>
+<image_jpg>tgl_word-list_1981_01.jpg</image_jpg>
+<image_jpg2>tgl_word-list_1981_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tgl_record_details.html#5</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tgl_word-list_1981_01.html</wordlist_no_repetition>
+<link_within_wordlist>tgl_word-list_1981_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>6</entry>
+<lang_name>Tagalog</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>tgl</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>26 May, 1982</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>Speaker from Manila, Philippines</origin>
+<speakers>N/A</speakers>
+<filename_audio>tgl_word-list_1982_01</filename_audio>
+<filename_wav>tgl_word-list_1982_01.wav</filename_wav>
+<filename_mp3>tgl_word-list_1982_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>tgl_word-list_1982_01.html</wordlist>
+<wordlist_entries>1 - 45</wordlist_entries>
+<image_tif>tgl_word-list_1982_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>tgl_word-list_1982_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tgl_record_details.html#6</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tgl_word-list_1982_01.html</wordlist_no_repetition>
+<link_within_wordlist>tgl_word-list_1982_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>7</entry>
+<lang_name>Tagalog</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>tgl</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>21 November, 1983</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>Speaker from Manila, Philippines</origin>
+<speakers>N/A</speakers>
+<filename_audio>tgl_word-list_1983_01</filename_audio>
+<filename_wav>tgl_word-list_1983_01.wav</filename_wav>
+<filename_mp3>tgl_word-list_1983_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Cassette Tape</original_medium>
+<wordlist>tgl_word-list_1983_01.html</wordlist>
+<wordlist_entries>1 - 84</wordlist_entries>
+<image_tif>tgl_word-list_1983_01.tif</image_tif>
+<image_tif2>tgl_word-list_1983_02.tif</image_tif2>
+<image_jpg>tgl_word-list_1983_01.jpg</image_jpg>
+<image_jpg2>tgl_word-list_1983_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tgl_record_details.html#7</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tgl_word-list_1983_01.html</wordlist_no_repetition>
+<link_within_wordlist>tgl_word-list_1983_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>8</entry>
+<lang_name>Tagalog</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>tgl</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>23 May, 1983</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>Speaker from Manila, Philippines</origin>
+<speakers>N/A</speakers>
+<filename_audio>tgl_word-list_1983_02</filename_audio>
+<filename_wav>tgl_word-list_1983_02.wav</filename_wav>
+<filename_mp3>tgl_word-list_1983_02.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>tgl_word-list_1983_02.html</wordlist>
+<wordlist_entries>1 - 66</wordlist_entries>
+<image_tif>tgl_word-list_1983_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>tgl_word-list_1983_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tgl_record_details.html#8</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tgl_word-list_1983_02.html</wordlist_no_repetition>
+<link_within_wordlist>tgl_word-list_1983_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>9</entry>
+<lang_name>Tagalog</lang_name>
+<dialect>standard dialect</dialect>
+<sil_code>tgl</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>1 June, 1984</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>Speaker from Marilao, Bulacan, Philippines</origin>
+<speakers>N/A</speakers>
+<filename_audio>tgl_word-list_1984_01</filename_audio>
+<filename_wav>tgl_word-list_1984_01.wav</filename_wav>
+<filename_mp3>tgl_word-list_1984_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>tgl_word-list_1984_01.html</wordlist>
+<wordlist_entries>1 - 77</wordlist_entries>
+<image_tif>tgl_word-list_1984_01.tif</image_tif>
+<image_tif2>tgl_word-list_1984_02.tif</image_tif2>
+<image_jpg>tgl_word-list_1984_01.jpg</image_jpg>
+<image_jpg2>tgl_word-list_1984_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tgl_record_details.html#9</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tgl_word-list_1984_01.html</wordlist_no_repetition>
+<link_within_wordlist>tgl_word-list_1984_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>10</entry>
+<lang_name>Tagalog</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>tgl</sil_code>
+<content>Conversation</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>24 September, 1980</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>Speakers from Bautista, Pangasinan, Philippines and Manila, Philippines</origin>
+<speakers>N/A</speakers>
+<filename_audio>tgl_conversation_1980_01</filename_audio>
+<filename_wav>tgl_conversation_1980_01.wav</filename_wav>
+<filename_mp3>tgl_conversation_1980_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>tgl_conversation_1980_01.html</wordlist>
+<wordlist_entries>1 - 126</wordlist_entries>
+<image_tif>tgl_conversation_1980_01.tif</image_tif>
+<image_tif2>tgl_conversation_1980_02.tif</image_tif2>
+<image_jpg>tgl_conversation_1980_01.jpg</image_jpg>
+<image_jpg2>tgl_conversation_1980_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tgl_record_details.html#10</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tgl_conversation_1980_01.html</wordlist_no_repetition>
+<link_within_wordlist>tgl_conversation_1980_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>11</entry>
+<lang_name>Tagalog</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>tgl</sil_code>
+<content>Conversation</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>1 October, 1980</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>Speakers from Manila, Philippines</origin>
+<speakers>N/A</speakers>
+<filename_audio>tgl_conversation_1980_02</filename_audio>
+<filename_wav>tgl_conversation_1980_02.wav</filename_wav>
+<filename_mp3>tgl_conversation_1980_02.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>tgl_conversation_1980_02.html</wordlist>
+<wordlist_entries>1 - 110</wordlist_entries>
+<image_tif>tgl_conversation_1980_03.tif</image_tif>
+<image_tif2>tgl_conversation_1980_04.tif</image_tif2>
+<image_jpg>tgl_conversation_1980_03.jpg</image_jpg>
+<image_jpg2>tgl_conversation_1980_04.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tgl_record_details.html#11</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>tgl_conversation_1980_02.html</wordlist_no_repetition>
+<link_within_wordlist>tgl_conversation_1980_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>12</entry>
+<lang_name>Tagalog</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>tgl</sil_code>
+<content>Conversation</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>1 October, 1980</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>Speakers from Manila, Philippines</origin>
+<speakers>N/A</speakers>
+<filename_audio>tgl_conversation_1980_03</filename_audio>
+<filename_wav>tgl_conversation_1980_03.wav</filename_wav>
+<filename_mp3>tgl_conversation_1980_03.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>Reel Tape</original_medium>
+<wordlist>tgl_conversation_1980_02.html</wordlist>
+<wordlist_entries>111 - 158</wordlist_entries>
+<image_tif>tgl_conversation_1980_05.tif</image_tif>
+<image_tif2>tgl_conversation_1980_06.tif</image_tif2>
+<image_jpg>tgl_conversation_1980_05.jpg</image_jpg>
+<image_jpg2>tgl_conversation_1980_06.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>tgl_record_details.html#12</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>tgl_conversation_1980_02.html#111</link_within_wordlist>
+</item>
+</metadata>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

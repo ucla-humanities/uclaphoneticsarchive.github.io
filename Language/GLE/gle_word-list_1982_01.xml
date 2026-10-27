@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Gaelic, Irish (Galway dialect)</language_name>
+
+
+<headers>
+
+<orthography_header>Orthography</orthography_header>
+<IPA_header>Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>a póca</native_orthography>
+<IPA_transcription>a poːkə</IPA_transcription>
+<gloss>her pocket</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>a bpóca</native_orthography>
+<IPA_transcription>a boːkə</IPA_transcription>
+<gloss>their pocket</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>pinn</native_orthography>
+<IPA_transcription>pʲinʲ</IPA_transcription>
+<gloss>pen (genitive)</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>puinn</native_orthography>
+<IPA_transcription>pʷin</IPA_transcription>
+<gloss>at all</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>paca</native_orthography>
+<IPA_transcription>pɑkə</IPA_transcription>
+<gloss>pack</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>piocadh</native_orthography>
+<IPA_transcription>pʲokə</IPA_transcription>
+<gloss>picking</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>bó</native_orthography>
+<IPA_transcription>boː</IPA_transcription>
+<gloss>cow</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>beó</native_orthography>
+<IPA_transcription>bʲoː</IPA_transcription>
+<gloss>alive, nerve</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>bí</native_orthography>
+<IPA_transcription>biː</IPA_transcription>
+<gloss>beǃ (imperative)</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>buí</native_orthography>
+<IPA_transcription>bʷiː</IPA_transcription>
+<gloss>yellow</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>a pinginn</native_orthography>
+<IPA_transcription>a pʲiːənʲ</IPA_transcription>
+<gloss>her penny</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>a phinginn</native_orthography>
+<IPA_transcription>a fʲiːənʲ</IPA_transcription>
+<gloss>his pocket</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>a bád</native_orthography>
+<IPA_transcription>a bɑːd</IPA_transcription>
+<gloss>her boat</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>a bhád</native_orthography>
+<IPA_transcription>a wɑːd</IPA_transcription>
+<gloss>his boat</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>bí</native_orthography>
+<IPA_transcription>biː</IPA_transcription>
+<gloss>beǃ</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>bhí</native_orthography>
+<IPA_transcription>viː</IPA_transcription>
+<gloss>was</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>a beó</native_orthography>
+<IPA_transcription>a bʲoː</IPA_transcription>
+<gloss>her nerve</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>a bheó</native_orthography>
+<IPA_transcription>a vʲoː</IPA_transcription>
+<gloss>his nerve</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>fí</native_orthography>
+<IPA_transcription>fiː</IPA_transcription>
+<gloss>weaving</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>faoi</native_orthography>
+<IPA_transcription>fʷiː</IPA_transcription>
+<gloss>under</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>fáth</native_orthography>
+<IPA_transcription>fɑ̃ː</IPA_transcription>
+<gloss>cause</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>feadh</native_orthography>
+<IPA_transcription>fʲɑ̃ː</IPA_transcription>
+<gloss>fathom</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>fí</native_orthography>
+<IPA_transcription>fiː</IPA_transcription>
+<gloss>weaving</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>bhí</native_orthography>
+<IPA_transcription>viː</IPA_transcription>
+<gloss>was</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>fuil</native_orthography>
+<IPA_transcription>fʷil</IPA_transcription>
+<gloss>blood</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>bhfuil</native_orthography>
+<IPA_transcription>wil</IPA_transcription>
+<gloss>was</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>a bhó</native_orthography>
+<IPA_transcription>a voː</IPA_transcription>
+<gloss>his cow</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>a bheó</native_orthography>
+<IPA_transcription>a vʲoː</IPA_transcription>
+<gloss>his nerve</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>má</native_orthography>
+<IPA_transcription>mɑː</IPA_transcription>
+<gloss>if</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>meadh</native_orthography>
+<IPA_transcription>mʲɑː</IPA_transcription>
+<gloss>weigh</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>múch</native_orthography>
+<IPA_transcription>muːx</IPA_transcription>
+<gloss>extinguish</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>mhúch</native_orthography>
+<IPA_transcription>wuːx</IPA_transcription>
+<gloss>extinguished</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>mí</native_orthography>
+<IPA_transcription>miː</IPA_transcription>
+<gloss>month</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>bhí</native_orthography>
+<IPA_transcription>viː</IPA_transcription>
+<gloss>was</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>meall</native_orthography>
+<IPA_transcription>mʲɑːl</IPA_transcription>
+<gloss>lump, heap</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>mheall</native_orthography>
+<IPA_transcription>vʲɑːl</IPA_transcription>
+<gloss>enticed, deceived</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>tú</native_orthography>
+<IPA_transcription>tuː</IPA_transcription>
+<gloss>thou</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>dubh</native_orthography>
+<IPA_transcription>duː</IPA_transcription>
+<gloss>black</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>a deoch</native_orthography>
+<IPA_transcription>a dʲox</IPA_transcription>
+<gloss>her drink</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>a ndeoch</native_orthography>
+<IPA_transcription>a nʲox</IPA_transcription>
+<gloss>their drink</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>dá</native_orthography>
+<IPA_transcription>dɑː</IPA_transcription>
+<gloss>two</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>ná</native_orthography>
+<IPA_transcription>nɑː</IPA_transcription>
+<gloss>than</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>a cineadh</native_orthography>
+<IPA_transcription>a kʲinə</IPA_transcription>
+<gloss>her tribe, race</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>a gcineadh</native_orthography>
+<IPA_transcription>a gʲinə</IPA_transcription>
+<gloss>their tribe, race</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>cill</native_orthography>
+<IPA_transcription>kʲil</IPA_transcription>
+<gloss>graveyard</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>gill</native_orthography>
+<IPA_transcription>gʲil</IPA_transcription>
+<gloss>promise (genitive)</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>caol</native_orthography>
+<IPA_transcription>kʷiːl</IPA_transcription>
+<gloss>slender, narrow</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>cill</native_orthography>
+<IPA_transcription>kʲil</IPA_transcription>
+<gloss>graveyard</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>gall</native_orthography>
+<IPA_transcription>gal</IPA_transcription>
+<gloss>Englishman</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>geall</native_orthography>
+<IPA_transcription>gʲɑːl</IPA_transcription>
+<gloss>promise</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>caith</native_orthography>
+<IPA_transcription>kɑː</IPA_transcription>
+<gloss>throw, spend</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>chaith</native_orthography>
+<IPA_transcription>xɑː</IPA_transcription>
+<gloss>threw, spent</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>a ceann</native_orthography>
+<IPA_transcription>a kʲɑːn</IPA_transcription>
+<gloss>her head</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>a cheann</native_orthography>
+<IPA_transcription>a çɑːn</IPA_transcription>
+<gloss>his head</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>a gadhar</native_orthography>
+<IPA_transcription>a gaiərʲ</IPA_transcription>
+<gloss>her dog</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>a ghadhar</native_orthography>
+<IPA_transcription>a gauərʲ</IPA_transcription>
+<gloss>his dog</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>a geata</native_orthography>
+<IPA_transcription>a gʲatə</IPA_transcription>
+<gloss>her gate</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>a gheata</native_orthography>
+<IPA_transcription>a jatə</IPA_transcription>
+<gloss>his gate</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>a gall</native_orthography>
+<IPA_transcription>a gɑːl</IPA_transcription>
+<gloss>her Englishman</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>a geall</native_orthography>
+<IPA_transcription>a gʲɑl</IPA_transcription>
+<gloss>her promise</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>a ngall</native_orthography>
+<IPA_transcription>a ŋɑːl</IPA_transcription>
+<gloss>their Englishman</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>a ngeall</native_orthography>
+<IPA_transcription>a ŋʲal</IPA_transcription>
+<gloss>their promise</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>chinn</native_orthography>
+<IPA_transcription>çinʲ</IPA_transcription>
+<gloss>surrendered</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>chaoin</native_orthography>
+<IPA_transcription>xʷiːənʲ</IPA_transcription>
+<gloss>wept, lamented</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>ghoin</native_orthography>
+<IPA_transcription>ɣoːnʲ</IPA_transcription>
+<gloss>wounded</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>a chinn</native_orthography>
+<IPA_transcription>a çinʲ</IPA_transcription>
+<gloss>his (ones), his hands</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>a ghinn</native_orthography>
+<IPA_transcription>a jinʲ</IPA_transcription>
+<gloss>his wedge</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>a ghall</native_orthography>
+<IPA_transcription>a ɣɑːl</IPA_transcription>
+<gloss>his Englishman</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>a gheall</native_orthography>
+<IPA_transcription>a jal</IPA_transcription>
+<gloss>his promise</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>chaill</native_orthography>
+<IPA_transcription>xɑːl</IPA_transcription>
+<gloss>lost (past tense verb)</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>thall</native_orthography>
+<IPA_transcription>hɑːl</IPA_transcription>
+<gloss>yonder</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>chinn</native_orthography>
+<IPA_transcription>çinʲ</IPA_transcription>
+<gloss>surrendered</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>shín</native_orthography>
+<IPA_transcription>hiːnʲ</IPA_transcription>
+<gloss>laid down, stretched out</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>a sheómra</native_orthography>
+<IPA_transcription>a çoːmrə</IPA_transcription>
+<gloss>his room</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>a seómra</native_orthography>
+<IPA_transcription>a ʃoːmrə</IPA_transcription>
+<gloss>her room</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>sí</native_orthography>
+<IPA_transcription>ʃiː</IPA_transcription>
+<gloss>she</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>suí</native_orthography>
+<IPA_transcription>siː</IPA_transcription>
+<gloss>sitting</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>ór</native_orthography>
+<IPA_transcription>oːr</IPA_transcription>
+<gloss>gold</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>óir</native_orthography>
+<IPA_transcription>oːərʲ</IPA_transcription>
+<gloss>gold (genetive)</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>thríd</native_orthography>
+<IPA_transcription>r̥iːd</IPA_transcription>
+<gloss>through him</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>thrí</native_orthography>
+<IPA_transcription>r̥iː</IPA_transcription>
+<gloss>through</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>rí</native_orthography>
+<IPA_transcription>riː</IPA_transcription>
+<gloss>king</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>lán</native_orthography>
+<IPA_transcription>lɑːn</IPA_transcription>
+<gloss>full</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>shlánuigh</native_orthography>
+<IPA_transcription>l̥ɑːniː</IPA_transcription>
+<gloss>saved</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>ní</native_orthography>
+<IPA_transcription>niː</IPA_transcription>
+<gloss>not</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography>shníomh</native_orthography>
+<IPA_transcription>n̥iː</IPA_transcription>
+<gloss>spun thread</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>lachan</native_orthography>
+<IPA_transcription>laxan</IPA_transcription>
+<gloss>duck (genitive)</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>lachain</native_orthography>
+<IPA_transcription>laxoinʲ</IPA_transcription>
+<gloss>duck (dative)</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>é</native_orthography>
+<IPA_transcription>eː</IPA_transcription>
+<gloss>he, him</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography>ith</native_orthography>
+<IPA_transcription>i</IPA_transcription>
+<gloss>eatǃ (imperative)</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography>í</native_orthography>
+<IPA_transcription>iː</IPA_transcription>
+<gloss>her</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography>ó</native_orthography>
+<IPA_transcription>oː</IPA_transcription>
+<gloss>of, from</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography>ubh</native_orthography>
+<IPA_transcription>uː</IPA_transcription>
+<gloss>egg</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography>áth</native_orthography>
+<IPA_transcription>ɑ̃ː</IPA_transcription>
+<gloss>ford</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography>aghaidh</native_orthography>
+<IPA_transcription>aiə</IPA_transcription>
+<gloss>face</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography>cathair</native_orthography>
+<IPA_transcription>kahɨrʲ</IPA_transcription>
+<gloss>city</gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<native_orthography>ceathair</native_orthography>
+<IPA_transcription>kehɨrʲ</IPA_transcription>
+<gloss>four</gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<native_orthography>rá</native_orthography>
+<IPA_transcription>rɑː</IPA_transcription>
+<gloss>speaking</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography>rath</native_orthography>
+<IPA_transcription>rah</IPA_transcription>
+<gloss>prosperity, worth</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography>deich</native_orthography>
+<IPA_transcription>dʲe</IPA_transcription>
+<gloss>ten</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography>Dé</native_orthography>
+<IPA_transcription>dʲeː</IPA_transcription>
+<gloss>God (genitive)</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography>cioth</native_orthography>
+<IPA_transcription>kʲo</IPA_transcription>
+<gloss>shower</gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography>ceó</native_orthography>
+<IPA_transcription>kʲoː</IPA_transcription>
+<gloss>fog</gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography>láimhe</native_orthography>
+<IPA_transcription>loivə</IPA_transcription>
+<gloss>hand (genitive)</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography>raibh</native_orthography>
+<IPA_transcription>rɑː</IPA_transcription>
+<gloss>be (preterit)</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography>reamhar</native_orthography>
+<IPA_transcription>raurʲ</IPA_transcription>
+<gloss>fat</gloss>
+</item>
+</wordlist>
+
+
+
+
+

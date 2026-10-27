@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>!Xóõ</language_name>
+
+
+<headers>
+
+<orthography_header>Click Accompaniment</orthography_header>
+<IPA_header>Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>basic</native_orthography>
+<IPA_transcription>ǀɑɑ</IPA_transcription>
+<gloss>go</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>voiced</native_orthography>
+<IPA_transcription>ǀɡɑ̃ɑ̃</IPA_transcription>
+<gloss>work</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>nasalized</native_orthography>
+<IPA_transcription>ǀnɑɑ̃</IPA_transcription>
+<gloss>see</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>ejective and plosive</native_orthography>
+<IPA_transcription>ǀkʼqɑɑ</IPA_transcription>
+<gloss>hand</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>ejective only</native_orthography>
+<IPA_transcription>ǀqʼɜn</IPA_transcription>
+<gloss>small (pl)</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>glottal stop</native_orthography>
+<IPA_transcription>ǀʔɑɑ</IPA_transcription>
+<gloss>die</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>uvular aspirated</native_orthography>
+<IPA_transcription>ǀqhɑɑ</IPA_transcription>
+<gloss>to smoothe</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>preglottalized nasalized</native_orthography>
+<IPA_transcription>ʔǀnɑɑ</IPA_transcription>
+<gloss>to suit</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>prevoiced, ejective and plosive</native_orthography>
+<IPA_transcription>ɡǀkʼqɑɑ̃</IPA_transcription>
+<gloss>to chase</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>aspirated without audible velar/uvular stop</native_orthography>
+<IPA_transcription>ǀhɑɑ</IPA_transcription>
+<gloss>search for spoor</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>prevoiced with voiceless velar fricative followed by glottalized vowels</native_orthography>
+<IPA_transcription>ɡǀxˀɑ̃ː</IPA_transcription>
+<gloss>splatter water</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>voiceless velar fricative</native_orthography>
+<IPA_transcription>ǀxɑɑ̃</IPA_transcription>
+<gloss>dance</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>prevoiced and aspiration without audible velar/uvular stop</native_orthography>
+<IPA_transcription>ɡǀhɑɑ</IPA_transcription>
+<gloss>rotten/stale meat</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>prenasalized and voiced uvular stop</native_orthography>
+<IPA_transcription>nǀɢɑɑ̃</IPA_transcription>
+<gloss>be spread out</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>voiceless uvular stop</native_orthography>
+<IPA_transcription>ǀqɑɑ</IPA_transcription>
+<gloss>rub with hands</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>voiceless nasalized</native_orthography>
+<IPA_transcription>ǀn̥uˀiː</IPA_transcription>
+<gloss>be careful</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>ʘṵ̰ũ</IPA_transcription>
+<gloss>?</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>voiceless nasal</native_orthography>
+<IPA_transcription>ʘn̥ɑ̛ɑ̃ː</IPA_transcription>
+<gloss>conceal oneself</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>voiced nasal</native_orthography>
+<IPA_transcription>ǀnɑɑ̃</IPA_transcription>
+<gloss>see</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>voiceless nasal</native_orthography>
+<IPA_transcription>ǀn̥ưui</IPA_transcription>
+<gloss>be careful</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>voiced nasal</native_orthography>
+<IPA_transcription>ǃnɑɑ̃</IPA_transcription>
+<gloss>coeval</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>voiceless nasal</native_orthography>
+<IPA_transcription>ǃn̥ɑ̛ɑ̃</IPA_transcription>
+<gloss>attack</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>voiced nasal</native_orthography>
+<IPA_transcription>ǂnɑɑ</IPA_transcription>
+<gloss>look for</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>voiceless nasal</native_orthography>
+<IPA_transcription>ǂn̥ưuɑ</IPA_transcription>
+<gloss>be out of reach</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>voiced nasal</native_orthography>
+<IPA_transcription>ǁnɑɑ</IPA_transcription>
+<gloss>grewia</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>voiceless nasal</native_orthography>
+<IPA_transcription>ǁn̥ɑ̛ɑm</IPA_transcription>
+<gloss>be damp</gloss>
+</item>
+</wordlist>
+
+
+
+
+

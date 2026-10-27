@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Zulu</language_name>
+
+
+
+<headers>
+
+<alt_orthography_header>Izon Orthography</alt_orthography_header>
+<orthography_header>Orthography</orthography_header>
+<IPA_header>Narrow Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<alt_orthography>baba</alt_orthography>
+<native_orthography>baba</native_orthography>
+<IPA_transcription>ɓáːɓà</IPA_transcription>
+<gloss>to be spicy</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<alt_orthography>beba</alt_orthography>
+<native_orthography>beba</native_orthography>
+<IPA_transcription>ɓèːɓá</IPA_transcription>
+<gloss>carry child on back</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<alt_orthography>biba</alt_orthography>
+<native_orthography>biba</native_orthography>
+<IPA_transcription>ɓìːɓá</IPA_transcription>
+<gloss>to spread (a sore)</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<alt_orthography>boba</alt_orthography>
+<native_orthography>boba</native_orthography>
+<IPA_transcription>ɓòːɓá</IPA_transcription>
+<gloss>talk freely about</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<alt_orthography>buba</alt_orthography>
+<native_orthography>buba</native_orthography>
+<IPA_transcription>bʰùːbʰá</IPA_transcription>
+<gloss>to perish, die</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<alt_orthography>beka</alt_orthography>
+<native_orthography>bheka</native_orthography>
+<IPA_transcription>bʰèːgá</IPA_transcription>
+<gloss>to look</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<alt_orthography>ibubɛsi</alt_orthography>
+<native_orthography>ibhubesi</native_orthography>
+<IPA_transcription>ìbʰùɓéːsì</IPA_transcription>
+<gloss>lion</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<alt_orthography>lola</alt_orthography>
+<native_orthography>lola</native_orthography>
+<IPA_transcription>lòːlá</IPA_transcription>
+<gloss>to sharpen</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<alt_orthography>umgɔdi</alt_orthography>
+<native_orthography>umgodi</native_orthography>
+<IPA_transcription>úm͡gòdì</IPA_transcription>
+<gloss>hole</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<alt_orthography>jola</alt_orthography>
+<native_orthography>yola</native_orthography>
+<IPA_transcription>jòːlá</IPA_transcription>
+<gloss>to taste pleasant</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<alt_orthography>wola</alt_orthography>
+<native_orthography>wola</native_orthography>
+<IPA_transcription>wòːlá</IPA_transcription>
+<gloss>to collect</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<alt_orthography>pasa</alt_orthography>
+<native_orthography>pasa</native_orthography>
+<IPA_transcription>páːsà</IPA_transcription>
+<gloss>to support</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<alt_orthography>basa</alt_orthography>
+<native_orthography>basa</native_orthography>
+<IPA_transcription>ɓàːsá</IPA_transcription>
+<gloss>to kindle</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<alt_orthography>tonsa</alt_orthography>
+<native_orthography>tonsa</native_orthography>
+<IPA_transcription>tònsá</IPA_transcription>
+<gloss>to drop</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<alt_orthography>donsa</alt_orthography>
+<native_orthography>donsa</native_orthography>
+<IPA_transcription>dònsá</IPA_transcription>
+<gloss>to attract, to pull</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<alt_orthography>kola</alt_orthography>
+<native_orthography>kola</native_orthography>
+<IPA_transcription>kʰóːlà</IPA_transcription>
+<gloss>to satisfy</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<alt_orthography>gola</alt_orthography>
+<native_orthography>gola</native_orthography>
+<IPA_transcription>góːlà</IPA_transcription>
+<gloss>to catch</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<alt_orthography>ukufa</alt_orthography>
+<native_orthography>ukufa</native_orthography>
+<IPA_transcription>úgúːfà</IPA_transcription>
+<gloss>sickness, death</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<alt_orthography>ukuva</alt_orthography>
+<native_orthography>ukuva</native_orthography>
+<IPA_transcription>úgúːvà</IPA_transcription>
+<gloss>good-nature</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<alt_orthography>sila</alt_orthography>
+<native_orthography>sila</native_orthography>
+<IPA_transcription>sìːlá</IPA_transcription>
+<gloss>to grind</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<alt_orthography>zila</alt_orthography>
+<native_orthography>zila</native_orthography>
+<IPA_transcription>zìːlá</IPA_transcription>
+<gloss>to abstain from</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<alt_orthography>tʃitʃa</alt_orthography>
+<native_orthography>tshitsha</native_orthography>
+<IPA_transcription>tʃìːtʃá</IPA_transcription>
+<gloss>to haste exceedingly</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<alt_orthography>dʒidʒa</alt_orthography>
+<native_orthography>jija</native_orthography>
+<IPA_transcription>dʒìːdʒá </IPA_transcription>
+<gloss>to speak violently</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<alt_orthography>tyaka</alt_orthography>
+<native_orthography>tyaka</native_orthography>
+<IPA_transcription>tʃyàːgá</IPA_transcription>
+<gloss>to spit</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<alt_orthography>ʃaʗa</alt_orthography>
+<native_orthography>shaqa</native_orthography>
+<IPA_transcription>ʃàːʗá</IPA_transcription>
+<gloss>to be astringent</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<alt_orthography>raya</alt_orthography>
+<native_orthography>haya</native_orthography>
+<IPA_transcription>ɦàːjá</IPA_transcription>
+<gloss>to be raspy</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<alt_orthography>haya</alt_orthography>
+<native_orthography>haya</native_orthography>
+<IPA_transcription>hàːjá</IPA_transcription>
+<gloss>to rehearse,  to imitate</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<alt_orthography>hamba</alt_orthography>
+<native_orthography>hamba</native_orthography>
+<IPA_transcription>háːm͡bà</IPA_transcription>
+<gloss>to go</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<alt_orthography>iɦaʃi</alt_orthography>
+<native_orthography>ihashi</native_orthography>
+<IPA_transcription>íɦàːʃì</IPA_transcription>
+<gloss>horse</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<alt_orthography>klekleza</alt_orthography>
+<native_orthography>klekleza</native_orthography>
+<IPA_transcription>kléklézà</IPA_transcription>
+<gloss>to tear,  to scratch</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<alt_orthography>papa</alt_orthography>
+<native_orthography>papa</native_orthography>
+<IPA_transcription>pàːpá</IPA_transcription>
+<gloss>to be anxious, to be alarmed</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<alt_orthography>papa</alt_orthography>
+<native_orthography>phapha</native_orthography>
+<IPA_transcription>pʰàːpʰà </IPA_transcription>
+<gloss>to fear, to be flighty</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<alt_orthography>tile</alt_orthography>
+<native_orthography>tile</native_orthography>
+<IPA_transcription>tìlé</IPA_transcription>
+<gloss>pitch black</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<alt_orthography>tile</alt_orthography>
+<native_orthography>thile</native_orthography>
+<IPA_transcription>tʰíːlè </IPA_transcription>
+<gloss>a certain one</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<alt_orthography>bala</alt_orthography>
+<native_orthography>bala</native_orthography>
+<IPA_transcription>ɓáːlà</IPA_transcription>
+<gloss>to count</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<alt_orthography>bala</alt_orthography>
+<native_orthography>bhala</native_orthography>
+<IPA_transcription>báːlà</IPA_transcription>
+<gloss>to write</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<alt_orthography>kaka</alt_orthography>
+<native_orthography>kaka</native_orthography>
+<IPA_transcription>káːkà</IPA_transcription>
+<gloss>to surround a hunt</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<alt_orthography>kaka</alt_orthography>
+<native_orthography>khakha</native_orthography>
+<IPA_transcription>kʰàkʰà</IPA_transcription>
+<gloss>to be bitter</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<alt_orthography>impama</alt_orthography>
+<native_orthography>impama</native_orthography>
+<IPA_transcription>ìm͡páːmà</IPA_transcription>
+<gloss>a slap</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<alt_orthography>intete</alt_orthography>
+<native_orthography>intete</native_orthography>
+<IPA_transcription>ìn͡tétʼè</IPA_transcription>
+<gloss>locust</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<alt_orthography>inkondlo</alt_orthography>
+<native_orthography>inkondlo</native_orthography>
+<IPA_transcription>ìnkʼóːndɮò</IPA_transcription>
+<gloss>a poem</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<alt_orthography>mi</alt_orthography>
+<native_orthography>mi</native_orthography>
+<IPA_transcription>mì</IPA_transcription>
+<gloss>take this</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<alt_orthography>ni</alt_orthography>
+<native_orthography>ni</native_orthography>
+<IPA_transcription>nì</IPA_transcription>
+<gloss>you</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<alt_orthography>ŋi</alt_orthography>
+<native_orthography>ngi</native_orthography>
+<IPA_transcription>ŋgì</IPA_transcription>
+<gloss>me, I</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<alt_orthography>ɲiki</alt_orthography>
+<native_orthography>nyiki</native_orthography>
+<IPA_transcription>ɲìːgì</IPA_transcription>
+<gloss>a movement</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<alt_orthography>umbaʖa</alt_orthography>
+<native_orthography>umbaxa</native_orthography>
+<IPA_transcription>úmɓàːʖá</IPA_transcription>
+<gloss>double-snuff spoon</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<alt_orthography>umpaʖa</alt_orthography>
+<native_orthography>umpaxa</native_orthography>
+<IPA_transcription>úmpàːʖá</IPA_transcription>
+<gloss>double-barreled gun</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<alt_orthography>ukutinda</alt_orthography>
+<native_orthography>ukuthinda</native_orthography>
+<IPA_transcription>ùgùtʰìːn͡dà</IPA_transcription>
+<gloss>to begin to speak</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<alt_orthography>ukutinta</alt_orthography>
+<native_orthography>ukuthinta</native_orthography>
+<IPA_transcription>ùgùtʰìːn͡tá</IPA_transcription>
+<gloss>to fly freely, openly</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<alt_orthography>ukutinzo</alt_orthography>
+<native_orthography>ukuthinse</native_orthography>
+<IPA_transcription>ùgùtʰìːn͡sé</IPA_transcription>
+<gloss>to set straight</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<alt_orthography>iŋkani</alt_orthography>
+<native_orthography>inkani</native_orthography>
+<IPA_transcription>ìŋgáːnì</IPA_transcription>
+<gloss>stubborness</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<alt_orthography>ŋani</alt_orthography>
+<native_orthography>ngani</native_orthography>
+<IPA_transcription>ŋgáːnì</IPA_transcription>
+<gloss>why?</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<alt_orthography>asim̩bonaŋga</alt_orthography>
+<native_orthography>asimbonanga</native_orthography>
+<IPA_transcription>ásímbónáːŋgà</IPA_transcription>
+<gloss>we didn’t see him</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<alt_orthography>ʇaka</alt_orthography>
+<native_orthography>caka</native_orthography>
+<IPA_transcription>ʇáːgà</IPA_transcription>
+<gloss>to whitewash</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<alt_orthography>ʗaʗa</alt_orthography>
+<native_orthography>qaqa</native_orthography>
+<IPA_transcription>ʗàːʗá</IPA_transcription>
+<gloss>to undo a seam</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<alt_orthography>ʖaka</alt_orthography>
+<native_orthography>xhaka</native_orthography>
+<IPA_transcription>ʖʰáːgà</IPA_transcription>
+<gloss>to link horses</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<alt_orthography>gʇoba</alt_orthography>
+<native_orthography>gcoba</native_orthography>
+<IPA_transcription>g͡ʇòːɓá</IPA_transcription>
+<gloss>to grease</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<alt_orthography>gʗoba</alt_orthography>
+<native_orthography>gqoba</native_orthography>
+<IPA_transcription>g͡ʗòːɓá</IPA_transcription>
+<gloss>to milk</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<alt_orthography>gʖoba</alt_orthography>
+<native_orthography>gxoba</native_orthography>
+<IPA_transcription>g͡ʖòːɓá</IPA_transcription>
+<gloss>to beat, to bruise</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<alt_orthography>isinʇe</alt_orthography>
+<native_orthography>isince</native_orthography>
+<IPA_transcription>ìsìːn͡ʇé</IPA_transcription>
+<gloss>small woman’s spear</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<alt_orthography>isinʗe</alt_orthography>
+<native_orthography>isinqe</native_orthography>
+<IPA_transcription>ìsìːn͡ʗé</IPA_transcription>
+<gloss>rump</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<alt_orthography>isinʖele</alt_orthography>
+<native_orthography>isinxele</native_orthography>
+<IPA_transcription>ìsìn͡ʖéːlè</IPA_transcription>
+<gloss>left-hand</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<alt_orthography>hamba</alt_orthography>
+<native_orthography>hamba</native_orthography>
+<IPA_transcription>háːm͡bà</IPA_transcription>
+<gloss>go</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<alt_orthography>hamba ke</alt_orthography>
+<native_orthography>hamba ke</native_orthography>
+<IPA_transcription>kám͡bàː gè</IPA_transcription>
+<gloss>go then</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<alt_orthography>utanda</alt_orthography>
+<native_orthography>uthanda</native_orthography>
+<IPA_transcription>ùtʰáːndà</IPA_transcription>
+<gloss>you like</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<alt_orthography>utanda ni</alt_orthography>
+<native_orthography>uthanda ni</native_orthography>
+<IPA_transcription>ùtʰándàː nì</IPA_transcription>
+<gloss>what do you like?</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<alt_orthography>gaŋga</alt_orthography>
+<native_orthography>ganga</native_orthography>
+<IPA_transcription>gàːŋgà</IPA_transcription>
+<gloss>to be naughty</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<alt_orthography>ingaŋga</alt_orthography>
+<native_orthography>inganga</native_orthography>
+<IPA_transcription>íːgàːŋgà</IPA_transcription>
+<gloss>a ridge</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<alt_orthography>itaŋga</alt_orthography>
+<native_orthography>ithanga</native_orthography>
+<IPA_transcription>ítʰàːŋgá</IPA_transcription>
+<gloss>thigh</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<alt_orthography>itaŋga</alt_orthography>
+<native_orthography>ithanga</native_orthography>
+<IPA_transcription>ítʰáːŋgà</IPA_transcription>
+<gloss>tank</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<alt_orthography>na amandɬa</alt_orthography>
+<native_orthography>na amandhla</native_orthography>
+<IPA_transcription>nàː àmáːnɮà</IPA_transcription>
+<gloss>with power</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<alt_orthography>namandɬa</alt_orthography>
+<native_orthography>namandhla</native_orthography>
+<IPA_transcription>nàmáːnɬà</IPA_transcription>
+<gloss>with power</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<alt_orthography>ku umunto</alt_orthography>
+<native_orthography>ku umunto</native_orthography>
+<IPA_transcription>gú ùmúːnt̪ù</IPA_transcription>
+<gloss>to the man</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<alt_orthography>kumunto</alt_orthography>
+<native_orthography>kumunto</native_orthography>
+<IPA_transcription>gùmúːnt̪ù</IPA_transcription>
+<gloss>to the man</gloss>
+</item>
+</wordlist>
+
+
+
+
+
+

@@ -1,0 +1,2902 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+<language_name>Yeyi</language_name>
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language:</lang_name_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<speakers_header>Speakers</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>Tiff Image</image_tif_header>
+<image_tif2_header>Tiff Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality </tif_quality_header>
+<jpg_quality_header>JPG Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Mphimolang Gabatlwaelwe, female, age 30</speakers>
+<filename_audio>yey_word-list_1998_01</filename_audio>
+<filename_wav>yey_word-list_1998_01.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_01.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_01.html</wordlist>
+<wordlist_entries>1-29</wordlist_entries>
+<image_tif>yey_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Mphimolang Gabatlwaelwe, female, age 30</speakers>
+<filename_audio>yey_word-list_1998_02</filename_audio>
+<filename_wav>yey_word-list_1998_02.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_02.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_01.html</wordlist>
+<wordlist_entries>30-58</wordlist_entries>
+<image_tif>yey_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#2</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_01.html#30</link_within_wordlist>
+</item>
+
+<item>
+<entry>3</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Mphimolang Gabatlwaelwe, female, age 30</speakers>
+<filename_audio>yey_word-list_1998_03</filename_audio>
+<filename_wav>yey_word-list_1998_03.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_03.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_01.html</wordlist>
+<wordlist_entries>59-89</wordlist_entries>
+<image_tif>yey_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#3</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_01.html#59</link_within_wordlist>
+</item>
+
+<item>
+<entry>4</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Mphimolang Gabatlwaelwe, female, age 30</speakers>
+<filename_audio>yey_word-list_1998_04</filename_audio>
+<filename_wav>yey_word-list_1998_04.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_04.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_01.html</wordlist>
+<wordlist_entries>90-120</wordlist_entries>
+<image_tif>yey_word-list_1998_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#4</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_01.html#90</link_within_wordlist>
+</item>
+
+<item>
+<entry>5</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Mphimolang Gabatlwaelwe, female, age 30</speakers>
+<filename_audio>yey_word-list_1998_05</filename_audio>
+<filename_wav>yey_word-list_1998_05.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_05.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_01.html</wordlist>
+<wordlist_entries>121-134</wordlist_entries>
+<image_tif>yey_word-list_1998_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#5</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_01.html#121</link_within_wordlist>
+</item>
+
+<item>
+<entry>6</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Mphimolang Gabatlwaelwe, female, age 30</speakers>
+<filename_audio>yey_word-list_1998_06</filename_audio>
+<filename_wav>yey_word-list_1998_06.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_06.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_02.html</wordlist>
+<wordlist_entries>1-32</wordlist_entries>
+<image_tif>yey_word-list_1998_07.tif</image_tif>
+<image_tif2>yey_word-list_1998_08.tif</image_tif2>
+<image_jpg>yey_word-list_1998_07.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#6</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_02.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>7</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Mphimolang Gabatlwaelwe, female, age 30</speakers>
+<filename_audio>yey_word-list_1998_07</filename_audio>
+<filename_wav>yey_word-list_1998_07.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_07.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_03.html</wordlist>
+<wordlist_entries>1-4</wordlist_entries>
+<image_tif>yey_word-list_1998_09.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_09.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#7</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_03.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_03.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>8</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kebatho Ditirwa, female, age 32</speakers>
+<filename_audio>yey_word-list_1998_08</filename_audio>
+<filename_wav>yey_word-list_1998_08.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_08.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_04.html</wordlist>
+<wordlist_entries>1-27</wordlist_entries>
+<image_tif>yey_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#8</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_04.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_04.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>9</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kebatho Ditirwa, female, age 32</speakers>
+<filename_audio>yey_word-list_1998_09</filename_audio>
+<filename_wav>yey_word-list_1998_09.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_09.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_04.html</wordlist>
+<wordlist_entries>28-56</wordlist_entries>
+<image_tif>yey_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#9</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_04.html#28</link_within_wordlist>
+</item>
+
+<item>
+<entry>10</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kebatho Ditirwa, female, age 32</speakers>
+<filename_audio>yey_word-list_1998_10</filename_audio>
+<filename_wav>yey_word-list_1998_10.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_10.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_04.html</wordlist>
+<wordlist_entries>57-84</wordlist_entries>
+<image_tif>yey_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#10</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_04.html#57</link_within_wordlist>
+</item>
+
+<item>
+<entry>11</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kebatho Ditirwa, female, age 32</speakers>
+<filename_audio>yey_word-list_1998_11</filename_audio>
+<filename_wav>yey_word-list_1998_11.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_11.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_04.html</wordlist>
+<wordlist_entries>85-114</wordlist_entries>
+<image_tif>yey_word-list_1998_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#11</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_04.html#85</link_within_wordlist>
+</item>
+
+<item>
+<entry>12</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kebatho Ditirwa, female, age 32</speakers>
+<filename_audio>yey_word-list_1998_12</filename_audio>
+<filename_wav>yey_word-list_1998_12.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_12.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_04.html</wordlist>
+<wordlist_entries>115-128</wordlist_entries>
+<image_tif>yey_word-list_1998_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#12</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_04.html#115</link_within_wordlist>
+</item>
+
+<item>
+<entry>13</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Galesiwe Kebihilwe, male, 51</speakers>
+<filename_audio>yey_word-list_1998_13</filename_audio>
+<filename_wav>yey_word-list_1998_13.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_13.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_05.html</wordlist>
+<wordlist_entries>1-28</wordlist_entries>
+<image_tif>yey_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#13</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_05.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_05.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>14</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Galesiwe Kebihilwe, male,age  51</speakers>
+<filename_audio>yey_word-list_1998_14</filename_audio>
+<filename_wav>yey_word-list_1998_14.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_14.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate = 705.6 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_05.html</wordlist>
+<wordlist_entries>29-57</wordlist_entries>
+<image_tif>yey_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#14</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_05.html#29</link_within_wordlist>
+</item>
+
+<item>
+<entry>15</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Galesiwe Kebihilwe, male, age 51</speakers>
+<filename_audio>yey_word-list_1998_15</filename_audio>
+<filename_wav>yey_word-list_1998_15.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_15.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_05.html</wordlist>
+<wordlist_entries>58-88</wordlist_entries>
+<image_tif>yey_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#15</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_05.html#58</link_within_wordlist>
+</item>
+
+<item>
+<entry>16</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Galesiwe Kebihilwe, male, age 51</speakers>
+<filename_audio>yey_word-list_1998_16</filename_audio>
+<filename_wav>yey_word-list_1998_16.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_16.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_05.html</wordlist>
+<wordlist_entries>89-117</wordlist_entries>
+<image_tif>yey_word-list_1998_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#16</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_05.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>17</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Galesiwe Kebihilwe, male, age 51</speakers>
+<filename_audio>yey_word-list_1998_17</filename_audio>
+<filename_wav>yey_word-list_1998_17.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_17.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_05.html</wordlist>
+<wordlist_entries>118-130</wordlist_entries>
+<image_tif>yey_word-list_1998_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#17</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_05.html#118</link_within_wordlist>
+</item>
+
+<item>
+<entry>18</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4/5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Keitumetse Kebihilwe, female, age 44 </speakers>
+<filename_audio>yey_word-list_1998_18</filename_audio>
+<filename_wav>yey_word-list_1998_18.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_18.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_06.html</wordlist>
+<wordlist_entries>1-28</wordlist_entries>
+<image_tif>yey_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#18</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_06.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_06.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>19</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4/5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Keitumetse Kebihilwe, female, age 44 </speakers>
+<filename_audio>yey_word-list_1998_19</filename_audio>
+<filename_wav>yey_word-list_1998_19.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_19.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_06.html</wordlist>
+<wordlist_entries>29-57</wordlist_entries>
+<image_tif>yey_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#19</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_06.html#29</link_within_wordlist>
+</item>
+
+<item>
+<entry>20</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4/5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Keitumetse Kebihilwe, female, age 44 </speakers>
+<filename_audio>yey_word-list_1998_20</filename_audio>
+<filename_wav>yey_word-list_1998_20.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_20.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_06.html</wordlist>
+<wordlist_entries>58-86</wordlist_entries>
+<image_tif>yey_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#20</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_06.html#58</link_within_wordlist>
+</item>
+
+<item>
+<entry>21</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4/5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Keitumetse Kebihilwe, female, age 44 </speakers>
+<filename_audio>yey_word-list_1998_21</filename_audio>
+<filename_wav>yey_word-list_1998_21.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_21.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_06.html</wordlist>
+<wordlist_entries>87-117</wordlist_entries>
+<image_tif>yey_word-list_1998_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#21</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_06.html#87</link_within_wordlist>
+</item>
+
+<item>
+<entry>22</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4/5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Keitumetse Kebihilwe, female, age 44 </speakers>
+<filename_audio>yey_word-list_1998_22</filename_audio>
+<filename_wav>yey_word-list_1998_22.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_22.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_06.html</wordlist>
+<wordlist_entries>118-130</wordlist_entries>
+<image_tif>yey_word-list_1998_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#22</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_06.html#118</link_within_wordlist>
+</item>
+
+<item>
+<entry>23</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4/5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Galesiwe Kebihilwe, male, age 51</speakers>
+<filename_audio>yey_word-list_1998_23</filename_audio>
+<filename_wav>yey_word-list_1998_23.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_23.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_07.html</wordlist>
+<wordlist_entries>1-19</wordlist_entries>
+<image_tif>yey_word-list_1998_07.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_07.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#23</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_07.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_07.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>24</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4/5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Galesiew Kebihilwe, male age 51</speakers>
+<filename_audio>yey_word-list_1998_24</filename_audio>
+<filename_wav>yey_word-list_1998_24.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_24.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_07.html</wordlist>
+<wordlist_entries>20-37</wordlist_entries>
+<image_tif>yey_word-list_1998_08.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_08.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#24</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_07.html#20</link_within_wordlist>
+</item>
+
+<item>
+<entry>25</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4/5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Galesiwe Kebihilwe, male, age 51</speakers>
+<filename_audio>yey_word-list_1998_25</filename_audio>
+<filename_wav>yey_word-list_1998_25.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_25.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_08.html</wordlist>
+<wordlist_entries>1-17</wordlist_entries>
+<image_tif>yey_word-list_1998_11.tif</image_tif>
+<image_tif2>yey_word-list_1998_12.tif</image_tif2>
+<image_jpg>yey_word-list_1998_11.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#25</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_08.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_08.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>26</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>4/5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Galesiwe Kebihilwe, male, age 51</speakers>
+<filename_audio>yey_word-list_1998_26</filename_audio>
+<filename_wav>yey_word-list_1998_26.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_26.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_09.html</wordlist>
+<wordlist_entries>1-10</wordlist_entries>
+<image_tif>yey_word-list_1998_13.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_13.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#26</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_09.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_09.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>27</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kebatho Ditirwa, female, age 32</speakers>
+<filename_audio>yey_word-list_1998_27</filename_audio>
+<filename_wav>yey_word-list_1998_27.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_27.mp3</filename_mp3>
+<wav_quality>32 K, 16-bit sound depth (bit rate =512 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_10.html</wordlist>
+<wordlist_entries>1-44</wordlist_entries>
+<image_tif>yey_word-list_1998_07.tif</image_tif>
+<image_tif2>yey_word-list_1998_08.tif</image_tif2>
+<image_jpg>yey_word-list_1998_07.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#27</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_10.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_10.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>28</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kebatho Ditirwa, female, age 32</speakers>
+<filename_audio>yey_word-list_1998_28</filename_audio>
+<filename_wav>yey_word-list_1998_28.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_28.mp3</filename_mp3>
+<wav_quality>32 K, 16-bit sound depth (bit rate =512 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_11.html</wordlist>
+<wordlist_entries>1-17</wordlist_entries>
+<image_tif>yey_word-list_1998_11.tif</image_tif>
+<image_tif2>yey_word-list_1998_12.tif</image_tif2>
+<image_jpg>yey_word-list_1998_11.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#28</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_11.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_11.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>29</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kebatho Ditirwa, female, age 32</speakers>
+<filename_audio>yey_word-list_1998_29</filename_audio>
+<filename_wav>yey_word-list_1998_29.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_29.mp3</filename_mp3>
+<wav_quality>32 K, 16-bit sound depth (bit rate =512 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_12.html</wordlist>
+<wordlist_entries>1-14</wordlist_entries>
+<image_tif>yey_word-list_1998_06.tif</image_tif>
+<image_tif2>yey_word-list_1998_13.tif</image_tif2>
+<image_jpg>yey_word-list_1998_06.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#29</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_12.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_12.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>30</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Keitumetse Kebihilwe, female, age 44 </speakers>
+<filename_audio>yey_word-list_1998_30</filename_audio>
+<filename_wav>yey_word-list_1998_30.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_30.mp3</filename_mp3>
+<wav_quality>32 K, 16-bit sound depth (bit rate =512 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_13.html</wordlist>
+<wordlist_entries>1-47</wordlist_entries>
+<image_tif>yey_word-list_1998_07.tif</image_tif>
+<image_tif2>yey_word-list_1998_08.tif</image_tif2>
+<image_jpg>yey_word-list_1998_07.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#30</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_13.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_13.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>31</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Keitumetse Kebihilwe, female, age 44 </speakers>
+<filename_audio>yey_word-list_1998_31</filename_audio>
+<filename_wav>yey_word-list_1998_31.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_31.mp3</filename_mp3>
+<wav_quality>32 K, 16-bit sound depth (bit rate =512 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_14.html</wordlist>
+<wordlist_entries>1-14</wordlist_entries>
+<image_tif>yey_word-list_1998_11.tif</image_tif>
+<image_tif2>yey_word-list_1998_12.tif</image_tif2>
+<image_jpg>yey_word-list_1998_11.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#31</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_14.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_14.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>32</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location>Shorobe</recording_location>
+<recording_date>5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Keitumetse Kebihilwe, female, age 44 </speakers>
+<filename_audio>yey_word-list_1998_32</filename_audio>
+<filename_wav>yey_word-list_1998_32.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_32.mp3</filename_mp3>
+<wav_quality>32 K, 16-bit sound depth (bit rate =512 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_15.html</wordlist>
+<wordlist_entries>1-15</wordlist_entries>
+<image_tif>yey_word-list_1998_06.tif</image_tif>
+<image_tif2>yey_word-list_1998_13.tif</image_tif2>
+<image_jpg>yey_word-list_1998_06.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_13.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#32</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_15.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_15.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>33</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>as said on tape, female</speakers>
+<filename_audio>yey_word-list_1998_33</filename_audio>
+<filename_wav>yey_word-list_1998_33.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_33.mp3</filename_mp3>
+<wav_quality>32 K, 16-bit sound depth (bit rate =512 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_16.html</wordlist>
+<wordlist_entries>1-16</wordlist_entries>
+<image_tif>yey_word-list_1998_11.tif</image_tif>
+<image_tif2>yey_word-list_1998_12.tif</image_tif2>
+<image_jpg>yey_word-list_1998_11.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#33</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_16.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_16.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>34</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kgosibatho Mischief Dipuo, male, age 25</speakers>
+<filename_audio>yey_word-list_1998_34</filename_audio>
+<filename_wav>yey_word-list_1998_34.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_34.mp3</filename_mp3>
+<wav_quality>32 K, 16-bit sound depth (bit rate =512 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_17.html</wordlist>
+<wordlist_entries>1-29</wordlist_entries>
+<image_tif>yey_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#34</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_17.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_17.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>35</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kgosibatho Mischief Dipuo, male, age 25</speakers>
+<filename_audio>yey_word-list_1998_35</filename_audio>
+<filename_wav>yey_word-list_1998_35.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_35.mp3</filename_mp3>
+<wav_quality>32 K, 16-bit sound depth (bit rate =512 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_17.html</wordlist>
+<wordlist_entries>30-58</wordlist_entries>
+<image_tif>yey_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#35</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_17.html#30</link_within_wordlist>
+</item>
+
+<item>
+<entry>36</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kgosibatho Mischief Dipuo, male, age 25</speakers>
+<filename_audio>yey_word-list_1998_36</filename_audio>
+<filename_wav>yey_word-list_1998_36.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_36.mp3</filename_mp3>
+<wav_quality>32 K, 16-bit sound depth (bit rate =512 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_17.html</wordlist>
+<wordlist_entries>59-89</wordlist_entries>
+<image_tif>yey_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#36</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_17.html#59</link_within_wordlist>
+</item>
+
+<item>
+<entry>37</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kgosibatho Mischief Dipuo, male, age 25</speakers>
+<filename_audio>yey_word-list_1998_37</filename_audio>
+<filename_wav>yey_word-list_1998_37.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_37.mp3</filename_mp3>
+<wav_quality>32 K, 16-bit sound depth (bit rate =512 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_17.html</wordlist>
+<wordlist_entries>90-120</wordlist_entries>
+<image_tif>yey_word-list_1998_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#37</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_17.html#90</link_within_wordlist>
+</item>
+
+<item>
+<entry>38</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kgosibatho Mischief Dipuo, male, age 25</speakers>
+<filename_audio>yey_word-list_1998_38</filename_audio>
+<filename_wav>yey_word-list_1998_38.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_38.mp3</filename_mp3>
+<wav_quality>32 K, 16-bit sound depth (bit rate =512 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_17.html</wordlist>
+<wordlist_entries>121-151</wordlist_entries>
+<image_tif>yey_word-list_1998_05.tif</image_tif>
+<image_tif2>yey_word-list_1998_14.tif</image_tif2>
+<image_jpg>yey_word-list_1998_05.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_14.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#38</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_17.html#121</link_within_wordlist>
+</item>
+
+<item>
+<entry>39</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kgosibatho Mischief Dipuo, male, age 25</speakers>
+<filename_audio>yey_word-list_1998_39</filename_audio>
+<filename_wav>yey_word-list_1998_39.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_39.mp3</filename_mp3>
+<wav_quality>32 K, 16-bit sound depth (bit rate =512 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_18.html</wordlist>
+<wordlist_entries>1-39</wordlist_entries>
+<image_tif>yey_word-list_1998_07.tif</image_tif>
+<image_tif2>yey_word-list_1998_08.tif</image_tif2>
+<image_jpg>yey_word-list_1998_07.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#39</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_18.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_18.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>40</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>5 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kgosibatho Mischief Dipuo, male, age 25</speakers>
+<filename_audio>yey_word-list_1998_40</filename_audio>
+<filename_wav>yey_word-list_1998_40.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_40.mp3</filename_mp3>
+<wav_quality>32 K, 16-bit sound depth (bit rate =512 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_19.html</wordlist>
+<wordlist_entries>1-14</wordlist_entries>
+<image_tif>yey_word-list_1998_11.tif</image_tif>
+<image_tif2>yey_word-list_1998_12.tif</image_tif2>
+<image_jpg>yey_word-list_1998_11.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#40</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_19.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_19.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>41</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kobamelo Simalomba, male, age 52</speakers>
+<filename_audio>yey_word-list_1998_41</filename_audio>
+<filename_wav>yey_word-list_1998_41.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_41.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_20.html</wordlist>
+<wordlist_entries>1-27</wordlist_entries>
+<image_tif>yey_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#41</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_20.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_20.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>42</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kobamelo Simalomba, male, age 52</speakers>
+<filename_audio>yey_word-list_1998_42</filename_audio>
+<filename_wav>yey_word-list_1998_42.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_42.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_20.html</wordlist>
+<wordlist_entries>28-56</wordlist_entries>
+<image_tif>yey_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#42</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_20.html#28</link_within_wordlist>
+</item>
+
+<item>
+<entry>43</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kobamelo Simalomba, male, age 52</speakers>
+<filename_audio>yey_word-list_1998_43</filename_audio>
+<filename_wav>yey_word-list_1998_43.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_43.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_20.html</wordlist>
+<wordlist_entries>57-87</wordlist_entries>
+<image_tif>yey_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#43</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_20.html#57</link_within_wordlist>
+</item>
+
+<item>
+<entry>44</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kobamelo Simalomba, male, age 52</speakers>
+<filename_audio>yey_word-list_1998_44</filename_audio>
+<filename_wav>yey_word-list_1998_44.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_44.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_20.html</wordlist>
+<wordlist_entries>88-118</wordlist_entries>
+<image_tif>yey_word-list_1998_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#44</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_20.html#88</link_within_wordlist>
+</item>
+
+<item>
+<entry>45</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kobamelo Simalomba, male, age 52</speakers>
+<filename_audio>yey_word-list_1998_45</filename_audio>
+<filename_wav>yey_word-list_1998_45.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_45.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_20.html</wordlist>
+<wordlist_entries>119-131</wordlist_entries>
+<image_tif>yey_word-list_1998_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#45</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_20.html#119</link_within_wordlist>
+</item>
+
+<item>
+<entry>46</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kobamelo Simalomba, male, age 52</speakers>
+<filename_audio>yey_word-list_1998_46</filename_audio>
+<filename_wav>yey_word-list_1998_46.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_46.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_20.html</wordlist>
+<wordlist_entries>132-139</wordlist_entries>
+<image_tif>yey_word-list_1998_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#46</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_20.html#132</link_within_wordlist>
+</item>
+
+<item>
+<entry>47</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Thekiso Bayei, female, age 26</speakers>
+<filename_audio>yey_word-list_1998_47</filename_audio>
+<filename_wav>yey_word-list_1998_47.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_47.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_21.html</wordlist>
+<wordlist_entries>1-28</wordlist_entries>
+<image_tif>yey_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#47</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_21.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_21.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>48</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Thekiso Bayei, female, age 26</speakers>
+<filename_audio>yey_word-list_1998_48</filename_audio>
+<filename_wav>yey_word-list_1998_48.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_48.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_21.html</wordlist>
+<wordlist_entries>29-57</wordlist_entries>
+<image_tif>yey_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#48</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_21.html#29</link_within_wordlist>
+</item>
+
+<item>
+<entry>49</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Thekiso Bayei, female, age 26</speakers>
+<filename_audio>yey_word-list_1998_49</filename_audio>
+<filename_wav>yey_word-list_1998_49.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_49.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_21.html</wordlist>
+<wordlist_entries>58-88</wordlist_entries>
+<image_tif>yey_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#49</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_21.html#58</link_within_wordlist>
+</item>
+
+<item>
+<entry>50</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Thekiso Bayei, female, age 26</speakers>
+<filename_audio>yey_word-list_1998_50</filename_audio>
+<filename_wav>yey_word-list_1998_50.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_50.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_21.html</wordlist>
+<wordlist_entries>89-118</wordlist_entries>
+<image_tif>yey_word-list_1998_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#50</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_21.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>51</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Thekiso Bayei, female, age 26</speakers>
+<filename_audio>yey_word-list_1998_51</filename_audio>
+<filename_wav>yey_word-list_1998_51.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_51.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_21.html</wordlist>
+<wordlist_entries>119-131</wordlist_entries>
+<image_tif>yey_word-list_1998_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#51</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_21.html#119</link_within_wordlist>
+</item>
+
+<item>
+<entry>52</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Thekiso Bayei, female, age 26</speakers>
+<filename_audio>yey_word-list_1998_52</filename_audio>
+<filename_wav>yey_word-list_1998_52.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_52.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_21.html</wordlist>
+<wordlist_entries>132-139</wordlist_entries>
+<image_tif>yey_word-list_1998_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#52</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_21.html#132</link_within_wordlist>
+</item>
+
+<item>
+<entry>53</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>female</speakers>
+<filename_audio>yey_word-list_1998_53</filename_audio>
+<filename_wav>yey_word-list_1998_53.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_53.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_22.html</wordlist>
+<wordlist_entries>1-28</wordlist_entries>
+<image_tif>yey_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#53</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_22.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_22.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>54</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>female</speakers>
+<filename_audio>yey_word-list_1998_54</filename_audio>
+<filename_wav>yey_word-list_1998_54.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_54.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_22.html</wordlist>
+<wordlist_entries>29-57</wordlist_entries>
+<image_tif>yey_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#54</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_22.html#29</link_within_wordlist>
+</item>
+
+<item>
+<entry>55</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>female</speakers>
+<filename_audio>yey_word-list_1998_55</filename_audio>
+<filename_wav>yey_word-list_1998_55.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_55.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_22.html</wordlist>
+<wordlist_entries>58-87</wordlist_entries>
+<image_tif>yey_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#55</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_22.html#58</link_within_wordlist>
+</item>
+
+<item>
+<entry>56</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>female</speakers>
+<filename_audio>yey_word-list_1998_56</filename_audio>
+<filename_wav>yey_word-list_1998_56.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_56.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_22.html</wordlist>
+<wordlist_entries>88-116</wordlist_entries>
+<image_tif>yey_word-list_1998_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#56</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_22.html#88</link_within_wordlist>
+</item>
+
+<item>
+<entry>57</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>female</speakers>
+<filename_audio>yey_word-list_1998_57</filename_audio>
+<filename_wav>yey_word-list_1998_57.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_57.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_22.html</wordlist>
+<wordlist_entries>117-137</wordlist_entries>
+<image_tif>yey_word-list_1998_05.tif</image_tif>
+<image_tif2>yey_word-list_1998_06.tif</image_tif2>
+<image_jpg>yey_word-list_1998_05.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_06.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#57</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_22.html#117</link_within_wordlist>
+</item>
+
+<item>
+<entry>58</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Sarepito Baphare, male, age 65</speakers>
+<filename_audio>yey_word-list_1998_58</filename_audio>
+<filename_wav>yey_word-list_1998_58.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_58.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_23.html</wordlist>
+<wordlist_entries>1-28</wordlist_entries>
+<image_tif>yey_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#58</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_23.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_23.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>59</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Sarepito Baphare, male, age 65</speakers>
+<filename_audio>yey_word-list_1998_59</filename_audio>
+<filename_wav>yey_word-list_1998_59.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_59.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_23.html</wordlist>
+<wordlist_entries>29-57</wordlist_entries>
+<image_tif>yey_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#59</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_23.html#29</link_within_wordlist>
+</item>
+
+<item>
+<entry>60</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Sarepito Baphare, male, age 65</speakers>
+<filename_audio>yey_word-list_1998_60</filename_audio>
+<filename_wav>yey_word-list_1998_60.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_60.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_23.html</wordlist>
+<wordlist_entries>58-88</wordlist_entries>
+<image_tif>yey_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#60</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_23.html#58</link_within_wordlist>
+</item>
+
+<item>
+<entry>61</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Sarepito Baphare, male, age 65</speakers>
+<filename_audio>yey_word-list_1998_61</filename_audio>
+<filename_wav>yey_word-list_1998_61.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_61.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_23.html</wordlist>
+<wordlist_entries>89-117</wordlist_entries>
+<image_tif>yey_word-list_1998_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#61</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_23.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>62</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Sarepito Baphare, male, age 65</speakers>
+<filename_audio>yey_word-list_1998_62</filename_audio>
+<filename_wav>yey_word-list_1998_62.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_62.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_23.html</wordlist>
+<wordlist_entries>118-138</wordlist_entries>
+<image_tif>yey_word-list_1998_05.tif</image_tif>
+<image_tif2>yey_word-list_1998_06.tif</image_tif2>
+<image_jpg>yey_word-list_1998_05.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_06.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#62</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_23.html#118</link_within_wordlist>
+</item>
+
+<item>
+<entry>63</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kobamelo Simalomba, male, age 52</speakers>
+<filename_audio>yey_word-list_1998_63</filename_audio>
+<filename_wav>yey_word-list_1998_63.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_63.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_24.html</wordlist>
+<wordlist_entries>1-41</wordlist_entries>
+<image_tif>yey_word-list_1998_07.tif</image_tif>
+<image_tif2>yey_word-list_1998_08.tif</image_tif2>
+<image_jpg>yey_word-list_1998_07.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#63</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_24.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_24.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>64</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Kobamelo Simalomba, male, age 52</speakers>
+<filename_audio>yey_word-list_1998_64</filename_audio>
+<filename_wav>yey_word-list_1998_64.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_64.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_25.html</wordlist>
+<wordlist_entries>1-17</wordlist_entries>
+<image_tif>yey_word-list_1998_11.tif</image_tif>
+<image_tif2>yey_word-list_1998_12.tif</image_tif2>
+<image_jpg>yey_word-list_1998_11.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#64</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_25.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_25.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>65</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Thekiso Bayei, female, age 26</speakers>
+<filename_audio>yey_word-list_1998_65</filename_audio>
+<filename_wav>yey_word-list_1998_65.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_65.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_26.html</wordlist>
+<wordlist_entries>1-40</wordlist_entries>
+<image_tif>yey_word-list_1998_07.tif</image_tif>
+<image_tif2>yey_word-list_1998_08.tif</image_tif2>
+<image_jpg>yey_word-list_1998_07.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#65</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_26.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_26.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>66</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Thekiso Bayei, female, age 26</speakers>
+<filename_audio>yey_word-list_1998_66</filename_audio>
+<filename_wav>yey_word-list_1998_66.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_66.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_27.html</wordlist>
+<wordlist_entries>1-17</wordlist_entries>
+<image_tif>yey_word-list_1998_11.tif</image_tif>
+<image_tif2>yey_word-list_1998_12.tif</image_tif2>
+<image_jpg>yey_word-list_1998_11.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#66</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_27.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_27.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>67</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Botowong Simalomba?, female, age 41</speakers>
+<filename_audio>yey_word-list_1998_67</filename_audio>
+<filename_wav>yey_word-list_1998_67.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_67.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_28.html</wordlist>
+<wordlist_entries>1-41</wordlist_entries>
+<image_tif>yey_word-list_1998_07.tif</image_tif>
+<image_tif2>yey_word-list_1998_08.tif</image_tif2>
+<image_jpg>yey_word-list_1998_07.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#67</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_28.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_28.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>68</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Botowong Simalomba?, female, age 41</speakers>
+<filename_audio>yey_word-list_1998_68</filename_audio>
+<filename_wav>yey_word-list_1998_68.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_68.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_29.html</wordlist>
+<wordlist_entries>1-18</wordlist_entries>
+<image_tif>yey_word-list_1998_11.tif</image_tif>
+<image_tif2>yey_word-list_1998_12.tif</image_tif2>
+<image_jpg>yey_word-list_1998_11.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#68</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_29.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_29.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>69</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Sarepito Baphare, male, age 65</speakers>
+<filename_audio>yey_word-list_1998_69</filename_audio>
+<filename_wav>yey_word-list_1998_69.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_69.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_30.html</wordlist>
+<wordlist_entries>1-43</wordlist_entries>
+<image_tif>yey_word-list_1998_07.tif</image_tif>
+<image_tif2>yey_word-list_1998_08.tif</image_tif2>
+<image_jpg>yey_word-list_1998_07.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#69</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_30.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_30.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>70</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>8 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Sarepito Baphare, male, age 65</speakers>
+<filename_audio>yey_word-list_1998_70</filename_audio>
+<filename_wav>yey_word-list_1998_70.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_70.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_31.html</wordlist>
+<wordlist_entries>1-19</wordlist_entries>
+<image_tif>yey_word-list_1998_11.tif</image_tif>
+<image_tif2>yey_word-list_1998_12.tif</image_tif2>
+<image_jpg>yey_word-list_1998_11.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#70</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_31.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_31.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>71</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Nombe Matengu, female, age 60+</speakers>
+<filename_audio>yey_word-list_1998_71</filename_audio>
+<filename_wav>yey_word-list_1998_71.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_71.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_32.html</wordlist>
+<wordlist_entries>1-27</wordlist_entries>
+<image_tif>yey_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#71</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_32.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_32.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>72</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Nombe Matengu, female, age 60+</speakers>
+<filename_audio>yey_word-list_1998_72</filename_audio>
+<filename_wav>yey_word-list_1998_72.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_72.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_32.html</wordlist>
+<wordlist_entries>28-55</wordlist_entries>
+<image_tif>yey_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#72</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_32.html#28</link_within_wordlist>
+</item>
+
+<item>
+<entry>73</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Nombe Matengu, female, age 60+</speakers>
+<filename_audio>yey_word-list_1998_73</filename_audio>
+<filename_wav>yey_word-list_1998_73.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_73.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_32.html</wordlist>
+<wordlist_entries>56-81</wordlist_entries>
+<image_tif>yey_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#73</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_32.html#56</link_within_wordlist>
+</item>
+
+<item>
+<entry>74</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Nombe Matengu, female, age 60+</speakers>
+<filename_audio>yey_word-list_1998_74</filename_audio>
+<filename_wav>yey_word-list_1998_74.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_74.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_32.html</wordlist>
+<wordlist_entries>82-108</wordlist_entries>
+<image_tif>yey_word-list_1998_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#74</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_32.html#82</link_within_wordlist>
+</item>
+
+<item>
+<entry>75</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Nombe Matengu, female, age 60+</speakers>
+<filename_audio>yey_word-list_1998_75</filename_audio>
+<filename_wav>yey_word-list_1998_75.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_75.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_32.html</wordlist>
+<wordlist_entries>109-127</wordlist_entries>
+<image_tif>yey_word-list_1998_05.tif</image_tif>
+<image_tif2>yey_word-list_1998_06.tif</image_tif2>
+<image_jpg>yey_word-list_1998_05.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_06.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#75</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_32.html#109</link_within_wordlist>
+</item>
+
+<item>
+<entry>76</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Nshenje Samakata, female, age 60 +</speakers>
+<filename_audio>yey_word-list_1998_76</filename_audio>
+<filename_wav>yey_word-list_1998_76.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_76.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_33.html</wordlist>
+<wordlist_entries>1-27</wordlist_entries>
+<image_tif>yey_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#76</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_33.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_33.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>77</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Nshenje Samakata, female, age 60 +</speakers>
+<filename_audio>yey_word-list_1998_77</filename_audio>
+<filename_wav>yey_word-list_1998_77.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_77.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_33.html</wordlist>
+<wordlist_entries>28-55</wordlist_entries>
+<image_tif>yey_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#77</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_33.html#28</link_within_wordlist>
+</item>
+
+<item>
+<entry>78</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Nshenje Samakata, female, age 60 +</speakers>
+<filename_audio>yey_word-list_1998_78</filename_audio>
+<filename_wav>yey_word-list_1998_78.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_78.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_33.html</wordlist>
+<wordlist_entries>56-81</wordlist_entries>
+<image_tif>yey_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#78</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_33.html#56</link_within_wordlist>
+</item>
+
+<item>
+<entry>79</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Nshenje Samakata, female, age 60 +</speakers>
+<filename_audio>yey_word-list_1998_79</filename_audio>
+<filename_wav>yey_word-list_1998_79.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_79.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_33.html</wordlist>
+<wordlist_entries>82-109</wordlist_entries>
+<image_tif>yey_word-list_1998_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#79</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_33.html#82</link_within_wordlist>
+</item>
+
+<item>
+<entry>80</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Nshenje Samakata, female, age 60 +</speakers>
+<filename_audio>yey_word-list_1998_80</filename_audio>
+<filename_wav>yey_word-list_1998_80.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_80.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_33.html</wordlist>
+<wordlist_entries>110-128</wordlist_entries>
+<image_tif>yey_word-list_1998_05.tif</image_tif>
+<image_tif2>yey_word-list_1998_06.tif</image_tif2>
+<image_jpg>yey_word-list_1998_05.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_06.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#80</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_33.html#110</link_within_wordlist>
+</item>
+
+<item>
+<entry>81</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Domo Shindi, female, age 77</speakers>
+<filename_audio>yey_word-list_1998_81</filename_audio>
+<filename_wav>yey_word-list_1998_81.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_81.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_34.html</wordlist>
+<wordlist_entries>1-26</wordlist_entries>
+<image_tif>yey_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#81</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_34.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_34.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>82</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Domo Shindi, female, age 77</speakers>
+<filename_audio>yey_word-list_1998_82</filename_audio>
+<filename_wav>yey_word-list_1998_82.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_82.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_34.html</wordlist>
+<wordlist_entries>27-54</wordlist_entries>
+<image_tif>yey_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#82</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_34.html#27</link_within_wordlist>
+</item>
+
+<item>
+<entry>83</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Domo Shindi, female, age 77</speakers>
+<filename_audio>yey_word-list_1998_83</filename_audio>
+<filename_wav>yey_word-list_1998_83.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_83.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_34.html</wordlist>
+<wordlist_entries>55-78</wordlist_entries>
+<image_tif>yey_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#83</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_34.html#55</link_within_wordlist>
+</item>
+
+<item>
+<entry>84</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Domo Shindi, female, age 77</speakers>
+<filename_audio>yey_word-list_1998_84</filename_audio>
+<filename_wav>yey_word-list_1998_84.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_84.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_34.html</wordlist>
+<wordlist_entries>79-108</wordlist_entries>
+<image_tif>yey_word-list_1998_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#84</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_34.html#79</link_within_wordlist>
+</item>
+
+<item>
+<entry>85</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Domo Shindi, female, age 77</speakers>
+<filename_audio>yey_word-list_1998_85</filename_audio>
+<filename_wav>yey_word-list_1998_85.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_85.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_34.html</wordlist>
+<wordlist_entries>109-127</wordlist_entries>
+<image_tif>yey_word-list_1998_05.tif</image_tif>
+<image_tif2>yey_word-list_1998_06.tif</image_tif2>
+<image_jpg>yey_word-list_1998_05.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_06.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#85</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_34.html#109</link_within_wordlist>
+</item>
+
+<item>
+<entry>86</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>as said on tape, male</speakers>
+<filename_audio>yey_word-list_1998_86</filename_audio>
+<filename_wav>yey_word-list_1998_86.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_86.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_35.html</wordlist>
+<wordlist_entries>1-26</wordlist_entries>
+<image_tif>yey_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#86</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_35.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_35.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>87</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>as said on tape, male</speakers>
+<filename_audio>yey_word-list_1998_87</filename_audio>
+<filename_wav>yey_word-list_1998_87.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_87.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_35.html</wordlist>
+<wordlist_entries>27-54</wordlist_entries>
+<image_tif>yey_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#87</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_35.html#27</link_within_wordlist>
+</item>
+
+<item>
+<entry>88</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>as said on tape, male</speakers>
+<filename_audio>yey_word-list_1998_88</filename_audio>
+<filename_wav>yey_word-list_1998_88.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_88.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_35.html</wordlist>
+<wordlist_entries>55-78</wordlist_entries>
+<image_tif>yey_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#88</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_35.html#55</link_within_wordlist>
+</item>
+
+<item>
+<entry>89</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>as said on tape, male</speakers>
+<filename_audio>yey_word-list_1998_89</filename_audio>
+<filename_wav>yey_word-list_1998_89.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_89.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_35.html</wordlist>
+<wordlist_entries>79-108</wordlist_entries>
+<image_tif>yey_word-list_1998_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>yey_word-list_1998_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#89</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_35.html#79</link_within_wordlist>
+</item>
+
+<item>
+<entry>90</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>as said on tape, male</speakers>
+<filename_audio>yey_word-list_1998_90</filename_audio>
+<filename_wav>yey_word-list_1998_90.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_90.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_35.html</wordlist>
+<wordlist_entries>109-127</wordlist_entries>
+<image_tif>yey_word-list_1998_05.tif</image_tif>
+<image_tif2>yey_word-list_1998_06.tif</image_tif2>
+<image_jpg>yey_word-list_1998_05.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_06.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#90</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_35.html#109</link_within_wordlist>
+</item>
+
+<item>
+<entry>91</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Mendle Gakenaletsu Nkape, male, age 38</speakers>
+<filename_audio>yey_word-list_1998_91</filename_audio>
+<filename_wav>yey_word-list_1998_91.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_91.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_36.html</wordlist>
+<wordlist_entries>1-39</wordlist_entries>
+<image_tif>yey_word-list_1998_07.tif</image_tif>
+<image_tif2>yey_word-list_1998_08.tif</image_tif2>
+<image_jpg>yey_word-list_1998_07.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#91</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_36.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_36.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>92</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Mendle Gakenaletsu Nkape, male, age 38</speakers>
+<filename_audio>yey_word-list_1998_92</filename_audio>
+<filename_wav>yey_word-list_1998_92.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_92.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_37.html</wordlist>
+<wordlist_entries>1-15</wordlist_entries>
+<image_tif>yey_word-list_1998_11.tif</image_tif>
+<image_tif2>yey_word-list_1998_12.tif</image_tif2>
+<image_jpg>yey_word-list_1998_11.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#92</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_37.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_37.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>93</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Nshenje Samakata, female, age 60 +</speakers>
+<filename_audio>yey_word-list_1998_93</filename_audio>
+<filename_wav>yey_word-list_1998_93.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_93.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_38.html</wordlist>
+<wordlist_entries>1-38</wordlist_entries>
+<image_tif>yey_word-list_1998_07.tif</image_tif>
+<image_tif2>yey_word-list_1998_08.tif</image_tif2>
+<image_jpg>yey_word-list_1998_07.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#93</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_38.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_38.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>94</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Nshenje Samakata, female, age 60 +</speakers>
+<filename_audio>yey_word-list_1998_94</filename_audio>
+<filename_wav>yey_word-list_1998_94.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_94.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_39.html</wordlist>
+<wordlist_entries>1-15</wordlist_entries>
+<image_tif>yey_word-list_1998_11.tif</image_tif>
+<image_tif2>yey_word-list_1998_12.tif</image_tif2>
+<image_jpg>yey_word-list_1998_11.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#94</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_39.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_39.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>95</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Domo Shindi, female, age 77</speakers>
+<filename_audio>yey_word-list_1998_95</filename_audio>
+<filename_wav>yey_word-list_1998_95.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_95.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_40.html</wordlist>
+<wordlist_entries>1-38</wordlist_entries>
+<image_tif>yey_word-list_1998_07.tif</image_tif>
+<image_tif2>yey_word-list_1998_08.tif</image_tif2>
+<image_jpg>yey_word-list_1998_07.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#95</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_40.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_40.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>96</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Domo Shindi, female, age 77</speakers>
+<filename_audio>yey_word-list_1998_96</filename_audio>
+<filename_wav>yey_word-list_1998_96.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_96.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_41.html</wordlist>
+<wordlist_entries>1-15</wordlist_entries>
+<image_tif>yey_word-list_1998_11.tif</image_tif>
+<image_tif2>yey_word-list_1998_12.tif</image_tif2>
+<image_jpg>yey_word-list_1998_11.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#96</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_41.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_41.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>97</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Nombe Matengu, female, age 60+</speakers>
+<filename_audio>yey_word-list_1998_97</filename_audio>
+<filename_wav>yey_word-list_1998_97.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_97.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_42.html</wordlist>
+<wordlist_entries>1-38</wordlist_entries>
+<image_tif>yey_word-list_1998_07.tif</image_tif>
+<image_tif2>yey_word-list_1998_08.tif</image_tif2>
+<image_jpg>yey_word-list_1998_07.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#97</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_42.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_42.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>98</entry>
+<lang_name>Yeyi</lang_name>
+<sil_code>YEY</sil_code>
+<content>Word List</content>
+<recording_location></recording_location>
+<recording_date>9 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Jenny Ladefoged</fieldworkers>
+<speakers>Nombe Matengu, female, age 60+</speakers>
+<filename_audio>yey_word-list_1998_98</filename_audio>
+<filename_wav>yey_word-list_1998_98.wav</filename_wav>
+<filename_mp3>yey_word-list_1998_98.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>DAT</original_medium>
+<wordlist>yey_word-list_1998_43.html</wordlist>
+<wordlist_entries>1-15</wordlist_entries>
+<image_tif>yey_word-list_1998_11.tif</image_tif>
+<image_tif2>yey_word-list_1998_12.tif</image_tif2>
+<image_jpg>yey_word-list_1998_11.jpg</image_jpg>
+<image_jpg2>yey_word-list_1998_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>yey_record_details.html#98</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>yey_word-list_1998_43.html</wordlist_no_repetition>
+<link_within_wordlist>yey_word-list_1998_43.html#1</link_within_wordlist>
+</item>
+</metadata>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

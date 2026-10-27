@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Norwegian, Bokmål</language_name>
+
+
+<headers>
+
+<orthography_header>Orthography</orthography_header>
+<IPA_header>Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>dis</native_orthography>
+<IPA_transcription>diːs</IPA_transcription>
+<gloss>mist</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>diss</native_orthography>
+<IPA_transcription>dis</IPA_transcription>
+<gloss>D Sharp</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>fet</native_orthography>
+<IPA_transcription>feːt</IPA_transcription>
+<gloss>a step</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>fett</native_orthography>
+<IPA_transcription>fet</IPA_transcription>
+<gloss>fat</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>her</native_orthography>
+<IPA_transcription>hæːr</IPA_transcription>
+<gloss>here</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>herr</native_orthography>
+<IPA_transcription>hær</IPA_transcription>
+<gloss>Mr.</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>tak</native_orthography>
+<IPA_transcription>tɑːk</IPA_transcription>
+<gloss>roof</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>takk</native_orthography>
+<IPA_transcription>tɑk</IPA_transcription>
+<gloss>thanks</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>mål</native_orthography>
+<IPA_transcription>mɔːl</IPA_transcription>
+<gloss>target</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>mold</native_orthography>
+<IPA_transcription>mɔl</IPA_transcription>
+<gloss>soil</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>sol</native_orthography>
+<IPA_transcription>soːl</IPA_transcription>
+<gloss>sun</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>soll</native_orthography>
+<IPA_transcription>sol</IPA_transcription>
+<gloss>racket</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>fugl</native_orthography>
+<IPA_transcription>fʉːl</IPA_transcription>
+<gloss>bird</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>full</native_orthography>
+<IPA_transcription>fʉl</IPA_transcription>
+<gloss>full</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>nys</native_orthography>
+<IPA_transcription>nyːs</IPA_transcription>
+<gloss>sneeze</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>nyss</native_orthography>
+<IPA_transcription>nys</IPA_transcription>
+<gloss>lately</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>nøt</native_orthography>
+<IPA_transcription>nøːt</IPA_transcription>
+<gloss>enjoyed</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>nøtt</native_orthography>
+<IPA_transcription>nøt</IPA_transcription>
+<gloss>nut</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>før</native_orthography>
+<IPA_transcription>fœːr</IPA_transcription>
+<gloss>before</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>førr</native_orthography>
+<IPA_transcription>fœr</IPA_transcription>
+<gloss>forty</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>ry</native_orthography>
+<IPA_transcription>ryː</IPA_transcription>
+<gloss>renown</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>ru</native_orthography>
+<IPA_transcription>rʉː</IPA_transcription>
+<gloss>rough</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>ro</native_orthography>
+<IPA_transcription>roː</IPA_transcription>
+<gloss>quiet</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>med</native_orthography>
+<IPA_transcription>meːd</IPA_transcription>
+<gloss>with</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>ned</native_orthography>
+<IPA_transcription>n̪eːd</IPA_transcription>
+<gloss>down</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>jern</native_orthography>
+<IPA_transcription>jɑːn</IPA_transcription>
+<gloss>iron</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>ringe</native_orthography>
+<IPA_transcription>riŋːə</IPA_transcription>
+<gloss>to ring</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>pil</native_orthography>
+<IPA_transcription>pʰiːl</IPA_transcription>
+<gloss>arrow</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>bil</native_orthography>
+<IPA_transcription>biːl</IPA_transcription>
+<gloss>car</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>tid</native_orthography>
+<IPA_transcription>t̪ʰiːd</IPA_transcription>
+<gloss>time</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>dad</native_orthography>
+<IPA_transcription>d̪ɔːd</IPA_transcription>
+<gloss>deed</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>kort</native_orthography>
+<IPA_transcription>kɔʈ</IPA_transcription>
+<gloss>short</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>ser du</native_orthography>
+<IPA_transcription>seːɖu</IPA_transcription>
+<gloss>do you see</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>kar</native_orthography>
+<IPA_transcription>kʰɑr</IPA_transcription>
+<gloss>fellow</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>gard</native_orthography>
+<IPA_transcription>gɔːrd</IPA_transcription>
+<gloss>farm</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>far</native_orthography>
+<IPA_transcription>fɑːr</IPA_transcription>
+<gloss>father</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>var</native_orthography>
+<IPA_transcription>vɑːr</IPA_transcription>
+<gloss>sensitive</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>se</native_orthography>
+<IPA_transcription>seː</IPA_transcription>
+<gloss>to see</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>ski</native_orthography>
+<IPA_transcription>ʃiː</IPA_transcription>
+<gloss>ski</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>kiv</native_orthography>
+<IPA_transcription>çiːv</IPA_transcription>
+<gloss>quarrel</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>gi</native_orthography>
+<IPA_transcription>jiː</IPA_transcription>
+<gloss>to give</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>hår</native_orthography>
+<IPA_transcription>hɔːr</IPA_transcription>
+<gloss>hair</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>log</native_orthography>
+<IPA_transcription>l̪ɑːg</IPA_transcription>
+<gloss>layer</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>dal</native_orthography>
+<IPA_transcription>d̪ɑːl</IPA_transcription>
+<gloss>valley</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>ærlig</native_orthography>
+<IPA_transcription>æːɭi</IPA_transcription>
+<gloss>honest</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>rik</native_orthography>
+<IPA_transcription>riːk</IPA_transcription>
+<gloss>rich</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>æra</native_orthography>
+<IPA_transcription>æːrɑ</IPA_transcription>
+<gloss>era</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>Hoppene</native_orthography>
+<IPA_transcription>hɔpːənə</IPA_transcription>
+<gloss>the jumps</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>Hoppene</native_orthography>
+<IPA_transcription>hɔpːənə</IPA_transcription>
+<gloss>the mares</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>bærer</native_orthography>
+<IPA_transcription>bæːrər</IPA_transcription>
+<gloss>carry/lies</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>bærer</native_orthography>
+<IPA_transcription>bæːrər</IPA_transcription>
+<gloss>porter</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>bøter</native_orthography>
+<IPA_transcription>bøːtər</IPA_transcription>
+<gloss>fines</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>bøter</native_orthography>
+<IPA_transcription>bøːtər</IPA_transcription>
+<gloss>repairs</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>seter</native_orthography>
+<IPA_transcription>seːtər</IPA_transcription>
+<gloss>mountain summer farm</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>seter</native_orthography>
+<IPA_transcription>seːtər</IPA_transcription>
+<gloss>seats</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>banner</native_orthography>
+<IPA_transcription>bɑnːər</IPA_transcription>
+<gloss>banner</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>banner</native_orthography>
+<IPA_transcription>bɑnːər</IPA_transcription>
+<gloss>curse</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>biter</native_orthography>
+<IPA_transcription>biːtər</IPA_transcription>
+<gloss>bite</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>biter</native_orthography>
+<IPA_transcription>biːtər</IPA_transcription>
+<gloss>piece</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>heller</native_orthography>
+<IPA_transcription>helːər</IPA_transcription>
+<gloss>rather</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>heller</native_orthography>
+<IPA_transcription>helːər</IPA_transcription>
+<gloss>inclines</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>bonnen</native_orthography>
+<IPA_transcription>bønːn̩</IPA_transcription>
+<gloss>the prayer</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>bonnen</native_orthography>
+<IPA_transcription>bønːn̩</IPA_transcription>
+<gloss>the bean</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>kulten</native_orthography>
+<IPA_transcription>kʉltn̩</IPA_transcription>
+<gloss>the cult</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>kulten</native_orthography>
+<IPA_transcription>kʉltn̩</IPA_transcription>
+<gloss>unpleasant</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>utøy</native_orthography>
+<IPA_transcription>ʉ'tʰøy</IPA_transcription>
+<gloss>vermin</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>utøy</native_orthography>
+<IPA_transcription>ʉt̚øy</IPA_transcription>
+<gloss>remote island</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>Hva heter du?</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>What is your name?</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>Jeg heter Monica.</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>My name is Monica.</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>No orthography given</native_orthography>
+<IPA_transcription>No transcription given</IPA_transcription>
+<gloss>No English given</gloss>
+</item>
+</wordlist>
+
+
+
+
+

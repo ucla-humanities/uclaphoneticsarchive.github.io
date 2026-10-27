@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Cama</language_name>
+
+
+<headers>
+
+<IPA_header>Cama</IPA_header>
+<gloss_header>English</gloss_header>
+<alt_gloss_header>French</alt_gloss_header>
+</headers>
+<item>
+<entry>1</entry>
+<IPA_transcription>ako</IPA_transcription>
+<gloss>hunger</gloss>
+<alt_gloss>la faim</alt_gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<IPA_transcription></IPA_transcription>
+<gloss></gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<IPA_transcription>akhokho</IPA_transcription>
+<gloss>back</gloss>
+<alt_gloss>le dos</alt_gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<IPA_transcription>akwa</IPA_transcription>
+<gloss>forest</gloss>
+<alt_gloss>la forêt</alt_gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<IPA_transcription>agwa</IPA_transcription>
+<gloss>sp. person</gloss>
+<alt_gloss></alt_gloss>
+</item>
+
+</wordlist>
+
+
+
+
+

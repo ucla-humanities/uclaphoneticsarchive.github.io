@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Amharic</language_name>
+
+
+<headers>
+
+<orthography_header>Sound Illustrated</orthography_header>
+<IPA_header>IPA Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>voiceless alveolar ejective</native_orthography>
+<IPA_transcription>tʼɨl</IPA_transcription>
+<gloss>quarrel</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>voiceless alveolar plosive</native_orthography>
+<IPA_transcription>tɨl</IPA_transcription>
+<gloss>warm</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>voiced alveolar plosive</native_orthography>
+<IPA_transcription>dɨl</IPA_transcription>
+<gloss>victory</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>voiceless velar ejective</native_orthography>
+<IPA_transcription>kʼɨr</IPA_transcription>
+<gloss>stay away</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>voiceless velar plosive</native_orthography>
+<IPA_transcription>kɨrr</IPA_transcription>
+<gloss>thread</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>voiced velar plosive</native_orthography>
+<IPA_transcription>gərr</IPA_transcription>
+<gloss>innocent</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>voiceless alveolar fricative ejective</native_orthography>
+<IPA_transcription>sʼəggɑ</IPA_transcription>
+<gloss>grace</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>voiceless alveolar fricative</native_orthography>
+<IPA_transcription>səggɑ</IPA_transcription>
+<gloss>worry</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>voiced alveolar fricative</native_orthography>
+<IPA_transcription>zəggɑ</IPA_transcription>
+<gloss>to close</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>voiceless palato-alveolar ejective affricate</native_orthography>
+<IPA_transcription>tʃʼərəkʼɑ</IPA_transcription>
+<gloss>moon</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>voiceless palato-alveolar affricate</native_orthography>
+<IPA_transcription>mətʃe</IPA_transcription>
+<gloss>when</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>voiced palato-alveolar affricate</native_orthography>
+<IPA_transcription>mədʒ</IPA_transcription>
+<gloss>grinding stone</gloss>
+</item>
+</wordlist>
+
+
+
+
+

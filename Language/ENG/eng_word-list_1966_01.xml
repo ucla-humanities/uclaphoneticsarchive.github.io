@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>English</language_name>
+
+
+
+<headers>
+
+<native_orthography>Sentence Type Illustrated</native_orthography>
+<alt_orthography>Pitch Illustrated </alt_orthography>
+<IPA_header>IPA (with tone marking to show pitch)</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>simple declarative</native_orthography>
+<alt_orthography>high-low</alt_orthography>
+<IPA_transcription>²ajm goiŋ tə ðə ³stɔɹ ¹nau</IPA_transcription>
+<gloss>I'm going to the store now.</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>simple declarative</native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>¹hi ³kɯdn̩tʰ ²hæv ³bɛn ²ðɛ¹ɹ</IPA_transcription>
+<gloss>He couldn't have been there.</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>simple declarative</native_orthography>
+<alt_orthography>high-low</alt_orthography>
+<IPA_transcription>¹aj ³gʰa²tʰə flæt ³tʰaj¹ɹ</IPA_transcription>
+<gloss>I got a flat tire.</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>compound declarative: 2 independent clauses</native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>²ajm ¹gowɨŋ tə ðə ²stɔɹ ¹nau n̩ ²dʒanz ¹kəmɨŋ tʰ²⁻¹u</IPA_transcription>
+<gloss>I'm going to the store now, and John's coming, too.</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>compound declarative: 1 independent and 1 dependent clause (dependent first) </native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>²hi ¹kɯdn̩t əv ²bɛn ¹ðɛɹ ʔæn ³ju ² wr̥ aut əv taun ³ɛ²niwe¹j</IPA_transcription>
+<gloss>He couldn't have been there, and you were out of town, anyway.</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>compound declarative: 1 independent and 1 dependent clause (dependent first) </native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>¹aj ²ga¹t ə flæt ²tʰaj¹ɹ n̩ wi wɹ̩ ²stək ¹ðɛɹ</IPA_transcription>
+<gloss>I got a flat tire, and we were stuck there.</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>compound declarative: 1 independent and 1 dependent clause (dependent first) </native_orthography>
+<alt_orthography>high-low</alt_orthography>
+<IPA_transcription>¹hwɛn ³dʒan ¹gɛts ¹hiɹ ajm ²goiŋ ¹tə ðə ³stɔ¹ɹ</IPA_transcription>
+<gloss>When John gets here, I'm going to the store.</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>compound declarative: 1 independent and 1 dependent clause (dependent last) </native_orthography>
+<alt_orthography>high-low</alt_orthography>
+<IPA_transcription>¹hwət³ʔɛvɹ̩ ²hi ¹sɛd hi kɯdn̩tʰ æv ³bɨn ¹ðɛɹ</IPA_transcription>
+<gloss>Whatever he said, he couldn't have been there.</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>compound declarative: 1 independent and 1 dependent clause (dependent last) </native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>²ivən wɨð ³nu ²tʰaj¹ɹz an aj ²gat ¹ə flæt ²tʰaj¹ɹ</IPA_transcription>
+<gloss>Even with new tires on, I got a flat tire.</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>compound declarative: 1 independent and 1 dependent clause (dependent last) </native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>¹ajm ³gowɨŋ ²tu ðə stɔɹ hwɛn ²dʒan ¹gɛts hiə˞</IPA_transcription>
+<gloss>I'm going to the store when John gets here.</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>compound declarative: 1 independent and 1 dependent clause (dependent last) </native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>²hi ³kɯdn̩t əv bɨn ðɛɹ nou mædɹ̩ hwət¹i sɛd</IPA_transcription>
+<gloss>He couldn't have been there, no matter what he said.</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>compound declarative: 1 independent and 1 dependent clause (dependent last) </native_orthography>
+<alt_orthography>high-low</alt_orthography>
+<IPA_transcription>²aj gat ¹ə flæt ²tʰajɹ ivən wɨθ ³nu ¹wənz an</IPA_transcription>
+<gloss>I got a flat tire even with new ones on.</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>exclamatory</native_orthography>
+<alt_orthography>high-low</alt_orthography>
+<IPA_transcription>²gou tʰu jɔɹ ³ɹu¹m</IPA_transcription>
+<gloss>Go to your room!</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>exclamatory</native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>²gɛt ʔ³aut²əv hi¹ɹ</IPA_transcription>
+<gloss>Get out of here!</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>exclamatory</native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>²gɛt ʔ³aut²əv ðɛ¹ɹ</IPA_transcription>
+<gloss>Get out of there!</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>simple interrogative introduced by question word</native_orthography>
+<alt_orthography>high-low</alt_orthography>
+<IPA_transcription>²hwɛn ɹ̩ ju ³go¹wɨŋ</IPA_transcription>
+<gloss>When are you going?</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>simple interrogative introduced by question word</native_orthography>
+<alt_orthography>low-mid</alt_orthography>
+<IPA_transcription>³hwət ³ɹ̩ ²ju ¹du²wɨŋ</IPA_transcription>
+<gloss>What are you doing?</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>simple interrogative introduced by question word</native_orthography>
+<alt_orthography>low-mid</alt_orthography>
+<IPA_transcription>³hwət əv ju g²⁻¹at ɨn jɔɹ h¹⁻²ænd</IPA_transcription>
+<gloss>What have you got in your hand?</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>simple interrogative, "yes or no" type</native_orthography>
+<alt_orthography>mid-high</alt_orthography>
+<IPA_transcription>¹ɨz ²dʒan goiŋ tə bi hi³ɹ</IPA_transcription>
+<gloss>Is John going to be here?</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>simple interrogative, "yes or no" type</native_orthography>
+<alt_orthography>mid-high</alt_orthography>
+<IPA_transcription>¹hæz ²ʃi gɔn ɔlɹɛ³di</IPA_transcription>
+<gloss>Has she gone already?</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>simple interrogative, "yes or no" type</native_orthography>
+<alt_orthography>high-mid</alt_orthography>
+<IPA_transcription>¹dɨd ²ju ³luz ²jəɹ kʰi</IPA_transcription>
+<gloss>Did you lose your key?</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>negative question</native_orthography>
+<alt_orthography>mid-high</alt_orthography>
+<IPA_transcription>¹ɨzn̩t ²dʒan gowɨŋ tə bi ³hiə˞</IPA_transcription>
+<gloss>Isn't John going to be here?</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>negative question</native_orthography>
+<alt_orthography>mid-high</alt_orthography>
+<IPA_transcription>²hæzn̩t ʃi ¹gɔn ɔl²ɹɛ³di</IPA_transcription>
+<gloss>Hasn't she gone already?</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>simple interrogative, "yes or no" type</native_orthography>
+<alt_orthography>high-mid</alt_orthography>
+<IPA_transcription>¹dɨd ²ju ³luz ²jɯɹ kʰi</IPA_transcription>
+<gloss>Did you lose your key?</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>negative question</native_orthography>
+<alt_orthography>high-mid</alt_orthography>
+<IPA_transcription>³dɨdn̩t ju ²luz jɯɹ̩ kʰi</IPA_transcription>
+<gloss>Didn't you lose your key?</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>compound interrogative: 2 independent clauses</native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>³hwət ɹ̩ ²ju gowɨŋ tɯ¹du æn hw²⁻¹ɛn aɹ ju gowɨŋ tʰu ²du¹ɨt</IPA_transcription>
+<gloss>What are you going to do, and when are you going to do it?</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>compound interrogative: 2 independent clauses</native_orthography>
+<alt_orthography>high-low</alt_orthography>
+<IPA_transcription>¹ɨz i ²go³ɨŋ ɔɹ ²ɨz i ³ste¹iŋ</IPA_transcription>
+<gloss>Is he going, or is he staying?</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>compound interrogative: 2 independent clauses</native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>²aɹ ju ³kəmɨŋ ²ɹ̩ ¹nat</IPA_transcription>
+<gloss>Are you coming, or not?</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>compound interrogative: 1 independent and 1 dependent clause (dependent first) </native_orthography>
+<alt_orthography>mid-high</alt_orthography>
+<IPA_transcription>²sɨns ³jɔɹ ¹gowɨŋ ²kɨn aj kəm ³tʰu</IPA_transcription>
+<gloss>Since you're going, can I come, too?</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>compound interrogative: 1 independent and 1 dependent clause (dependent first) </native_orthography>
+<alt_orthography>mid-high</alt_orthography>
+<IPA_transcription>²æftɹ̩ i fajnli ³gat ¹hiɹ dɨdn̩ i sej ²ɛni³θɨŋ</IPA_transcription>
+<gloss>After he finally got here, didn't he say anything?</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>compound interrogative: 1 independent and 1 dependent clause (dependent first) </native_orthography>
+<alt_orthography>mid-high</alt_orthography>
+<IPA_transcription>²hwɛn ɨts ³sɨks ə²klak ¹wɯd ʒɯ lɛt ²mi n²⁻³ou</IPA_transcription>
+<gloss>When it's six o'clock, would you let me know?</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>compound interrogative: 1 independent and 1 dependent clause (dependent last) </native_orthography>
+<alt_orthography>mid-high</alt_orthography>
+<IPA_transcription>¹kən ²aj kəm tu ¹sɨns ²jɯɹ go³wɨŋ</IPA_transcription>
+<gloss>Can I come, too, since you're going?</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>compound interrogative: 1 independent and 1 dependent clause (dependent last) </native_orthography>
+<alt_orthography>mid-high</alt_orthography>
+<IPA_transcription>²dɨdn̩tʰ i ¹sej ɛ²niθɨŋ æftɹ̩ i fajnli gat hi³ɹ</IPA_transcription>
+<gloss>Didn't he say anything after he finally got here?</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>compound interrogative: 1 independent and 1 dependent clause (dependent last) </native_orthography>
+<alt_orthography>mid-high</alt_orthography>
+<IPA_transcription>²wɯ³ʒu lɛ mi ²nou wɛn ¹ɨts sɨks əkl²⁻³ak</IPA_transcription>
+<gloss>Would you let me know when it's six o'clock?</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>simple interrogative expressing disbelief or surprise</native_orthography>
+<alt_orthography>low-high</alt_orthography>
+<IPA_transcription>²jɔɹ goiŋ ¹tə ðə ³stɔɹ</IPA_transcription>
+<gloss>You're going to the store?</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>simple interrogative expressing disbelief or surprise</native_orthography>
+<alt_orthography>mid-high</alt_orthography>
+<IPA_transcription>¹hi kɯ²dn̩t əv ¹bɛn ð²⁻³ɛə˞</IPA_transcription>
+<gloss>He couldn't have been there?</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>simple interrogative expressing disbelief or surprise</native_orthography>
+<alt_orthography>low-mid</alt_orthography>
+<IPA_transcription>³hwɛn ɛm ¹aj go²wɨŋ</IPA_transcription>
+<gloss>When am I going?</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>compound direct quotational: declarative quote</native_orthography>
+<alt_orthography>high-low</alt_orthography>
+<IPA_transcription>²hi s²⁻¹ɛd ajm ³go¹wɨŋ</IPA_transcription>
+<gloss>He said, "I'm going."</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>compound direct quotational: declarative quote</native_orthography>
+<alt_orthography>high-low</alt_orthography>
+<IPA_transcription>(²juʔ)³ju ¹sɛd ²dʒan wɛntʰə ðə ³stɔ¹ə˞</IPA_transcription>
+<gloss>You said, "John went to the store."</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>compound direct quotational: declarative quote</native_orthography>
+<alt_orthography>high-low</alt_orthography>
+<IPA_transcription>²aj ¹sɛd ²dʒanz nat ³hi¹ə˞</IPA_transcription>
+<gloss>I said, "John's not here."</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>compound direct quotational: exclamatory quote</native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>²hi ¹sɛd gɛd ³aud ²əv ¹hiəɹ</IPA_transcription>
+<gloss>He said, "Get out of here!"</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>compound direct quotational: exclamatory quote</native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>²aj ³tʰould ɨm ²gou tə ¹bɛd</IPA_transcription>
+<gloss>I told him, "Go to bed."</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>compound direct quotational: exclamatory quote</native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>²hi sɛz bəz ²ɔf ¹fɛlə</IPA_transcription>
+<gloss>He says, "Buzz off, fella!"</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>compound direct quotational: interrogative quote</native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>²hi sɛd hwət ə ³jɯ ²gowɨŋ tʰɯ ¹du</IPA_transcription>
+<gloss>He said, "What are you going to do?"</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>compound direct quotational: interrogative quote</native_orthography>
+<alt_orthography>mid-low</alt_orthography>
+<IPA_transcription>²ʃi æskt ¹mi ³hwɛəz ²ðə dɔ¹ə˞</IPA_transcription>
+<gloss>She asked me, "Where's the door?"</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>compound direct quotational: interrogative quote</native_orthography>
+<alt_orthography>high-low</alt_orthography>
+<IPA_transcription>¹aj ²æskt ³h⁻ɨ¹m ²hwəts ¹ðə ²bɨg ¹aj³di¹ə˞</IPA_transcription>
+<gloss>I asked him, "What's the big idea?"</gloss>
+</item>
+</wordlist>

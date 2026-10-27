@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Burarra</language_name>
+
+
+
+<headers>
+
+<native_orthography>Sound Illustrated</native_orthography>
+<alt_orthography>Orthography</alt_orthography>
+<IPA_header></IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>lk</native_orthography>
+<alt_orthography>jalkaka</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to water, refresh</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>lk</native_orthography>
+<alt_orthography>derrka</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>stringy bark</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>lk</native_orthography>
+<alt_orthography>mirrka</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>chest</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>lk</native_orthography>
+<alt_orthography>jerlk</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>stringy bark bark</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>ma</native_orthography>
+<alt_orthography>maka</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>father's mother</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>ma</native_orthography>
+<alt_orthography>bama</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>head, top</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>ma</native_orthography>
+<alt_orthography>menama</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>knee</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>ma</native_orthography>
+<alt_orthography>ngulam</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>tomorrow</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>mi/e</native_orthography>
+<alt_orthography>mela</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>side of abdomen</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>mi/e</native_orthography>
+<alt_orthography>rrimiya</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to hold back (from fighting); to be united</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>mu/o</native_orthography>
+<alt_orthography>mula</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>hair, fur; leaves</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>mu/o</native_orthography>
+<alt_orthography>mola</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>again</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>mu/o</native_orthography>
+<alt_orthography>mukumul</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>bronze-winged pigeon</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>na</native_orthography>
+<alt_orthography>nanyja</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>pelican</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>na</native_orthography>
+<alt_orthography>gana</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to have eyes open</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>na</native_orthography>
+<alt_orthography>bamana</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to guard, look after</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>na</native_orthography>
+<alt_orthography>baman </alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>long time ago</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>na</native_orthography>
+<alt_orthography>nichirra</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>flying insect</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>ni/e</native_orthography>
+<alt_orthography>jenicha</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to make a mess</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>ni/e</native_orthography>
+<alt_orthography>jinimbu</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>salmon</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>nu/o</native_orthography>
+<alt_orthography>numa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to smell something</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>nu/o</native_orthography>
+<alt_orthography>junumba</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to bury</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>nu/o</native_orthography>
+<alt_orthography>mununa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>mother's mother</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>rna</native_orthography>
+<alt_orthography>ngarnama</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>front of thigh; wall of house</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>rna</native_orthography>
+<alt_orthography>japarna</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>dry</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>rna</native_orthography>
+<alt_orthography>wurrparn</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>emu</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>rni/e</native_orthography>
+<alt_orthography>wirnin</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>canvas, tarp; tent</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>rni/e</native_orthography>
+<alt_orthography>mern</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>coldness</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>rnu/o</native_orthography>
+<alt_orthography>murna</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>hand, finger</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>rnu/o</native_orthography>
+<alt_orthography>barnimbirr</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>morning star</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>nya</native_orthography>
+<alt_orthography>nyarlcha</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to be weak, limp</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>nyi/e</native_orthography>
+<alt_orthography>ninya</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to sit, stay</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>nya</native_orthography>
+<alt_orthography>anya</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>father!</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>nya</native_orthography>
+<alt_orthography>ganyawa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>yellow seaweed</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>nya</native_orthography>
+<alt_orthography>gardany</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>spider</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>nyi/e</native_orthography>
+<alt_orthography>nyinya</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>your father</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography></native_orthography>
+<alt_orthography>(not on wordlist)</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>(no gloss)</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>nyu/o</native_orthography>
+<alt_orthography>nyuluknyuluk</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>rat</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>nyu/o</native_orthography>
+<alt_orthography>munyula</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>windpipe</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>nyu/o</native_orthography>
+<alt_orthography>yunya</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to sleep, to be lying down</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>nga</native_orthography>
+<alt_orthography>ngana</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>mouth</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>nga</native_orthography>
+<alt_orthography>gangala</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>edible fruit from palm</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>ngi/e</native_orthography>
+<alt_orthography>ngima</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to paint</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>ngi/e</native_orthography>
+<alt_orthography>ngeka</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to breathe</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>ngi/e</native_orthography>
+<alt_orthography>gengama</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to be shy</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>ngu/o</native_orthography>
+<alt_orthography>ngo(r)la</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>dijeridu</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>ngu/o</native_orthography>
+<alt_orthography>nguna</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>give me</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>ngu/o</native_orthography>
+<alt_orthography>dungunbarra</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>witchetty grub</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>ngu/o</native_orthography>
+<alt_orthography>yongun</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>secret</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>la </native_orthography>
+<alt_orthography>lamurrpa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>elder sister/brother</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>la </native_orthography>
+<alt_orthography>mala</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>clan</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>la </native_orthography>
+<alt_orthography>bakala</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>hair; leaves</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>la </native_orthography>
+<alt_orthography>an-jarral</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>old man</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>li/e</native_orthography>
+<alt_orthography>lipalipa</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>dugout canoe</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>li/e</native_orthography>
+<alt_orthography>miliyak</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>widowed; divorced</gloss>
+</item>
+</wordlist>
+
+
+
+
+
+

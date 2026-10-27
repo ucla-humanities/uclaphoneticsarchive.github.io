@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Navajo</language_name>
+
+
+
+<headers>
+
+<native_orthography>Sound Illustrated</native_orthography>
+<alt_orthography>Orthography</alt_orthography>
+<IPA_header>English </IPA_header>
+<gloss_header>Notes</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>ejective [kʼ] word initial</native_orthography>
+<alt_orthography>kʼad</alt_orthography>
+<IPA_transcription>now</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>ejective [kʼ] word medial</native_orthography>
+<alt_orthography>akʼah</alt_orthography>
+<IPA_transcription>lard</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>ejective [tʼ] word initial</native_orthography>
+<alt_orthography>tʼah</alt_orthography>
+<IPA_transcription>wait</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>ejective [tʼ] word medial</native_orthography>
+<alt_orthography>átʼah</alt_orthography>
+<IPA_transcription>wait</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>ejective [tlʼ] word initial</native_orthography>
+<alt_orthography>tlʼóóɬ</alt_orthography>
+<IPA_transcription>rope</IPA_transcription>
+<gloss>standard Navajo orthography uses 'slashed l' for [ɬ]</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>ejective [tlʼ] word medial</native_orthography>
+<alt_orthography>atlʼóh</alt_orthography>
+<IPA_transcription>is weaving (3rd person)</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>ejective [tsʼ] word initial</native_orthography>
+<alt_orthography>tsʼah</alt_orthography>
+<IPA_transcription>sagebrush</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>ejective [tsʼ] word medial</native_orthography>
+<alt_orthography>atsʼaʼ</alt_orthography>
+<IPA_transcription>shell</IPA_transcription>
+<gloss>[ɑtsʼɔ], [ɑtsʼ ɒʼ]</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>ejective [chʼ] word initial</native_orthography>
+<alt_orthography>chʼa̜ɬ</alt_orthography>
+<IPA_transcription>frog</IPA_transcription>
+<gloss>/a̜/ is nasalized</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>ejective [chʼ] word medial</native_orthography>
+<alt_orthography>achʼá̜h</alt_orthography>
+<IPA_transcription>hunger for meat</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>ejective within a sentence</native_orthography>
+<alt_orthography>Shikékʼ ehgó díí saad kʼad beeádíní</alt_orthography>
+<IPA_transcription>Repeat this word 'now' after me.</IPA_transcription>
+<gloss>literal gloss of frame sentence is 'after-me this word ________ say'</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography></native_orthography>
+<alt_orthography>Shikékʼ ehgó díí saad akʼah beeádíní</alt_orthography>
+<IPA_transcription>Repeat this word 'lard' after me.</IPA_transcription>
+<gloss>(frame sentence for recording #6 is 'this word ________say') </gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography></native_orthography>
+<alt_orthography>Shikékʼ ehgó díí saad tʼah beeádíní</alt_orthography>
+<IPA_transcription>Repeat this word 'wait' after me.</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography></native_orthography>
+<alt_orthography>Shikékʼ ehgó díí saad átʼah beeádíní</alt_orthography>
+<IPA_transcription>Repeat this word 'wait' after me.</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography></native_orthography>
+<alt_orthography>Shikékʼ ehgó díí saad tlʼóóɬ beeádíní</alt_orthography>
+<IPA_transcription>Repeat this word 'rope' after me.</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography></native_orthography>
+<alt_orthography>Shikékʼ ehgó díí saad atlʼóh beeádíní</alt_orthography>
+<IPA_transcription>Repeat this word 'weaving' after me.</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography></native_orthography>
+<alt_orthography>Shikékʼ ehgó díí saad tsʼah beeádíní</alt_orthography>
+<IPA_transcription>Repeat this word 'sagebrush' after me.</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography></native_orthography>
+<alt_orthography>Shikékʼ ehgó díí saad atsʼaʼ beeádíní</alt_orthography>
+<IPA_transcription>Repeat this word 'shell' after me.</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography></native_orthography>
+<alt_orthography>Shikékʼ ehgó díí saad chʼa̜ɬ beeádíní</alt_orthography>
+<IPA_transcription>Repeat this word 'frog' after me.</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography></native_orthography>
+<alt_orthography>Shikékʼ ehgó díí saad achʼá̜h beeádíní</alt_orthography>
+<IPA_transcription>Repeat this word 'hunger' after me.</IPA_transcription>
+<gloss></gloss>
+</item>
+</wordlist>
+
+
+
+
+
+

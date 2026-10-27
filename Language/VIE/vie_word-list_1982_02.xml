@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Vietnamese</language_name>
+
+
+
+<headers>
+
+<native_orthography>Tone</native_orthography>
+<alt_orthography>Phonemic Transcription</alt_orthography>
+<IPA_header>Phonetic Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>bɑ</alt_orthography>
+<IPA_transcription>ɓa</IPA_transcription>
+<gloss>three</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>biʌn</alt_orthography>
+<IPA_transcription>biəŋ</IPA_transcription>
+<gloss>to write</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>kɑ</alt_orthography>
+<IPA_transcription>ʔkʰa</IPA_transcription>
+<gloss>fish</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>kuŋ</alt_orthography>
+<IPA_transcription>ʔkʰuŋ</IPA_transcription>
+<gloss>likewise</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>dɔk</alt_orthography>
+<IPA_transcription>ɗʌwk͡p</IPA_transcription>
+<gloss>poisonous</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>hɔk</alt_orthography>
+<IPA_transcription>hʌwk͡p</IPA_transcription>
+<gloss>to study</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>xak</alt_orthography>
+<IPA_transcription>xæk</IPA_transcription>
+<gloss>different</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>mɯk</alt_orthography>
+<IPA_transcription>mɤk</IPA_transcription>
+<gloss>ink</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>cieu</alt_orthography>
+<IPA_transcription>ciuw</IPA_transcription>
+<gloss>to welcome</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>cɛ</alt_orthography>
+<IPA_transcription>cɛa</IPA_transcription>
+<gloss>tea</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>jicuk</alt_orthography>
+<IPA_transcription>jicuʔ</IPA_transcription>
+<gloss>testament</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>kaik</alt_orthography>
+<IPA_transcription>ʔkʌʔ</IPA_transcription>
+<gloss>manner</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>ɯk</alt_orthography>
+<IPA_transcription>ɯʔ</IPA_transcription>
+<gloss>useful</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>je</alt_orthography>
+<IPA_transcription>jej</IPA_transcription>
+<gloss>goat</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>juŋ</alt_orthography>
+<IPA_transcription>juŋ</IPA_transcription>
+<gloss>to use</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>dɛ</alt_orthography>
+<IPA_transcription>ɗɛa</IPA_transcription>
+<gloss>to give birth</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>dɔ</alt_orthography>
+<IPA_transcription>ɗɔ</IPA_transcription>
+<gloss>to measure</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>ga</alt_orthography>
+<IPA_transcription>ga</IPA_transcription>
+<gloss>station</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>gɛŋ</alt_orthography>
+<IPA_transcription>geəŋ</IPA_transcription>
+<gloss>jealous</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>jɑ</alt_orthography>
+<IPA_transcription>ja</IPA_transcription>
+<gloss>false</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>jɛŋ</alt_orthography>
+<IPA_transcription>jiəŋ</IPA_transcription>
+<gloss>year</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>kiʌ</alt_orthography>
+<IPA_transcription>ʔkʰiɪ</IPA_transcription>
+<gloss>over there</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>keu</alt_orthography>
+<IPA_transcription>ʔkʰeuw</IPA_transcription>
+<gloss>call</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>xi</alt_orthography>
+<IPA_transcription>xeij</IPA_transcription>
+<gloss>monkey</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>xu</alt_orthography>
+<IPA_transcription>xuw</IPA_transcription>
+<gloss>region</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>mɑ</alt_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>ghost</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>muʌ</alt_orthography>
+<IPA_transcription>muʌ</IPA_transcription>
+<gloss>buy</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>tim</alt_orthography>
+<IPA_transcription>tɪm</IPA_transcription>
+<gloss>to search</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>kɑm</alt_orthography>
+<IPA_transcription>ʔkʰam</IPA_transcription>
+<gloss>orange</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>nɑj</alt_orthography>
+<IPA_transcription>naɪ, neɪ</IPA_transcription>
+<gloss>this</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>nɯə</alt_orthography>
+<IPA_transcription>nɯə</IPA_transcription>
+<gloss>in addition</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>nen</alt_orthography>
+<IPA_transcription>nən</IPA_transcription>
+<gloss>therefore</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>in</alt_orthography>
+<IPA_transcription>ʔɯn, ʔɨn</IPA_transcription>
+<gloss>print</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>ŋi</alt_orthography>
+<IPA_transcription>ŋij</IPA_transcription>
+<gloss>doubt</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>ŋɯʌ</alt_orthography>
+<IPA_transcription>ŋɯə</IPA_transcription>
+<gloss>horse</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>vaŋ</alt_orthography>
+<IPA_transcription>vɑŋ</IPA_transcription>
+<gloss>gold</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>ɲɯŋ</alt_orthography>
+<IPA_transcription>ɲɯŋ</IPA_transcription>
+<gloss>but</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>duŋ</alt_orthography>
+<IPA_transcription>ɗuŋ</IPA_transcription>
+<gloss>correct</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>oŋ</alt_orthography>
+<IPA_transcription>ʔaŋ</IPA_transcription>
+<gloss>grandfather</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>ɲa</alt_orthography>
+<IPA_transcription>ɲa</IPA_transcription>
+<gloss>house</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>ɲim</alt_orthography>
+<IPA_transcription>ɲim</IPA_transcription>
+<gloss>position</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>kip</alt_orthography>
+<IPA_transcription>ʔkʰɪp</IPA_transcription>
+<gloss>on time</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>jup</alt_orthography>
+<IPA_transcription>jɞp, jɨp</IPA_transcription>
+<gloss>to aid</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>faj</alt_orthography>
+<IPA_transcription>faɪ</IPA_transcription>
+<gloss>fade</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>fɔŋ</alt_orthography>
+<IPA_transcription>fɔŋ</IPA_transcription>
+<gloss>wind</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>kwiʌk</alt_orthography>
+<IPA_transcription>waɪ</IPA_transcription>
+<gloss>handle</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>kwiʌk</alt_orthography>
+<IPA_transcription>kwɯɪʔ</IPA_transcription>
+<gloss>to decide</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>ra</alt_orthography>
+<IPA_transcription>ʒa</IPA_transcription>
+<gloss>to go</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>riɲraŋ</alt_orthography>
+<IPA_transcription>ʒɯnʒaŋ</IPA_transcription>
+<gloss>pompous</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>riurit</alt_orthography>
+<IPA_transcription>ʒiuʒɪt</IPA_transcription>
+<gloss>prattling (of children)</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>ʃak</alt_orthography>
+<IPA_transcription>ʃɛk</IPA_transcription>
+<gloss>book</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>ʃɯɲ</alt_orthography>
+<IPA_transcription>ʃɪn</IPA_transcription>
+<gloss>to create</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>toi</alt_orthography>
+<IPA_transcription>tɔj</IPA_transcription>
+<gloss>I, me</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>tiw</alt_orthography>
+<IPA_transcription>tiuɯ</IPA_transcription>
+<gloss>pepper</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>met</alt_orthography>
+<IPA_transcription>mʌʔ</IPA_transcription>
+<gloss>tired</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>hɑt</alt_orthography>
+<IPA_transcription>həʔ</IPA_transcription>
+<gloss>sing</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>θoj</alt_orthography>
+<IPA_transcription>tʰɔj</IPA_transcription>
+<gloss>stop</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>θiʌŋ</alt_orthography>
+<IPA_transcription>tʰiəŋ</IPA_transcription>
+<gloss>sacred</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>tɑŋ</alt_orthography>
+<IPA_transcription>tʃæŋ</IPA_transcription>
+<gloss>to rinse</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>twiʌn</alt_orthography>
+<IPA_transcription>tʃwiɛŋ</IPA_transcription>
+<gloss>history</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>sɛ</alt_orthography>
+<IPA_transcription>sɛa</IPA_transcription>
+<gloss>vehicle</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>sawŋ</alt_orthography>
+<IPA_transcription>sʌɞŋ</IPA_transcription>
+<gloss>finished</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>bɑŋ</alt_orthography>
+<IPA_transcription>ɓæŋ</IPA_transcription>
+<gloss>to reinforce</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>fa</alt_orthography>
+<IPA_transcription>faɪ</IPA_transcription>
+<gloss>to mix</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>aŋ</alt_orthography>
+<IPA_transcription>ʔaŋ</IPA_transcription>
+<gloss>to eat</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>bat</alt_orthography>
+<IPA_transcription>ɓaʔ</IPA_transcription>
+<gloss>to catch</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>lʌm</alt_orthography>
+<IPA_transcription>lam</IPA_transcription>
+<gloss>forest</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>ɲʌŋ</alt_orthography>
+<IPA_transcription>ɲɯŋ</IPA_transcription>
+<gloss>multiply</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>em</alt_orthography>
+<IPA_transcription>em</IPA_transcription>
+<gloss>sweet</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>het</alt_orthography>
+<IPA_transcription>həʔ</IPA_transcription>
+<gloss>finished</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>ɛm</alt_orthography>
+<IPA_transcription>ɛp</IPA_transcription>
+<gloss>to extract</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>hɛm</alt_orthography>
+<IPA_transcription>hɛəm</IPA_transcription>
+<gloss>cracked</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>in</alt_orthography>
+<IPA_transcription>ɯm</IPA_transcription>
+<gloss>to print</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>di</alt_orthography>
+<IPA_transcription>ɗi</IPA_transcription>
+<gloss>to go</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>lɔ</alt_orthography>
+<IPA_transcription>lɔ</IPA_transcription>
+<gloss>to worry</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>hɔk</alt_orthography>
+<IPA_transcription>hɔwʔ, hɑwʔ</IPA_transcription>
+<gloss>to learn</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>so</alt_orthography>
+<IPA_transcription>so</IPA_transcription>
+<gloss>to push</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>ʃo</alt_orthography>
+<IPA_transcription>ʃo</IPA_transcription>
+<gloss>fate</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>jɤ</alt_orthography>
+<IPA_transcription>jɤ</IPA_transcription>
+<gloss>dirty</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>fɤ</alt_orthography>
+<IPA_transcription>fɤ</IPA_transcription>
+<gloss>tired</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>fu</alt_orthography>
+<IPA_transcription>fu</IPA_transcription>
+<gloss>coolie</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>dʌw</alt_orthography>
+<IPA_transcription>ɗuʌw</IPA_transcription>
+<gloss>where</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>hɯ</alt_orthography>
+<IPA_transcription>hɯ</IPA_transcription>
+<gloss>broken</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>no tone given</native_orthography>
+<alt_orthography>ɯ</alt_orthography>
+<IPA_transcription>əʔɯ</IPA_transcription>
+<gloss>yes</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>level</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>ghost</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>mother</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>but</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>dipping</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ma</IPA_transcription>
+<gloss>tomb</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>level</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ʔkʰɔ</IPA_transcription>
+<gloss>contract</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ʔkʰɔ</IPA_transcription>
+<gloss>to have</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ʔkʰɔ</IPA_transcription>
+<gloss>stork</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography>dipping</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ʔkʰɔ</IPA_transcription>
+<gloss>grass</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography>level</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>muʌ</IPA_transcription>
+<gloss>to buy</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>muʌ</IPA_transcription>
+<gloss>dance</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>muʌ</IPA_transcription>
+<gloss>season</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography>level</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>tim</IPA_transcription>
+<gloss>heart</gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>tim</IPA_transcription>
+<gloss>purple</gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>tim</IPA_transcription>
+<gloss>to search</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography>level</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>li</IPA_transcription>
+<gloss>glass</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>li</IPA_transcription>
+<gloss>reason</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography>level</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ʔkʰʌɲ</IPA_transcription>
+<gloss>soup</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ʔkʰʌɲ</IPA_transcription>
+<gloss>branch</gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography>level</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ʔkʰʌw</IPA_transcription>
+<gloss>girl</gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography>dipping</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ʔkʰʌw</IPA_transcription>
+<gloss>neck</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography>level</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>la</IPA_transcription>
+<gloss>shout</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography>dipping</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>la</IPA_transcription>
+<gloss>plain water</gloss>
+</item>
+
+<item>
+<entry>107</entry>
+<native_orthography>short low</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>la</IPA_transcription>
+<gloss>strange</gloss>
+</item>
+
+<item>
+<entry>108</entry>
+<native_orthography>level</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>faɪ</IPA_transcription>
+<gloss>fade</gloss>
+</item>
+
+<item>
+<entry>109</entry>
+<native_orthography>dipping</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>faɪ</IPA_transcription>
+<gloss>right</gloss>
+</item>
+
+<item>
+<entry>110</entry>
+<native_orthography>level</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ɗʌw</IPA_transcription>
+<gloss>where</gloss>
+</item>
+
+<item>
+<entry>111</entry>
+<native_orthography>short low</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ɗʌw</IPA_transcription>
+<gloss>beans</gloss>
+</item>
+
+<item>
+<entry>112</entry>
+<native_orthography>level</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>haj</IPA_transcription>
+<gloss>two</gloss>
+</item>
+
+<item>
+<entry>113</entry>
+<native_orthography>short low</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>haj</IPA_transcription>
+<gloss>losses</gloss>
+</item>
+
+<item>
+<entry>114</entry>
+<native_orthography>level</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ɓaŋ</IPA_transcription>
+<gloss>committee</gloss>
+</item>
+
+<item>
+<entry>115</entry>
+<native_orthography>short low</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ɓaŋ</IPA_transcription>
+<gloss>friend</gloss>
+</item>
+
+<item>
+<entry>116</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ɗɯŋ</IPA_transcription>
+<gloss>stand</gloss>
+</item>
+
+<item>
+<entry>117</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ɗɯŋ</IPA_transcription>
+<gloss>don't</gloss>
+</item>
+
+<item>
+<entry>118</entry>
+<native_orthography>short low</native_orthography>
+<alt_orthography>no phonemic transcription given</alt_orthography>
+<IPA_transcription>ɗɯŋ</IPA_transcription>
+<gloss>hold</gloss>
+</item>
+</wordlist>
+
+
+
+
+
+

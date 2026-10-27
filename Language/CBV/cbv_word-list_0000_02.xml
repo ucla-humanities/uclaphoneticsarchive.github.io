@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Cacua</language_name>
+
+
+
+
+
+
+<headers>
+
+<orthography_header>Sound Illustrated</orthography_header>
+<alt_orthography_header></alt_orthography_header>
+<IPA_header>Phonemic Transcription</IPA_header>
+<alt_IPA_header>Phonetic Transcription</alt_IPA_header>
+<gloss_header>Spanish</gloss_header>
+<alt_gloss_header>English</alt_gloss_header>
+<semantic_category_header></semantic_category_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>p</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>pīt</IPA_transcription>
+<alt_IPA_transcription>pít˭</alt_IPA_transcription>
+<gloss>especie de pajarito</gloss>
+<alt_gloss>small bird species</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>t</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tík</IPA_transcription>
+<alt_IPA_transcription>tík˭</alt_IPA_transcription>
+<gloss>esconder</gloss>
+<alt_gloss>to hide</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>č</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>číʔ</IPA_transcription>
+<alt_IPA_transcription>čí?˭</alt_IPA_transcription>
+<gloss>brotar</gloss>
+<alt_gloss>to sprout</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>k</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kíp</IPA_transcription>
+<alt_IPA_transcription>kíp˭</alt_IPA_transcription>
+<gloss>pellizcar</gloss>
+<alt_gloss>to pinch</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>ʔ</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ʔíp</IPA_transcription>
+<alt_IPA_transcription>ʔíp˭</alt_IPA_transcription>
+<gloss>padre</gloss>
+<alt_gloss>father</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>b</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kēb</IPA_transcription>
+<alt_IPA_transcription>kɛ́bᵐ</alt_IPA_transcription>
+<gloss>paca, o lapa, un especie de animal</gloss>
+<alt_gloss>species of animal</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>d</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ʔēd</IPA_transcription>
+<alt_IPA_transcription>ʔɛ́dⁿ</alt_IPA_transcription>
+<gloss>especie de pajarito</gloss>
+<alt_gloss>small bird species</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>g</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ʔég</IPA_transcription>
+<alt_IPA_transcription>ʔɛgᵑ</alt_IPA_transcription>
+<gloss>vomitar</gloss>
+<alt_gloss>to vomit</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>W</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Wìbìp</IPA_transcription>
+<alt_IPA_transcription>Wìbìp˭</alt_IPA_transcription>
+<gloss>tábano</gloss>
+<alt_gloss>horsefly</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>h</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>hìbìdìʔ kā bèhèp</IPA_transcription>
+<alt_IPA_transcription>hìbìdìʔ kā bɛ̀hɛ̀p˭</alt_IPA_transcription>
+<gloss>voy a pasear</gloss>
+<alt_gloss>I'm going for a walk</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>w</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>dē̜wè</IPA_transcription>
+<alt_IPA_transcription>nǣ̜w̜ǽ̜</alt_IPA_transcription>
+<gloss>hombre</gloss>
+<alt_gloss>man</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>y</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>hē̜yè</IPA_transcription>
+<alt_IPA_transcription>h̜ɛ̜̄y̜ɛ́</alt_IPA_transcription>
+<gloss>hermano mayor</gloss>
+<alt_gloss>older brother</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>p</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>pé̜ddàʔ</IPA_transcription>
+<alt_IPA_transcription>pé̜ndàʔ</alt_IPA_transcription>
+<gloss>tambor</gloss>
+<alt_gloss>drum</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>b</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bēddà̜kā</IPA_transcription>
+<alt_IPA_transcription>bɛ̄dⁿná̜kā</alt_IPA_transcription>
+<gloss>se acaba</gloss>
+<alt_gloss>it's finished, over</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>W</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>Wébèʔ</IPA_transcription>
+<alt_IPA_transcription>Wɛ́bɛ̀ʔ˭</alt_IPA_transcription>
+<gloss>pajarito</gloss>
+<alt_gloss>small bird</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>w</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>wébít</IPA_transcription>
+<alt_IPA_transcription>wɛ́bít˭</alt_IPA_transcription>
+<gloss>niño</gloss>
+<alt_gloss>child</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>t</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>hòtáʔdà̜ʔ</IPA_transcription>
+<alt_IPA_transcription>hòtáʔnàʔ</alt_IPA_transcription>
+<gloss>trompeta larga</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>d</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>yèdéʔ</IPA_transcription>
+<alt_IPA_transcription>yɛ̀dɛ́ʔ˭</alt_IPA_transcription>
+<gloss>perico</gloss>
+<alt_gloss>parakeet</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>r</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ʔèréʔ</IPA_transcription>
+<alt_IPA_transcription>ʔɛ̀ľɛ́ʔ˭</alt_IPA_transcription>
+<gloss>guacamayo azul</gloss>
+<alt_gloss>blue macaw</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>č</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>čítàʔ</IPA_transcription>
+<alt_IPA_transcription>čítàʔ˭</alt_IPA_transcription>
+<gloss>color</gloss>
+<alt_gloss>color</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>y</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>yírìp</IPA_transcription>
+<alt_IPA_transcription>yíľìp˭</alt_IPA_transcription>
+<gloss>pasto</gloss>
+<alt_gloss>pasture</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>k</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tíkī</IPA_transcription>
+<alt_IPA_transcription>tíkí</alt_IPA_transcription>
+<gloss>escóndaseǃ</gloss>
+<alt_gloss>hide!</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>g</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tígì</IPA_transcription>
+<alt_IPA_transcription>tígì</alt_IPA_transcription>
+<gloss>especie de hormiga</gloss>
+<alt_gloss>ant species</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>ʔ</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ʔīgdàkā</IPA_transcription>
+<alt_IPA_transcription>ʔīgᵑná̜kā</alt_IPA_transcription>
+<gloss>quema</gloss>
+<alt_gloss>burn, burning</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>h</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>hígdà̜kā</IPA_transcription>
+<alt_IPA_transcription>hígᵑnà̜kā</alt_IPA_transcription>
+<gloss>(él) cuelga la hamaca</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>i</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kìbdàʔ</IPA_transcription>
+<alt_IPA_transcription>kíbᵐdàʔ</alt_IPA_transcription>
+<gloss>ojo</gloss>
+<alt_gloss>eye</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>e</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kēb</IPA_transcription>
+<alt_IPA_transcription>kébᵐ</alt_IPA_transcription>
+<gloss>paca o lapa, un especie de animal</gloss>
+<alt_gloss>species of animal</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>i</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tìbdà̜kā</IPA_transcription>
+<alt_IPA_transcription>tìbᵐnà̜kā</alt_IPA_transcription>
+<gloss>él tumba</gloss>
+<alt_gloss>a grave</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>ɨ</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tɨ̀bdà̜kā</IPA_transcription>
+<alt_IPA_transcription>tɨ̀bᵐnà̜kā</alt_IPA_transcription>
+<gloss>le duele</gloss>
+<alt_gloss>causes pain</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>a</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bɨ́bá</IPA_transcription>
+<alt_IPA_transcription>bɨ́bá</alt_IPA_transcription>
+<gloss>peinilla</gloss>
+<alt_gloss>machete</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>e</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bɨ̄bè</IPA_transcription>
+<alt_IPA_transcription>bɨ̄bɛ́</alt_IPA_transcription>
+<gloss>especie de mariposa nocturna</gloss>
+<alt_gloss>nocturnal butterfly species</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>ɨ</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bɨ̄bɨ̀</IPA_transcription>
+<alt_IPA_transcription>bɨ̄bɨ̌</alt_IPA_transcription>
+<gloss>sapo</gloss>
+<alt_gloss>toad</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>o</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bóddà̜kā</IPA_transcription>
+<alt_IPA_transcription>bódⁿnà̜kā</alt_IPA_transcription>
+<gloss>(él) roe</gloss>
+<alt_gloss>(he) gnaws</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>ɨ</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bɨ̄ddà̜kā</IPA_transcription>
+<alt_IPA_transcription>bɨ̄dⁿná̜kā</alt_IPA_transcription>
+<gloss>(él) pierda</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>a</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bāddà̜kā</IPA_transcription>
+<alt_IPA_transcription>bādⁿná̜kā</alt_IPA_transcription>
+<gloss>(él) excava</gloss>
+<alt_gloss>(he) digs</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>x́</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kɨ̀k mɨ̜́</IPA_transcription>
+<alt_IPA_transcription>kɨ̀k˭ mɨ̂·</alt_IPA_transcription>
+<gloss>especie de hormiga volador</gloss>
+<alt_gloss>flying ant species</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>x̄</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bɨ́k mɨ̜̄</IPA_transcription>
+<alt_IPA_transcription>bɨ́k˭ mɨ̌·</alt_IPA_transcription>
+<gloss>una casa</gloss>
+<alt_gloss>a house</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>x̀</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bɨ́k mɨ̜̀</IPA_transcription>
+<alt_IPA_transcription>bɨ́k˭ mɨ̂·</alt_IPA_transcription>
+<gloss>un pecarí</gloss>
+<alt_gloss>a wild hog</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>x́</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>wà̜wáydà̜kā</IPA_transcription>
+<alt_IPA_transcription>wà̜wâynà̜kā</alt_IPA_transcription>
+<gloss>yo pesco</gloss>
+<alt_gloss>(I) fish</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>x̄</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>wà̜wā̜ydà̜kā</IPA_transcription>
+<alt_IPA_transcription>wà̜wā̜yná̜kā</alt_IPA_transcription>
+<gloss>yo presto</gloss>
+<alt_gloss>(I) offer</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>x̀</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>wà̜wàydà̜kā</IPA_transcription>
+<alt_IPA_transcription>wà̜wàynà̜kā</alt_IPA_transcription>
+<gloss>yo coso</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>x̄</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bík bā̜ʔ</IPA_transcription>
+<alt_IPA_transcription>bík˭ mǎ̜ʔ˭</alt_IPA_transcription>
+<gloss>un capitán</gloss>
+<alt_gloss>a captain</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>x̀</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bík bà̜ʔ</IPA_transcription>
+<alt_IPA_transcription>bík˭ mà̜ʔ˭</alt_IPA_transcription>
+<gloss>una hamaca, agua</gloss>
+<alt_gloss>hammock</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>x́</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bɨ́ddà̜kā</IPA_transcription>
+<alt_IPA_transcription>bɨ́dⁿnà̜kā</alt_IPA_transcription>
+<gloss>baila de mano</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>x̄</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bɨ̄ddàkā</IPA_transcription>
+<alt_IPA_transcription>bɨ̄dⁿná̜kā</alt_IPA_transcription>
+<gloss>(él) pierde</gloss>
+<alt_gloss>(he) loses</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>x́</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>híbhɨ̜̀bdà̜kā</IPA_transcription>
+<alt_IPA_transcription>híbᵐhɨ̜̀mnà̜kā</alt_IPA_transcription>
+<gloss>vale</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>x̀</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>hìbdà̜kā</IPA_transcription>
+<alt_IPA_transcription>hìbᵐnà̜kā</alt_IPA_transcription>
+<gloss>(yo) paseo</gloss>
+<alt_gloss>(I) walk</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>x́x̀</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bík dádàʔ</IPA_transcription>
+<alt_IPA_transcription>bík dádàʔ</alt_IPA_transcription>
+<gloss>una mariposa</gloss>
+<alt_gloss>a butterfly</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>x̀x̀</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bík dàdàʔ</IPA_transcription>
+<alt_IPA_transcription>bík dàdàʔ</alt_IPA_transcription>
+<gloss>una sombra, reflexión de una cosa</gloss>
+<alt_gloss>a shadow, reflexion</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>x̀x̀</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bík bàràʔ</IPA_transcription>
+<alt_IPA_transcription>bík bàľàʔ</alt_IPA_transcription>
+<gloss>una ardilla</gloss>
+<alt_gloss>a squirrel</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>x̀x́</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bík àráʔ</IPA_transcription>
+<alt_IPA_transcription>bík bàľáʔ</alt_IPA_transcription>
+<gloss>una oja de cierto especie de planta</gloss>
+<alt_gloss>leaf of a certain plant species</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>x̄x̀</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bēkčì</IPA_transcription>
+<alt_IPA_transcription>bɛ̄k˭ čí</alt_IPA_transcription>
+<gloss>polvo</gloss>
+<alt_gloss>dust</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>x̀x̀</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>bɛ̀kčì</IPA_transcription>
+<alt_IPA_transcription>bɛ̀k˭ čì</alt_IPA_transcription>
+<gloss>fariña</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>čá</IPA_transcription>
+<alt_IPA_transcription>čâ·</alt_IPA_transcription>
+<gloss>flor</gloss>
+<alt_gloss>flower</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>čá̜</IPA_transcription>
+<alt_IPA_transcription>čâ̜·</alt_IPA_transcription>
+<gloss>escama de pez</gloss>
+<alt_gloss>scale (fish)</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>yàw</IPA_transcription>
+<alt_IPA_transcription>yâw</alt_IPA_transcription>
+<gloss>estar lleno</gloss>
+<alt_gloss>to be full</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>yá̜w</IPA_transcription>
+<alt_IPA_transcription>ñâ̜w</alt_IPA_transcription>
+<gloss>correr</gloss>
+<alt_gloss>to run</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>dádàʔ</IPA_transcription>
+<alt_IPA_transcription>dádàʔ</alt_IPA_transcription>
+<gloss>mariposa</gloss>
+<alt_gloss>butterfly</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>dà̜dàp</IPA_transcription>
+<alt_IPA_transcription>nà̜ňà̜p˭</alt_IPA_transcription>
+<gloss>mosca</gloss>
+<alt_gloss>fly</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>hòtát</IPA_transcription>
+<alt_IPA_transcription>hòtát</alt_IPA_transcription>
+<gloss>trompeta larga</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>há̜tàʔ</IPA_transcription>
+<alt_IPA_transcription>h̜á̜tà̜ʔ</alt_IPA_transcription>
+<gloss>especie de caña</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>čìróràʔ</IPA_transcription>
+<alt_IPA_transcription>čìľóľàʔ</alt_IPA_transcription>
+<gloss>pantalones largos</gloss>
+<alt_gloss>pants</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>čì̜gáráʔ</IPA_transcription>
+<alt_IPA_transcription>čì̜ŋá̜ňá̜ʔ</alt_IPA_transcription>
+<gloss>especie de hormiga</gloss>
+<alt_gloss>ant species</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>má - dàʔ</IPA_transcription>
+<alt_IPA_transcription>mâ·dàʔ</alt_IPA_transcription>
+<gloss>esfera de madera</gloss>
+<alt_gloss></alt_gloss>
+<semantic_category></semantic_category>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>má - dà̜ʔ</IPA_transcription>
+<alt_IPA_transcription>mâ·nà̜ʔ</alt_IPA_transcription>
+<gloss>árbol, palo</gloss>
+<alt_gloss>tree, stick</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+</wordlist>
+
+
+
+
+
+
+
+
+

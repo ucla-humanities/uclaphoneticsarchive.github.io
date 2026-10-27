@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<metadata>
+<language_name>Azerbaijani</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language:</lang_name_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<speakers_header>Speakers</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>Tiff Image</image_tif_header>
+<image_tif2_header>Tiff Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality </tif_quality_header>
+<jpg_quality_header>JPG Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<lang_name>Azerbaijani</lang_name>
+<sil_code>AZB</sil_code>
+<content>Word List</content>
+<recording_location>speaker is from Tehran, Iran</recording_location>
+<recording_date>May, 1985</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<speakers>n/a</speakers>
+<filename_audio>azb_word-list_1985_01</filename_audio>
+<filename_wav>azb_word-list_1985_01.wav</filename_wav>
+<filename_mp3>azb_word-list_1985_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>azb_word-list_1985_01.html</wordlist>
+<wordlist_entries>1 - 55</wordlist_entries>
+<image_tif>azb_word-list_1985_01.tif</image_tif>
+<image_tif2>azb_word-list_1985_02.tif</image_tif2>
+<image_jpg>azb_word-list_1985_01.jpg</image_jpg>
+<image_jpg2>azb_word-list_1985_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>azb_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>azb_word-list_1985_01.html</wordlist_no_repetition>
+<link_within_wordlist>azb_word-list_1985_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>Azerbaijani</lang_name>
+<sil_code>AZB</sil_code>
+<content>Word List</content>
+<recording_location>speaker is from Tehran, Iran</recording_location>
+<recording_date>May, 1986</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<speakers>n/a</speakers>
+<filename_audio>azb_word-list_1985_02</filename_audio>
+<filename_wav>azb_word-list_1985_02.wav</filename_wav>
+<filename_mp3>azb_word-list_1985_02.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>azb_word-list_1985_02.html</wordlist>
+<wordlist_entries>56 - 119</wordlist_entries>
+<image_tif>azb_word-list_1985_02.tif</image_tif>
+<image_tif2>azb_word-list_1985_03.tif</image_tif2>
+<image_jpg>azb_word-list_1985_02.jpg</image_jpg>
+<image_jpg2>azb_word-list_1985_03.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>azb_record_details.html#2</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>azb_word-list_1985_01.html</wordlist_no_repetition>
+<link_within_wordlist>azb_word-list_1985_01.html#56</link_within_wordlist>
+</item>
+</metadata>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

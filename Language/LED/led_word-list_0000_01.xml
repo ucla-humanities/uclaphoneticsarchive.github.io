@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Lendu</language_name>
+
+
+
+<headers>
+
+<native_orthography>Transcription</native_orthography>
+<alt_orthography>French</alt_orthography>
+<IPA_header>English</IPA_header>
+<gloss_header>Notes</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>bà</native_orthography>
+<alt_orthography>obtenir</alt_orthography>
+<IPA_transcription>to get</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>ɓà</native_orthography>
+<alt_orthography>laisser</alt_orthography>
+<IPA_transcription>to leave/to let</IPA_transcription>
+<gloss>ɓ is written "bb" in original document</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>ɓ̥à</native_orthography>
+<alt_orthography>être attaché</alt_orthography>
+<IPA_transcription>to be attached</IPA_transcription>
+<gloss>ɓ̥ is written "b' " in original document</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>pà</native_orthography>
+<alt_orthography>balançoire</alt_orthography>
+<IPA_transcription>swing</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>bì</native_orthography>
+<alt_orthography>rouiller, brûler</alt_orthography>
+<IPA_transcription>to rust, to burn</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>ɓì</native_orthography>
+<alt_orthography>être rongé par les charençons</alt_orthography>
+<IPA_transcription>to be gnawed by weevils</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>ɓ̥ì</native_orthography>
+<alt_orthography>passer sous silence</alt_orthography>
+<IPA_transcription>to overlook</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>pì</native_orthography>
+<alt_orthography>abaisser</alt_orthography>
+<IPA_transcription>to lower</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>bò</native_orthography>
+<alt_orthography>saisir brusquement</alt_orthography>
+<IPA_transcription>grab suddenly</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>ɓò</native_orthography>
+<alt_orthography>diminuer en quantité</alt_orthography>
+<IPA_transcription>decrease in quantity</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>ɓ̥ò</native_orthography>
+<alt_orthography>attendre quelqu'un</alt_orthography>
+<IPA_transcription>wait for someone</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>pò</native_orthography>
+<alt_orthography>dire</alt_orthography>
+<IPA_transcription>to say</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>bɔ̀</native_orthography>
+<alt_orthography>couver</alt_orthography>
+<IPA_transcription>to sit on</IPA_transcription>
+<gloss>ɔ is written as "o" in original, with a note</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>ɓɔ̀</native_orthography>
+<alt_orthography>accusation</alt_orthography>
+<IPA_transcription>accusation</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>ɓ̥ɔ̀</native_orthography>
+<alt_orthography>nom d'une rivière</alt_orthography>
+<IPA_transcription>name of a river</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>dà</native_orthography>
+<alt_orthography>passer</alt_orthography>
+<IPA_transcription>to pass</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>ddà</native_orthography>
+<alt_orthography>être long</alt_orthography>
+<IPA_transcription>to be long</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>d'à</native_orthography>
+<alt_orthography>être bon</alt_orthography>
+<IPA_transcription>to be good</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>tà</native_orthography>
+<alt_orthography>attraper</alt_orthography>
+<IPA_transcription>to catch</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>ddè</native_orthography>
+<alt_orthography>être verdoyant</alt_orthography>
+<IPA_transcription>to be green</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>d'è</native_orthography>
+<alt_orthography>contourner</alt_orthography>
+<IPA_transcription>to go round</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>dì</native_orthography>
+<alt_orthography>délimiter</alt_orthography>
+<IPA_transcription>to define a boundary</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>ddì</native_orthography>
+<alt_orthography>goûter</alt_orthography>
+<IPA_transcription>to taste</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>d'ì</native_orthography>
+<alt_orthography>couper</alt_orthography>
+<IPA_transcription>to cut</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>tì</native_orthography>
+<alt_orthography>parler</alt_orthography>
+<IPA_transcription>to talk</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>dì</native_orthography>
+<alt_orthography>chasser</alt_orthography>
+<IPA_transcription>to hunt</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>ddì</native_orthography>
+<alt_orthography>calme</alt_orthography>
+<IPA_transcription>calm</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>d'ì</native_orthography>
+<alt_orthography>autre</alt_orthography>
+<IPA_transcription>other</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>tì</native_orthography>
+<alt_orthography>sauter</alt_orthography>
+<IPA_transcription>to jump</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>ɟà</native_orthography>
+<alt_orthography>déformer les lèvres</alt_orthography>
+<IPA_transcription>to purse the lips</IPA_transcription>
+<gloss>ɟ is written "dy" in original</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>ɟ̥à</native_orthography>
+<alt_orthography>tisser</alt_orthography>
+<IPA_transcription>weave</IPA_transcription>
+<gloss>ɟ̥ is written "d'y" in original</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>jà</native_orthography>
+<alt_orthography>annoncer</alt_orthography>
+<IPA_transcription>announce</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>ɟě</native_orthography>
+<alt_orthography>vomir</alt_orthography>
+<IPA_transcription>to vomit</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>ɟ̥ě</native_orthography>
+<alt_orthography>regarder en biais</alt_orthography>
+<IPA_transcription>to look from a certain angle</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>jě</native_orthography>
+<alt_orthography>fendre en partie</alt_orthography>
+<IPA_transcription>to split in pieces</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>ɟɯ̀</native_orthography>
+<alt_orthography>bouger</alt_orthography>
+<IPA_transcription>to move</IPA_transcription>
+<gloss>written "dyù" in original, with a note</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>ɟ̥ɵ̀</native_orthography>
+<alt_orthography>s'appuyer</alt_orthography>
+<IPA_transcription>to lean against</IPA_transcription>
+<gloss>written "d'yù" in original, with a note</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>jù</native_orthography>
+<alt_orthography>arracher</alt_orthography>
+<IPA_transcription>to tear out</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>ɟ̥ɔ́</native_orthography>
+<alt_orthography>corne</alt_orthography>
+<IPA_transcription>horn, antler</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>ɟɔ́</native_orthography>
+<alt_orthography>finement</alt_orthography>
+<IPA_transcription>finely, delicately</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>jɔ́</native_orthography>
+<alt_orthography>chasser</alt_orthography>
+<IPA_transcription>to hunt</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>gà</native_orthography>
+<alt_orthography>ressuciter</alt_orthography>
+<IPA_transcription>to rise</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>gbà</native_orthography>
+<alt_orthography>mettre en jeu</alt_orthography>
+<IPA_transcription>to put in play</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>kpà</native_orthography>
+<alt_orthography>couper</alt_orthography>
+<IPA_transcription>to cut</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>kà</native_orthography>
+<alt_orthography>suffir</alt_orthography>
+<IPA_transcription>to be enough</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>gè</native_orthography>
+<alt_orthography>vin de palme</alt_orthography>
+<IPA_transcription>palm wine</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>gbē</native_orthography>
+<alt_orthography>plier</alt_orthography>
+<IPA_transcription>to fold</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>kpè</native_orthography>
+<alt_orthography>entaîner</alt_orthography>
+<IPA_transcription>entertain</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>kè</native_orthography>
+<alt_orthography>ceuillir</alt_orthography>
+<IPA_transcription>pick (fruit)</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>gbò</native_orthography>
+<alt_orthography>espèce d'animal sauvage</alt_orthography>
+<IPA_transcription>species of wild animal</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>gò</native_orthography>
+<alt_orthography>se taire</alt_orthography>
+<IPA_transcription>to shut up</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>kpò</native_orthography>
+<alt_orthography>se refroidir</alt_orthography>
+<IPA_transcription>to be colder</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>kò</native_orthography>
+<alt_orthography>s'agenouiller</alt_orthography>
+<IPA_transcription>to kneel</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>gbǔ</native_orthography>
+<alt_orthography>complètement</alt_orthography>
+<IPA_transcription>completely</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>ngǔ</native_orthography>
+<alt_orthography>froncer les sourcils</alt_orthography>
+<IPA_transcription>to frown</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>kpǔ</native_orthography>
+<alt_orthography>mot qui marque la désaprobation</alt_orthography>
+<IPA_transcription>a word that shows disagreement</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>ddrè</native_orthography>
+<alt_orthography>longtemps</alt_orthography>
+<IPA_transcription>a long time</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>dzè</native_orthography>
+<alt_orthography>pousser</alt_orthography>
+<IPA_transcription>to push</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>sɵ̀</native_orthography>
+<alt_orthography>doucement</alt_orthography>
+<IPA_transcription>slowly</IPA_transcription>
+<gloss>written "sè" in original with a note</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>d'rè</native_orthography>
+<alt_orthography>être suffisant</alt_orthography>
+<IPA_transcription>to be enough</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>ddrr̀</native_orthography>
+<alt_orthography>attirer</alt_orthography>
+<IPA_transcription>to attract</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>dzz̀</native_orthography>
+<alt_orthography>pleurs</alt_orthography>
+<IPA_transcription>to cry</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>ss̀</native_orthography>
+<alt_orthography>préparer la bière</alt_orthography>
+<IPA_transcription>to make beer</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>d'rr̀</native_orthography>
+<alt_orthography>recouvrir de peinture</alt_orthography>
+<IPA_transcription>cover with paint</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>ddrì</native_orthography>
+<alt_orthography>espèce d'oiseau</alt_orthography>
+<IPA_transcription>bird species</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>dzì</native_orthography>
+<alt_orthography>l'autre côté</alt_orthography>
+<IPA_transcription>to other side</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>sì</native_orthography>
+<alt_orthography>venir</alt_orthography>
+<IPA_transcription>to come</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>d'rr̀</native_orthography>
+<alt_orthography>frotter</alt_orthography>
+<IPA_transcription>to rub</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>dzì</native_orthography>
+<alt_orthography>prendre</alt_orthography>
+<IPA_transcription>to take</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>b'hé</native_orthography>
+<alt_orthography>cavité</alt_orthography>
+<IPA_transcription>cavity</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>Bò</native_orthography>
+<alt_orthography>tout plein</alt_orthography>
+<IPA_transcription>full</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>BòkàBòkà</native_orthography>
+<alt_orthography>en petits morceaus (moudre, casser)</alt_orthography>
+<IPA_transcription>little pieces</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>brr̀</native_orthography>
+<alt_orthography>sauter, se précipiter</alt_orthography>
+<IPA_transcription>to jump, to hurry</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>brr̄</native_orthography>
+<alt_orthography>marmotte</alt_orthography>
+<IPA_transcription>groundhog</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>brr̀</native_orthography>
+<alt_orthography>sauter</alt_orthography>
+<IPA_transcription>to jump</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>zz̀</native_orthography>
+<alt_orthography>pondre</alt_orthography>
+<IPA_transcription>to lay</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>zž</native_orthography>
+<alt_orthography>traire</alt_orthography>
+<IPA_transcription>to milk</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>zz̀zź</native_orthography>
+<alt_orthography>buisson</alt_orthography>
+<IPA_transcription>a bush</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>zźzz̀</native_orthography>
+<alt_orthography>déchets</alt_orthography>
+<IPA_transcription>trash</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>thà</native_orthography>
+<alt_orthography>déchirer</alt_orthography>
+<IPA_transcription>to tear up</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>dhà</native_orthography>
+<alt_orthography>ranger</alt_orthography>
+<IPA_transcription>to store, to tie up</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>thè</native_orthography>
+<alt_orthography>avoir le hoquet</alt_orthography>
+<IPA_transcription>to have hiccups</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>dhè</native_orthography>
+<alt_orthography>mourir</alt_orthography>
+<IPA_transcription>to die</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>dhì</native_orthography>
+<alt_orthography>frapper</alt_orthography>
+<IPA_transcription>to hit</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>thì</native_orthography>
+<alt_orthography>soigner</alt_orthography>
+<IPA_transcription>to treat, to take care of</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography>dhú</native_orthography>
+<alt_orthography>demander</alt_orthography>
+<IPA_transcription>to ask</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>thú</native_orthography>
+<alt_orthography>jurer</alt_orthography>
+<IPA_transcription>to swear</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>here there is a section missing from the word-list</native_orthography>
+<alt_orthography></alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>ba</native_orthography>
+<alt_orthography>obtenir</alt_orthography>
+<IPA_transcription>to get</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography>ke bà pàlátà djó nrǔ-sʉdha dhí lò pi dhó ròː</native_orthography>
+<alt_orthography>il a reçu la permission du chef d'arrêter les gens pour l'impôt</alt_orthography>
+<IPA_transcription>He had give the chief's permission to arrest people for the tax</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography>ɓà</native_orthography>
+<alt_orthography>laisser</alt_orthography>
+<IPA_transcription>to leave/to let</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography>nzǐ kǒ ɓa kò-làɨ mbǔ dhóthɨ nàː</native_orthography>
+<alt_orthography>ne laissons pas notre prochain aux mains des ennemis</alt_orthography>
+<IPA_transcription>don't leave our fellow man in the hands of the enemies</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography>ɓ̥à</native_orthography>
+<alt_orthography>être attaché</alt_orthography>
+<IPA_transcription>to be attached</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography>màshúà ɓ̥àɓ̥ǎ d'o nǎːró...</native_orthography>
+<alt_orthography>l'auto est bloquée dans la boue...</alt_orthography>
+<IPA_transcription>the car is stuck in the mud</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography>pà</native_orthography>
+<alt_orthography>balançoire</alt_orthography>
+<IPA_transcription>to swing</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography>nzǿ pà wɨ̌ː</native_orthography>
+<alt_orthography>les enfants se balancent</alt_orthography>
+<IPA_transcription>the children are swinging</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<native_orthography>bì</native_orthography>
+<alt_orthography>brûler</alt_orthography>
+<IPA_transcription>to burn</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<native_orthography>dza vò bìbǐː</native_orthography>
+<alt_orthography>la foudre a brûlé la maison</alt_orthography>
+<IPA_transcription>the lightning burned the house</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography>ɓì</native_orthography>
+<alt_orthography>être rongépar les charençons</alt_orthography>
+<IPA_transcription>to be chewed by termites</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography>gø̌dha ɓìɓǐ ná lò dhò, gø̌dhá 'ǒ njǔ nzǐː</native_orthography>
+<alt_orthography>parce que les haricots sont rongés par les charençons, ils n'ont pas bon goût</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography>ɓ̥ì</native_orthography>
+<alt_orthography>passer sous silence</alt_orthography>
+<IPA_transcription>to overlook</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography>ke le ɓ̥ì ɓ̥ǐ nzǐ ké là mbø̀ róː</native_orthography>
+<alt_orthography>on l'a passé sous silence pour qu'il ne reçoive pas d'argent</alt_orthography>
+<IPA_transcription>?</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography>dà</native_orthography>
+<alt_orthography>passer</alt_orthography>
+<IPA_transcription>to pass</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography>d'yø̌ dà 'í ɓù nǎ mbléː</native_orthography>
+<alt_orthography>la souris est passée dans ce trou-ci</alt_orthography>
+<IPA_transcription>the mouse passed by this hole</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography>ddà</native_orthography>
+<alt_orthography>être long,</alt_orthography>
+<IPA_transcription>to be long</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography>fʉ́ nga ddà che 'igá ròː</native_orthography>
+<alt_orthography>cet endroit est à une grande distance d'ici</alt_orthography>
+<IPA_transcription>this place is far from here</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>107</entry>
+<native_orthography>d'à</native_orthography>
+<alt_orthography>être bon</alt_orthography>
+<IPA_transcription>to be good</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>108</entry>
+<native_orthography>dzɨ̀ d'ànì che sókò nǎː</native_orthography>
+<alt_orthography>le prix est bon marché</alt_orthography>
+<IPA_transcription>the price is good</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>109</entry>
+<native_orthography>tà</native_orthography>
+<alt_orthography>attraper, contaminer</alt_orthography>
+<IPA_transcription>to catch/contaminate</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>110</entry>
+<native_orthography>Djúgù nà má rǎ rò dhè sì tà ma rò chu nàː</native_orthography>
+<alt_orthography>en allant à Djugu, je suis tombé malade en route</alt_orthography>
+<IPA_transcription>on the drive to Djugu, I got sick on the road</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>111</entry>
+<native_orthography>dì</native_orthography>
+<alt_orthography>délimiter</alt_orthography>
+<IPA_transcription>to define a boundary</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>112</entry>
+<native_orthography>ádì tsú dzznàː</native_orthography>
+<alt_orthography>enfonce le poteau dans le sol</alt_orthography>
+<IPA_transcription>he drove a post into the ground</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>113</entry>
+<native_orthography>ddì</native_orthography>
+<alt_orthography>goûter</alt_orthography>
+<IPA_transcription>to taste food</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>114</entry>
+<native_orthography>áddì ri-dzɨ̌ ddì mǎ cheː</native_orthography>
+<alt_orthography>goûte, même un peu</alt_orthography>
+<IPA_transcription>taste, just a little</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>115</entry>
+<native_orthography>d'ì</native_orthography>
+<alt_orthography>couper</alt_orthography>
+<IPA_transcription>to cut</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>116</entry>
+<native_orthography>ke d'ǐ ndì ró mbɨ krʉ́ː</native_orthography>
+<alt_orthography>il acoupe tous ses liens</alt_orthography>
+<IPA_transcription>he cut all his ties</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>117</entry>
+<native_orthography>tì</native_orthography>
+<alt_orthography>parler</alt_orthography>
+<IPA_transcription>to speak</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>118</entry>
+<native_orthography>tí lé ti ri d'è sinì nzáː</native_orthography>
+<alt_orthography>ce n'est ni la fin ou le début de l'affaire</alt_orthography>
+<IPA_transcription>this isn't the end or the beginning of the matter</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>119</entry>
+<native_orthography>ɟù</native_orthography>
+<alt_orthography>bouger</alt_orthography>
+<IPA_transcription>to move</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>120</entry>
+<native_orthography>ke ró rǔ ɟʉ̌nì ɟǔː</native_orthography>
+<alt_orthography>son étoffe "danse"</alt_orthography>
+<IPA_transcription>his "dance" cloth</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>121</entry>
+<native_orthography>ɟ̥ù</native_orthography>
+<alt_orthography>s'appuyer</alt_orthography>
+<IPA_transcription>to lean against</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>122</entry>
+<native_orthography>ke ɟ̥ʉ̀ ndì dza-ɨ́-kpà róː</native_orthography>
+<alt_orthography>?</alt_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>123</entry>
+<native_orthography>jù</native_orthography>
+<alt_orthography>arracher</alt_orthography>
+<IPA_transcription>to pull</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>124</entry>
+<native_orthography>í dza-ká-ɨ́ ká 'àɨ́e jù?</native_orthography>
+<alt_orthography>qui arraché de la paille de cette maison-ci?</alt_orthography>
+<IPA_transcription>who was pulled from the hay of that house</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>125</entry>
+<native_orthography>kprř</native_orthography>
+<alt_orthography>mis en pièces</alt_orthography>
+<IPA_transcription>put in a room</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>126</entry>
+<native_orthography>ke ró rǔ-nga kpa thǎkprřkprřː</native_orthography>
+<alt_orthography>ils ont déchiré ses vêtements en morceaux</alt_orthography>
+<IPA_transcription>they have torn their clothes into bits</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>127</entry>
+<native_orthography>gbrr̀</native_orthography>
+<alt_orthography>en titubant</alt_orthography>
+<IPA_transcription>staggering</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>128</entry>
+<native_orthography>ké ra gbrr̀ː</native_orthography>
+<alt_orthography>il marche en titubant</alt_orthography>
+<IPA_transcription>he walked with a stagger</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>129</entry>
+<native_orthography>gà</native_orthography>
+<alt_orthography>ressusciter</alt_orthography>
+<IPA_transcription>to resuscitate</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>130</entry>
+<native_orthography>ke gà gǎː</native_orthography>
+<alt_orthography>il est ressuscité</alt_orthography>
+<IPA_transcription>he was resuscitated</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>131</entry>
+<native_orthography>gbà</native_orthography>
+<alt_orthography>mettre en jeu</alt_orthography>
+<IPA_transcription>to put in play</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>132</entry>
+<native_orthography>ágnà ma ní nrǔ kǎ cheːróː</native_orthography>
+<alt_orthography>joue le jeu de hasard avec moi, car tu gagnes facilement</alt_orthography>
+<IPA_transcription>Play a game of chance with me, since you will win easily</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>133</entry>
+<native_orthography>kpà</native_orthography>
+<alt_orthography>couper</alt_orthography>
+<IPA_transcription>cut</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>134</entry>
+<native_orthography>ásì ma-djǒ-ká kpàː</native_orthography>
+<alt_orthography>viens me couper les cheveux</alt_orthography>
+<IPA_transcription>come and cut my hair</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>135</entry>
+<native_orthography>kà</native_orthography>
+<alt_orthography>suffir</alt_orthography>
+<IPA_transcription>to be enough</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>136</entry>
+<native_orthography>ddɨ kà kǎː</native_orthography>
+<alt_orthography>çà suffit</alt_orthography>
+<IPA_transcription>it is enough</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>137</entry>
+<native_orthography>gè</native_orthography>
+<alt_orthography>vin de palme</alt_orthography>
+<IPA_transcription>palm wine</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>138</entry>
+<native_orthography>ni ká jø̀ gè fø̀yǎ ngʉ lò tǐ ri?</native_orthography>
+<alt_orthography>as-tu bu du vin de palme pour parler ainsi?</alt_orthography>
+<IPA_transcription>have you drunk palm wine to speak like this?</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>139</entry>
+<native_orthography>gbē</native_orthography>
+<alt_orthography>plier</alt_orthography>
+<IPA_transcription>fold</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>140</entry>
+<native_orthography>ké mbø̀ nǎnga gbě gbě sànzø̀ djòː</native_orthography>
+<alt_orthography>il est en train de courber du fer pour en faire un sanzo</alt_orthography>
+<IPA_transcription>?</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>141</entry>
+<native_orthography>kpè</native_orthography>
+<alt_orthography>entraîner</alt_orthography>
+<IPA_transcription>entertain</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>142</entry>
+<native_orthography>zǎ-dɨ̌-ná-ke zǎ kpèngʉ́e tsó nà hwɨː</native_orthography>
+<alt_orthography>l'animal avait entraîné le chasseur très loin dans la brousse</alt_orthography>
+<IPA_transcription>the animal has led the hunter very far into the bush</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>143</entry>
+<native_orthography>kè</native_orthography>
+<alt_orthography>ceuillir</alt_orthography>
+<IPA_transcription>to pick</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>144</entry>
+<native_orthography>ákè tsú-kpa rò ddìː</native_orthography>
+<alt_orthography>ceuille un fruit</alt_orthography>
+<IPA_transcription>to pick fruit</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>145</entry>
+<native_orthography>ddrr̀</native_orthography>
+<alt_orthography>attirer</alt_orthography>
+<IPA_transcription>to entice</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>146</entry>
+<native_orthography>fʉ́ sǐngba ke ddrr̀ kpákpánga nàː</native_orthography>
+<alt_orthography>il a séduit la jeune fille</alt_orthography>
+<IPA_transcription>he has seduced the young girl</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>147</entry>
+<native_orthography>zz̀</native_orthography>
+<alt_orthography>pondre</alt_orthography>
+<IPA_transcription>to lay</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>148</entry>
+<native_orthography>ǒ zz̀ ɓɨː</native_orthography>
+<alt_orthography>la poule a pondu un oeuf</alt_orthography>
+<IPA_transcription>the hen has laid an egg</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>149</entry>
+<native_orthography>zž</native_orthography>
+<alt_orthography>traire</alt_orthography>
+<IPA_transcription>to milk</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>150</entry>
+<native_orthography>azz tsi-ba</native_orthography>
+<alt_orthography>trais la vache</alt_orthography>
+<IPA_transcription>he is milking the cow</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>151</entry>
+<native_orthography>zz̀zź</native_orthography>
+<alt_orthography>buisson</alt_orthography>
+<IPA_transcription>bush</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>152</entry>
+<native_orthography>zźzz̀</native_orthography>
+<alt_orthography>déchets</alt_orthography>
+<IPA_transcription>scraps</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>153</entry>
+<native_orthography>áɓʉ̌ wa zźzz̀ djø̀ dhòː</native_orthography>
+<alt_orthography>donne les déchets de la bière au porc</alt_orthography>
+<IPA_transcription>give the scraps of food to the pig</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>154</entry>
+<native_orthography>brr̀</native_orthography>
+<alt_orthography>sauter</alt_orthography>
+<IPA_transcription>to jump</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>155</entry>
+<native_orthography>lɨ̌ brr̀‿nì dzz djò kprɨ̀</native_orthography>
+<alt_orthography>le singe est tombé sur le sol</alt_orthography>
+<IPA_transcription>the monkey is falling to the ground</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>156</entry>
+<native_orthography>brr̄</native_orthography>
+<alt_orthography>marmotte</alt_orthography>
+<IPA_transcription>groundhog</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>157</entry>
+<native_orthography>ke pǐ brr̄ː</native_orthography>
+<alt_orthography>il a attrapé une marmotte</alt_orthography>
+<IPA_transcription>he was catching a groundhog</IPA_transcription>
+<gloss></gloss>
+</item>
+</wordlist>

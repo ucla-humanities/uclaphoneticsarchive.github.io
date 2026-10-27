@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+<language_name>Kwangali</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language:</lang_name_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<speakers_header>Speakers</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>Tiff Image</image_tif_header>
+<image_tif2_header>Tiff Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality </tif_quality_header>
+<jpg_quality_header>JPG Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<lang_name>Kwangali</lang_name>
+<sil_code>KWN</sil_code>
+<content>Word List</content>
+<recording_location>Nkurenkuru, Kavango, Namibia</recording_location>
+<recording_date>28 April, 1988</recording_date>
+<fieldworkers>Peter Ladefoged</fieldworkers>
+<speakers>Alfeus Sikwaya, Hermien Nakano, Paulus Koita</speakers>
+<filename_audio>kwn_word-list_1988_01</filename_audio>
+<filename_wav>kwn_word-list_1988_01.wav</filename_wav>
+<filename_mp3>kwn_word-list_1988_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>kwn_word-list_1988_01.html</wordlist>
+<wordlist_entries>1 - 31</wordlist_entries>
+<image_tif>kwn_word-list_1988_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kwn_word-list_1988_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kwn_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kwn_word-list_1988_01.html</wordlist_no_repetition>
+<link_within_wordlist>kwn_word-list_1988_01.html#1</link_within_wordlist>
+</item>
+</metadata>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+
+<language_name>Tongan</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language</lang_name_header>
+<dialect_header>Dialect</dialect_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<origin_header>Speaker Origin</origin_header>
+<speakers_header>Speaker Name</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>TIFF Image</image_tif_header>
+<image_tif2_header>TIFF Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality</tif_quality_header>
+<jpg_quality_header>JPG Image Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>Spring, 1979</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>speaker from Nnukuleka, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1979_01</filename_audio>
+<filename_wav>ton_word-list_1979_01.wav</filename_wav>
+<filename_mp3>ton_word-list_1979_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>reel tape</original_medium>
+<wordlist>ton_word-list_1979_01.html</wordlist>
+<wordlist_entries>1 - 44</wordlist_entries>
+<image_tif>ton_word-list_1979_01.tif</image_tif>
+<image_tif2>ton_word-list_1979_02.tif</image_tif2>
+<image_jpg>ton_word-list_1979_01.jpg</image_jpg>
+<image_jpg2>ton_word-list_1979_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>ton_word-list_1979_01.html</wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1979_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>11 July, 1984</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin> speaker from Vaini, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1984_01</filename_audio>
+<filename_wav>ton_word-list_1984_01.wav</filename_wav>
+<filename_mp3>ton_word-list_1984_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1984_01.html</wordlist>
+<wordlist_entries>1 - 32</wordlist_entries>
+<image_tif>ton_word-list_1984_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>ton_word-list_1984_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#2</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>ton_word-list_1984_01.html</wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1984_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>3</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>11 July, 1984</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin> speaker from Vaini, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1984_02</filename_audio>
+<filename_wav>ton_word-list_1984_02.wav</filename_wav>
+<filename_mp3>ton_word-list_1984_02.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1984_01.html</wordlist>
+<wordlist_entries>33 - 93</wordlist_entries>
+<image_tif>ton_word-list_1984_02.tif</image_tif>
+<image_tif2>ton_word-list_1984_03.tif</image_tif2>
+<image_jpg>ton_word-list_1984_02.jpg</image_jpg>
+<image_jpg2>ton_word-list_1984_03.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#3</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1984_01.html#33</link_within_wordlist>
+</item>
+
+<item>
+<entry>4</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>Fall, 1990</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin> speaker from Nuku'alofa, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1990_01</filename_audio>
+<filename_wav>ton_word-list_1990_01.wav</filename_wav>
+<filename_mp3>ton_word-list_1990_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1990_01.html</wordlist>
+<wordlist_entries>1 - 47</wordlist_entries>
+<image_tif>ton_word-list_1990_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>ton_word-list_1990_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#4</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>ton_word-list_1990_01.html</wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1990_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>5</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>8 March, 1991</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>speaker from Vaini, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1991_01</filename_audio>
+<filename_wav>ton_word-list_1991_01.wav</filename_wav>
+<filename_mp3>ton_word-list_1991_01.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1991_01.html</wordlist>
+<wordlist_entries>1 - 34</wordlist_entries>
+<image_tif>ton_word-list_1991_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>ton_word-list_1991_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#5</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>ton_word-list_1991_01.html</wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1991_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>6</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>8 March, 1991</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>speaker from Vaini, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1991_02</filename_audio>
+<filename_wav>ton_word-list_1991_02.wav</filename_wav>
+<filename_mp3>ton_word-list_1991_02.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1991_01.html</wordlist>
+<wordlist_entries>35 - 69</wordlist_entries>
+<image_tif>ton_word-list_1991_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>ton_word-list_1991_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#6</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1991_01.html#35</link_within_wordlist>
+</item>
+
+<item>
+<entry>7</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>8 March, 1991</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>speaker from Vaini, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1991_03</filename_audio>
+<filename_wav>ton_word-list_1991_03.wav</filename_wav>
+<filename_mp3>ton_word-list_1991_03.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1991_01.html</wordlist>
+<wordlist_entries>70 - 103</wordlist_entries>
+<image_tif>ton_word-list_1991_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>ton_word-list_1991_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#7</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1991_01.html#70</link_within_wordlist>
+</item>
+
+<item>
+<entry>8</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>8 March, 1991</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>speaker from Vaini, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1991_04</filename_audio>
+<filename_wav>ton_word-list_1991_04.wav</filename_wav>
+<filename_mp3>ton_word-list_1991_04.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1991_01.html</wordlist>
+<wordlist_entries>104 - 138</wordlist_entries>
+<image_tif>ton_word-list_1991_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>ton_word-list_1991_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#8</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1991_01.html#104</link_within_wordlist>
+</item>
+
+<item>
+<entry>9</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>8 March, 1991</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>speaker from Vaini, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1991_05</filename_audio>
+<filename_wav>ton_word-list_1991_05.wav</filename_wav>
+<filename_mp3>ton_word-list_1991_05.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1991_01.html</wordlist>
+<wordlist_entries>139 - 173</wordlist_entries>
+<image_tif>ton_word-list_1991_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>ton_word-list_1991_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#9</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1991_01.html#139</link_within_wordlist>
+</item>
+
+<item>
+<entry>10</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>8 March, 1991</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>speaker from Vaini, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1991_06</filename_audio>
+<filename_wav>ton_word-list_1991_06.wav</filename_wav>
+<filename_mp3>ton_word-list_1991_06.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1991_01.html</wordlist>
+<wordlist_entries>174 - 188</wordlist_entries>
+<image_tif>ton_word-list_1991_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>ton_word-list_1991_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#10</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1991_01.html#174</link_within_wordlist>
+</item>
+
+<item>
+<entry>11</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>8 March, 1991</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>speaker from Vaini, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1991_07</filename_audio>
+<filename_wav>ton_word-list_1991_07.wav</filename_wav>
+<filename_mp3>ton_word-list_1991_07.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1991_01.html</wordlist>
+<wordlist_entries>1 - 34</wordlist_entries>
+<image_tif>ton_word-list_1991_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>ton_word-list_1991_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#11</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>ton_word-list_1991_01.html</wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1991_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>12</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>8 March, 1991</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>speaker from Vaini, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1991_08</filename_audio>
+<filename_wav>ton_word-list_1991_08.wav</filename_wav>
+<filename_mp3>ton_word-list_1991_08.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1991_01.html</wordlist>
+<wordlist_entries>35 - 69</wordlist_entries>
+<image_tif>ton_word-list_1991_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>ton_word-list_1991_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#12</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1991_01.html#35</link_within_wordlist>
+</item>
+
+<item>
+<entry>13</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>8 March, 1991</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>speaker from Vaini, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1991_09</filename_audio>
+<filename_wav>ton_word-list_1991_09.wav</filename_wav>
+<filename_mp3>ton_word-list_1991_09.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1991_01.html</wordlist>
+<wordlist_entries>70 - 103</wordlist_entries>
+<image_tif>ton_word-list_1991_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>ton_word-list_1991_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#13</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1991_01.html#70</link_within_wordlist>
+</item>
+
+<item>
+<entry>14</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>8 March, 1991</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>speaker from Vaini, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1991_10</filename_audio>
+<filename_wav>ton_word-list_1991_10.wav</filename_wav>
+<filename_mp3>ton_word-list_1991_10.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1991_01.html</wordlist>
+<wordlist_entries>104 - 138</wordlist_entries>
+<image_tif>ton_word-list_1991_04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>ton_word-list_1991_04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#14</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1991_01.html#104</link_within_wordlist>
+</item>
+
+<item>
+<entry>15</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>8 March, 1991</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>speaker from Vaini, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1991_11</filename_audio>
+<filename_wav>ton_word-list_1991_11.wav</filename_wav>
+<filename_mp3>ton_word-list_1991_11.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1991_01.html</wordlist>
+<wordlist_entries>139 - 173</wordlist_entries>
+<image_tif>ton_word-list_1991_05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>ton_word-list_1991_05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#15</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1991_01.html#139</link_within_wordlist>
+</item>
+
+<item>
+<entry>16</entry>
+<lang_name>Tongan</lang_name>
+<dialect>dialect not specified</dialect>
+<sil_code>ton</sil_code>
+<content>Word List</content>
+<recording_location>UCLA Phonetics Lab</recording_location>
+<recording_date>8 March, 1991</recording_date>
+<fieldworkers>UCLA Student</fieldworkers>
+<origin>speaker from Vaini, Tongatapu, Tonga</origin>
+<speakers>N/A</speakers>
+<filename_audio>ton_word-list_1991_12</filename_audio>
+<filename_wav>ton_word-list_1991_12.wav</filename_wav>
+<filename_mp3>ton_word-list_1991_12.mp3</filename_mp3>
+<wav_quality>44.1 kHz, 16-bit sound depth (bit rate=705 kbps)</wav_quality>
+<mp3_quality>56 kbps</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>ton_word-list_1991_01.html</wordlist>
+<wordlist_entries>174 - 188</wordlist_entries>
+<image_tif>ton_word-list_1991_06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>ton_word-list_1991_06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>ton_record_details.html#16</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>ton_word-list_1991_01.html#174</link_within_wordlist>
+</item>
+</metadata>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

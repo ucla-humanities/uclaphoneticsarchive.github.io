@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Ewe</language_name>
+
+
+<headers>
+
+<orthography_header>Sound Illustrated</orthography_header>
+<IPA_header>IPA Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>voiced bilabial fricative</native_orthography>
+<IPA_transcription>ɛ̀βɛ̀</IPA_transcription>
+<gloss>Ewe (the language)</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>voiced labiodental fricative</native_orthography>
+<IPA_transcription>ɛ̀vɛ̀</IPA_transcription>
+<gloss>two</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>voiceless bilabial fricative</native_orthography>
+<IPA_transcription>éɸá</IPA_transcription>
+<gloss>he polished</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>voiceless labiodental fricative</native_orthography>
+<IPA_transcription>éfá</IPA_transcription>
+<gloss>he was cold</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>voiced bilabial fricative</native_orthography>
+<IPA_transcription>èβló</IPA_transcription>
+<gloss>mushroom</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>voiceless bilabial fricative</native_orthography>
+<IPA_transcription>éɸle</IPA_transcription>
+<gloss>he bought</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>voiced labiodental fricative</native_orthography>
+<IPA_transcription>évló</IPA_transcription>
+<gloss>he is evil</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>voiceless labiodental fricative</native_orthography>
+<IPA_transcription>éflê</IPA_transcription>
+<gloss>he split off</gloss>
+</item>
+</wordlist>
+
+
+
+
+

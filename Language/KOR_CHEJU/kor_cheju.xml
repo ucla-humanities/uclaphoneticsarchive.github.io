@@ -1,0 +1,2000 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata>
+<language_name>Cheju</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language:</lang_name_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<speakers_header>Speakers</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>Tiff Image</image_tif_header>
+<image_tif2_header>Tiff Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality </tif_quality_header>
+<jpg_quality_header>JPG Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+<item>
+<entry>1</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>24 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Poo, Sun-il</speakers>
+<filename_audio>kor_cheju_word-list_1998_01</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_01.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_01.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>24 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Poo, Sun-il</speakers>
+<filename_audio>kor_cheju_word-list_1998_02</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_02.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_02.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#2</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#48</link_within_wordlist>
+</item>
+
+<item>
+<entry>3</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>24 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Poo, Sun-il</speakers>
+<filename_audio>kor_cheju_word-list_1998_03</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_03.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_03.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#3</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>4</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>24 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Poo, Sun-il</speakers>
+<filename_audio>kor_cheju_word-list_1998_04</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_04.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_04.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#4</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>5</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>24 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Hyun, Bok-su</speakers>
+<filename_audio>kor_cheju_word-list_1998_05</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_05.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_05.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#5</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>6</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>24 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Hyun, Bok-su</speakers>
+<filename_audio>kor_cheju_word-list_1998_06</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_06.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_06.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#6</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>7</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>24 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Hyun, Bok-su</speakers>
+<filename_audio>kor_cheju_word-list_1998_07</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_07.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_07.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#7</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>8</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>24 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Hyun, Bok-su</speakers>
+<filename_audio>kor_cheju_word-list_1998_08</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_08.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_08.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#8</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>9</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>24 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Hong, Young-pyo</speakers>
+<filename_audio>kor_cheju_word-list_1998_09</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_09.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_09.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#9</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>10</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>24 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Hong, Young-pyo</speakers>
+<filename_audio>kor_cheju_word-list_1998_10</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_10.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_10.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#10</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>11</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>24 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Hong, Young-pyo</speakers>
+<filename_audio>kor_cheju_word-list_1998_11</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_11.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_11.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#11</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>12</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>24 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Hong, Young-pyo</speakers>
+<filename_audio>kor_cheju_word-list_1998_12</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_12.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_12.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#12</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>13</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>25 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Sung-chu</speakers>
+<filename_audio>kor_cheju_word-list_1998_13</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_13.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_13.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#13</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>14</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>25 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Sung-chu</speakers>
+<filename_audio>kor_cheju_word-list_1998_14</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_14.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_14.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#14</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>15</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>25 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Sung-chu</speakers>
+<filename_audio>kor_cheju_word-list_1998_15</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_15.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_15.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#15</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>16</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>25 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Sung-chu</speakers>
+<filename_audio>kor_cheju_word-list_1998_16</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_16.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_16.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#16</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>17</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>25 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Moon, Je-chang</speakers>
+<filename_audio>kor_cheju_word-list_1998_17</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_17.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_17.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#17</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>18</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>25 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Moon, Je-chang</speakers>
+<filename_audio>kor_cheju_word-list_1998_18</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_18.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_18.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#18</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>19</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>25 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Moon, Je-chang</speakers>
+<filename_audio>kor_cheju_word-list_1998_19</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_19.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_19.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#19</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>20</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>25 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Moon, Je-chang</speakers>
+<filename_audio>kor_cheju_word-list_1998_20</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_20.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_20.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#20</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>21</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>25 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Tae-hun</speakers>
+<filename_audio>kor_cheju_word-list_1998_21</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_21.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_21.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_04.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#21</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>22</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>25 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim ,Tae-bum</speakers>
+<filename_audio>kor_cheju_word-list_1998_22</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_22.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_22.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#22</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>23</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>25 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim ,Tae-bum</speakers>
+<filename_audio>kor_cheju_word-list_1998_23</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_23.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_23.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#23</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>24</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>25 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim ,Tae-bum</speakers>
+<filename_audio>kor_cheju_word-list_1998_24</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_24.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_24.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#24</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>25</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>25 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim ,Tae-bum</speakers>
+<filename_audio>kor_cheju_word-list_1998_25</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_25.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_25.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#25</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>26</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>28 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Yang, Tae-sung</speakers>
+<filename_audio>kor_cheju_word-list_1998_26</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_26.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_26.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#26</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>27</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>28 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Yang, Tae-sung</speakers>
+<filename_audio>kor_cheju_word-list_1998_27</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_27.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_27.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#27</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>28</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>28 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Yang, Tae-sung</speakers>
+<filename_audio>kor_cheju_word-list_1998_28</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_28.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_28.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#28</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>29</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>28 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Yang, Tae-sung</speakers>
+<filename_audio>kor_cheju_word-list_1998_29</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_29.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_29.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#29</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>30</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>28 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Ko, Yu-seng</speakers>
+<filename_audio>kor_cheju_word-list_1998_30</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_30.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_30.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#30</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>31</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>28 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Ko, Yu-seng</speakers>
+<filename_audio>kor_cheju_word-list_1998_31</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_31.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_31.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#31</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>32</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>28 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Ko, Yu-seng</speakers>
+<filename_audio>kor_cheju_word-list_1998_32</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_32.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_32.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#32</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>33</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>28 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Ko, Yu-seng</speakers>
+<filename_audio>kor_cheju_word-list_1998_33</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_33.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_33.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#33</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>34</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>28 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Yang, Se-jin</speakers>
+<filename_audio>kor_cheju_word-list_1998_34</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_34.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_34.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#34</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>35</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Kje-Pjong</speakers>
+<filename_audio>kor_cheju_word-list_1998_35</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_35.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_35.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#35</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>36</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Kje-Pjong</speakers>
+<filename_audio>kor_cheju_word-list_1998_36</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_36.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_36.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#36</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>37</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Kje-Pjong</speakers>
+<filename_audio>kor_cheju_word-list_1998_37</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_37.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_37.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#37</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>38</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Kje-Pjong</speakers>
+<filename_audio>kor_cheju_word-list_1998_38</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_38.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_38.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#38</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>39</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Jung, Sin-sook</speakers>
+<filename_audio>kor_cheju_word-list_1998_39</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_39.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_39.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#39</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>40</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Jung, Sin-sook</speakers>
+<filename_audio>kor_cheju_word-list_1998_40</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_40.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_40.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#40</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>41</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Jung, Sin-sook</speakers>
+<filename_audio>kor_cheju_word-list_1998_41</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_41.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_41.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#41</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>42</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Jung, Sin-sook</speakers>
+<filename_audio>kor_cheju_word-list_1998_42</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_42.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_42.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#42</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>43</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Hyun, Chang-seng</speakers>
+<filename_audio>kor_cheju_word-list_1998_43</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_43.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_43.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#43</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>44</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Hyun, Chang-seng</speakers>
+<filename_audio>kor_cheju_word-list_1998_44</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_44.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_44.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#44</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>45</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Hyun, Chang-seng</speakers>
+<filename_audio>kor_cheju_word-list_1998_45</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_45.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_45.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#45</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>46</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Hyun, Chang-seng</speakers>
+<filename_audio>kor_cheju_word-list_1998_46</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_46.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_46.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#46</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>47</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Oh, Tong-chun</speakers>
+<filename_audio>kor_cheju_word-list_1998_47</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_47.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_47.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#47</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>48</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Oh, Tong-chun</speakers>
+<filename_audio>kor_cheju_word-list_1998_48</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_48.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_48.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#48</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>49</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Oh, Tong-chun</speakers>
+<filename_audio>kor_cheju_word-list_1998_49</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_49.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_49.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#49</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>50</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Oh, Tong-chun</speakers>
+<filename_audio>kor_cheju_word-list_1998_50</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_50.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_50.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#50</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>51</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Jung, Young-A</speakers>
+<filename_audio>kor_cheju_word-list_1998_51</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_51.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_51.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#51</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>52</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Jung, Young-A</speakers>
+<filename_audio>kor_cheju_word-list_1998_52</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_52.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_52.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#52</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>53</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Jung, Young-A</speakers>
+<filename_audio>kor_cheju_word-list_1998_53</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_53.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_53.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#53</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>54</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Jung, Young-A</speakers>
+<filename_audio>kor_cheju_word-list_1998_54</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_54.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_54.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#54</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>55</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Pyung-suk</speakers>
+<filename_audio>kor_cheju_word-list_1998_55</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_55.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_55.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#55</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>56</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Pyung-suk</speakers>
+<filename_audio>kor_cheju_word-list_1998_56</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_56.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_56.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#56</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>57</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Pyung-suk</speakers>
+<filename_audio>kor_cheju_word-list_1998_57</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_57.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_57.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#57</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>58</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>29 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Pyung-suk</speakers>
+<filename_audio>kor_cheju_word-list_1998_58</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_58.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_58.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#58</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>59</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>30 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Yun-jo</speakers>
+<filename_audio>kor_cheju_word-list_1998_59</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_59.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_59.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#59</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>60</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>30 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Yun-jo</speakers>
+<filename_audio>kor_cheju_word-list_1998_60</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_60.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_60.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#60</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>61</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>30 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Yun-jo</speakers>
+<filename_audio>kor_cheju_word-list_1998_61</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_61.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_61.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#61</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>62</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>30 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Yun-jo</speakers>
+<filename_audio>kor_cheju_word-list_1998_62</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_62.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_62.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#62</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>63</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>30 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Lje</speakers>
+<filename_audio>kor_cheju_word-list_1998_63</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_63.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_63.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>1 - 39</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#63</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>64</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>30 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Lje</speakers>
+<filename_audio>kor_cheju_word-list_1998_64</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_64.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_64.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>40 - 77</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#64</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#40</link_within_wordlist>
+</item>
+
+<item>
+<entry>65</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>30 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Lje</speakers>
+<filename_audio>kor_cheju_word-list_1998_65</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_65.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_65.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>78 - 88</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#65</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>66</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>30 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Kim, Lje</speakers>
+<filename_audio>kor_cheju_word-list_1998_66</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_66.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_66.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>89 - 116</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_04.tif</image_tif>
+<image_tif2>kor_cheju_word-list_1998_05.tif</image_tif2>
+<image_jpg>kor_cheju_word-list_1998_04.jpg</image_jpg>
+<image_jpg2>kor_cheju_word-list_1998_05.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#66</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#89</link_within_wordlist>
+</item>
+
+<item>
+<entry>67</entry>
+<lang_name>Cheju</lang_name>
+<sil_code>KOR</sil_code>
+<content>Word List</content>
+<recording_location>Cheju City, Korea</recording_location>
+<recording_date>24 August, 1998</recording_date>
+<fieldworkers>Peter Ladefoged, Sun-Ah Jun</fieldworkers>
+<speakers>Poo, Sun-il; Hong, Young-pyo; Hyun, Bok-su</speakers>
+<filename_audio>kor_cheju_word-list_1998_67</filename_audio>
+<filename_wav>kor_cheju_word-list_1998_67.wav</filename_wav>
+<filename_mp3>kor_cheju_word-list_1998_67.mp3</filename_mp3>
+<wav_quality>48 K, 16-bit sound depth (bit rate=768 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>DAT tape, 48 kHz</original_medium>
+<wordlist>kor_cheju_word-list_1998_01.html</wordlist>
+<wordlist_entries>26</wordlist_entries>
+<image_tif>kor_cheju_word-list_1998_01.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>kor_cheju_word-list_1998_01.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>kor_cheju_record_details.html#67</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>kor_cheju_word-list_1998_01.html</wordlist_no_repetition>
+<link_within_wordlist>kor_cheju_word-list_1998_01.html#26</link_within_wordlist>
+</item>
+
+</metadata>

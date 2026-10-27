@@ -1,0 +1,830 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Cheju</language_name>
+
+
+<headers>
+
+<orthography_header></orthography_header>
+<IPA_header>Cheju IPA</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+<item>
+<entry>1</entry>
+<native_orthography>pʰ</native_orthography>
+<IPA_transcription>pʰamtʃə</IPA_transcription>
+<gloss>to dig</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>pʼ</native_orthography>
+<IPA_transcription>pʼamtʃə</IPA_transcription>
+<gloss>to squeeze oil</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>p</native_orthography>
+<IPA_transcription>pataŋ</IPA_transcription>
+<gloss>sea</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>tʰ</native_orthography>
+<IPA_transcription>tʰamtʃə</IPA_transcription>
+<gloss>to get (shy)</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>tʼ</native_orthography>
+<IPA_transcription>tʼapi</IPA_transcription>
+<gloss>ground</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>t</native_orthography>
+<IPA_transcription>tɐlkwatʃəmtʃə</IPA_transcription>
+<gloss>to heat iron</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>tɐlanamtʃə</IPA_transcription>
+<gloss>to run away</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>tʃʰ</native_orthography>
+<IPA_transcription>tʃʰamtʃə</IPA_transcription>
+<gloss>to kick</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>tʃʼ</native_orthography>
+<IPA_transcription>tʃʼamtʃə</IPA_transcription>
+<gloss>to conspire</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>tʃ</native_orthography>
+<IPA_transcription>tʃamtʃə</IPA_transcription>
+<gloss>to sleep</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>kʰ</native_orthography>
+<IPA_transcription>kʰamtʃə</IPA_transcription>
+<gloss>to get burned</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>kʼ</native_orthography>
+<IPA_transcription>kʼamtʃə</IPA_transcription>
+<gloss>to peel</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>k</native_orthography>
+<IPA_transcription>kamtʃə</IPA_transcription>
+<gloss>to go </gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>n</native_orthography>
+<IPA_transcription>naamtʃə</IPA_transcription>
+<gloss>to give a birth</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>m</native_orthography>
+<IPA_transcription>mataŋ</IPA_transcription>
+<gloss>ground</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>l</native_orthography>
+<IPA_transcription>ɾatio</IPA_transcription>
+<gloss>radio</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>s</native_orthography>
+<IPA_transcription>salamtʃə</IPA_transcription>
+<gloss>to live</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>sʼ</native_orthography>
+<IPA_transcription>sʼamtʃə</IPA_transcription>
+<gloss>to wrap</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>h</native_orthography>
+<IPA_transcription>hata</IPA_transcription>
+<gloss>many / much</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>pʰ</native_orthography>
+<IPA_transcription>apʰɨta</IPA_transcription>
+<gloss>hurt</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>pʼ</native_orthography>
+<IPA_transcription>papʼɨta</IPA_transcription>
+<gloss>busy</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>p</native_orthography>
+<IPA_transcription>tʃapɨla</IPA_transcription>
+<gloss>to hold</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>tʰ</native_orthography>
+<IPA_transcription>matʰapola</IPA_transcription>
+<gloss>to sniff</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>tʼ</native_orthography>
+<IPA_transcription>ətʼa / atʼa</IPA_transcription>
+<gloss>(exclamation)</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>t</native_orthography>
+<IPA_transcription>patɨla</IPA_transcription>
+<gloss>to receive</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>tʃʰ</native_orthography>
+<IPA_transcription>matʃʰapulla</IPA_transcription>
+<gloss>to custom fit (tailor?)</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>tʃʼ</native_orthography>
+<IPA_transcription>atʃʼila</IPA_transcription>
+<gloss>to put inside a pot</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>tʃ</native_orthography>
+<IPA_transcription>matʃa</IPA_transcription>
+<gloss>correct</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>kʰ</native_orthography>
+<IPA_transcription>kakʰɨla</IPA_transcription>
+<gloss>to go</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>kʼ</native_orthography>
+<IPA_transcription>pakʼapulla</IPA_transcription>
+<gloss>to spit</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>k</native_orthography>
+<IPA_transcription>pakɨla</IPA_transcription>
+<gloss>to hammer</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>n</native_orthography>
+<IPA_transcription>anɨla</IPA_transcription>
+<gloss>to hug</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>m</native_orthography>
+<IPA_transcription>samɨla</IPA_transcription>
+<gloss>to weave straw</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>ŋ</native_orthography>
+<IPA_transcription>paŋe</IPA_transcription>
+<gloss>grinding tool</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>l</native_orthography>
+<IPA_transcription>aɾamtʃə</IPA_transcription>
+<gloss>to know</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>ll</native_orthography>
+<IPA_transcription>tallɨtʃu</IPA_transcription>
+<gloss>different</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>s</native_orthography>
+<IPA_transcription>asalatʃʼə</IPA_transcription>
+<gloss>to take away</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>sʼ</native_orthography>
+<IPA_transcription>pʰasʼak</IPA_transcription>
+<gloss>breaking noise</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>h</native_orthography>
+<IPA_transcription>nahan / haha</IPA_transcription>
+<gloss>from 'opek nahan' / laughing sound</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>i</native_orthography>
+<IPA_transcription>kʼiəmtʃə</IPA_transcription>
+<gloss>to fit</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>kʼitʃimalla</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>e</native_orthography>
+<IPA_transcription>kʼeəmtʃə</IPA_transcription>
+<gloss>to break (glass)</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>kʼetʃimalla</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>æ</native_orthography>
+<IPA_transcription>kæəmsə</IPA_transcription>
+<gloss>to clear (sky)</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>kætʃimalla</IPA_transcription>
+<gloss>not to fold (a blanket)</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>ɨ</native_orthography>
+<IPA_transcription>kʼɨla</IPA_transcription>
+<gloss>to turn off (light)</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>ə</native_orthography>
+<IPA_transcription>kəllake</IPA_transcription>
+<gloss>to hang</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>a</native_orthography>
+<IPA_transcription>kalkəjə</IPA_transcription>
+<gloss>to plow</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>ɐ</native_orthography>
+<IPA_transcription>kɐlla</IPA_transcription>
+<gloss>to grind (knife)</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>o</native_orthography>
+<IPA_transcription>kʼoamtʃə</IPA_transcription>
+<gloss>to twist (knot)</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>kʼotʃimala</IPA_transcription>
+<gloss>not to twist (knot)</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>u</native_orthography>
+<IPA_transcription>kʼuəmtʃə</IPA_transcription>
+<gloss>to dream</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>kʼutʃi anjəsʼtʃə</IPA_transcription>
+<gloss>(I) did not dream</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>i</native_orthography>
+<IPA_transcription>tʼi</IPA_transcription>
+<gloss>band (waist)</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>e</native_orthography>
+<IPA_transcription>tʼeətʃə</IPA_transcription>
+<gloss>to get burned</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>tʼetʃimalla</IPA_transcription>
+<gloss>not to take off (a picture)</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>æ</native_orthography>
+<IPA_transcription>tʼæətʃə</IPA_transcription>
+<gloss>to touch (hand)</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>tʼætʃimalla</IPA_transcription>
+<gloss>do not touch</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>ɨ</native_orthography>
+<IPA_transcription>tɨlətʃə</IPA_transcription>
+<gloss>to encumber money</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>ə</native_orthography>
+<IPA_transcription>tʰələtʃə / tʰələpulla</IPA_transcription>
+<gloss>to shake (dust)</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>a</native_orthography>
+<IPA_transcription>tʰatʃə</IPA_transcription>
+<gloss>to burn</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>ɐ</native_orthography>
+<IPA_transcription>tɐlatʃə</IPA_transcription>
+<gloss>to sew on a button</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>o</native_orthography>
+<IPA_transcription>tolatʃə</IPA_transcription>
+<gloss>to go around</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>u</native_orthography>
+<IPA_transcription>tuətʃə</IPA_transcription>
+<gloss>to place</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>tutʃimalla</IPA_transcription>
+<gloss>do not place</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>e</native_orthography>
+<IPA_transcription>pe</IPA_transcription>
+<gloss>cloth (from 'sam')</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>æ</native_orthography>
+<IPA_transcription>pæ</IPA_transcription>
+<gloss>thick rope</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>e</native_orthography>
+<IPA_transcription>se</IPA_transcription>
+<gloss>tongue</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>æ</native_orthography>
+<IPA_transcription>sæ</IPA_transcription>
+<gloss>material (roof)</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>e</native_orthography>
+<IPA_transcription>kʰeta</IPA_transcription>
+<gloss>to get torn (skin)</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>æ</native_orthography>
+<IPA_transcription>kʰæ (ta)</IPA_transcription>
+<gloss>It is kʰæ (game)ǃ</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>wi</native_orthography>
+<IPA_transcription>wi</IPA_transcription>
+<gloss>stomach</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>we</native_orthography>
+<IPA_transcription>we</IPA_transcription>
+<gloss>cucumber</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>wæ</native_orthography>
+<IPA_transcription>wæullɨmsə(ke)</IPA_transcription>
+<gloss>to shout</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>wæullɨmtʃə</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>wə</native_orthography>
+<IPA_transcription>wəllamɐl</IPA_transcription>
+<gloss>horse (colorful)</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>wa</native_orthography>
+<IPA_transcription>wa</IPA_transcription>
+<gloss>to stop (to horse)</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>je</native_orthography>
+<IPA_transcription>jesun</IPA_transcription>
+<gloss>sixty</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>jæ</native_orthography>
+<IPA_transcription>jæja</IPA_transcription>
+<gloss> 'vocative'</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>jə</native_orthography>
+<IPA_transcription>jə</IPA_transcription>
+<gloss>stone</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>ja</native_orthography>
+<IPA_transcription>jakatʃi / jakeki</IPA_transcription>
+<gloss>neck</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>jɐ</native_orthography>
+<IPA_transcription>jɐtap</IPA_transcription>
+<gloss>eight</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>jo</native_orthography>
+<IPA_transcription>jo</IPA_transcription>
+<gloss>blanket</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>ju</native_orthography>
+<IPA_transcription>juktʃi</IPA_transcription>
+<gloss>land</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>ɰi</native_orthography>
+<IPA_transcription>ɰisa / ɰitʃa</IPA_transcription>
+<gloss>doctor / chair</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>ɰikwili</IPA_transcription>
+<gloss>name of a village</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>ɐ</native_orthography>
+<IPA_transcription>kɐltʃʰe</IPA_transcription>
+<gloss>basket for catching fish</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>ɐ</native_orthography>
+<IPA_transcription>pʰɐl</IPA_transcription>
+<gloss>arm</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>ki salɪm kohjaŋi ətila? kohjaŋi namwənilen hesinka?</IPA_transcription>
+<gloss>Where is that man's hometown?  Was his hometown 'Namwon?'</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>ani, namwəni anila tʃənlanamto anjaŋilen həjəla.</IPA_transcription>
+<gloss>No, they say, it's not 'Namwon,' but Cholla-namdo Anjang.'</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>tʃənlanamto hanjaŋilen hesə?</IPA_transcription>
+<gloss>Did you say 'Cholla-namdo Hajang?'</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>ani, tʃənlanamto anjaŋ.</IPA_transcription>
+<gloss>No, Cholla-namdo Anjang.</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>kɪ salɪm atɐl mes sɐlintʃi alatʃə?</IPA_transcription>
+<gloss>Do you know how old is that man's son?</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>molla, mahɪm sɐli nəməsil kəla</IPA_transcription>
+<gloss>Not sure, maybe over 40.</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>kɪ atɐl kaksika miwənhwesa satʃaŋilen həjəla.</IPA_transcription>
+<gloss>I heard that that son's wife is the president of 'Miwon' company.</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>ki salɪm tʃʰəkatʃipi ətila? tʃʰəkatʃipi səulilen hesinka (səulien hɐnɪnkəs talmaŋke)?</IPA_transcription>
+<gloss>Where is that man's wife's hometown?  Was her hometown 'Seoul?'</gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>ani, səuli anila hamkjəŋnamto tʃʰaŋwənilen həjəla</IPA_transcription>
+<gloss>No, they say, it's not 'Seoul,' but 'Hamkjung-namdo Changwon.'</gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>hamkjəŋnamto namwənilen hesə?</IPA_transcription>
+<gloss>Did you say 'Hamkyung-namdo Namwon?'</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>ani, hamkjəŋnamto tʃʰaŋwən.</IPA_transcription>
+<gloss>No, Hamkyung-namdo Changwon.</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>kɪ salɪm tʼɐl mes sɐlintʃi alatʃə?</IPA_transcription>
+<gloss>Do you know how old is that man's daughter?</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>molla, səlɪm sɐli nəməsil kəla</IPA_transcription>
+<gloss>Not sure, maybe over 30.</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>kɪ tʼɐl nampʰjəni səkjuhwesa isatʃaŋilen həjəla.</IPA_transcription>
+<gloss>I heard that that daughter's husband is the founder of an oil company.</gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>kain jəŋmanilɪl miwənhɐnten hæla</IPA_transcription>
+<gloss>That boy (He) hates Youngman.</gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>jəŋmaninɪn jəŋmi nunalɪl miwənhɐnten hæla.</IPA_transcription>
+<gloss>Youngman hates Youngmi sister.</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>jəŋmaninɪn jəŋtalilɪl miwənhɐnten hæla.</IPA_transcription>
+<gloss>Youngman hates Youngtal</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>olapaŋm jəŋmanilɪl miwənhɐnten hæla.</IPA_transcription>
+<gloss>Brother hates Youngman.</gloss>
+</item>
+
+<item>
+<entry>107</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>jeŋmi nuinm jəŋmanilɪl miwənhɐnten hæla.</IPA_transcription>
+<gloss>Youngmi sister hates Youngman.</gloss>
+</item>
+
+<item>
+<entry>108</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>jəŋnani nuinm jəŋmanilɪl miwənhɐnten hæla.</IPA_transcription>
+<gloss>Youngnan sister hates Youngman.</gloss>
+</item>
+
+<item>
+<entry>109</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>jəŋmaninɪn olapaŋɪl miwənhɐnten hæla.</IPA_transcription>
+<gloss>Youngman hates brother.</gloss>
+</item>
+
+<item>
+<entry>110</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>jeŋmani əməŋɪn jəŋmanilɪl miwənhɐnten hæla.</IPA_transcription>
+<gloss>Youngman's mom hates Youngman.</gloss>
+</item>
+
+<item>
+<entry>111</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>jeŋmaninɪn jəŋtali əməŋɪl miwənhɐnten hæla.</IPA_transcription>
+<gloss>Youngman hates Youngtal's mom.</gloss>
+</item>
+
+<item>
+<entry>112</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>halmaŋɪn jəŋmanilɪl tʃoahɐnten hæla.</IPA_transcription>
+<gloss>Grandma likes Youngman.</gloss>
+</item>
+
+<item>
+<entry>113</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>halupaŋɪn jəŋmanilɪl tʃoahɐnten hæla.</IPA_transcription>
+<gloss>Grandpa likes Youngman.</gloss>
+</item>
+
+<item>
+<entry>114</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>salamtɪlɪn tʃetʃutolɪl nəmu mollɪtʃu.</IPA_transcription>
+<gloss>People really don't know Cheju island.</gloss>
+</item>
+
+<item>
+<entry>115</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>jeŋmani əti kasini? natʃue kan seniuta (səŋ ane kan seŋiuta)</IPA_transcription>
+<gloss>Where is Youngman going? He probably went to Naju. (inside Castle)</gloss>
+</item>
+
+<item>
+<entry>116</entry>
+<native_orthography></native_orthography>
+<IPA_transcription>jəŋmani əti kasinja? kememasʼɪm hɐkʼɪm intʃʰikekʼatʃi iti isənasinti (kememasʼɪm kɐkʼɪm intʃʰikekʼatʃi iti isənasinti)</IPA_transcription>
+<gloss>Where is Youngman?  Well, he was here just a minute ago.</gloss>
+</item>
+
+</wordlist>
+
+
+
+
+

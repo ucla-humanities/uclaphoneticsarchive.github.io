@@ -1,0 +1,2158 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../record_details.xsl"?>
+<metadata>
+<language_name>Mazatec (Jalapa de Diaz)</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language:</lang_name_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<speakers_header>Speakers</speakers_header>
+<filename_audio_header>Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<xml_unicode_header>Unicode Word List</xml_unicode_header>
+<unicode_entries_header>Unicode Word List Entries</unicode_entries_header>
+<image_tif_header>Tiff Image</image_tif_header>
+<image_tif2_header>Tiff Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality </tif_quality_header>
+<jpg_quality_header>JPG Quality</jpg_quality_header>
+<record_details>Record Details</record_details>
+<rights_header>Rights of Access</rights_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>31 March, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Atanacio Zarate Asunción, Froylan Pérez Moreño </speakers>
+<filename_audio>MAJword-list.1993.01</filename_audio>
+<filename_wav>MAJword-list.1993.01.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>1 - 5</unicode_entries>
+<image_tif>MAJword-list.1993.02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>2 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño</speakers>
+<filename_audio>MAJword-list.1993.02</filename_audio>
+<filename_wav>MAJword-list.1993.02.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.02.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode></xml_unicode>
+<unicode_entries></unicode_entries>
+<image_tif></image_tif>
+<image_tif2></image_tif2>
+<image_jpg></image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#2</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>3</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>1 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño</speakers>
+<filename_audio>MAJword-list.1993.03</filename_audio>
+<filename_wav>MAJword-list.1993.03.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.03.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>6 - 37</unicode_entries>
+<image_tif>MAJword-list.1993.02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#3</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>4</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>1 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño</speakers>
+<filename_audio>MAJword-list.1993.04</filename_audio>
+<filename_wav>MAJword-list.1993.04.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.04.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>38 - 73</unicode_entries>
+<image_tif>MAJword-list.1993.03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#4</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>5</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>1 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño</speakers>
+<filename_audio>MAJword-list.1993.05</filename_audio>
+<filename_wav>MAJword-list.1993.05.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.05.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>74 - 101</unicode_entries>
+<image_tif>MAJword-list.1993.04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#5</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>6</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>1 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Augustin Cruz Martinez, Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJword-list.1993.06</filename_audio>
+<filename_wav>MAJword-list.1993.06.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.06.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>102 - 121</unicode_entries>
+<image_tif>MAJword-list.1993.05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#6</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>7</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>1 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Augustin Cruz Martinez, Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJword-list.1993.07</filename_audio>
+<filename_wav>MAJword-list.1993.07.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.07.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>122 - 136</unicode_entries>
+<image_tif>MAJword-list.1993.06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#7</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>8</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>1 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Augustin Cruz Martinez, Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJword-list.1993.08</filename_audio>
+<filename_wav>MAJword-list.1993.08.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.08.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>137 - 150</unicode_entries>
+<image_tif>MAJword-list.1993.07.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.07.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#8</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>9</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>1 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Augustin Cruz Martinez, Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJword-list.1993.09</filename_audio>
+<filename_wav>MAJword-list.1993.09.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.09.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>151 - 185</unicode_entries>
+<image_tif>MAJword-list.1993.08.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.08.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#9</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>10</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>1 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Augustin Cruz Martinez, Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJword-list.1993.10</filename_audio>
+<filename_wav>MAJword-list.1993.10.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.10.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>186 - 215</unicode_entries>
+<image_tif>MAJword-list.1993.09.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.09.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#10</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>11</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>1 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Augustin Cruz Martinez, Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJword-list.1993.11</filename_audio>
+<filename_wav>MAJword-list.1993.11.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.11.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>216 - 238</unicode_entries>
+<image_tif>MAJword-list.1993.10.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.10.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#11</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>12</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>1 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Augustin Cruz Martinez, Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJword-list.1993.12</filename_audio>
+<filename_wav>MAJword-list.1993.12.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.12.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>239 - 250</unicode_entries>
+<image_tif>MAJword-list.1993.11.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.11.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#12</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>13</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>2 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Augustin Cruz Martinez, Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJword-list.1993.13</filename_audio>
+<filename_wav>MAJword-list.1993.13.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.13.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>251 - 271</unicode_entries>
+<image_tif>MAJword-list.1993.12.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.12.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#13</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>14</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>2 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Augustin Cruz Martinez, Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJword-list.1993.14</filename_audio>
+<filename_wav>MAJword-list.1993.14.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.14.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>272 - 284</unicode_entries>
+<image_tif>MAJword-list.1993.13.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.13.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#14</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>15</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>2 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Augustin Cruz Martinez, Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJword-list.1993.15</filename_audio>
+<filename_wav>MAJword-list.1993.15.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.15.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>285 - 326</unicode_entries>
+<image_tif>MAJword-list.1993.14.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.14.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#15</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>16</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>2 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Augustin Cruz Martinez, Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJword-list.1993.16</filename_audio>
+<filename_wav>MAJword-list.1993.16.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.16.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>328 - 346</unicode_entries>
+<image_tif>MAJword-list.1993.15.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.15.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#16</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>17</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>2 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Augustin Cruz Martinez, Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJword-list.1993.17</filename_audio>
+<filename_wav>MAJword-list.1993.17.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.17.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>6 - 37</unicode_entries>
+<image_tif>MAJword-list.1993.02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#17</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>18</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>2 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Augustin Cruz Martinez, Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJword-list.1993.18</filename_audio>
+<filename_wav>MAJword-list.1993.18.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.18.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>38 - 73</unicode_entries>
+<image_tif>MAJword-list.1993.03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#18</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>19</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>2 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Augustin Cruz Martinez, Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJword-list.1993.19</filename_audio>
+<filename_wav>MAJword-list.1993.19.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.19.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>74 - 101</unicode_entries>
+<image_tif>MAJword-list.1993.04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#19</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>20</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>3 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Elodia Ceuevas, Antonia Ancieto, Rosa Caimino Pérez, Felipa Pérez, Rufina Castro</speakers>
+<filename_audio>MAJword-list.1993.20</filename_audio>
+<filename_wav>MAJword-list.1993.20.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.20.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>102 - 121</unicode_entries>
+<image_tif>MAJword-list.1993.05.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.05.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#20</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>21</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>3 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Elodia Ceuevas, Antonia Ancieto, Rosa Caimino Pérez, Felipa Pérez, Rufina Castro</speakers>
+<filename_audio>MAJword-list.1993.21</filename_audio>
+<filename_wav>MAJword-list.1993.21.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.21.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>122 - 136</unicode_entries>
+<image_tif>MAJword-list.1993.06.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.06.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#21</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>22</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>3 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Elodia Ceuevas, Antonia Ancieto, Rosa Caimino Pérez, Felipa Pérez, Rufina Castro</speakers>
+<filename_audio>MAJword-list.1993.22</filename_audio>
+<filename_wav>MAJword-list.1993.22.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.22.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>137 - 150</unicode_entries>
+<image_tif>MAJword-list.1993.07.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.07.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#22</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>23</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>3 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Elodia Ceuevas, Antonia Ancieto, Rosa Caimino Pérez, Felipa Pérez, Rufina Castro</speakers>
+<filename_audio>MAJword-list.1993.23</filename_audio>
+<filename_wav>MAJword-list.1993.23.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.23.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>151 - 185</unicode_entries>
+<image_tif>MAJword-list.1993.08.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.08.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#23</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>24</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>3 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Elodia Ceuevas, Antonia Ancieto, Rosa Caimino Pérez, Felipa Pérez, Rufina Castro</speakers>
+<filename_audio>MAJword-list.1993.24</filename_audio>
+<filename_wav>MAJword-list.1993.24.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.24.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>186 - 215</unicode_entries>
+<image_tif>MAJword-list.1993.09.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.09.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#24</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>25</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>3 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Elodia Ceuevas, Antonia Ancieto, Rosa Caimino Pérez, Felipa Pérez, Rufina Castro</speakers>
+<filename_audio>MAJword-list.1993.25</filename_audio>
+<filename_wav>MAJword-list.1993.25.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.25.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>216 - 238</unicode_entries>
+<image_tif>MAJword-list.1993.10.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.10.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#25</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>26</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>3 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Elodia Ceuevas, Antonia Ancieto, Rosa Caimino Pérez, Felipa Pérez, Rufina Castro</speakers>
+<filename_audio>MAJword-list.1993.26</filename_audio>
+<filename_wav>MAJword-list.1993.26.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.26.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>239 - 250</unicode_entries>
+<image_tif>MAJword-list.1993.11.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.11.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#26</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>27</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>3 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Elodia Ceuevas, Antonia Ancieto, Rosa Caimino Pérez, Felipa Pérez, Rufina Castro</speakers>
+<filename_audio>MAJword-list.1993.27</filename_audio>
+<filename_wav>MAJword-list.1993.27.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.27.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>251 - 271</unicode_entries>
+<image_tif>MAJword-list.1993.12.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.12.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#27</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>28</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>3 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Elodia Ceuevas, Antonia Ancieto, Rosa Caimino Pérez, Felipa Pérez, Rufina Castro</speakers>
+<filename_audio>MAJword-list.1993.28</filename_audio>
+<filename_wav>MAJword-list.1993.28.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.28.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>272 - 284</unicode_entries>
+<image_tif>MAJword-list.1993.13.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.13.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#28</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>29</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>3 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Elodia Ceuevas, Antonia Ancieto, Rosa Caimino Pérez, Felipa Pérez, Rufina Castro</speakers>
+<filename_audio>MAJword-list.1993.29</filename_audio>
+<filename_wav>MAJword-list.1993.29.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.29.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>6 - 37</unicode_entries>
+<image_tif>MAJword-list.1993.02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#29</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>30</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>3 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Elodia Ceuevas, Antonia Ancieto, Rosa Caimino Pérez, Felipa Pérez, Rufina Castro</speakers>
+<filename_audio>MAJword-list.1993.30</filename_audio>
+<filename_wav>MAJword-list.1993.30.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.30.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>38 - 73</unicode_entries>
+<image_tif>MAJword-list.1993.03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#30</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>31</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>3 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Elodia Ceuevas, Antonia Ancieto, Rosa Caimino Pérez, Felipa Pérez, Rufina Castro</speakers>
+<filename_audio>MAJword-list.1993.31</filename_audio>
+<filename_wav>MAJword-list.1993.31.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.31.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>74 - 101</unicode_entries>
+<image_tif>MAJword-list.1993.04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#31</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>32</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>3 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Elodia Ceuevas, Antonia Ancieto, Rosa Caimino Pérez, Felipa Pérez, Rufina Castro</speakers>
+<filename_audio>MAJword-list.1993.32</filename_audio>
+<filename_wav>MAJword-list.1993.32.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.32.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>285 - 326</unicode_entries>
+<image_tif>MAJword-list.1993.14.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.14.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#32</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>33</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>3 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño, Elodia Ceuevas, Antonia Ancieto, Rosa Caimino Pérez, Felipa Pérez, Rufina Castro</speakers>
+<filename_audio>MAJword-list.1993.33</filename_audio>
+<filename_wav>MAJword-list.1993.33.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.33.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>328 - 346</unicode_entries>
+<image_tif>MAJword-list.1993.15.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.15.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#33</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>34</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>5 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Bartolo Cruz (Augustin's uncle), Esteban Cruz (Augustin's father), Olga Lopez Carera, Rosalino Martinez</speakers>
+<filename_audio>MAJword-list.1993.34</filename_audio>
+<filename_wav>MAJword-list.1993.34.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.34.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>102 - 121</unicode_entries>
+<image_tif>MAJword-list.1993.16.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.16.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#34</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>35</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>5 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Bartolo Cruz (Augustin's uncle), Esteban Cruz (Augustin's father), Olga Lopez Carera, Rosalino Martinez</speakers>
+<filename_audio>MAJword-list.1993.35</filename_audio>
+<filename_wav>MAJword-list.1993.35.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.35.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>122 - 136</unicode_entries>
+<image_tif>MAJword-list.1993.17.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.17.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#35</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>36</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>5 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Bartolo Cruz (Augustin's uncle), Esteban Cruz (Augustin's father), Olga Lopez Carera, Rosalino Martinez</speakers>
+<filename_audio>MAJword-list.1993.36</filename_audio>
+<filename_wav>MAJword-list.1993.36.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.36.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>137 - 150</unicode_entries>
+<image_tif>MAJword-list.1993.18.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.18.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#36</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>37</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>5 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Bartolo Cruz (Augustin's uncle), Esteban Cruz (Augustin's father), Olga Lopez Carera, Rosalino Martinez</speakers>
+<filename_audio>MAJword-list.1993.37</filename_audio>
+<filename_wav>MAJword-list.1993.37.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.37.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>151 - 185</unicode_entries>
+<image_tif>MAJword-list.1993.19.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.19.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#37</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>38</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>5 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Bartolo Cruz (Augustin's uncle), Esteban Cruz (Augustin's father), Olga Lopez Carera, Rosalino Martinez</speakers>
+<filename_audio>MAJword-list.1993.38</filename_audio>
+<filename_wav>MAJword-list.1993.38.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.38.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>186 - 215</unicode_entries>
+<image_tif>MAJword-list.1993.20.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.20.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#38</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>39</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>5 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Bartolo Cruz (Augustin's uncle), Esteban Cruz (Augustin's father), Olga Lopez Carera, Rosalino Martinez</speakers>
+<filename_audio>MAJword-list.1993.39</filename_audio>
+<filename_wav>MAJword-list.1993.39.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.39.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>216 - 242</unicode_entries>
+<image_tif>MAJword-list.1993.21.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.21.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#39</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>40</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>5 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Bartolo Cruz (Augustin's uncle), Esteban Cruz (Augustin's father), Olga Lopez Carera, Rosalino Martinez</speakers>
+<filename_audio>MAJword-list.1993.40</filename_audio>
+<filename_wav>MAJword-list.1993.40.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.40.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>243 - 250</unicode_entries>
+<image_tif>MAJword-list.1993.22.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.22.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#40</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>41</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>5 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Bartolo Cruz (Augustin's uncle), Esteban Cruz (Augustin's father), Olga Lopez Carera, Rosalino Martinez</speakers>
+<filename_audio>MAJword-list.1993.41</filename_audio>
+<filename_wav>MAJword-list.1993.41.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.41.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>251 - 271</unicode_entries>
+<image_tif>MAJword-list.1993.12.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.12.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#41</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>42</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>5 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Bartolo Cruz (Augustin's uncle), Esteban Cruz (Augustin's father), Olga Lopez Carera, Rosalino Martinez</speakers>
+<filename_audio>MAJword-list.1993.42</filename_audio>
+<filename_wav>MAJword-list.1993.42.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.42.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>272 - 284</unicode_entries>
+<image_tif>MAJword-list.1993.13.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.13.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#42</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>43</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>5 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Bartolo Cruz (Augustin's uncle), Esteban Cruz (Augustin's father), Olga Lopez Carera, Rosalino Martinez</speakers>
+<filename_audio>MAJword-list.1993.43</filename_audio>
+<filename_wav>MAJword-list.1993.43.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.43.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>6 - 37</unicode_entries>
+<image_tif>MAJword-list.1993.02.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.02.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#43</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>44</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>5 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Bartolo Cruz (Augustin's uncle), Esteban Cruz (Augustin's father), Olga Lopez Carera, Rosalino Martinez</speakers>
+<filename_audio>MAJword-list.1993.44</filename_audio>
+<filename_wav>MAJword-list.1993.44.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.44.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>38 - 73</unicode_entries>
+<image_tif>MAJword-list.1993.03.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.03.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#44</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>45</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>5 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Bartolo Cruz (Augustin's uncle), Esteban Cruz (Augustin's father), Olga Lopez Carera, Rosalino Martinez</speakers>
+<filename_audio>MAJword-list.1993.45</filename_audio>
+<filename_wav>MAJword-list.1993.45.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.45.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>74 - 101</unicode_entries>
+<image_tif>MAJword-list.1933.04.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1933.04.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#45</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>46</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>5 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Bartolo Cruz (Augustin's uncle), Esteban Cruz (Augustin's father), Olga Lopez Carera, Rosalino Martinez</speakers>
+<filename_audio>MAJword-list.1993.46</filename_audio>
+<filename_wav>MAJword-list.1993.46.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.46.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>285 - 326</unicode_entries>
+<image_tif>MAJword-list.1993.14.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.14.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#46</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>47</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>5 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Augustin Cruz Martinez, Bartolo Cruz (Augustin's uncle), Esteban Cruz (Augustin's father), Olga Lopez Carera, Rosalino Martinez</speakers>
+<filename_audio>MAJword-list.1993.47</filename_audio>
+<filename_wav>MAJword-list.1993.47.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.47.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>328 - 346</unicode_entries>
+<image_tif>MAJword-list.1993.15.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJword-list.1993.15.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#47</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>48</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>6 April, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Froylan Pérez Moreño</speakers>
+<filename_audio>MAJword-list.1993.48</filename_audio>
+<filename_wav>MAJword-list.1993.48.wav</filename_wav>
+<filename_mp3>MAJword-list.1993.48.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode>MAJword-list.1993.01.xml</xml_unicode>
+<unicode_entries>347 - 349</unicode_entries>
+<image_tif></image_tif>
+<image_tif2></image_tif2>
+<image_jpg></image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality></tif_quality>
+<jpg_quality></jpg_quality>
+<details>MAJrecord_details.xml#48</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>49</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Story</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>30 March, 1993</recording_date>
+<fieldworkers>Peter Ladefoged, Paul Kirk, Barbara Blankenship, Donca Steriade</fieldworkers>
+<speakers>Atanacio Zarate Asunción</speakers>
+<filename_audio>MAJstory.1993</filename_audio>
+<filename_wav>MAJstory.1993.wav</filename_wav>
+<filename_mp3>MAJstory.1993.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<xml_unicode></xml_unicode>
+<unicode_entries></unicode_entries>
+<image_tif>MAJstory.jpg</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>MAJstory.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality></tif_quality>
+<jpg_quality></jpg_quality>
+<details>MAJrecord_details.xml#49</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>50</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 1 and 2</speakers>
+<filename_audio>MAJword-list.1984.01</filename_audio>
+<filename_wav>MAJword-list.1984.01.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>1 - 10</unicode_entries>
+<image_tif>MAJword-list.1984.01.tif</image_tif>
+<image_tif2>MAJword-list.1984.02.tif</image_tif2>
+<image_jpg>MAJword-list.1984.01.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#50</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>51</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 1 and 2</speakers>
+<filename_audio>MAJword-list.1984.02</filename_audio>
+<filename_wav>MAJword-list.1984.02.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.02.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>11 - 20</unicode_entries>
+<image_tif>MAJword-list.1984.03.tif</image_tif>
+<image_tif2>MAJword-list.1984.04.tif</image_tif2>
+<image_jpg>MAJword-list.1984.03.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.04.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#51</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>52</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 1 and 2</speakers>
+<filename_audio>MAJword-list.1984.03</filename_audio>
+<filename_wav>MAJword-list.1984.03.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.03.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>21- 30</unicode_entries>
+<image_tif>MAJword-list.1984.05.tif</image_tif>
+<image_tif2>MAJword-list.1984.06.tif</image_tif2>
+<image_jpg>MAJword-list.1984.05.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.06.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#52</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>53</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 1 and 2</speakers>
+<filename_audio>MAJword-list.1984.04</filename_audio>
+<filename_wav>MAJword-list.1984.04.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.04.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>31 - 40</unicode_entries>
+<image_tif>MAJword-list.1984.07.tif</image_tif>
+<image_tif2>MAJword-list.1984.08.tif</image_tif2>
+<image_jpg>MAJword-list.1984.07.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#53</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>54</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 1 and 2</speakers>
+<filename_audio>MAJword-list.1984.05</filename_audio>
+<filename_wav>MAJword-list.1984.05.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.05.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>41 - 50</unicode_entries>
+<image_tif>MAJword-list.1984.09.tif</image_tif>
+<image_tif2>MAJword-list.1984.10.tif</image_tif2>
+<image_jpg>MAJword-list.1984.09.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.10.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#54</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>55</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 1 and 2</speakers>
+<filename_audio>MAJword-list.1984.06</filename_audio>
+<filename_wav>MAJword-list.1984.06.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.06.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>51 - 60</unicode_entries>
+<image_tif>MAJword-list.1984.11.tif</image_tif>
+<image_tif2>MAJword-list.1984.12.tif</image_tif2>
+<image_jpg>MAJword-list.1984.11.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#55</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>56</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 1 and 2</speakers>
+<filename_audio>MAJword-list.1984.07</filename_audio>
+<filename_wav>MAJword-list.1984.07.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.07.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>61 - 70</unicode_entries>
+<image_tif>MAJword-list.1984.13.tif</image_tif>
+<image_tif2>MAJword-list.1984.14.tif</image_tif2>
+<image_jpg>MAJword-list.1984.13.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.14.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#56</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>57</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 1 and 2</speakers>
+<filename_audio>MAJword-list.1984.08</filename_audio>
+<filename_wav>MAJword-list.1984.08.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.08.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>71 - 80</unicode_entries>
+<image_tif>MAJword-list.1984.15.tif</image_tif>
+<image_tif2>MAJword-list.1984.16.tif</image_tif2>
+<image_jpg>MAJword-list.1984.15.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.16.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#57</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>58</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 1 and 2</speakers>
+<filename_audio>MAJword-list.1984.09</filename_audio>
+<filename_wav>MAJword-list.1984.09.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.09.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>81 - 90</unicode_entries>
+<image_tif>MAJword-list.1984.17.tif</image_tif>
+<image_tif2>MAJword-list.1984.18.tif</image_tif2>
+<image_jpg>MAJword-list.1984.17.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.18.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#58</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>59</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 1 and 2</speakers>
+<filename_audio>MAJword-list.1984.10</filename_audio>
+<filename_wav>MAJword-list.1984.10.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.10.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>91 - 100</unicode_entries>
+<image_tif>MAJword-list.1984.19.tif</image_tif>
+<image_tif2>MAJword-list.1984.20.tif</image_tif2>
+<image_jpg>MAJword-list.1984.19.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.20.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#59</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>60</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 1 and 2</speakers>
+<filename_audio>MAJword-list.1984.11</filename_audio>
+<filename_wav>MAJword-list.1984.11.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.11.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>101 - 110</unicode_entries>
+<image_tif>MAJword-list.1984.21.tif</image_tif>
+<image_tif2>MAJword-list.1984.22.tif</image_tif2>
+<image_jpg>MAJword-list.1984.21.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.22.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#60</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>61</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 1 and 2</speakers>
+<filename_audio>MAJword-list.1984.12</filename_audio>
+<filename_wav>MAJword-list.1984.12.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.12.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>111 - 120</unicode_entries>
+<image_tif>MAJword-list.1984.23.tif</image_tif>
+<image_tif2>MAJword-list.1984.24.tif</image_tif2>
+<image_jpg>MAJword-list.1984.23.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.24.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#61</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>62</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 1 and 2</speakers>
+<filename_audio>MAJword-list.1984.13</filename_audio>
+<filename_wav>MAJword-list.1984.13.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.13.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>121 - 130</unicode_entries>
+<image_tif>MAJword-list.1984.25.tif</image_tif>
+<image_tif2>MAJword-list.1984.26.tif</image_tif2>
+<image_jpg>MAJword-list.1984.25.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.26.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#62</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>63</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 1 and 2</speakers>
+<filename_audio>MAJword-list.1984.14</filename_audio>
+<filename_wav>MAJword-list.1984.14.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.14.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>131 - 139</unicode_entries>
+<image_tif>MAJword-list.1984.27.tif</image_tif>
+<image_tif2>MAJword-list.1984.28.tif</image_tif2>
+<image_jpg>MAJword-list.1984.27.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.28.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#63</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>64</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 3 and 4</speakers>
+<filename_audio>MAJword-list.1984.15</filename_audio>
+<filename_wav>MAJword-list.1984.15.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.15.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>1 - 10</unicode_entries>
+<image_tif>MAJword-list.1984.01.tif</image_tif>
+<image_tif2>MAJword-list.1984.02.tif</image_tif2>
+<image_jpg>MAJword-list.1984.01.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#64</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>65</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 3 and 4</speakers>
+<filename_audio>MAJword-list.1984.16</filename_audio>
+<filename_wav>MAJword-list.1984.16.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.16.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>11 - 20</unicode_entries>
+<image_tif>MAJword-list.1984.03.tif</image_tif>
+<image_tif2>MAJword-list.1984.04.tif</image_tif2>
+<image_jpg>MAJword-list.1984.03.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.04.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#65</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>66</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 3 and 4</speakers>
+<filename_audio>MAJword-list.1984.17</filename_audio>
+<filename_wav>MAJword-list.1984.17.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.17.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>21- 30</unicode_entries>
+<image_tif>MAJword-list.1984.05.tif</image_tif>
+<image_tif2>MAJword-list.1984.06.tif</image_tif2>
+<image_jpg>MAJword-list.1984.05.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.06.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#66</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>67</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 3 and 4</speakers>
+<filename_audio>MAJword-list.1984.18</filename_audio>
+<filename_wav>MAJword-list.1984.18.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.18.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>31 - 40</unicode_entries>
+<image_tif>MAJword-list.1984.07.tif</image_tif>
+<image_tif2>MAJword-list.1984.08.tif</image_tif2>
+<image_jpg>MAJword-list.1984.07.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#67</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>68</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 3 and 4</speakers>
+<filename_audio>MAJword-list.1984.19</filename_audio>
+<filename_wav>MAJword-list.1984.19.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.19.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>41 - 50</unicode_entries>
+<image_tif>MAJword-list.1984.09.tif</image_tif>
+<image_tif2>MAJword-list.1984.10.tif</image_tif2>
+<image_jpg>MAJword-list.1984.09.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.10.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#68</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>69</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 3 and 4</speakers>
+<filename_audio>MAJword-list.1984.20</filename_audio>
+<filename_wav>MAJword-list.1984.20.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.20.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>51 - 60</unicode_entries>
+<image_tif>MAJword-list.1984.11.tif</image_tif>
+<image_tif2>MAJword-list.1984.12.tif</image_tif2>
+<image_jpg>MAJword-list.1984.11.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#69</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>70</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 3 and 4</speakers>
+<filename_audio>MAJword-list.1984.21</filename_audio>
+<filename_wav>MAJword-list.1984.21.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.21.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>61 - 70</unicode_entries>
+<image_tif>MAJword-list.1984.13.tif</image_tif>
+<image_tif2>MAJword-list.1984.14.tif</image_tif2>
+<image_jpg>MAJword-list.1984.13.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.14.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#70</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>71</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 3 and 4</speakers>
+<filename_audio>MAJword-list.1984.22</filename_audio>
+<filename_wav>MAJword-list.1984.22.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.22.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>71 - 80</unicode_entries>
+<image_tif>MAJword-list.1984.15.tif</image_tif>
+<image_tif2>MAJword-list.1984.16.tif</image_tif2>
+<image_jpg>MAJword-list.1984.15.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.16.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#71</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>72</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 3 and 4</speakers>
+<filename_audio>MAJword-list.1984.23</filename_audio>
+<filename_wav>MAJword-list.1984.23.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.23.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>81 - 90</unicode_entries>
+<image_tif>MAJword-list.1984.17.tif</image_tif>
+<image_tif2>MAJword-list.1984.18.tif</image_tif2>
+<image_jpg>MAJword-list.1984.17.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.18.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#72</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>73</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 3 and 4</speakers>
+<filename_audio>MAJword-list.1984.24</filename_audio>
+<filename_wav>MAJword-list.1984.24.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.24.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>91 - 100</unicode_entries>
+<image_tif>MAJword-list.1984.19.tif</image_tif>
+<image_tif2>MAJword-list.1984.20.tif</image_tif2>
+<image_jpg>MAJword-list.1984.19.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.20.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#73</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>74</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 3 and 4</speakers>
+<filename_audio>MAJword-list.1984.25</filename_audio>
+<filename_wav>MAJword-list.1984.25.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.25.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>101 - 110</unicode_entries>
+<image_tif>MAJword-list.1984.21.tif</image_tif>
+<image_tif2>MAJword-list.1984.22.tif</image_tif2>
+<image_jpg>MAJword-list.1984.21.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.22.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#74</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>75</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 3 and 4</speakers>
+<filename_audio>MAJword-list.1984.26</filename_audio>
+<filename_wav>MAJword-list.1984.26.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.26.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>111 - 120</unicode_entries>
+<image_tif>MAJword-list.1984.23.tif</image_tif>
+<image_tif2>MAJword-list.1984.24.tif</image_tif2>
+<image_jpg>MAJword-list.1984.23.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.24.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#75</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>76</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 3 and 4</speakers>
+<filename_audio>MAJword-list.1984.27</filename_audio>
+<filename_wav>MAJword-list.1984.27.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.27.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>121 - 130</unicode_entries>
+<image_tif>MAJword-list.1984.25.tif</image_tif>
+<image_tif2>MAJword-list.1984.26.tif</image_tif2>
+<image_jpg>MAJword-list.1984.25.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.26.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#76</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+<item>
+<entry>77</entry>
+<lang_name>Mazatec (Jalapa de Diaz)</lang_name>
+<sil_code>MAJ</sil_code>
+<content>Word List</content>
+<recording_location>Jalapa de Diaz, Oaxaca, Mexico</recording_location>
+<recording_date>24 December, 1982</recording_date>
+<fieldworkers>Paul Kirk</fieldworkers>
+<speakers>Speakers 3 and 4</speakers>
+<filename_audio>MAJword-list.1984.28</filename_audio>
+<filename_wav>MAJword-list.1984.28.wav</filename_wav>
+<filename_mp3>MAJword-list.1984.28.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>reel tape</original_medium>
+<xml_unicode>MAJword-list.1984.01.xml</xml_unicode>
+<unicode_entries>131 - 139</unicode_entries>
+<image_tif>MAJword-list.1984.27.tif</image_tif>
+<image_tif2>MAJword-list.1984.28.tif</image_tif2>
+<image_jpg>MAJword-list.1984.27.jpg</image_jpg>
+<image_jpg2>MAJword-list.1984.28.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>MAJrecord_details.xml#77</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+</item>
+
+</metadata>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Thai</language_name>
+
+<headers>
+
+<native_orthography>Sound Illustrated</native_orthography>
+<alt_orthography>Orthography</alt_orthography>
+<IPA_header>IPA</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>labial aspirated stop</native_orthography>
+<alt_orthography>ผ่า</alt_orthography>
+<IPA_transcription>phɑɑ̀</IPA_transcription>
+<gloss>split</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>alveolar aspirated stop</native_orthography>
+<alt_orthography>ืืทํา</alt_orthography>
+<IPA_transcription>tham</IPA_transcription>
+<gloss>do, make</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>post-alveolar aspirated stop</native_orthography>
+<alt_orthography>ฉะ</alt_orthography>
+<IPA_transcription>tʃhɑ̀</IPA_transcription>
+<gloss>fight</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>velar aspirated stop</native_orthography>
+<alt_orthography>ข้าว</alt_orthography>
+<IPA_transcription>khɑ̂ɑw</IPA_transcription>
+<gloss>rice</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>labial unaspirated stop</native_orthography>
+<alt_orthography>ป่า</alt_orthography>
+<IPA_transcription>pɑɑ̀</IPA_transcription>
+<gloss>forest</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>alveolar unaspirated stop</native_orthography>
+<alt_orthography>ตํา</alt_orthography>
+<IPA_transcription>tɑm</IPA_transcription>
+<gloss>pound</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>post-alveolar unaspirated stop</native_orthography>
+<alt_orthography>จะ</alt_orthography>
+<IPA_transcription>tʃɑ̀</IPA_transcription>
+<gloss>will</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>velar unaspirated stop</native_orthography>
+<alt_orthography>ก้าว</alt_orthography>
+<IPA_transcription>kɑ̂ɑw</IPA_transcription>
+<gloss>step</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>labial voiced stop</native_orthography>
+<alt_orthography>บ่า</alt_orthography>
+<IPA_transcription>bɑɑ̀</IPA_transcription>
+<gloss>shoulder</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>alveolar voiced stop</native_orthography>
+<alt_orthography>ดํา</alt_orthography>
+<IPA_transcription>dɑm</IPA_transcription>
+<gloss>black</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>labial aspirated stop</native_orthography>
+<alt_orthography>ผ้า</alt_orthography>
+<IPA_transcription>phɑɑ̂</IPA_transcription>
+<gloss>cloth</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>alveolar aspirated stop</native_orthography>
+<alt_orthography>ที</alt_orthography>
+<IPA_transcription>thii</IPA_transcription>
+<gloss>tune</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>post-alveolar aspirated stop</native_orthography>
+<alt_orthography>ชวน</alt_orthography>
+<IPA_transcription>tʃhuan</IPA_transcription>
+<gloss>persuade</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>velar aspirated stop</native_orthography>
+<alt_orthography>ขัด</alt_orthography>
+<IPA_transcription>khɑ̀t</IPA_transcription>
+<gloss>interrupt</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>labial unaspirated stop</native_orthography>
+<alt_orthography>ฟ้า</alt_orthography>
+<IPA_transcription>pɑɑ̂</IPA_transcription>
+<gloss>aunt</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>alveolar unaspirated stop</native_orthography>
+<alt_orthography>ตี</alt_orthography>
+<IPA_transcription>tii</IPA_transcription>
+<gloss>beat</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>post-alveolar unaspirated stop</native_orthography>
+<alt_orthography>จวน</alt_orthography>
+<IPA_transcription>tʃuan</IPA_transcription>
+<gloss>almost</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>velar unaspirated stop</native_orthography>
+<alt_orthography>กัด</alt_orthography>
+<IPA_transcription>kɑ̀t</IPA_transcription>
+<gloss>kite</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>labial voiced stop</native_orthography>
+<alt_orthography>บ้า</alt_orthography>
+<IPA_transcription>bɑɑ̂</IPA_transcription>
+<gloss>mad</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>alveolar voiced stop</native_orthography>
+<alt_orthography>ดี</alt_orthography>
+<IPA_transcription>dii</IPA_transcription>
+<gloss>good</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>common (higher falling)</native_orthography>
+<alt_orthography>มา</alt_orthography>
+<IPA_transcription>mɑɑ</IPA_transcription>
+<gloss>come</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>first (lower falling)</native_orthography>
+<alt_orthography>ม้า</alt_orthography>
+<IPA_transcription>mɑɑ́</IPA_transcription>
+<gloss>horse</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>second (high falling)</native_orthography>
+<alt_orthography>หมา</alt_orthography>
+<IPA_transcription>mɑɑ̌</IPA_transcription>
+<gloss>dog</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>third (high rising)</native_orthography>
+<alt_orthography>นา</alt_orthography>
+<IPA_transcription>nɑɑ</IPA_transcription>
+<gloss>field</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>fourth (low rising)</native_orthography>
+<alt_orthography>หน่า</alt_orthography>
+<IPA_transcription>nɑɑ̀</IPA_transcription>
+<gloss>a nickname</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>second (high falling)</native_orthography>
+<alt_orthography>หน้า</alt_orthography>
+<IPA_transcription>nɑɑ̂</IPA_transcription>
+<gloss>face</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>third (high rising)</native_orthography>
+<alt_orthography>น้า</alt_orthography>
+<IPA_transcription>nɑɑ́</IPA_transcription>
+<gloss>aunt</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>fourth (low rising)</native_orthography>
+<alt_orthography>หนา</alt_orthography>
+<IPA_transcription>nɑɑ̌</IPA_transcription>
+<gloss>thick</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>common (higher falling)</native_orthography>
+<alt_orthography>พา</alt_orthography>
+<IPA_transcription>phɑɑ</IPA_transcription>
+<gloss>bring</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>first (lower falling)</native_orthography>
+<alt_orthography>ผ่า</alt_orthography>
+<IPA_transcription>phɑɑ̀</IPA_transcription>
+<gloss>split</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>second (high falling)</native_orthography>
+<alt_orthography>ผ้า</alt_orthography>
+<IPA_transcription>phɑɑ̂</IPA_transcription>
+<gloss>cloth</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>fourth (low rising)</native_orthography>
+<alt_orthography>ผา</alt_orthography>
+<IPA_transcription>phɑɑ̌</IPA_transcription>
+<gloss>mountain</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>common (higher falling)</native_orthography>
+<alt_orthography>ปา</alt_orthography>
+<IPA_transcription>pɑɑ</IPA_transcription>
+<gloss>throw</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>first (lower falling)</native_orthography>
+<alt_orthography>ป่า</alt_orthography>
+<IPA_transcription>pɑɑ̀</IPA_transcription>
+<gloss>forest</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>second (high falling)</native_orthography>
+<alt_orthography>ป้า</alt_orthography>
+<IPA_transcription>pɑɑ̂</IPA_transcription>
+<gloss>aunt</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>fourth (low rising)</native_orthography>
+<alt_orthography>ป๋า</alt_orthography>
+<IPA_transcription>pɑɑ̌</IPA_transcription>
+<gloss>father</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>common (higher falling)</native_orthography>
+<alt_orthography>บา</alt_orthography>
+<IPA_transcription>bɑɑ</IPA_transcription>
+<gloss>bar</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>first (lower falling)</native_orthography>
+<alt_orthography>บ่า</alt_orthography>
+<IPA_transcription>bɑɑ̀</IPA_transcription>
+<gloss>shoulder</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>second (high falling)</native_orthography>
+<alt_orthography>บ้า</alt_orthography>
+<IPA_transcription>bɑɑ̂</IPA_transcription>
+<gloss>mad</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>common (higher falling)</native_orthography>
+<alt_orthography>ไค</alt_orthography>
+<IPA_transcription>khɑj</IPA_transcription>
+<gloss>plankton</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>first (lower falling)</native_orthography>
+<alt_orthography>ไข่</alt_orthography>
+<IPA_transcription>khɑ̀j</IPA_transcription>
+<gloss>egg</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>second (high falling)</native_orthography>
+<alt_orthography>ไข้</alt_orthography>
+<IPA_transcription>khɑ̂j</IPA_transcription>
+<gloss>fever</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>third (high rising)</native_orthography>
+<alt_orthography>ไค้</alt_orthography>
+<IPA_transcription>khɑ́j</IPA_transcription>
+<gloss>pick something small out</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>fourth (low rising)</native_orthography>
+<alt_orthography>ไข</alt_orthography>
+<IPA_transcription>khɑ̌j</IPA_transcription>
+<gloss>oil</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>common (higher falling)</native_orthography>
+<alt_orthography>ไก</alt_orthography>
+<IPA_transcription>kɑj</IPA_transcription>
+<gloss>trigger</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>first (lower falling)</native_orthography>
+<alt_orthography>ไก่</alt_orthography>
+<IPA_transcription>kɑ̀j</IPA_transcription>
+<gloss>chicken</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>fourth (low rising)</native_orthography>
+<alt_orthography>ไก๋</alt_orthography>
+<IPA_transcription>kɑ̌j</IPA_transcription>
+<gloss>pretend</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>common (higher falling)</native_orthography>
+<alt_orthography>คา</alt_orthography>
+<IPA_transcription>khɑɑ</IPA_transcription>
+<gloss>leaves</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>first (lower falling)</native_orthography>
+<alt_orthography>ข่า</alt_orthography>
+<IPA_transcription>khɑɑ̀</IPA_transcription>
+<gloss>ginger</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>second (high falling)</native_orthography>
+<alt_orthography>ข้า</alt_orthography>
+<IPA_transcription>khɑɑ̂</IPA_transcription>
+<gloss>me</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>third (high rising)</native_orthography>
+<alt_orthography>ค้า</alt_orthography>
+<IPA_transcription>khɑɑ́</IPA_transcription>
+<gloss>trade</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>fourth (low rising)</native_orthography>
+<alt_orthography>ขา</alt_orthography>
+<IPA_transcription>khɑɑ̌</IPA_transcription>
+<gloss>leg</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>common (higher falling)</native_orthography>
+<alt_orthography>กา</alt_orthography>
+<IPA_transcription>kɑɑ</IPA_transcription>
+<gloss>kettle</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>first (lower falling)</native_orthography>
+<alt_orthography>กิงก่า</alt_orthography>
+<IPA_transcription>kìn-kɑɑ̀</IPA_transcription>
+<gloss>cameleont</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>fourth (low rising)</native_orthography>
+<alt_orthography>ก๋า</alt_orthography>
+<IPA_transcription>kɑɑ̌</IPA_transcription>
+<gloss>bold</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography></native_orthography>
+<alt_orthography>ม้า</alt_orthography>
+<IPA_transcription>mɑ́ɑ</IPA_transcription>
+<gloss>horse</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography></native_orthography>
+<alt_orthography>ม้าน</alt_orthography>
+<IPA_transcription>mɑ́ɑn</IPA_transcription>
+<gloss>to be shunned</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography></native_orthography>
+<alt_orthography>มะ</alt_orthography>
+<IPA_transcription>mɑ́</IPA_transcription>
+<gloss>-'</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography></native_orthography>
+<alt_orthography>ค้า</alt_orthography>
+<IPA_transcription>khɑ́ɑ</IPA_transcription>
+<gloss>to trade</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography></native_orthography>
+<alt_orthography>ค้าน</alt_orthography>
+<IPA_transcription>khɑ́ɑn</IPA_transcription>
+<gloss>to argue</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography></native_orthography>
+<alt_orthography>คะ</alt_orthography>
+<IPA_transcription>khɑ́</IPA_transcription>
+<gloss>polite particle </gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography></native_orthography>
+<alt_orthography>ค่า</alt_orthography>
+<IPA_transcription>khɑ̂ɑ</IPA_transcription>
+<gloss>value</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography></native_orthography>
+<alt_orthography>ข้าง</alt_orthography>
+<IPA_transcription>khɑ̂ɑŋ</IPA_transcription>
+<gloss>side</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography></native_orthography>
+<alt_orthography>ค่ะ</alt_orthography>
+<IPA_transcription>khɑ̂</IPA_transcription>
+<gloss>polite particle</gloss>
+</item>
+</wordlist>

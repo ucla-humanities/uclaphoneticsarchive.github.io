@@ -1,0 +1,141 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- � 2004 The LINGUIST List>-->
+<head> 
+<title>Unicode Character</title>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<SCRIPT LANGUAGE="JavaScript">
+var ID;
+var unicode = "A;À,Á,Â,Ã,Ä,Å,Æ,Ā,Ă,Ą,Ǽ/C;Ç,Ć,Ĉ,Ċ,Č/D;Ď,Đ/E;È,É,Ê,Ë,Ē,Ĕ,Ė,Ę/G;Ĝ,Ğ,Ġ,Ģ,Ǵ,Ȝ/H;Ĥ,Ħ,Ƕ/I;Ì,Í,Î,Ï,Ĩ,Ī,Ĭ,İ/J;Ĵ/K;Ķ/L;Ĺ,Ļ,Ľ,Ŀ,Ł/N;Ñ,Ń,Ņ,Ň,Ŋ/O;Ò,Ó,Ô,Õ,Ö,Ø,Ō,Ŏ,Ő,Œ,Ǫ/R;Ŕ,Ŗ,Ř/S;Ś,Ŝ,Ş,Š/T;Þ,Ţ,Ť,Ŧ/U;Ù,Ú,Û,Ü,Ũ,Ū,Ŭ,Ů,Ű,Ų/W;Ŵ/Y;Ý,Ŷ,Ÿ,Ȳ,Ỹ/Z;Ź,Ż,Ž/a;à,á,â,ã,ä,å,æ,ā,ă,ą,ǎ,ǽ/b;b/c;ç,ć,ĉ,ċ,č/d;ð,ď,đ/e;è,é,ê,ë,ē,ĕ,ė,ę,ě/g;ĝ,ğ,ġ,ģ,ǵ,ȝ/h;ĥ,ħ,ƕ/i;ì,í,î,ï,ĩ,ī,ĭ,ı,ǐ/j;ĵ,ǰ/k;ķ/l;ĺ,ļ,ľ,ŀ,ł/n;ñ,ń,ņ,ň,ŋ/o;ò,ó,ô,õ,ö,ø,ō,ŏ,ő,œ,ǒ,ǫ/r;ŕ,ŗ,ř/s;ß,ś,ŝ,ş,š/t;þ,ţ,ť,ŧ/u;ù,ú,û,ü,ũ,ū,ŭ,ů,ű,ų,ǔ,ǖ,ǘ,ǚ,ǜ/w;ŵ/y;ý,ÿ,ŷ,ȳ,ỹ/z;ź,ż,ž";
+
+var ipa = "?;ʔ,ʕ,ʖ,ʡ,ʢ/a;a,ä,æ,ą,ɐ,ɑ,ɒ,ɒ̈,ʌ/b;b,ɓ,ʙ,β/c;c,ç,ɕ,ʗ/d;d,dʱ,ð,ɖ,ɗ,ʣ,ʤ,ʥ/e;e,ẽ,ë,ɘ,ə,ɚ,ɛ,ɜ,ɝ,ɞ,ʚ/f;f,ɸ/g;g,ɠ,ɢ,ɣ,ʛ/h;h,ħ,ɥ,ɦ,ɧ,ʜ/i;i,ï,ɨ,ɩ,ɪ/j;j,ɟ,ʝ/k;k,k’,ʞ/l;l,ł,ɬ,ɭ,ɮ,ʎ,ʟ/m;m,m̥,ɱ/n;n,n̥,ń,ŋ,ɲ,ɳ,ɴ/o;o,ö,ø,œ,ɔ,ɔ̈,ɵ,ɶ/p;p,p’/q;q/r;r,ɹ,ɺ,ɻ,ɼ,ɽ,ɾ,ʀ,ʁ/s;s,s’,ʂ,ʃ,ʄ,ʆ/t;t,tʰ,t̪,t’,ʇ,ʈ,ʧ,ʨ,θ/ts;ʦ/u;u,ü,ʉ,ʊ/v;v,ʋ/w;w,ẅ̈,ɯ,ɰ,ʍ/x;x,χ/y;y,ÿ,ɤ,ʏ/z;z,ʐ,ʑ,ʒ,ʓ/ǀ;ǀ/ǁ;ǁ/ǂ;ǂ/ǃ;ǃ/ʘ;ʘ";
+
+var unicodeArray = unicode.split("/")
+var tempArray = new Array()
+var unicodeResults = new Array()
+var ipaResults = new Array()
+
+for (var i = 0; i < unicodeArray.length; i++) {
+tempArray = unicodeArray[i].split(";")
+//alert("left"+tempArray[0]);
+//alert("right"+tempArray[1]);
+unicodeResults[tempArray[0]] = tempArray[1]
+}
+var ipaArray = ipa.split("/")
+for (var i = 0; i < ipaArray.length; i++) {
+tempArray = ipaArray[i].split(";")
+//alert("left"+tempArray[0]);
+//alert("right"+tempArray[1]);
+ipaResults[tempArray[0]] = tempArray[1]
+}
+
+var String1
+var ID
+var temp = new Array()
+	if (location.search) {
+	document.writeln("<META http-equiv=Content-Type content='text/html; charset=utf-8'>");
+	document.writeln("<STYLE type=text/css>");
+	document.writeln(".unichars {FONT-SIZE: 25px; VERTICAL-ALIGN: middle; COLOR: #000000; FONT-FAMILY: Arial Unicode MS , Code2000, Lucida Sans Unicode; TEXT-ALIGN: center}");
+	document.writeln(".smallheader {FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #000000; FONT-FAMILY: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif; FONT-VARIANT: normal}");
+	document.writeln("A:link {COLOR: #003399; TEXT-DECORATION: none}");
+	document.writeln("A:visited {COLOR: #003399; TEXT-DECORATION: none}");
+	document.writeln("A:hover {BORDER-LEFT-COLOR: #666666; BORDER-BOTTOM-COLOR: #666666; COLOR: #0099ff; BORDER-TOP-COLOR: #000000; BORDER-RIGHT-COLOR: #666666}");
+	document.writeln("A:active {COLOR: #003399}");
+	document.writeln("</STYLE>");
+	document.writeln("</HEAD><BODY>");
+	
+	var minNav3 = (navigator.appName == "Netscape" && parseInt(navigator.appVersion) >= 3)
+	var minIE4 = (navigator.appName.indexOf("Microsoft") >= 0 && parseInt(navigator.appVersion) >= 4)
+	var minDOM = minNav3 || minIE4   // baseline DOM required for this function
+	var results = new Array()
+	if (minDOM) {
+		var input = unescape(location.search.substr(1))
+		if (input) {
+			var srchArray = input.split("&")
+			var tempArray = new Array()
+			for (var i = 0; i < srchArray.length; i++) {
+				tempArray = srchArray[i].split("=")
+				//alert("left"+tempArray[0]);
+				//alert("right"+tempArray[1]);
+				results[tempArray[0]] = tempArray[1]
+			}
+		}
+	}
+		var srchArray = results
+		if (srchArray["String1"]) {
+		String1 = srchArray["String1"]
+		ID = srchArray["ID"]
+		if ((unicodeResults[String1]) || (ipaResults[String1])){
+		document.writeln("<FORM name=form1 method=post>");
+		document.writeln("<TABLE ALIGN=CENTER>");
+		document.writeln("<TR><TD ALIGN=CENTER COLSPAN=2>");
+		document.writeln("<P CLASS=smallheader>");
+		document.writeln("Click the selected character!</P></TD></TR>");
+		document.writeln("<TR><TD VALIGN='TOP'>");
+		document.writeln("<TABLE BORDER=0 BORDERCOLOR=##999999 VALIGN='TOP'>");
+		document.writeln("<TBODY>");
+		if (ipaResults[String1]){
+		temp = ipaResults[String1].split(",")
+		for (var i = 0; i < temp.length; i++) {
+		document.writeln("<TR><TD VALIGN=CENTER><DIV ALIGN=CENTER CLASS=UNICHARS>");
+		document.writeln("<A onclick=Update('"+temp[i]+"','"+ID+"') href=javascript:;>");
+		document.writeln(temp[i]+"</A>");
+		document.writeln("</DIV></TD></TR>");}
+ 		}
+		document.writeln("</TBODY>");
+		document.writeln("</TABLE></TD>");
+		document.writeln("<TD VALIGN='TOP'>");
+		document.writeln("<TABLE BORDER=0 BORDERCOLOR=##999999 VALIGN='TOP'>");
+		document.writeln("<TBODY>");
+		if (unicodeResults[String1]){
+		temp = unicodeResults[String1].split(",")
+		for (var i = 0; i < temp.length; i++) {
+		document.writeln("<TR><TD VALIGN=CENTER><DIV ALIGN=CENTER CLASS=UNICHARS>");
+		document.writeln("<A onclick=Update('"+temp[i]+"','"+ID+"') href=javascript:;>");
+		document.writeln(temp[i]+"</A>");
+		document.writeln("</DIV></TD></TR>");}
+ 		}
+		document.writeln("</TBODY>");
+		document.writeln("</TABLE></TD>");
+		document.writeln("</TR></TABLE></FORM>");
+		}
+		else{
+		document.writeln("<P CLASS=smallheader>No character found matching your search character</P><DIV align=center class=unichars> "+String1+" </DIV><BR>");
+		document.writeln("<A HREF=javascript:window.close()>");
+		document.writeln("<STRONG>Please search again.</STRONG></A></DIV>");
+		document.writeln("<BR><BR><BR>");
+		}
+		}
+		else {
+		document.writeln("<P CLASS=smallheader>");
+		document.writeln("Wrong Page!<BR>");
+		document.writeln("You must input character for search !<BR>");
+		document.writeln("<P>Click here to <A HREF=javascript:window.close()>close the window!</A></P>");
+		}
+	}
+
+</SCRIPT>
+</head>
+<body></body>
+<SCRIPT LANGUAGE="JavaScript">
+function Update(Alphabet,ID){
+
+var Name = navigator.appName;
+
+if (Name.indexOf("Microsoft") >= 0 ){
+var temp1 = window.opener.document.all.item(ID).value.length-1;
+var temp3 = window.opener.document.all.item(ID).value.substring(0,temp1);
+window.opener.document.all.item(ID).value = temp3+Alphabet;
+}
+else if (Name.indexOf("Netscape") >= 0 ){
+var temp1 = window.opener.document.form1.eval(ID).value.length-1;
+var temp3 = window.opener.document.form1.eval(ID).value.substring(0,temp1);
+window.opener.document.form1.eval(ID).value = temp3+Alphabet;
+}
+window.close();
+}
+</SCRIPT>
+</html>
+
+
+

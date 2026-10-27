@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Ganda</language_name>
+
+
+
+<headers>
+
+<native_orthography>Sound Illustrated</native_orthography>
+<alt_orthography>Orthography</alt_orthography>
+<IPA_header>IPA Transcription</IPA_header>
+<gloss_header>English Gloss</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>i</native_orthography>
+<alt_orthography>kulima</alt_orthography>
+<IPA_transcription>kùˈlímá</IPA_transcription>
+<gloss>to cultivate</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>i</native_orthography>
+<alt_orthography>kuliima</alt_orthography>
+<IPA_transcription>kùˈli̋ːmá</IPA_transcription>
+<gloss>to spy</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>e</native_orthography>
+<alt_orthography>kuwera</alt_orthography>
+<IPA_transcription>kùˈwérá</IPA_transcription>
+<gloss>to pledge</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>e</native_orthography>
+<alt_orthography>kuweera</alt_orthography>
+<IPA_transcription>kùˈwe̋ːrá</IPA_transcription>
+<gloss>to rest</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>a</native_orthography>
+<alt_orthography>kuwaba</alt_orthography>
+<IPA_transcription>kùˈwáβá</IPA_transcription>
+<gloss>to go astray</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>a</native_orthography>
+<alt_orthography>kuwaaba</alt_orthography>
+<IPA_transcription>kùˈwa̋ːβá</IPA_transcription>
+<gloss>to complain</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>o</native_orthography>
+<alt_orthography>kuwola</alt_orthography>
+<IPA_transcription>kùˈwólá</IPA_transcription>
+<gloss>to lend money</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>o</native_orthography>
+<alt_orthography>kuwoola</alt_orthography>
+<IPA_transcription>kuˈwőːlá</IPA_transcription>
+<gloss>to scoop out</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>u</native_orthography>
+<alt_orthography>kutula</alt_orthography>
+<IPA_transcription>kùˈtúlá</IPA_transcription>
+<gloss>to become sharp</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>u</native_orthography>
+<alt_orthography>kutuula</alt_orthography>
+<IPA_transcription>kùˈtûːlá</IPA_transcription>
+<gloss>to sit down</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>p</native_orthography>
+<alt_orthography>kupipira</alt_orthography>
+<IPA_transcription>kùˈpípírà</IPA_transcription>
+<gloss>jerking movement</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>β</native_orthography>
+<alt_orthography>kubibira</alt_orthography>
+<IPA_transcription>kùˈβíβírà</IPA_transcription>
+<gloss>to head off something</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>β</native_orthography>
+<alt_orthography>kuba</alt_orthography>
+<IPA_transcription>kùˈβâ</IPA_transcription>
+<gloss>to be</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>bb</native_orthography>
+<alt_orthography>kubba</alt_orthography>
+<IPA_transcription>kûˈbbà</IPA_transcription>
+<gloss>to steal</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>p</native_orthography>
+<alt_orthography>kkapa</alt_orthography>
+<IPA_transcription>ˈkkâpà</IPA_transcription>
+<gloss>cat</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>pp</native_orthography>
+<alt_orthography>ppata</alt_orthography>
+<IPA_transcription>ˈppátà</IPA_transcription>
+<gloss>hinge</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>tt</native_orthography>
+<alt_orthography>kutta</alt_orthography>
+<IPA_transcription>kûˈttá</IPA_transcription>
+<gloss>to kill</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>dd</native_orthography>
+<alt_orthography>kudda</alt_orthography>
+<IPA_transcription>kûˈddà</IPA_transcription>
+<gloss>to return</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>t </native_orthography>
+<alt_orthography>kuta</alt_orthography>
+<IPA_transcription>kùˈtâ</IPA_transcription>
+<gloss>to let go</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>tt</native_orthography>
+<alt_orthography>kutta</alt_orthography>
+<IPA_transcription>kûˈttá</IPA_transcription>
+<gloss>to kill</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>d </native_orthography>
+<alt_orthography>obude</alt_orthography>
+<IPA_transcription>òˈβúdè</IPA_transcription>
+<gloss>small bells</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>dd</native_orthography>
+<alt_orthography>obudde</alt_orthography>
+<IPA_transcription>òˈβûddè</IPA_transcription>
+<gloss>time</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>k</native_orthography>
+<alt_orthography>mukazi</alt_orthography>
+<IPA_transcription>mùˈkázì</IPA_transcription>
+<gloss>woman</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>g</native_orthography>
+<alt_orthography>mugazi</alt_orthography>
+<IPA_transcription>mùgàˈzí</IPA_transcription>
+<gloss>that which is wide</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>k</native_orthography>
+<alt_orthography>myaka</alt_orthography>
+<IPA_transcription>ˈmjâká</IPA_transcription>
+<gloss>years</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>kk</native_orthography>
+<alt_orthography>kkazi</alt_orthography>
+<IPA_transcription>ˈkkázì</IPA_transcription>
+<gloss>fat woman</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>g</native_orthography>
+<alt_orthography>kugula</alt_orthography>
+<IPA_transcription>kùˈgúlá</IPA_transcription>
+<gloss>to buy</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>gg</native_orthography>
+<alt_orthography>kuggula</alt_orthography>
+<IPA_transcription>kȕˈggúɾá</IPA_transcription>
+<gloss>to open</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>β</native_orthography>
+<alt_orthography>bonna</alt_orthography>
+<IPA_transcription>βòˈnná</IPA_transcription>
+<gloss>all</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>b </native_orthography>
+<alt_orthography>boggo</alt_orthography>
+<IPA_transcription>bóˈggò</IPA_transcription>
+<gloss>a rudeness</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>f</native_orthography>
+<alt_orthography>kufa</alt_orthography>
+<IPA_transcription>kùˈfâ</IPA_transcription>
+<gloss>to die</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>v</native_orthography>
+<alt_orthography>kuva</alt_orthography>
+<IPA_transcription>ˈkùvá</IPA_transcription>
+<gloss>to come from </gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>f</native_orthography>
+<alt_orthography>kifumu</alt_orthography>
+<IPA_transcription>kìˈfúmù</IPA_transcription>
+<gloss>a gardening spear</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>ff</native_orthography>
+<alt_orthography>ffumu</alt_orthography>
+<IPA_transcription>ˈffúmù</IPA_transcription>
+<gloss>spear</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>v</native_orthography>
+<alt_orthography>kivu</alt_orthography>
+<IPA_transcription>kìˈvú</IPA_transcription>
+<gloss>(no gloss)</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>vv</native_orthography>
+<alt_orthography>vvu</alt_orthography>
+<IPA_transcription>ˈvvû</IPA_transcription>
+<gloss>ash</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>s </native_orthography>
+<alt_orthography>kusaaza</alt_orthography>
+<IPA_transcription>kùˈsâːzà</IPA_transcription>
+<gloss>to sizzle</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>z</native_orthography>
+<alt_orthography>kuzaaza</alt_orthography>
+<IPA_transcription>kúˈzâːzà</IPA_transcription>
+<gloss>to help deliver a baby</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>s</native_orthography>
+<alt_orthography>kusa </alt_orthography>
+<IPA_transcription>kùˈsá</IPA_transcription>
+<gloss>to grind</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>ss</native_orthography>
+<alt_orthography>kussa</alt_orthography>
+<IPA_transcription>kȕˈssá</IPA_transcription>
+<gloss>to breathe</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>z</native_orthography>
+<alt_orthography>mazike</alt_orthography>
+<IPA_transcription>màˈzíkè</IPA_transcription>
+<gloss>chimpanzees</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>zz</native_orthography>
+<alt_orthography>zzike</alt_orthography>
+<IPA_transcription>ˈzzíkè</IPA_transcription>
+<gloss>chimpanzee</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>tʃ</native_orthography>
+<alt_orthography>mucungwa</alt_orthography>
+<IPA_transcription>mùˈtʃûŋgwá</IPA_transcription>
+<gloss>an orange</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>dʒ</native_orthography>
+<alt_orthography>mujunga</alt_orthography>
+<IPA_transcription>mùˈdʒûŋgà</IPA_transcription>
+<gloss>a tassle</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>l </native_orthography>
+<alt_orthography>mmula</alt_orthography>
+<IPA_transcription>ˈmmúlà</IPA_transcription>
+<gloss>pepper</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>ʎ</native_orthography>
+<alt_orthography>mulya</alt_orthography>
+<IPA_transcription>ˈmúʎà</IPA_transcription>
+<gloss>you are eating</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>m</native_orthography>
+<alt_orthography>mala</alt_orthography>
+<IPA_transcription>ˈmàlá</IPA_transcription>
+<gloss>finish!</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>mm</native_orthography>
+<alt_orthography>mmala</alt_orthography>
+<IPA_transcription>ˈmmâɾà</IPA_transcription>
+<gloss>I finish</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>nn-n</native_orthography>
+<alt_orthography>nnaanansi</alt_orthography>
+<IPA_transcription>nnâːˈnánsì</IPA_transcription>
+<gloss>pineapple</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>ññ-ñ</native_orthography>
+<alt_orthography>nnyaanya</alt_orthography>
+<IPA_transcription>ññâːˈñá</IPA_transcription>
+<gloss>tomato</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>ŋŋ-ŋ</native_orthography>
+<alt_orthography>nnaana </alt_orthography>
+<IPA_transcription>ˈŋŋa̋ːŋâ</IPA_transcription>
+<gloss>type of bird</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>r</native_orthography>
+<alt_orthography>kuliira</alt_orthography>
+<IPA_transcription>kùˈlí̂ːɾá</IPA_transcription>
+<gloss>to eat well</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>j</native_orthography>
+<alt_orthography>muyaayu</alt_orthography>
+<IPA_transcription>mùjâːjú</IPA_transcription>
+<gloss>wild cat</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>w</native_orthography>
+<alt_orthography>muwi</alt_orthography>
+<IPA_transcription>mùˈwí</IPA_transcription>
+<gloss>the giver</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>mp</native_orthography>
+<alt_orthography>mpaka</alt_orthography>
+<IPA_transcription>mpàˈkâ</IPA_transcription>
+<gloss>a dispute</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>mb</native_orthography>
+<alt_orthography>mbala</alt_orthography>
+<IPA_transcription>mbáɾá</IPA_transcription>
+<gloss>I count</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>nf</native_orthography>
+<alt_orthography>nfumba</alt_orthography>
+<IPA_transcription>ˈnfűmbá</IPA_transcription>
+<gloss>I cook</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>nv</native_orthography>
+<alt_orthography>nvuba</alt_orthography>
+<IPA_transcription>ˈnvúβá</IPA_transcription>
+<gloss>I fish</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>nd</native_orthography>
+<alt_orthography>ndegeya</alt_orthography>
+<IPA_transcription>ˈndèˈgéjà</IPA_transcription>
+<gloss>species of bird</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>ñdʒ</native_orthography>
+<alt_orthography>njegele</alt_orthography>
+<IPA_transcription>ˈñdʒègéré</IPA_transcription>
+<gloss>chains</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>ŋg</native_orthography>
+<alt_orthography>ngege</alt_orthography>
+<IPA_transcription>ŋgèˈgê</IPA_transcription>
+<gloss>bream</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>mbw</native_orthography>
+<alt_orthography>mbwa</alt_orthography>
+<IPA_transcription>̈ˈmbâ</IPA_transcription>
+<gloss>dog</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>ndw</native_orthography>
+<alt_orthography>ndwadde</alt_orthography>
+<IPA_transcription>ˈndwâddé</IPA_transcription>
+<gloss>disease</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>nkw</native_orthography>
+<alt_orthography>nkwa</alt_orthography>
+<IPA_transcription>ˈŋkwâ</IPA_transcription>
+<gloss>cattle tick</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>nsw</native_orthography>
+<alt_orthography>nswa</alt_orthography>
+<IPA_transcription>ˈnswâ</IPA_transcription>
+<gloss>termite</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>ngw</native_orthography>
+<alt_orthography>ekyangwe</alt_orthography>
+<IPA_transcription>ȅtʃa̋ŋgwe</IPA_transcription>
+<gloss>a loofah</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>(tone contrast)</native_orthography>
+<alt_orthography>muzigo</alt_orthography>
+<IPA_transcription>mùˈzígò</IPA_transcription>
+<gloss>butter</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography></native_orthography>
+<alt_orthography>muzigo</alt_orthography>
+<IPA_transcription>mùzíˈgô</IPA_transcription>
+<gloss>door; gap</gloss>
+</item>
+</wordlist>
+
+
+
+
+
+

@@ -1,0 +1,1710 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata>
+<language_name>Dahalo</language_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<headers>
+<entry_header>Recording</entry_header>
+<lang_name_header>Language:</lang_name_header>
+<sil_code_header>SIL Code</sil_code_header>
+<content_header>Recording Contents</content_header>
+<recording_location_header>Recording Location</recording_location_header>
+<recording_date_header>Recording Date</recording_date_header>
+<fieldworkers_header>Fieldworkers</fieldworkers_header>
+<speakers_header>Speakers</speakers_header>
+<filename_audio_header>Audio Filename</filename_audio_header>
+<filename_wav_header>Filename (WAV)</filename_wav_header>
+<filename_mp3_header>Filename (MP3)</filename_mp3_header>
+<wav_quality_header>WAV Digitization Quality</wav_quality_header>
+<mp3_quality_header>MP3 Bit Rate</mp3_quality_header>
+<original_medium_header>Original Recording Medium</original_medium_header>
+<wordlist_header>Unicode Word List</wordlist_header>
+<wordlist_entries_header>Unicode Word List Entries</wordlist_entries_header>
+<image_tif_header>Tiff Image</image_tif_header>
+<image_tif2_header>Tiff Image 2</image_tif2_header>
+<image_jpg_header>JPG Image</image_jpg_header>
+<image_jpg2_header>JPG Image 2</image_jpg2_header>
+<tif_quality_header>TIFF Image Quality </tif_quality_header>
+<jpg_quality_header>JPG Quality</jpg_quality_header>
+<details_header>Details</details_header>
+<rights_header>Rights of Access</rights_header>
+<wordlist_no_repetition_header></wordlist_no_repetition_header>
+<link_within_wordlist_header></link_within_wordlist_header>
+</headers>
+<item>
+<entry>1</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>North of Witu, Kenya</recording_location>
+<recording_date>6 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Ali Mouammar</speakers>
+<filename_audio>dal_word-list_1991_01</filename_audio>
+<filename_wav>dal_word-list_1991_01.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_01.html</wordlist>
+<wordlist_entries>1 - 25</wordlist_entries>
+<image_tif>dal_word-list_1991_01.tif</image_tif>
+<image_tif2>dal_word-list_1991_02.tif</image_tif2>
+<image_jpg>dal_word-list_1991_01.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_02.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#1</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>dal_word-list_1991_01.html</wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_01.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>2</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>North of Witu, Kenya</recording_location>
+<recording_date>6 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Ali Mouammar</speakers>
+<filename_audio>dal_word-list_1991_02</filename_audio>
+<filename_wav>dal_word-list_1991_02.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_02.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_01.html</wordlist>
+<wordlist_entries>26 - 47</wordlist_entries>
+<image_tif>dal_word-list_1991_03.tif</image_tif>
+<image_tif2>dal_word-list_1991_04.tif</image_tif2>
+<image_jpg>dal_word-list_1991_03.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_04.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#2</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_01.html#26</link_within_wordlist>
+</item>
+
+<item>
+<entry>3</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>North of Witu, Kenya</recording_location>
+<recording_date>6 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Ali Mouammar</speakers>
+<filename_audio>dal_word-list_1991_03</filename_audio>
+<filename_wav>dal_word-list_1991_03.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_03.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_01.html</wordlist>
+<wordlist_entries>48 - 68</wordlist_entries>
+<image_tif>dal_word-list_1991_05.tif</image_tif>
+<image_tif2>dal_word-list_1991_06.tif</image_tif2>
+<image_jpg>dal_word-list_1991_05.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_06.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#3</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_01.html#48</link_within_wordlist>
+</item>
+
+<item>
+<entry>4</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>North of Witu, Kenya</recording_location>
+<recording_date>6 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Ali Mouammar</speakers>
+<filename_audio>dal_word-list_1991_04</filename_audio>
+<filename_wav>dal_word-list_1991_04.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_04.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_01.html</wordlist>
+<wordlist_entries>69 - 100</wordlist_entries>
+<image_tif>dal_word-list_1991_07.tif</image_tif>
+<image_tif2>dal_word-list_1991_08.tif</image_tif2>
+<image_jpg>dal_word-list_1991_07.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_08.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#4</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_01.html#69</link_within_wordlist>
+</item>
+
+<item>
+<entry>5</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>North of Witu, Kenya</recording_location>
+<recording_date>6 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Ali Mouammar</speakers>
+<filename_audio>dal_word-list_1991_05</filename_audio>
+<filename_wav>dal_word-list_1991_05.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_05.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_01.html</wordlist>
+<wordlist_entries>101 - 124</wordlist_entries>
+<image_tif>dal_word-list_1991_09.tif</image_tif>
+<image_tif2>dal_word-list_1991_10.tif</image_tif2>
+<image_jpg>dal_word-list_1991_09.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_10.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#5</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_01.html#101</link_within_wordlist>
+</item>
+
+<item>
+<entry>6</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>North of Witu, Kenya</recording_location>
+<recording_date>6 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Ali Mouammar</speakers>
+<filename_audio>dal_word-list_1991_06</filename_audio>
+<filename_wav>dal_word-list_1991_06.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_06.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_01.html</wordlist>
+<wordlist_entries>124 - 147</wordlist_entries>
+<image_tif>dal_word-list_1991_11.tif</image_tif>
+<image_tif2>dal_word-list_1991_12.tif</image_tif2>
+<image_jpg>dal_word-list_1991_11.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_12.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#6</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_01.html#124</link_within_wordlist>
+</item>
+
+<item>
+<entry>7</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>North of Witu, Kenya</recording_location>
+<recording_date>6 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Ali Mouammar</speakers>
+<filename_audio>dal_word-list_1991_07</filename_audio>
+<filename_wav>dal_word-list_1991_07.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_07.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_01.html</wordlist>
+<wordlist_entries>148 - 165</wordlist_entries>
+<image_tif>dal_word-list_1991_13.tif</image_tif>
+<image_tif2>dal_word-list_1991_14.tif</image_tif2>
+<image_jpg>dal_word-list_1991_13.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_14.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#7</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_01.html#148</link_within_wordlist>
+</item>
+
+<item>
+<entry>8</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>North of Witu, Kenya</recording_location>
+<recording_date>7 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Ali Mouammar</speakers>
+<filename_audio>dal_word-list_1991_08</filename_audio>
+<filename_wav>dal_word-list_1991_08.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_08.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_02.html</wordlist>
+<wordlist_entries>1 - 20</wordlist_entries>
+<image_tif>dal_word-list_1991_15.tif</image_tif>
+<image_tif2>dal_word-list_1991_16.tif</image_tif2>
+<image_jpg>dal_word-list_1991_15.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_16.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#8</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>dal_word-list_1991_02.html</wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_02.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>9</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>North of Witu, Kenya</recording_location>
+<recording_date>7 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Ali Mouammar</speakers>
+<filename_audio>dal_word-list_1991_09</filename_audio>
+<filename_wav>dal_word-list_1991_09.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_09.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_02.html</wordlist>
+<wordlist_entries>21 - 32</wordlist_entries>
+<image_tif>dal_word-list_1991_17.tif</image_tif>
+<image_tif2>dal_word-list_1991_18.tif</image_tif2>
+<image_jpg>dal_word-list_1991_17.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_18.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#9</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_02.html#21</link_within_wordlist>
+</item>
+
+<item>
+<entry>10</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>North of Witu, Kenya</recording_location>
+<recording_date>7 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Ali Mouammar</speakers>
+<filename_audio>dal_word-list_1991_10</filename_audio>
+<filename_wav>dal_word-list_1991_10.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_10.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_02.html</wordlist>
+<wordlist_entries>33 - 50</wordlist_entries>
+<image_tif>dal_word-list_1991_19.tif</image_tif>
+<image_tif2>dal_word-list_1991_20.tif</image_tif2>
+<image_jpg>dal_word-list_1991_19.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_20.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#10</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_02.html#33</link_within_wordlist>
+</item>
+
+<item>
+<entry>11</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>North of Witu, Kenya</recording_location>
+<recording_date>7 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Ali Mouammar</speakers>
+<filename_audio>dal_word-list_1991_11</filename_audio>
+<filename_wav>dal_word-list_1991_11.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_11.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_02.html</wordlist>
+<wordlist_entries>51 - 63</wordlist_entries>
+<image_tif>dal_word-list_1991_21.tif</image_tif>
+<image_tif2>dal_word-list_1991_22.tif</image_tif2>
+<image_jpg>dal_word-list_1991_21.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_22.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#11</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_02.html#51</link_within_wordlist>
+</item>
+
+<item>
+<entry>12</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>North of Witu, Kenya</recording_location>
+<recording_date>7 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Ali Mouammar</speakers>
+<filename_audio>dal_word-list_1991_12</filename_audio>
+<filename_wav>dal_word-list_1991_12.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_12.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_02.html</wordlist>
+<wordlist_entries>64 - 75</wordlist_entries>
+<image_tif>dal_word-list_1991_23.tif</image_tif>
+<image_tif2>dal_word-list_1991_24.tif</image_tif2>
+<image_jpg>dal_word-list_1991_23.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_24.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#12</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_02.html#64</link_within_wordlist>
+</item>
+
+<item>
+<entry>13</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>North of Witu, Kenya</recording_location>
+<recording_date>7 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Ali Mouammar</speakers>
+<filename_audio>dal_word-list_1991_13</filename_audio>
+<filename_wav>dal_word-list_1991_13.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_13.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_02.html</wordlist>
+<wordlist_entries>76 - 90</wordlist_entries>
+<image_tif>dal_word-list_1991_25.tif</image_tif>
+<image_tif2>dal_word-list_1991_26.tif</image_tif2>
+<image_jpg>dal_word-list_1991_25.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_26.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#13</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_02.html#76</link_within_wordlist>
+</item>
+
+<item>
+<entry>14</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>North of Witu, Kenya</recording_location>
+<recording_date>7 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Ali Mouammar</speakers>
+<filename_audio>dal_word-list_1991_14</filename_audio>
+<filename_wav>dal_word-list_1991_14.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_14.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_02.html</wordlist>
+<wordlist_entries>91 - 107</wordlist_entries>
+<image_tif>dal_word-list_1991_27.tif</image_tif>
+<image_tif2>dal_word-list_1991_28.tif</image_tif2>
+<image_jpg>dal_word-list_1991_27.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_28.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#14</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_02.html#91</link_within_wordlist>
+</item>
+
+<item>
+<entry>15</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_15</filename_audio>
+<filename_wav>dal_word-list_1991_15.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_15.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>1 - 16</wordlist_entries>
+<image_tif>dal_word-list_1991_29.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_29.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#15</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>dal_word-list_1991_03.html</wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>16</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_16</filename_audio>
+<filename_wav>dal_word-list_1991_16.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_16.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>17 - 41</wordlist_entries>
+<image_tif>dal_word-list_1991_29.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_29.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#16</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#17</link_within_wordlist>
+</item>
+
+<item>
+<entry>17</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_17</filename_audio>
+<filename_wav>dal_word-list_1991_17.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_17.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>42 -58</wordlist_entries>
+<image_tif>dal_word-list_1991_29.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_29.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#17</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#42</link_within_wordlist>
+</item>
+
+<item>
+<entry>18</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_18</filename_audio>
+<filename_wav>dal_word-list_1991_18.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_18.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>59 - 85</wordlist_entries>
+<image_tif>dal_word-list_1991_30.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_30.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#18</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#59</link_within_wordlist>
+</item>
+
+<item>
+<entry>19</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_19</filename_audio>
+<filename_wav>dal_word-list_1991_19.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_19.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>86 -105</wordlist_entries>
+<image_tif>dal_word-list_1991_30.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_30.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#19</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#86</link_within_wordlist>
+</item>
+
+<item>
+<entry>20</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_20</filename_audio>
+<filename_wav>dal_word-list_1991_20.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_20.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>106 -132</wordlist_entries>
+<image_tif>dal_word-list_1991_31.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_31.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#20</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#106</link_within_wordlist>
+</item>
+
+<item>
+<entry>21</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_21</filename_audio>
+<filename_wav>dal_word-list_1991_21.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_21.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>133 -165</wordlist_entries>
+<image_tif>dal_word-list_1991_31.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_31.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#21</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#133</link_within_wordlist>
+</item>
+
+<item>
+<entry>22</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_22</filename_audio>
+<filename_wav>dal_word-list_1991_22.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_22.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>166 - 188</wordlist_entries>
+<image_tif>dal_word-list_1991_32.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_32.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#22</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#166</link_within_wordlist>
+</item>
+
+<item>
+<entry>23</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_23</filename_audio>
+<filename_wav>dal_word-list_1991_23.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_23.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>189 - 219</wordlist_entries>
+<image_tif>dal_word-list_1991_32.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_32.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#23</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#189</link_within_wordlist>
+</item>
+
+<item>
+<entry>24</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_24</filename_audio>
+<filename_wav>dal_word-list_1991_24.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_24.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>220 - 249</wordlist_entries>
+<image_tif>dal_word-list_1991_33.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_33.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#24</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>dal_word-list_1991_03.html</wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#220</link_within_wordlist>
+</item>
+
+<item>
+<entry>25</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_25</filename_audio>
+<filename_wav>dal_word-list_1991_25.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_25.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>250 - 279</wordlist_entries>
+<image_tif>dal_word-list_1991_33.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_33.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#25</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#250</link_within_wordlist>
+</item>
+
+<item>
+<entry>26</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_26</filename_audio>
+<filename_wav>dal_word-list_1991_26.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_26.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>280 - 298</wordlist_entries>
+<image_tif>dal_word-list_1991_34.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_34.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#26</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#280</link_within_wordlist>
+</item>
+
+<item>
+<entry>27</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_27</filename_audio>
+<filename_wav>dal_word-list_1991_27.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_27.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>299 - 308</wordlist_entries>
+<image_tif>dal_word-list_1991_34.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_34.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#27</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#299</link_within_wordlist>
+</item>
+
+<item>
+<entry>28</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_28</filename_audio>
+<filename_wav>dal_word-list_1991_28.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_28.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>309 - 326</wordlist_entries>
+<image_tif>dal_word-list_1991_34.tif</image_tif>
+<image_tif2>dal_word-list_1991_35.tif</image_tif2>
+<image_jpg>dal_word-list_1991_34.jpg</image_jpg>
+<image_jpg2>dal_word-list_1991_35.jpg</image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#28</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#309</link_within_wordlist>
+</item>
+
+<item>
+<entry>29</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_29</filename_audio>
+<filename_wav>dal_word-list_1991_29.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_29.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>327 - 347</wordlist_entries>
+<image_tif>dal_word-list_1991_35.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_35.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#29</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#327</link_within_wordlist>
+</item>
+
+<item>
+<entry>30</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_30</filename_audio>
+<filename_wav>dal_word-list_1991_30.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_30.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>348 - 372</wordlist_entries>
+<image_tif>dal_word-list_1991_35.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_35.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#30</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#348</link_within_wordlist>
+</item>
+
+<item>
+<entry>31</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_31</filename_audio>
+<filename_wav>dal_word-list_1991_31.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_31.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>373 - 390</wordlist_entries>
+<image_tif>dal_word-list_1991_36.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_36.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#31</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#373</link_within_wordlist>
+</item>
+
+<item>
+<entry>32</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_32</filename_audio>
+<filename_wav>dal_word-list_1991_32.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_32.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>391 - 419</wordlist_entries>
+<image_tif>dal_word-list_1991_36.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_36.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#32</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#391</link_within_wordlist>
+</item>
+
+<item>
+<entry>33</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Karata Agaya Papureti, Ali Meno, older sister of Ali</speakers>
+<filename_audio>dal_word-list_1991_33</filename_audio>
+<filename_wav>dal_word-list_1991_33.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_33.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_03.html</wordlist>
+<wordlist_entries>420 - 441</wordlist_entries>
+<image_tif>dal_word-list_1991_37.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_37.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#33</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_03.html#420</link_within_wordlist>
+</item>
+
+<item>
+<entry>34</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Swalehi Bakari</speakers>
+<filename_audio>dal_word-list_1991_34</filename_audio>
+<filename_wav>dal_word-list_1991_34.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_34.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>6 - 29</wordlist_entries>
+<image_tif>dal_word-list_1991_38.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_38.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#34</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>dal_word-list_1991_04.html</wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#6</link_within_wordlist>
+</item>
+
+<item>
+<entry>35</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Swalehi Bakari</speakers>
+<filename_audio>dal_word-list_1991_35</filename_audio>
+<filename_wav>dal_word-list_1991_35.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_35.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>30 - 52</wordlist_entries>
+<image_tif>dal_word-list_1991_38.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_38.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#35</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#30</link_within_wordlist>
+</item>
+
+<item>
+<entry>36</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Swalehi Bakari</speakers>
+<filename_audio>dal_word-list_1991_36</filename_audio>
+<filename_wav>dal_word-list_1991_36.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_36.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>53 - 68</wordlist_entries>
+<image_tif>dal_word-list_1991_39.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_39.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#36</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#53</link_within_wordlist>
+</item>
+
+<item>
+<entry>37</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Swalehi Bakari</speakers>
+<filename_audio>dal_word-list_1991_37</filename_audio>
+<filename_wav>dal_word-list_1991_37.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_37.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>69 -101</wordlist_entries>
+<image_tif>dal_word-list_1991_39.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_39.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#37</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#69</link_within_wordlist>
+</item>
+
+<item>
+<entry>38</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Swalehi Bakari</speakers>
+<filename_audio>dal_word-list_1991_38</filename_audio>
+<filename_wav>dal_word-list_1991_38.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_38.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>102 - 122</wordlist_entries>
+<image_tif>dal_word-list_1991_40.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_40.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#38</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#102</link_within_wordlist>
+</item>
+
+<item>
+<entry>39</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Swalehi Bakari</speakers>
+<filename_audio>dal_word-list_1991_39</filename_audio>
+<filename_wav>dal_word-list_1991_39.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_39.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>123 - 143</wordlist_entries>
+<image_tif>dal_word-list_1991_40.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_40.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#39</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#123</link_within_wordlist>
+</item>
+
+<item>
+<entry>40</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Swalehi Bakari</speakers>
+<filename_audio>dal_word-list_1991_40</filename_audio>
+<filename_wav>dal_word-list_1991_40.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_40.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>144 - 170</wordlist_entries>
+<image_tif>dal_word-list_1991_41.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_41.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#40</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#144</link_within_wordlist>
+</item>
+
+<item>
+<entry>41</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Swalehi Bakari</speakers>
+<filename_audio>dal_word-list_1991_41</filename_audio>
+<filename_wav>dal_word-list_1991_41.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_41.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>171 - 188</wordlist_entries>
+<image_tif>dal_word-list_1991_41.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_41.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#41</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#171</link_within_wordlist>
+</item>
+
+<item>
+<entry>42</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Dibili</speakers>
+<filename_audio>dal_word-list_1991_42</filename_audio>
+<filename_wav>dal_word-list_1991_42.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_42.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>1 - 29</wordlist_entries>
+<image_tif>dal_word-list_1991_38.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_38.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#42</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>dal_word-list_1991_04.html</wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#1</link_within_wordlist>
+</item>
+
+<item>
+<entry>43</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Dibili</speakers>
+<filename_audio>dal_word-list_1991_43</filename_audio>
+<filename_wav>dal_word-list_1991_43.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_43.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>30 - 52</wordlist_entries>
+<image_tif>dal_word-list_1991_38.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_38.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#43</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#30</link_within_wordlist>
+</item>
+
+<item>
+<entry>44</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Dibili</speakers>
+<filename_audio>dal_word-list_1991_44</filename_audio>
+<filename_wav>dal_word-list_1991_44.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_44.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>53 - 77</wordlist_entries>
+<image_tif>dal_word-list_1991_39.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_39.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#44</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#53</link_within_wordlist>
+</item>
+
+<item>
+<entry>45</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Dibili</speakers>
+<filename_audio>dal_word-list_1991_45</filename_audio>
+<filename_wav>dal_word-list_1991_45.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_45.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>78 - 101</wordlist_entries>
+<image_tif>dal_word-list_1991_39.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_39.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#45</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#78</link_within_wordlist>
+</item>
+
+<item>
+<entry>46</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Dibili</speakers>
+<filename_audio>dal_word-list_1991_46</filename_audio>
+<filename_wav>dal_word-list_1991_46.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_46.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>102 - 135</wordlist_entries>
+<image_tif>dal_word-list_1991_40.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_40.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#46</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#102</link_within_wordlist>
+</item>
+
+<item>
+<entry>47</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Dibili</speakers>
+<filename_audio>dal_word-list_1991_47</filename_audio>
+<filename_wav>dal_word-list_1991_47.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_47.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>136- 143</wordlist_entries>
+<image_tif>dal_word-list_1991_40.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_40.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#47</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#136</link_within_wordlist>
+</item>
+
+<item>
+<entry>48</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Dibili</speakers>
+<filename_audio>dal_word-list_1991_48</filename_audio>
+<filename_wav>dal_word-list_1991_48.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_48.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>144 - 176</wordlist_entries>
+<image_tif>dal_word-list_1991_41.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_41.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#48</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#144</link_within_wordlist>
+</item>
+
+<item>
+<entry>49</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Dibili</speakers>
+<filename_audio>dal_word-list_1991_49</filename_audio>
+<filename_wav>dal_word-list_1991_49.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_49.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>177 - 192</wordlist_entries>
+<image_tif>dal_word-list_1991_41.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_41.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#49</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#177</link_within_wordlist>
+</item>
+
+<item>
+<entry>50</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Vura Bura</speakers>
+<filename_audio>dal_word-list_1991_50</filename_audio>
+<filename_wav>dal_word-list_1991_50.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_50.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>6 - 28</wordlist_entries>
+<image_tif>dal_word-list_1991_38.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_38.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#50</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition>dal_word-list_1991_04.html</wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#6</link_within_wordlist>
+</item>
+
+<item>
+<entry>51</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Vura Bura</speakers>
+<filename_audio>dal_word-list_1991_51</filename_audio>
+<filename_wav>dal_word-list_1991_51.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_51.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>29 - 52</wordlist_entries>
+<image_tif>dal_word-list_1991_38.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_38.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#51</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#29</link_within_wordlist>
+</item>
+
+<item>
+<entry>52</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Vura Bura</speakers>
+<filename_audio>dal_word-list_1991_52</filename_audio>
+<filename_wav>dal_word-list_1991_52.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_52.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>53 - 77</wordlist_entries>
+<image_tif>dal_word-list_1991_39.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_39.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#52</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#53</link_within_wordlist>
+</item>
+
+<item>
+<entry>53</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Vura Bura</speakers>
+<filename_audio>dal_word-list_1991_53</filename_audio>
+<filename_wav>dal_word-list_1991_53.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_53.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>78 - 101</wordlist_entries>
+<image_tif>dal_word-list_1991_39.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_39.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#53</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#78</link_within_wordlist>
+</item>
+ 
+<item>
+<entry>54</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Vura Bura</speakers>
+<filename_audio>dal_word-list_1991_54</filename_audio>
+<filename_wav>dal_word-list_1991_54.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_54.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>102 - 143</wordlist_entries>
+<image_tif>dal_word-list_1991_40.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_40.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#54</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#102</link_within_wordlist>
+</item>
+
+<item>
+<entry>55</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Vura Bura</speakers>
+<filename_audio>dal_word-list_1991_55</filename_audio>
+<filename_wav>dal_word-list_1991_55.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_55.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>144 - 152</wordlist_entries>
+<image_tif>dal_word-list_1991_41.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_41.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#55</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#144</link_within_wordlist>
+</item>
+
+<item>
+<entry>56</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Word List</content>
+<recording_location>Kipini, Kenya</recording_location>
+<recording_date>10 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers>Vura Bura</speakers>
+<filename_audio>dal_word-list_1991_56</filename_audio>
+<filename_wav>dal_word-list_1991_56.wav</filename_wav>
+<filename_mp3>dal_word-list_1991_56.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist>dal_word-list_1991_04.html</wordlist>
+<wordlist_entries>153 - 191</wordlist_entries>
+<image_tif>dal_word-list_1991_41.tif</image_tif>
+<image_tif2></image_tif2>
+<image_jpg>dal_word-list_1991_41.jpg</image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality>300 dpi</tif_quality>
+<jpg_quality>300 dpi</jpg_quality>
+<details>dal_record_details.html#56</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist>dal_word-list_1991_04.html#153</link_within_wordlist>
+</item>
+
+<item>
+<entry>57</entry>
+<lang_name>Dahalo</lang_name>
+<sil_code>DAL</sil_code>
+<content>Story</content>
+<recording_location>Witu, Kenya</recording_location>
+<recording_date>9 July, 1991</recording_date>
+<fieldworkers>Peter Ladefoged, Ian Maddieson, and Bonny Sands</fieldworkers>
+<speakers></speakers>
+<filename_audio>dal_story_1991_01</filename_audio>
+<filename_wav>dal_story_1991_01.wav</filename_wav>
+<filename_mp3>dal_story_1991_01.mp3</filename_mp3>
+<wav_quality>44.1 K, 16-bit sound depth (bit rate=705 kpbs)</wav_quality>
+<mp3_quality>56 kpbs</mp3_quality>
+<original_medium>cassette tape</original_medium>
+<wordlist></wordlist>
+<wordlist_entries></wordlist_entries>
+<image_tif></image_tif>
+<image_tif2></image_tif2>
+<image_jpg></image_jpg>
+<image_jpg2></image_jpg2>
+<tif_quality></tif_quality>
+<jpg_quality></jpg_quality>
+<details>dal_record_details.html#57</details>
+<rights>This work is licensed under a Creative Commons license, available for viewing at http://creativecommons.org/licenses/by-nc/2.0/</rights>
+<wordlist_no_repetition></wordlist_no_repetition>
+<link_within_wordlist></link_within_wordlist>
+</item>
+
+</metadata>

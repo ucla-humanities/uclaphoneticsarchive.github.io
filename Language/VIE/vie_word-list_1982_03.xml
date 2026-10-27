@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Vietnamese</language_name>
+
+
+
+<headers>
+
+<native_orthography>Tone</native_orthography>
+<alt_orthography>Phonemic Transcription</alt_orthography>
+<IPA_header>Phonetic Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>ɓa</alt_orthography>
+<IPA_transcription>ɓaː</IPA_transcription>
+<gloss>three</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>cɛ</alt_orthography>
+<IPA_transcription>cɛː</IPA_transcription>
+<gloss>tea</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>ɪt</alt_orthography>
+<IPA_transcription>ɪt</IPA_transcription>
+<gloss>useful</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>fuk</alt_orthography>
+<IPA_transcription>fuk</IPA_transcription>
+<gloss>happiness</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>ɗa</alt_orthography>
+<IPA_transcription>ɗaː</IPA_transcription>
+<gloss>stone</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>high rising, mid level, high rising</native_orthography>
+<alt_orthography>ɗɐŋ gi ɲɤɯ</alt_orthography>
+<IPA_transcription>ɗɐŋ gi ɲɤɯ</IPA_transcription>
+<gloss>noteworthy</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>gi</alt_orthography>
+<IPA_transcription>giː</IPA_transcription>
+<gloss>to record</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>ho</alt_orthography>
+<IPA_transcription>hoː</IPA_transcription>
+<gloss>lake</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>high broken</native_orthography>
+<alt_orthography>kuŋ</alt_orthography>
+<IPA_transcription>kuŋ</IPA_transcription>
+<gloss>likewise</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>kʷe</alt_orthography>
+<IPA_transcription>kʷeː</IPA_transcription>
+<gloss>rural area</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>ɗɔk</alt_orthography>
+<IPA_transcription>ɗɔk</IPA_transcription>
+<gloss>poisonous</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>la</alt_orthography>
+<IPA_transcription>laː</IPA_transcription>
+<gloss>leaf</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>low broken</native_orthography>
+<alt_orthography>mɐɲ</alt_orthography>
+<IPA_transcription>mɐɲ</IPA_transcription>
+<gloss>strong</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>kam</alt_orthography>
+<IPA_transcription>kaːm</IPA_transcription>
+<gloss>orange</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>naɪ</alt_orthography>
+<IPA_transcription>naɪ</IPA_transcription>
+<gloss>this</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>nen</alt_orthography>
+<IPA_transcription>nen</IPA_transcription>
+<gloss>therefore</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>low broken</native_orthography>
+<alt_orthography>ŋɯə</alt_orthography>
+<IPA_transcription>ŋɯːə</IPA_transcription>
+<gloss>horse</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>vaŋ</alt_orthography>
+<IPA_transcription>vaŋ</IPA_transcription>
+<gloss>gold</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>ɗuŋ͡m</alt_orthography>
+<IPA_transcription>ɗuŋ͡m</IPA_transcription>
+<gloss>correct</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>ɲaː</alt_orthography>
+<IPA_transcription>ɲaː</IPA_transcription>
+<gloss>house</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>lɪɲ</alt_orthography>
+<IPA_transcription>lɪɲ</IPA_transcription>
+<gloss>soldier</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>low broken</native_orthography>
+<alt_orthography>kip</alt_orthography>
+<IPA_transcription>kip</IPA_transcription>
+<gloss>on time</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>saʊ</alt_orthography>
+<IPA_transcription>ʃaʊ</IPA_transcription>
+<gloss>star</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>sɪɲ</alt_orthography>
+<IPA_transcription>ʃɪɲ</IPA_transcription>
+<gloss>to be born</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>toɪ</alt_orthography>
+<IPA_transcription>toɪ</IPA_transcription>
+<gloss>I </gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>low broken</native_orthography>
+<alt_orthography>met</alt_orthography>
+<IPA_transcription>met</IPA_transcription>
+<gloss>tired</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>tʰoɪ</alt_orthography>
+<IPA_transcription>tʰoɪ</IPA_transcription>
+<gloss>stop</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>vuə</alt_orthography>
+<IPA_transcription>vuə</IPA_transcription>
+<gloss>king</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>xɯɤŋ</alt_orthography>
+<IPA_transcription>xɯɤŋ</IPA_transcription>
+<gloss>not</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>zuŋ</alt_orthography>
+<IPA_transcription>ʝuŋ</IPA_transcription>
+<gloss>to use</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>za</alt_orthography>
+<IPA_transcription>ʒaː</IPA_transcription>
+<gloss>to go out</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>ziəŋ</alt_orthography>
+<IPA_transcription>ʝiəŋ</IPA_transcription>
+<gloss>January</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>ʔa</alt_orthography>
+<IPA_transcription>ʔaː</IPA_transcription>
+<gloss>Asia</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>maɪ</alt_orthography>
+<IPA_transcription>maɪ</IPA_transcription>
+<gloss>tomorrow</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>mɐɪ</alt_orthography>
+<IPA_transcription>mɐɪ</IPA_transcription>
+<gloss>machine</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>saʊ</alt_orthography>
+<IPA_transcription>ʃaʊ</IPA_transcription>
+<gloss>star</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>sɐʊ</alt_orthography>
+<IPA_transcription>ʃɐʊ</IPA_transcription>
+<gloss>afterward</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>ʔɐ̃ʊ̃ŋ</alt_orthography>
+<IPA_transcription>ʔɐ̃ʊ̃ŋ</IPA_transcription>
+<gloss>bee</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>nɐm</alt_orthography>
+<IPA_transcription>nɐm</IPA_transcription>
+<gloss> five</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>low broken</native_orthography>
+<alt_orthography>ŋʌp</alt_orthography>
+<IPA_transcription>ŋʌp</IPA_transcription>
+<gloss>flooded</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>ɗʌʊ</alt_orthography>
+<IPA_transcription>ɗʌʊ</IPA_transcription>
+<gloss>where (ver)</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>ʔʌ̃ʊ̃ŋ</alt_orthography>
+<IPA_transcription>ʔʌ̃ʊ̃ŋ</IPA_transcription>
+<gloss>grandfather</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>ɗʌɪ</alt_orthography>
+<IPA_transcription>ɗʌɪ</IPA_transcription>
+<gloss>here</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>ŋɛ</alt_orthography>
+<IPA_transcription>ŋɛː</IPA_transcription>
+<gloss>to listen</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>mɛʊ</alt_orthography>
+<IPA_transcription>mɛʊ</IPA_transcription>
+<gloss>cat</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>kʷeɪ</alt_orthography>
+<IPA_transcription>kʷeɪ</IPA_transcription>
+<gloss>rural area</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>bep</alt_orthography>
+<IPA_transcription>bep</IPA_transcription>
+<gloss>kitchen</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>ʔet</alt_orthography>
+<IPA_transcription>ʔɛt</IPA_transcription>
+<gloss> frog</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>beɲ</alt_orthography>
+<IPA_transcription>bɛɲ</IPA_transcription>
+<gloss>to defend</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>neʊ</alt_orthography>
+<IPA_transcription>neʊ</IPA_transcription>
+<gloss>if</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>ɗɪi</alt_orthography>
+<IPA_transcription>ɗiː</IPA_transcription>
+<gloss>to go</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>it</alt_orthography>
+<IPA_transcription>it</IPA_transcription>
+<gloss>to be a small amount</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>ɪt</alt_orthography>
+<IPA_transcription>ɪt</IPA_transcription>
+<gloss>useful</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>lɪɲ</alt_orthography>
+<IPA_transcription>lɪɲ</IPA_transcription>
+<gloss>soldier</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>ciə</alt_orthography>
+<IPA_transcription>ciə</IPA_transcription>
+<gloss>to divide</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>tiep</alt_orthography>
+<IPA_transcription>tiep</IPA_transcription>
+<gloss>to continue</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>low rising</native_orthography>
+<alt_orthography>hieʊ</alt_orthography>
+<IPA_transcription>hieʊ</IPA_transcription>
+<gloss>to understand</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>low broken</native_orthography>
+<alt_orthography>ciʊ</alt_orthography>
+<IPA_transcription>ciʊ</IPA_transcription>
+<gloss>to suffer, endure</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>low rising</native_orthography>
+<alt_orthography>ɲɔ</alt_orthography>
+<IPA_transcription>ɲɔː</IPA_transcription>
+<gloss>small</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>ɗɔɪ</alt_orthography>
+<IPA_transcription>ɗɔɪ</IPA_transcription>
+<gloss>to be hungry</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>xʷaɪ</alt_orthography>
+<IPA_transcription>xʷaɪ</IPA_transcription>
+<gloss>potato</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>wɐt</alt_orthography>
+<IPA_transcription>wɐt</IPA_transcription>
+<gloss>well-dressed</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>sʷɐɪ</alt_orthography>
+<IPA_transcription>sʷɐɪ</IPA_transcription>
+<gloss>to turn (on an axis)</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>low rising</native_orthography>
+<alt_orthography>xʷɛ</alt_orthography>
+<IPA_transcription>xʷɛː</IPA_transcription>
+<gloss>healthy</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>koʊ</alt_orthography>
+<IPA_transcription>koʊ</IPA_transcription>
+<gloss>father's sister</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>hom</alt_orthography>
+<IPA_transcription>hom</IPA_transcription>
+<gloss>day</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>ŋoɪ</alt_orthography>
+<IPA_transcription>ŋoɪ</IPA_transcription>
+<gloss>to sit</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>mɤɯ</alt_orthography>
+<IPA_transcription>mɤɯ</IPA_transcription>
+<gloss>dream</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>kɤm</alt_orthography>
+<IPA_transcription>kɤm</IPA_transcription>
+<gloss>cooked rice</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>vɤɪ</alt_orthography>
+<IPA_transcription>vɤɪ</IPA_transcription>
+<gloss>with</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>tʰʊu</alt_orthography>
+<IPA_transcription>tʰʊu</IPA_transcription>
+<gloss>Autumn</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>but</alt_orthography>
+<IPA_transcription>but</IPA_transcription>
+<gloss>writing instrument</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>kuə</alt_orthography>
+<IPA_transcription>kuə</IPA_transcription>
+<gloss>crab</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>high broken</native_orthography>
+<alt_orthography>muɪ</alt_orthography>
+<IPA_transcription>muɪ</IPA_transcription>
+<gloss>nose</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>buøm</alt_orthography>
+<IPA_transcription>buøm</IPA_transcription>
+<gloss>(ship's) sail</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>low broken</native_orthography>
+<alt_orthography>luək</alt_orthography>
+<IPA_transcription>luək</IPA_transcription>
+<gloss>to cook by boiling</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>tʰʷeɪ</alt_orthography>
+<IPA_transcription>tʰʷeɪ</IPA_transcription>
+<gloss>to rent</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>xʷet</alt_orthography>
+<IPA_transcription>xʷɛt</IPA_transcription>
+<gloss>to amplify</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>hʷeɲ hʷɐŋ</alt_orthography>
+<IPA_transcription>hʷeɲ hʷɐŋ</IPA_transcription>
+<gloss>showy</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>sʷʌn</alt_orthography>
+<IPA_transcription>sʷʌn</IPA_transcription>
+<gloss>Spring</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>xʷɪi</alt_orthography>
+<IPA_transcription>xʷɪi</IPA_transcription>
+<gloss>button</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>hʷit</alt_orthography>
+<IPA_transcription>hʷit</IPA_transcription>
+<gloss>to whistle</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>xʷiə</alt_orthography>
+<IPA_transcription>xʷiə</IPA_transcription>
+<gloss>late at night</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>high broken</native_orthography>
+<alt_orthography>ŋʷien</alt_orthography>
+<IPA_transcription>ŋʷien</IPA_transcription>
+<gloss>(family name)</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>low rising</native_orthography>
+<alt_orthography>xʷiʊ</alt_orthography>
+<IPA_transcription>xʷiʊ</IPA_transcription>
+<gloss>elbow</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography>low rising</native_orthography>
+<alt_orthography>tʰʷɤɯ</alt_orthography>
+<IPA_transcription>tʰʷɤɯ</IPA_transcription>
+<gloss>epoch</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>tɯːɯ</alt_orthography>
+<IPA_transcription>tɯː</IPA_transcription>
+<gloss>fourth</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>sɯk</alt_orthography>
+<IPA_transcription>ʃɯk</IPA_transcription>
+<gloss>strength</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>mɯə</alt_orthography>
+<IPA_transcription>mɯə</IPA_transcription>
+<gloss>rain</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography>low rising</native_orthography>
+<alt_orthography>ŋɯɪ</alt_orthography>
+<IPA_transcription>ŋɯɪ</IPA_transcription>
+<gloss>to sniff</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>gɯɤn</alt_orthography>
+<IPA_transcription>gɯɤn</IPA_transcription>
+<gloss>sword</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>ŋɯɤɪ</alt_orthography>
+<IPA_transcription>ŋɯɤɪ</IPA_transcription>
+<gloss>person</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography>low broken</native_orthography>
+<alt_orthography>zɯɤʊ</alt_orthography>
+<IPA_transcription>ʒɯɤʊ</IPA_transcription>
+<gloss>alcoholic drink</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>ma</alt_orthography>
+<IPA_transcription>maː</IPA_transcription>
+<gloss>ghost</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>ɓa</alt_orthography>
+<IPA_transcription>ɓaː</IPA_transcription>
+<gloss>three</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>hai</alt_orthography>
+<IPA_transcription>hai</IPA_transcription>
+<gloss>two</gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>ma</alt_orthography>
+<IPA_transcription>maː</IPA_transcription>
+<gloss>cheek</gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>ɓa</alt_orthography>
+<IPA_transcription>ɓaː</IPA_transcription>
+<gloss>to hug</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>hai</alt_orthography>
+<IPA_transcription>hai</IPA_transcription>
+<gloss>to pick (fruit)</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>ma</alt_orthography>
+<IPA_transcription>maː</IPA_transcription>
+<gloss>button</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>ɓa</alt_orthography>
+<IPA_transcription>ɓaː</IPA_transcription>
+<gloss>grandmother</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>hai</alt_orthography>
+<IPA_transcription>hai</IPA_transcription>
+<gloss>shoe</gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography>low rising</native_orthography>
+<alt_orthography>ma</alt_orthography>
+<IPA_transcription>maː</IPA_transcription>
+<gloss>tomb</gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography>low rising</native_orthography>
+<alt_orthography>ɓa</alt_orthography>
+<IPA_transcription>ɓaː</IPA_transcription>
+<gloss>bane</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography>low rising</native_orthography>
+<alt_orthography>hai</alt_orthography>
+<IPA_transcription>hai</IPA_transcription>
+<gloss>marinus</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography>high broken</native_orthography>
+<alt_orthography>ma</alt_orthography>
+<IPA_transcription>maː</IPA_transcription>
+<gloss>equus</gloss>
+</item>
+
+<item>
+<entry>107</entry>
+<native_orthography>high broken</native_orthography>
+<alt_orthography>ɓa</alt_orthography>
+<IPA_transcription>ɓaː</IPA_transcription>
+<gloss>residue, dregs</gloss>
+</item>
+
+<item>
+<entry>108</entry>
+<native_orthography>high broken</native_orthography>
+<alt_orthography>hai</alt_orthography>
+<IPA_transcription>hai</IPA_transcription>
+<gloss>afraid</gloss>
+</item>
+
+<item>
+<entry>109</entry>
+<native_orthography>low broken</native_orthography>
+<alt_orthography>ma</alt_orthography>
+<IPA_transcription>maː</IPA_transcription>
+<gloss>rice seedling</gloss>
+</item>
+
+<item>
+<entry>110</entry>
+<native_orthography>low broken</native_orthography>
+<alt_orthography>ɓa</alt_orthography>
+<IPA_transcription>ɓaː</IPA_transcription>
+<gloss>haphazardly</gloss>
+</item>
+
+<item>
+<entry>111</entry>
+<native_orthography>low broken</native_orthography>
+<alt_orthography>hai</alt_orthography>
+<IPA_transcription>hai</IPA_transcription>
+<gloss>harm</gloss>
+</item>
+
+<item>
+<entry>112</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>ma</alt_orthography>
+<IPA_transcription>maː</IPA_transcription>
+<gloss>ghost</gloss>
+</item>
+
+<item>
+<entry>113</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>ma</alt_orthography>
+<IPA_transcription>maː</IPA_transcription>
+<gloss>cheek</gloss>
+</item>
+
+<item>
+<entry>114</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>ma</alt_orthography>
+<IPA_transcription>maː</IPA_transcription>
+<gloss>button</gloss>
+</item>
+
+<item>
+<entry>115</entry>
+<native_orthography>low rising</native_orthography>
+<alt_orthography>ma</alt_orthography>
+<IPA_transcription>maː</IPA_transcription>
+<gloss>tomb</gloss>
+</item>
+
+<item>
+<entry>116</entry>
+<native_orthography>high broken</native_orthography>
+<alt_orthography>ma</alt_orthography>
+<IPA_transcription>maː</IPA_transcription>
+<gloss>equus</gloss>
+</item>
+
+<item>
+<entry>117</entry>
+<native_orthography>low broken</native_orthography>
+<alt_orthography>ma</alt_orthography>
+<IPA_transcription>maː</IPA_transcription>
+<gloss>rice seedling</gloss>
+</item>
+
+<item>
+<entry>118</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>ɓa</alt_orthography>
+<IPA_transcription>ɓaː</IPA_transcription>
+<gloss>three</gloss>
+</item>
+
+<item>
+<entry>120</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>ɓa</alt_orthography>
+<IPA_transcription>ɓaː</IPA_transcription>
+<gloss>to hug</gloss>
+</item>
+
+<item>
+<entry>121</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>ɓa</alt_orthography>
+<IPA_transcription>ɓaː</IPA_transcription>
+<gloss>grandmother</gloss>
+</item>
+
+<item>
+<entry>122</entry>
+<native_orthography>low rising</native_orthography>
+<alt_orthography>ɓa</alt_orthography>
+<IPA_transcription>ɓaː</IPA_transcription>
+<gloss>bane</gloss>
+</item>
+
+<item>
+<entry>123</entry>
+<native_orthography>high broken</native_orthography>
+<alt_orthography>ɓa</alt_orthography>
+<IPA_transcription>ɓaː</IPA_transcription>
+<gloss>residue, dregs</gloss>
+</item>
+
+<item>
+<entry>124</entry>
+<native_orthography>low broken</native_orthography>
+<alt_orthography>ɓa</alt_orthography>
+<IPA_transcription>ɓaː</IPA_transcription>
+<gloss>haphazardly</gloss>
+</item>
+
+<item>
+<entry>125</entry>
+<native_orthography>mid level</native_orthography>
+<alt_orthography>hai</alt_orthography>
+<IPA_transcription>hai</IPA_transcription>
+<gloss>two</gloss>
+</item>
+
+<item>
+<entry>126</entry>
+<native_orthography>high rising</native_orthography>
+<alt_orthography>hai</alt_orthography>
+<IPA_transcription>hai</IPA_transcription>
+<gloss>to pick (fruit)</gloss>
+</item>
+
+<item>
+<entry>127</entry>
+<native_orthography>low falling</native_orthography>
+<alt_orthography>hai</alt_orthography>
+<IPA_transcription>hai</IPA_transcription>
+<gloss>shoe</gloss>
+</item>
+
+<item>
+<entry>128</entry>
+<native_orthography>low rising</native_orthography>
+<alt_orthography>hai</alt_orthography>
+<IPA_transcription>hai</IPA_transcription>
+<gloss>marinus</gloss>
+</item>
+
+<item>
+<entry>129</entry>
+<native_orthography>high broken</native_orthography>
+<alt_orthography>hai</alt_orthography>
+<IPA_transcription>hai</IPA_transcription>
+<gloss>afraid</gloss>
+</item>
+
+<item>
+<entry>130</entry>
+<native_orthography>low broken</native_orthography>
+<alt_orthography>hai</alt_orthography>
+<IPA_transcription>hai</IPA_transcription>
+<gloss>harm</gloss>
+</item>
+</wordlist>
+
+
+
+
+
+

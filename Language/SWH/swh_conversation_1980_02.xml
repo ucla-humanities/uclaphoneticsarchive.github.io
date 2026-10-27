@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Swahili</language_name>
+
+
+<headers>
+
+<orthography_header>Speaker</orthography_header>
+<IPA_header>Swahili</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Habari?</IPA_transcription>
+<gloss>How are you?</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Mzuri.</IPA_transcription>
+<gloss>Fine.</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Habari yako?</IPA_transcription>
+<gloss>How are you?</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Mzuri.  Kwa ninialiku anasema nini?</IPA_transcription>
+<gloss>Good.  What did he say?</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Alikusema kuanza tunaanza.</IPA_transcription>
+<gloss>He said we are starting.</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Ooh. Hapa ni nzuri.  Lakini kukona baridi kidogo.</IPA_transcription>
+<gloss>Ooh.  That's good.  It's a little cold.</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Iko baridi?</IPA_transcription>
+<gloss>Cold?</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>kidogo.  Siosana.</IPA_transcription>
+<gloss>A little.  Not much.</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Jua kweli ilikuwaka saidi hapa.</IPA_transcription>
+<gloss>The sun was really hot here for a while.</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Kweli? Misijui nitafanya nini.</IPA_transcription>
+<gloss>I don't know what I'll do.</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Kwa nini?</IPA_transcription>
+<gloss>Why?</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Watu wanasema itakujua haiji.</IPA_transcription>
+<gloss>People say it's coming but it hasn't.</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Baridi?</IPA_transcription>
+<gloss>Cold?</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Yeah. Iko karibu.</IPA_transcription>
+<gloss>Yeah.  It's close. (coming soon)</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Eeh, ndio wanasema ikokaribu.</IPA_transcription>
+<gloss>Eeh, they say its near.</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Kweli inakua na baridi sana?</IPA_transcription>
+<gloss>Does it really get very cold?</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Hapa? Siosana.  Nafikiri ni kama Kenya, tu.</IPA_transcription>
+<gloss>Here? Not very. [I think it it's just like Kenya.]</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Watoto wakoaje?</IPA_transcription>
+<gloss>How are your kids?</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Watoto ni wazima.</IPA_transcription>
+<gloss>They're fine.</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Na baba yao?</IPA_transcription>
+<gloss>And their father?</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Hata baba yao.</IPA_transcription>
+<gloss>He's fine too.</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Sasa unafanya nini?  Unaenda kazi?</IPA_transcription>
+<gloss>So what are you doing, now?  Are you working?</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Hapana, ninaenda shule.</IPA_transcription>
+<gloss>No, I go to school.</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Santa Monica?</IPA_transcription>
+<gloss>Santa Monica?</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Ndio, ninasoma Santa Monica.</IPA_transcription>
+<gloss>Yes, I'm studying at Santa Monica.</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hata mimi nilianza huko.</IPA_transcription>
+<gloss>I've also started at Santa Monica.</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Unaonaje hapa?</IPA_transcription>
+<gloss>How do you like it here?</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hapa ni mzuri, lakini ni ngumu kidogo.  Pengine ni kwa sababu si jazoea. Pengine nikizoea, itakua kizuri.</IPA_transcription>
+<gloss>It's fine, but it's a little hard.  Maybe its because I haven't gotten used to it.  Maybe when I'm used to it, it will be allright.</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Ndio, hapa iko shinda kwa mtu kukaa.  Sio kama nyumbani.</IPA_transcription>
+<gloss>Its rough for someone to live here.  It's not like home.</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Ni ngumu kidogo.  Hata shule ni ngumu, kidogo.</IPA_transcription>
+<gloss>It's hard.  School is hard too.</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Unaonaje habari za masomo za hapa?</IPA_transcription>
+<gloss>How are the studies here?</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Nu ngumu kidogo.  Sio kama nyumbani.  Nyumbani masomo ya huko ni mazrui, lakini hapa ni ngumu, Kiingereza yao ni ngumu sana.  Si sikii vizuri.</IPA_transcription>
+<gloss>They're a bit difficult.  Not like home.  Studies are good at home, but here its hard.  English is very difficult.  I don't understand it very well.</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Husikii Kisungu vizuri?</IPA_transcription>
+<gloss>You don't understand it well?</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Eeh.  Sasa sijui nitafanyaje.</IPA_transcription>
+<gloss>Eeh. I don't know what I'll do.</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Utajua tuu, pole pole.  Utakaa hapa miaka mingapi?</IPA_transcription>
+<gloss>You'll learn it slowly.  How many years will you stay here?</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hapa? Nitaenda Santa Monica miaka miwili, halafu, nifikiri kitu kengine.  Nitafikiria kama nitakaa hapa au nitaenda nyumbani.  Lakini, sifikiri kama nitaenda nyumbani.</IPA_transcription>
+<gloss>Here? I'll be at Santa Monica two years, then I'll think of what I'll do.  I think about whether I'll stay here or go home.  But I don't think I'll go home.</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hata mimi ninaona masomo za hapa ni shinda.</IPA_transcription>
+<gloss>I also think studies here are difficult.</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Ni shido kidogo kwako?</IPA_transcription>
+<gloss>Are they hard for you, too?</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Nafikiri nitachukua kitu kingine.  Sababu unajua wapa walimu sio kama nyumbani.  Nafikiri pengine mwaka ujau nitachukua kitu kengine.</IPA_transcription>
+<gloss>I think I'll take something else.  Because you know the teachers here aren't like home.  I think next year I'll change (my major) and take something else.</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hio ndio nzuri.  Hata mimi nikona shida ninafikiria kana nitaiwocha nikai, nienda kazi, hata ikua ni ngumu.  Ni tavumilia tu.</IPA_transcription>
+<gloss>That's good.  I also think it's a problem.  I don't know if I'll leave it and go to work or what.  But even if it's hard I'll persevere.</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Tena hapa kuko na taabu mingi.  Niko na watoto, na ni shinda.  Sio kama nyumbani.  Unajua kama nyumbani sasa mama yangu angekuja kukaa na watoto.</IPA_transcription>
+<gloss>There are a lot of problems here.  I have children and it’s a problem.  Not like home.  You know at home my mother would come and stay with the kids.</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Sasa angekaa na watoto uenda kazini?  Hapa hakuna cha kusoma ukiwa na watoto.</IPA_transcription>
+<gloss>She would stay with them while you go to work?  Here you can't study if you have children.</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Ndio, hapa mtu anaendelea kusoma hata akiwa mzee.  Sasa, sijui.</IPA_transcription>
+<gloss>Yes, here people go to school until they're old.  Now, I don't know.</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Utaenda nyumbani?</IPA_transcription>
+<gloss>Will you go home?</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Kurudi Kenya?</IPA_transcription>
+<gloss>To go back to Kenya?</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Sijui, nafikiri mwaka ujau.</IPA_transcription>
+<gloss>I don't know, maybe next year.</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hutaenda na watoto?</IPA_transcription>
+<gloss>You won't go with the kids?</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Hapana, nitaenda peke yangu, tu, kutembea.</IPA_transcription>
+<gloss>No, I'll go alone, for a visit.</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Halafu, utakaa huko miezi mingapi?</IPA_transcription>
+<gloss>How long will you stay?  (how many months)</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Nitakaa tu mwezi moja, sababu nitakua nimeacha watoto.</IPA_transcription>
+<gloss>I'll stay two months, because I will have left the children.</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Watoto watakaa na baba yao?</IPA_transcription>
+<gloss>Will they stay with their father?</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Eeh, watoto watakaa na baba yao, au awapeleka kwa nyanya yao.</IPA_transcription>
+<gloss>Yes, they will, or he'll take them to their grandmother's</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hio ndio mzuri.  Mimi nikona mtoto mwengine wa dada yangu tuna kaa na yeye, lakini wanaenda mwaka ujau tu.</IPA_transcription>
+<gloss>That's good.  I'm staying with my sister's child, but they are leaving next year.</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Wataenda kabisa?</IPA_transcription>
+<gloss>Are they going for good?</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Wataenda kabisa. Hawarudi hapa.</IPA_transcription>
+<gloss>They're going for good.  They won't come back.</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Dada yako amemaliza shule?</IPA_transcription>
+<gloss>Has your sister finished school?</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Ahuh.</IPA_transcription>
+<gloss>Ahuh.</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Wanaonaje hapa?</IPA_transcription>
+<gloss>How did they like it here?</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Ni mzuri kwake kwasababu ikiwa siokuambiwa aende hangeenda.  Lakini sasa ataenda.  Baba yake aliaga dunia, mwaka uliokwisha.  Sasa ni yeye tu, hakuna msichana mwengine, hakuna mtoto mwengine.  Sasa ataenda.  Na shamba iko, wataenda kulima.</IPA_transcription>
+<gloss>It was fine for them, if she hadn't been told to go home she wouldn't have gone.  But now she'll go.  Their father died last year.  So she's the only child.  They've got a farm, and she'll go and farm.</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Alikuanasoma nini hapa?</IPA_transcription>
+<gloss>What was she studying here?</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Alikuanafanya Public Health.  Amemaliza.</IPA_transcription>
+<gloss>Public Health.  She's finished.</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Amemaliza?  Ni mzuri wacha arudi Kenya akasaidia wetu.  Wawacha kukufa na magonjwa.</IPA_transcription>
+<gloss>She's finished?  That's good.  Let her go back to Kenya and help people, so they'll stop dying of disease.</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hata ni mzuri.</IPA_transcription>
+<gloss>That's good.</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Unajua Kenya hatuna madaktari saidi ya kusaidia watu.</IPA_transcription>
+<gloss>You know in Kenya we don't have many doctors to help people.</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hapa nina fikiri hapa nitakaa maisha yangu, sifikiri kurudi nyumbani.</IPA_transcription>
+<gloss>I think I'll spend my life in America.  I don't think I'll go home.</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Kweli?</IPA_transcription>
+<gloss>Really?</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Ninaona hapa kama ndiyo nzuri Nikiona bwana ya kunioa, nitikaa hapa.  Lakini ngumu kuona.</IPA_transcription>
+<gloss>I think it is nice here.  If I find a husband here, I'll stay.  But it is hard to find one.</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Hapa ni ngumu. Tena pengine utakuta wazimu.  Unajua Waamerika vile ni wazimu?</IPA_transcription>
+<gloss>It's hard.  And maybe you get a crazy one.  You know American are crazy?</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Eeh, watu wa hapa ni wazimu kabisa.  Ni ngumu sana kuona mtuambao ungetaka.</IPA_transcription>
+<gloss>Eeh, people here are really crazy.  It's hard to find someone you like.</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Ndio, ni shinda.  Tafadhali utafute Mkenya akuoe.</IPA_transcription>
+<gloss>Yes, it's a problem.  You'd better find a Kenyan to marry you.</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Lakini hapa Kenya ninasikia sio wazuri sana.</IPA_transcription>
+<gloss>But the Kenyan's here aren't very good.</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Kwa nini?</IPA_transcription>
+<gloss>Why?</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Ni wazuri, lakini sio sana kwa sababu huwezi kujua vile wanataka.  Hata wengine wanataka kukutumia halafu wakuache.</IPA_transcription>
+<gloss>They're O.K., but not very because you don't know what they want.  Some only want to use you and then leave you.</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Kwa nini wanabadilika wakikuja hapa?</IPA_transcription>
+<gloss>Why, do they change when they come here?</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Wanabadilika.  Wana kukama kitu kingine.  Sasa huwezi kujua vile watakua, heli molewe na mtu wa hapa.  Ama nikai bila bwana.</IPA_transcription>
+<gloss>They change.  They become something else.  So you don't know what they'll be like.  I'd better marry someone from here.  Or stay alone.</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Sijui, ninafikiri wakikuja hapa wako sawa.</IPA_transcription>
+<gloss>I don't know, I think when they come here they're the same.</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Utawaona wewe.  Lakini huwajui.  Hata mimi siwajui.  Mimininaambiwa.  Siwafuate kwa sababu watu wa Kenya wakipokuja hapa wana ringa.  Sijui wanafanyaje.  Wanajiona.</IPA_transcription>
+<gloss>You'll see.  You don't know them.  I don't really know them either, I've been told.  I don't go after them because the Kenyans are very proud.  I don't know what they do, but they're vain.</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Habari za wasichana walewako hapa?</IPA_transcription>
+<gloss>How are the women here?</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hata wasichana sio wazuri.  Siendi --</IPA_transcription>
+<gloss>Even the women aren't very nice.  I don't go ---</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Unawajua?</IPA_transcription>
+<gloss>Do you know them?</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Ninawajua wote lakini, siwote.  Ninajua wengi.  Lakini sio wazuri sana.  Sio rafiki zangu sana.  Ni rafiki zangu, lakini sio sana.</IPA_transcription>
+<gloss>I know them all, but not all, I know many.  But they are not very nice. They aren't really my friends.  They are, but not really.</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Sisi tuko tu.  Ningependa kuona waKenya wale wako hapa.</IPA_transcription>
+<gloss>We're alright at home.  I would like to see the Kenyans that are here.</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Utawaona. Siuta kuja party Jumamosi?</IPA_transcription>
+<gloss>You'll see them.  Aren't you coming to the party Saturday?</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Sijui, umkonapati?</IPA_transcription>
+<gloss>I don't know, is there a party?</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Nasikia kuko na party.</IPA_transcription>
+<gloss>I heard there is.</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Itakua mzuri.</IPA_transcription>
+<gloss>It would be nice.</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Watu wengi wataenda, lakini sijafikiria kama nitaenda.</IPA_transcription>
+<gloss>A lot of people will go, but I don't know if I will.</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Kwa nini?</IPA_transcription>
+<gloss>Why?</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Sioni kama nitaenda kukutana na hawa wa Kenya.</IPA_transcription>
+<gloss>I don't know if I want to go and meet those Kenyans.</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Ningependa kukutana na hawa.</IPA_transcription>
+<gloss>I'd like to meet them.</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Kweli?</IPA_transcription>
+<gloss>Really?</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Eeh,</IPA_transcription>
+<gloss>Eeh.</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Siuje.</IPA_transcription>
+<gloss>I don't know.</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Pengine,</IPA_transcription>
+<gloss>Maybe.</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Pengine utakuja, pengine huji.</IPA_transcription>
+<gloss>Maybe you'll go, or maybe you won't.</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Ndio, sijui.  Unajua mimi ni mama watoto.</IPA_transcription>
+<gloss>I don't know.  You know I have children.</gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Wewe ni mama watoto, huwezi kwenda sana.</IPA_transcription>
+<gloss>I know, you can't go out too much.</gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Ndio lazima ni kai nyumbani nipike, kufanya kila kitu.</IPA_transcription>
+<gloss>yes, I have to take care of the house.</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Unajua ule mzee mwengine?  Uleanakaa Venice?</IPA_transcription>
+<gloss>You know that other fellow?  The one that lives in Venice?</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Simjui.</IPA_transcription>
+<gloss>I don't know him.</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Siule baba Wanjuku.</IPA_transcription>
+<gloss>You know, Wanjiku's father.</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Ooh, Mbugua?</IPA_transcription>
+<gloss>Ooh, Mbugua?</gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Ahuh,</IPA_transcription>
+<gloss>Ahuh.</gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Ninamfahamu.</IPA_transcription>
+<gloss>I know him.</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Ninasikia anaenda, hata yeye.</IPA_transcription>
+<gloss>I hear he's going.</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Atakueko?</IPA_transcription>
+<gloss>He'll be there?</gloss>
+</item>
+
+<item>
+<entry>107</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Atakueko lakini nilimuliza jiana, naakasema pengine hataenda.</IPA_transcription>
+<gloss>He'll be there, but he might not.  I asked him yesterday.</gloss>
+</item>
+
+<item>
+<entry>108</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Kwa nini?</IPA_transcription>
+<gloss>Why?</gloss>
+</item>
+
+<item>
+<entry>109</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hata ni ya watoto.</IPA_transcription>
+<gloss>It's for children (the party).</gloss>
+</item>
+
+<item>
+<entry>110</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Hata ninafikiri ni ya watoto.</IPA_transcription>
+<gloss>I also thought it might be for children.</gloss>
+</item>
+
+<item>
+<entry>111</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hio ni ya watoto.  Haendi, lakini kwa sababu ameambiwa aende, ataenda.  Lakini mwenyewe hajui.  Nilimambia aenda, tu.  Lakini alisema hatakaa.</IPA_transcription>
+<gloss>It is.  He doesn't want to go, but because he was asked, he'll go.  But he's not sure.  I told him to go.  He said he won't stay long.</gloss>
+</item>
+
+<item>
+<entry>112</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Dada yako alikua kusoma hapa UCLA?</IPA_transcription>
+<gloss>Did your sister study ar UCLA?</gloss>
+</item>
+
+<item>
+<entry>113</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Alikuanasomea hapa.</IPA_transcription>
+<gloss>She was studying here.</gloss>
+</item>
+
+<item>
+<entry>114</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>UCLA kako na wa Kenya wengi.</IPA_transcription>
+<gloss>UCLA has many Kenyans.</gloss>
+</item>
+
+<item>
+<entry>115</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Walewako na hakiri, ya shule.  Lakini mimi, sioni kama nitakuja hapa.</IPA_transcription>
+<gloss>They are smart in school.  But I don't think I'll go there.</gloss>
+</item>
+
+<item>
+<entry>116</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Ninataka kuchukua habari za nambo za kurembesha wanawake.</IPA_transcription>
+<gloss>I want to study about beautifying women. (cosmetology)</gloss>
+</item>
+
+<item>
+<entry>117</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Kweli, utaturembesha.  Somea hio.</IPA_transcription>
+<gloss>Really, you will beautify us.  Study that.</gloss>
+</item>
+
+<item>
+<entry>118</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Ndio ninataka kuchukua sababau ninaona masomo ni ngumu kwangu.  Sasa ninataka kuchukua hiyo nione kama - unajua hapa lazima ufikiria kile kitu utachofanya.  Sio kufuata kitu kimoja.  Tafadhali ufanye kile kitu ambacho unkijua utachofanya.  Sio kufuata kitu kimoja.  Tafadhali ufanye kile kitu ambacho unkijua kitakusaidia kwa maisha yako.  Sababu saa engine hapa unasoma, unasoma, na hupati kazi.</IPA_transcription>
+<gloss>I want to take that because I think academics are tough for me.  So I want to study that -- you know here you have to think about everything you do.  You can't follow one line only.  It's better if you do what will advance your life.  Because sometimes here you study and study and still get no job!</gloss>
+</item>
+
+<item>
+<entry>119</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Na sio kuchukua sababau wale wengine wamechukua.  Sijui nitafanyaje.  Sijafikiria ile nitafanya mwisho wa mwaka.  [Sisi toko tu.]  Hiyo mzuri.  Hata sisi.  Mimi ninkaa nyumbani kila siku.  Siendi mahali.  Ninakaa tu huko.</IPA_transcription>
+<gloss>And you shouldn't study something because everyone else does.  I don't know what I'll do.  I don't know what I'll do at the end of this year.  I stay home all the time.  I don't go anywhere.</gloss>
+</item>
+
+<item>
+<entry>120</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Jumapili iliku pati ya waKenya.</IPA_transcription>
+<gloss>Sunday there was another Kenyan party.</gloss>
+</item>
+
+<item>
+<entry>121</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Lini?</IPA_transcription>
+<gloss>When?</gloss>
+</item>
+
+<item>
+<entry>122</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Jumapili.</IPA_transcription>
+<gloss>Sunday.</gloss>
+</item>
+
+<item>
+<entry>123</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Ulienda?</IPA_transcription>
+<gloss>Did you go?</gloss>
+</item>
+
+<item>
+<entry>124</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Nilienda.</IPA_transcription>
+<gloss>Yes.</gloss>
+</item>
+
+<item>
+<entry>125</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Kwa nini kulekuaje?</IPA_transcription>
+<gloss>How was it?</gloss>
+</item>
+
+<item>
+<entry>126</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Kulikukuzuri.  Ule Minister wa Tourist (sic)aliku amekuja.</IPA_transcription>
+<gloss>It was nice.  The Minister for Tourism came (from Kenya).</gloss>
+</item>
+
+<item>
+<entry>127</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Anaitwaje?</IPA_transcription>
+<gloss>What's his name?</gloss>
+</item>
+
+<item>
+<entry>128</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Anaitwa Mwangale.</IPA_transcription>
+<gloss>Mwangale.</gloss>
+</item>
+
+<item>
+<entry>129</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hiyo ni mzuri.</IPA_transcription>
+<gloss>That's good.</gloss>
+</item>
+
+<item>
+<entry>130</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Yeye sio mbaya.  Anazungumza habari za Kenya.  Yeye ni mzuri, haionyeshi habari ya Kenya vile ni mzuri, anasema Kenya iko na uzuri na ubaya yake.</IPA_transcription>
+<gloss>He's not bad.  He talked about Kenya.  He's alright, he didn't only say how good it was, he said it has its good and bad points.</gloss>
+</item>
+
+<item>
+<entry>131</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Anasema watu wachukua nini wkitaka kusoma?</IPA_transcription>
+<gloss>What did he tell the students to study?</gloss>
+</item>
+
+<item>
+<entry>132</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Anasema watu wakoje hapa, wasome, na warudi nyumbabai upesi.</IPA_transcription>
+<gloss>He said that people should come and study, then go home quickly.</gloss>
+</item>
+
+<item>
+<entry>133</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Lakini hasemi tutachukua course ipi.</IPA_transcription>
+<gloss>But he didn't say what courses to take?</gloss>
+</item>
+
+<item>
+<entry>134</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Anasema ile mtu course ile anasome arudishe nyumbani.</IPA_transcription>
+<gloss>He said whatever you study, bring that knowledge home.</gloss>
+</item>
+
+<item>
+<entry>135</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Aende akafundishe wale wengine.  [Aende aka funze wale wengine. ] Atapotea.  Hii yangu sijui kama nitafundisha mtu.  Nikifikiria kukaa hapa- na alisemaji habari wa kazi huko?</IPA_transcription>
+<gloss>To go and teach others.  He's lost.  What I'm studying I don't think I can teach to anybody else.  If I decide to stay here, - what about work here?</gloss>
+</item>
+
+<item>
+<entry>136</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Anasema kazi sio mbaya.</IPA_transcription>
+<gloss>He said it isn't bad.</gloss>
+</item>
+
+<item>
+<entry>137</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Watu wanapatiwa pesa mingi siku hizi?</IPA_transcription>
+<gloss>Do people earn good money now?</gloss>
+</item>
+
+<item>
+<entry>138</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Sio pesa, lakini anasema iko makazi.  Ukipeleka ile experince unatua hapa Amerika unarudisha Kenya.  Ndio, lakini sio kukaa hapa.</IPA_transcription>
+<gloss>He didn't talk about salary, but that there is work.  He says to take the experience you learned here and return with it to Kenya.  Don't stay here.</gloss>
+</item>
+
+<item>
+<entry>139</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Unajua kitu kengine, nyumbani hakuna pesa.</IPA_transcription>
+<gloss>You know something else, there is no money at home.</gloss>
+</item>
+
+<item>
+<entry>140</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Iko.</IPA_transcription>
+<gloss>There is.</gloss>
+</item>
+
+<item>
+<entry>141</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Iko?</IPA_transcription>
+<gloss>There is?</gloss>
+</item>
+
+<item>
+<entry>142</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Nyumbani iko pesa kuliko hapa.</IPA_transcription>
+<gloss>There is more money there than here.</gloss>
+</item>
+
+<item>
+<entry>143</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Minakuambia hapa iko pesa.  Mtu akifanya kazi na nguvu, iko pesa.  Nakuambia.</IPA_transcription>
+<gloss>I'm telling you there is money here.  If a person works hard, there is money.  I'm telling you.</gloss>
+</item>
+
+<item>
+<entry>144</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Kweli?</IPA_transcription>
+<gloss>Really?</gloss>
+</item>
+
+<item>
+<entry>145</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Nafikiri.  Lakini mi sijui.  Lakini nitaona ndunia.  Sijaona.</IPA_transcription>
+<gloss>I think so.  But I don't know.  I'll see the world (I need to see life), I haven't yet.</gloss>
+</item>
+
+<item>
+<entry>146</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Ninafikiri kama singekua na watoto, ningekua kuzurula dunia mzima.</IPA_transcription>
+<gloss>I think if I didn't have any children, I'd travel around the world.</gloss>
+</item>
+
+<item>
+<entry>147</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Ungezurula kweli?</IPA_transcription>
+<gloss>Really?</gloss>
+</item>
+
+<item>
+<entry>148</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Ningeenda kila pahali.  Inchi zote za Ulaya.</IPA_transcription>
+<gloss>I'd go everyplace.  All the countries in Europe.</gloss>
+</item>
+
+<item>
+<entry>149</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Mimi sijaenda mahali.  Ninafikiria kama nitaenda mahali Christmas, lakini sijui.  Nikiwana pesa.</IPA_transcription>
+<gloss>I haven't been anyplace.  I'm wondering if I'll go any place Christmas, I don't know.  Maybe if I have money.</gloss>
+</item>
+
+<item>
+<entry>150</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Hujajua?</IPA_transcription>
+<gloss>You don't know?</gloss>
+</item>
+
+<item>
+<entry>151</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Sijajua.  Nitafikiria.  Unaenda mahali?</IPA_transcription>
+<gloss>I don't.  Are you going any place?</gloss>
+</item>
+
+<item>
+<entry>152</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Nitakaa nyumbani.  Hata watoto.</IPA_transcription>
+<gloss>I'll be home.  Children, too.</gloss>
+</item>
+
+<item>
+<entry>153</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Itakuwa mbaya.  Uwapeleka kama New York.</IPA_transcription>
+<gloss>That would be bad.  Take them to New York.</gloss>
+</item>
+
+<item>
+<entry>154</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Hapana, siku za Christma watu wanakaa nyumbani.  Kupea watoto mazawadi.</IPA_transcription>
+<gloss>No, Christmas people stay home.  They give their kids presents.</gloss>
+</item>
+
+<item>
+<entry>155</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hio ndio mzuri.  Lata sijui nitapatia watoto wako nini.</IPA_transcription>
+<gloss>That's good. I don't know what I'll give your kids.</gloss>
+</item>
+
+<item>
+<entry>156</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Sijafikiria.  Sijafikiria kuwanunulia kitu</IPA_transcription>
+<gloss>I don't know.  I haven't thought of what I'll get them.</gloss>
+</item>
+
+<item>
+<entry>157</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Sihata mimi nilikua ninafikiria nitawanunulia nini.  Hawa watoto wako.  Sababu sina watoto ambao ningewapatia kitu.</IPA_transcription>
+<gloss>That's what I'm saying, I don't know what I'll buy them.  Your children.  Because I haven't any to give anything to.</gloss>
+</item>
+
+<item>
+<entry>158</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Unajua hapa siku za Christmas ni siku za nini, siku kubwa saidi.</IPA_transcription>
+<gloss>You know here at Christmas-time it’s a big thing.</gloss>
+</item>
+
+<item>
+<entry>159</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Hata sijui nitafanya nini.  Nitalala tu siku hicho.</IPA_transcription>
+<gloss>I don't know what I'll do.  I'll sleep that day.</gloss>
+</item>
+
+<item>
+<entry>160</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Hapa hakuna raha kama nyumbani.</IPA_transcription>
+<gloss>Here there's no real joy like at home.</gloss>
+</item>
+
+<item>
+<entry>161</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Niliona sizu hiyo engine hakuna raha.</IPA_transcription>
+<gloss>None.  I saw last Christmas.  It wasn't very happy. (here)</gloss>
+</item>
+
+<item>
+<entry>162</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Watu wanakaa hata huwesi jua kama ni iko Christmas.  Unajua Kenya watu wanaenda mashambani.  Ikiwa unakaa town unaenda mashambani, unachinja, unapata marafiki zako za zamani.</IPA_transcription>
+<gloss>People just sit around, you don't really know its Christmas.  You know in Kenya people go back to the farm (rural areas).  If you live in town you go back to the countryside.  You slaughter an animal (to eat), and see your old friends,</gloss>
+</item>
+
+<item>
+<entry>163</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Lakini hapa hakuna raha.  Watu wanaenda Christmas na wanaona wanaenda kazi.</IPA_transcription>
+<gloss>Here there isn't that happiness.  People celebrate Christmas like it’s a job.</gloss>
+</item>
+
+<item>
+<entry>164</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Eeh, hapa wanaenda kazi.</IPA_transcription>
+<gloss>Eeh, here they even go to work.</gloss>
+</item>
+
+<item>
+<entry>165</entry>
+<native_orthography>2</native_orthography>
+<IPA_transcription>Thanksgiving ndio, tu, watu wanaifahamu sana.  Wanaipenda sana kuliko--</IPA_transcription>
+<gloss>Thanksgiving is OK, people understand it.  They like it more than --</gloss>
+</item>
+
+<item>
+<entry>166</entry>
+<native_orthography>1</native_orthography>
+<IPA_transcription>Kuchinja mbuzi, kunyua pombe, ya muratina, buza, na changaa yote.  Goja kidogo, weka simu chini.</IPA_transcription>
+<gloss>To slaughter a goat, drink: muratina, buza, changaa (types of drinks).  Wait a minute, put the phone down.</gloss>
+</item>
+</wordlist>
+
+
+
+
+

@@ -1,0 +1,993 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Marghi (Central)</language_name>
+
+<headers>
+
+<IPA_header>Marghi (Central)</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+<item>
+<entry></entry>
+<IPA_transcription>* represents labio-dental flap</IPA_transcription>
+<gloss></gloss>
+</item>
+
+<item>
+<entry>1</entry>
+<IPA_transcription>áʔà</IPA_transcription>
+<gloss>no</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<IPA_transcription>bábál</IPA_transcription>
+<gloss>open place</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<IPA_transcription>ʔbàʔbàl</IPA_transcription>
+<gloss>hard</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<IPA_transcription>ʔbáʔbə̀ɡù</IPA_transcription>
+<gloss>wing</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<IPA_transcription>t̠ʃát̠ʃá</IPA_transcription>
+<gloss>all</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<IPA_transcription>dàlmà</IPA_transcription>
+<gloss>big axe</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<IPA_transcription>dàwà</IPA_transcription>
+<gloss>enemy</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<IPA_transcription>ʔdàʔdàhʊ</IPA_transcription>
+<gloss>bitter</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<IPA_transcription>ʔdárí</IPA_transcription>
+<gloss>to taste</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<IPA_transcription>ɮà</IPA_transcription>
+<gloss>to fall</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<IPA_transcription>ɮàɮàkù</IPA_transcription>
+<gloss>drum</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<IPA_transcription>dzíbá</IPA_transcription>
+<gloss>to measure (rope, cloth)</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<IPA_transcription>dzànì</IPA_transcription>
+<gloss>to know</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<IPA_transcription>fà</IPA_transcription>
+<gloss>farm</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<IPA_transcription>ɡàlí</IPA_transcription>
+<gloss>a spear</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<IPA_transcription>ɟáʔdí</IPA_transcription>
+<gloss>hump (of cow, camel)</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<IPA_transcription>ɟàpʊ̀</IPA_transcription>
+<gloss>both</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<IPA_transcription>ɣà</IPA_transcription>
+<gloss>to put on; to shoot</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<IPA_transcription>ɣàfʊ́</IPA_transcription>
+<gloss>arrow</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<IPA_transcription>j̝àj̝àʔdʊ̀</IPA_transcription>
+<gloss>picked up</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<IPA_transcription>j̝ámbál</IPA_transcription>
+<gloss>a curved sword</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<IPA_transcription>xá</IPA_transcription>
+<gloss>big water pot</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<IPA_transcription>xùrì</IPA_transcription>
+<gloss>to lift up</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<IPA_transcription>çà</IPA_transcription>
+<gloss>moon</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<IPA_transcription>d̠ʒáɡʷa</IPA_transcription>
+<gloss>a fish</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<IPA_transcription>d̠ʒàŋɡár</IPA_transcription>
+<gloss>louse</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<IPA_transcription>kákádʊ̀</IPA_transcription>
+<gloss>book</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<IPA_transcription>kàŋɡá</IPA_transcription>
+<gloss>drum</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<IPA_transcription>càr</IPA_transcription>
+<gloss>tongue</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<IPA_transcription>cácíkà</IPA_transcription>
+<gloss>whooping cough</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<IPA_transcription>là</IPA_transcription>
+<gloss>to dig</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<IPA_transcription>láɡà</IPA_transcription>
+<gloss>bow</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<IPA_transcription>màlà</IPA_transcription>
+<gloss>woman</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<IPA_transcription>nà</IPA_transcription>
+<gloss>song</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<IPA_transcription>náná</IPA_transcription>
+<gloss>locust bean tree</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<IPA_transcription>ɲàɲafʊ</IPA_transcription>
+<gloss>sprinkled</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<IPA_transcription>ŋà</IPA_transcription>
+<gloss>to call</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<IPA_transcription>ŋàŋà</IPA_transcription>
+<gloss>bent</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<IPA_transcription>pá</IPA_transcription>
+<gloss>to build; to fold</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<IPA_transcription>páʔdʊ́</IPA_transcription>
+<gloss>rain</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<IPA_transcription>ráktsə́ní</IPA_transcription>
+<gloss>to be equal to</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<IPA_transcription>rótsə́ní</IPA_transcription>
+<gloss>to hold</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<IPA_transcription>rùbùtsə́ní</IPA_transcription>
+<gloss>to write</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<IPA_transcription>ɡʷàrà</IPA_transcription>
+<gloss>to play</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<IPA_transcription>sà</IPA_transcription>
+<gloss>to drink</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<IPA_transcription>sál</IPA_transcription>
+<gloss>man, husband</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<IPA_transcription>ʃá</IPA_transcription>
+<gloss>to turn</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<IPA_transcription>ʃàʃílɡà</IPA_transcription>
+<gloss>star</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<IPA_transcription>tá</IPA_transcription>
+<gloss>to cook</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<IPA_transcription>tátá</IPA_transcription>
+<gloss>that one</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<IPA_transcription>ɬà</IPA_transcription>
+<gloss>cow</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<IPA_transcription>ɬànà</IPA_transcription>
+<gloss>to cut off</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<IPA_transcription>tsá</IPA_transcription>
+<gloss>to beat</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<IPA_transcription>vál</IPA_transcription>
+<gloss>granary</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<IPA_transcription>vàsʊ̀</IPA_transcription>
+<gloss>fault</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<IPA_transcription>bə̀*ú</IPA_transcription>
+<gloss>describes sudden appearance and flight</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<IPA_transcription>káwà</IPA_transcription>
+<gloss>I'm sorry!</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<IPA_transcription>ʔwáʔwí</IPA_transcription>
+<gloss>a bell-like adornment</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<IPA_transcription>jà</IPA_transcription>
+<gloss>to give birth</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<IPA_transcription>jàmáʔdʊ́</IPA_transcription>
+<gloss>wind, cold</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<IPA_transcription>jàjà</IPA_transcription>
+<gloss>fruit; born</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<IPA_transcription>ʔjà</IPA_transcription>
+<gloss>thigh</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<IPA_transcription>ʔjàr</IPA_transcription>
+<gloss>smoke</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<IPA_transcription>zàʔdʊ̀  </IPA_transcription>
+<gloss>to thatch</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<IPA_transcription>zárzár</IPA_transcription>
+<gloss>always</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<IPA_transcription>ʒábá</IPA_transcription>
+<gloss>to resow</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<IPA_transcription>ʒàʔbí</IPA_transcription>
+<gloss>cloth</gloss>
+</item>
+
+<item>
+<entry>68</entry>
+<IPA_transcription>bʷál</IPA_transcription>
+<gloss>ball</gloss>
+</item>
+
+<item>
+<entry>69</entry>
+<IPA_transcription>bʷàlí</IPA_transcription>
+<gloss>insane person</gloss>
+</item>
+
+<item>
+<entry>70</entry>
+<IPA_transcription>ʔbʷà</IPA_transcription>
+<gloss>to cook</gloss>
+</item>
+
+<item>
+<entry>71</entry>
+<IPA_transcription>ʔbʷàʔbʷà</IPA_transcription>
+<gloss>cooked</gloss>
+</item>
+
+<item>
+<entry>72</entry>
+<IPA_transcription>fʷà</IPA_transcription>
+<gloss>pool</gloss>
+</item>
+
+<item>
+<entry>73</entry>
+<IPA_transcription>fʷàŋ</IPA_transcription>
+<gloss>hollow</gloss>
+</item>
+
+<item>
+<entry>74</entry>
+<IPA_transcription>ɡʷà</IPA_transcription>
+<gloss>to enter</gloss>
+</item>
+
+<item>
+<entry>75</entry>
+<IPA_transcription>ɡʷàɡʷàʔdʊ̀</IPA_transcription>
+<gloss>mixed</gloss>
+</item>
+
+<item>
+<entry>76</entry>
+<IPA_transcription>ɣʷá</IPA_transcription>
+<gloss>to reach inside</gloss>
+</item>
+
+<item>
+<entry>77</entry>
+<IPA_transcription>ɣʷàmà</IPA_transcription>
+<gloss>sp. grass</gloss>
+</item>
+
+<item>
+<entry>78</entry>
+<IPA_transcription>hʷà</IPA_transcription>
+<gloss>to boil</gloss>
+</item>
+
+<item>
+<entry>79</entry>
+<IPA_transcription>hʷàhʷà</IPA_transcription>
+<gloss>boiled</gloss>
+</item>
+
+<item>
+<entry>80</entry>
+<IPA_transcription>kʷàkʷàʔdʊ̀</IPA_transcription>
+<gloss>picked up</gloss>
+</item>
+
+<item>
+<entry>81</entry>
+<IPA_transcription>kʷàkʷá</IPA_transcription>
+<gloss>weak, impotent person</gloss>
+</item>
+
+<item>
+<entry>82</entry>
+<IPA_transcription>kʷàtám</IPA_transcription>
+<gloss>wooden bowl</gloss>
+</item>
+
+<item>
+<entry>83</entry>
+<IPA_transcription>mʷál</IPA_transcription>
+<gloss>friend</gloss>
+</item>
+
+<item>
+<entry>84</entry>
+<IPA_transcription>mʷàlmʷàl</IPA_transcription>
+<gloss>sour</gloss>
+</item>
+
+<item>
+<entry>85</entry>
+<IPA_transcription>ŋʷà</IPA_transcription>
+<gloss>front, face</gloss>
+</item>
+
+<item>
+<entry>86</entry>
+<IPA_transcription>ŋʷádə̀ɡʊ́</IPA_transcription>
+<gloss>vulture</gloss>
+</item>
+
+<item>
+<entry>87</entry>
+<IPA_transcription>ŋʷàʔdʊ̀</IPA_transcription>
+<gloss>to hunt, stalk</gloss>
+</item>
+
+<item>
+<entry>88</entry>
+<IPA_transcription>pʷá</IPA_transcription>
+<gloss>to pour in, to put (many) in</gloss>
+</item>
+
+<item>
+<entry>89</entry>
+<IPA_transcription>pʷákù</IPA_transcription>
+<gloss>snow-white</gloss>
+</item>
+
+<item>
+<entry>90</entry>
+<IPA_transcription>sʷá</IPA_transcription>
+<gloss>to shut (without locking)</gloss>
+</item>
+
+<item>
+<entry>91</entry>
+<IPA_transcription>sʷàlàtsə́ní</IPA_transcription>
+<gloss>to pacify</gloss>
+</item>
+
+<item>
+<entry>92</entry>
+<IPA_transcription>tʷámá</IPA_transcription>
+<gloss>sp. large black millipede</gloss>
+</item>
+
+<item>
+<entry>93</entry>
+<IPA_transcription>tʷàŋ</IPA_transcription>
+<gloss>log of firewood</gloss>
+</item>
+
+<item>
+<entry>94</entry>
+<IPA_transcription>ɬʷa</IPA_transcription>
+<gloss>to cut in two</gloss>
+</item>
+
+<item>
+<entry>95</entry>
+<IPA_transcription>vʷà</IPA_transcription>
+<gloss>Kanuri</gloss>
+</item>
+
+<item>
+<entry>96</entry>
+<IPA_transcription>vʷànd̠ʒà</IPA_transcription>
+<gloss>a big frog living in the water</gloss>
+</item>
+
+<item>
+<entry>97</entry>
+<IPA_transcription>b͡dà</IPA_transcription>
+<gloss>to sting (bee), to kick (donkey)</gloss>
+</item>
+
+<item>
+<entry>98</entry>
+<IPA_transcription>b͡dàɡʊ̀</IPA_transcription>
+<gloss>valley</gloss>
+</item>
+
+<item>
+<entry>99</entry>
+<IPA_transcription>ʔb͡də̀ʔb͡dʊ̀</IPA_transcription>
+<gloss>chewed</gloss>
+</item>
+
+<item>
+<entry>100</entry>
+<IPA_transcription>pɬəpɬʊ</IPA_transcription>
+<gloss>forged</gloss>
+</item>
+
+<item>
+<entry>101</entry>
+<IPA_transcription>pɬàl</IPA_transcription>
+<gloss>to make wider</gloss>
+</item>
+
+<item>
+<entry>102</entry>
+<IPA_transcription>bɮə̀nà</IPA_transcription>
+<gloss>to kill (many)</gloss>
+</item>
+
+<item>
+<entry>103</entry>
+<IPA_transcription>b͡dzà</IPA_transcription>
+<gloss>foolish</gloss>
+</item>
+
+<item>
+<entry>104</entry>
+<IPA_transcription>b͡dzàb͡dzà</IPA_transcription>
+<gloss>foolish</gloss>
+</item>
+
+<item>
+<entry>105</entry>
+<IPA_transcription>bzə́r</IPA_transcription>
+<gloss>child</gloss>
+</item>
+
+<item>
+<entry>106</entry>
+<IPA_transcription>bzə́rkùr</IPA_transcription>
+<gloss>childhood</gloss>
+</item>
+
+<item>
+<entry>107</entry>
+<IPA_transcription>psár</IPA_transcription>
+<gloss>grass</gloss>
+</item>
+
+<item>
+<entry>108</entry>
+<IPA_transcription>psə́bá</IPA_transcription>
+<gloss>to send</gloss>
+</item>
+
+<item>
+<entry>109</entry>
+<IPA_transcription>p͡təl</IPA_transcription>
+<gloss>chief, king</gloss>
+</item>
+
+<item>
+<entry>110</entry>
+<IPA_transcription>p͡tə́ná</IPA_transcription>
+<gloss>to reduce, decrease</gloss>
+</item>
+
+<item>
+<entry>111</entry>
+<IPA_transcription>p͡tsà</IPA_transcription>
+<gloss>to roast</gloss>
+</item>
+
+<item>
+<entry>112</entry>
+<IPA_transcription>p͡tsàp͡tsà</IPA_transcription>
+<gloss>roasted</gloss>
+</item>
+
+<item>
+<entry>113</entry>
+<IPA_transcription>b͡dʒàɡʊ̀</IPA_transcription>
+<gloss>compound of a woman without a husband</gloss>
+</item>
+
+<item>
+<entry>114</entry>
+<IPA_transcription>bjàl</IPA_transcription>
+<gloss>to shake off; to spring (a trap)</gloss>
+</item>
+
+<item>
+<entry>115</entry>
+<IPA_transcription>pɕíká</IPA_transcription>
+<gloss>a tree</gloss>
+</item>
+
+<item>
+<entry>116</entry>
+<IPA_transcription>pɕìnà</IPA_transcription>
+<gloss>to wash</gloss>
+</item>
+
+<item>
+<entry>117</entry>
+<IPA_transcription>pɕìpɕʊ̀</IPA_transcription>
+<gloss>washed, clean</gloss>
+</item>
+
+<item>
+<entry>118</entry>
+<IPA_transcription>pɕú</IPA_transcription>
+<gloss>red monkey</gloss>
+</item>
+
+<item>
+<entry>119</entry>
+<IPA_transcription>bjábjágʊ́</IPA_transcription>
+<gloss>a small bat</gloss>
+</item>
+
+<item>
+<entry>120</entry>
+<IPA_transcription>pɕí</IPA_transcription>
+<gloss>hoe-handle</gloss>
+</item>
+
+<item>
+<entry>121</entry>
+<IPA_transcription>pɕír</IPA_transcription>
+<gloss>a tree</gloss>
+</item>
+
+<item>
+<entry>122</entry>
+<IPA_transcription>mbà</IPA_transcription>
+<gloss>to tie</gloss>
+</item>
+
+<item>
+<entry>123</entry>
+<IPA_transcription>mpà</IPA_transcription>
+<gloss>to fight</gloss>
+</item>
+
+<item>
+<entry>124</entry>
+<IPA_transcription>m͡np͡tàɡʊ̀</IPA_transcription>
+<gloss>bush</gloss>
+</item>
+
+<item>
+<entry>125</entry>
+<IPA_transcription>ndàl</IPA_transcription>
+<gloss>to throw</gloss>
+</item>
+
+<item>
+<entry>126</entry>
+<IPA_transcription>ntà</IPA_transcription>
+<gloss>to split</gloss>
+</item>
+
+<item>
+<entry>127</entry>
+<IPA_transcription>m͡nb͡dá</IPA_transcription>
+<gloss>to surpass</gloss>
+</item>
+
+<item>
+<entry>128</entry>
+<IPA_transcription>ɲɟárí</IPA_transcription>
+<gloss>to leave</gloss>
+</item>
+
+<item>
+<entry>129</entry>
+<IPA_transcription>ɲcàhʊ̀</IPA_transcription>
+<gloss>to break (calabash)</gloss>
+</item>
+
+<item>
+<entry>130</entry>
+<IPA_transcription>ŋɡàbái</IPA_transcription>
+<gloss>Indian hemp</gloss>
+</item>
+
+<item>
+<entry>131</entry>
+<IPA_transcription>ŋɡàdʊ́</IPA_transcription>
+<gloss>to remain over</gloss>
+</item>
+
+<item>
+<entry>132</entry>
+<IPA_transcription>ŋkà</IPA_transcription>
+<gloss>to refuse</gloss>
+</item>
+
+<item>
+<entry>133</entry>
+<IPA_transcription>ŋkànì</IPA_transcription>
+<gloss>to refuse, to prevent</gloss>
+</item>
+
+<item>
+<entry>134</entry>
+<IPA_transcription>m͡nb͡dzànì</IPA_transcription>
+<gloss>to spoil</gloss>
+</item>
+
+<item>
+<entry>135</entry>
+<IPA_transcription>m͡np͡tsàkù</IPA_transcription>
+<gloss>to pick (up), to peck (at)</gloss>
+</item>
+
+<item>
+<entry>136</entry>
+<IPA_transcription>m͡nb͡dʒahʊ</IPA_transcription>
+<gloss>a flute</gloss>
+</item>
+
+<item>
+<entry>137</entry>
+<IPA_transcription>m͡np͡tsʃàʔdʊ̀</IPA_transcription>
+<gloss>to point, to sharpen</gloss>
+</item>
+
+<item>
+<entry>138</entry>
+<IPA_transcription>ndzə́ndzə́ʔbʊ́</IPA_transcription>
+<gloss>covered, turned over</gloss>
+</item>
+
+<item>
+<entry>139</entry>
+<IPA_transcription>ndzer</IPA_transcription>
+<gloss>to accuse someone falsely</gloss>
+</item>
+
+<item>
+<entry>140</entry>
+<IPA_transcription>ntsà</IPA_transcription>
+<gloss>to shout</gloss>
+</item>
+
+<item>
+<entry>141</entry>
+<IPA_transcription>ntsàntsà</IPA_transcription>
+<gloss>shouted</gloss>
+</item>
+
+<item>
+<entry>142</entry>
+<IPA_transcription>n̠d̠ʒà</IPA_transcription>
+<gloss>to open (eyes) wide</gloss>
+</item>
+
+<item>
+<entry>143</entry>
+<IPA_transcription>n̠d̠ʒàʔbú</IPA_transcription>
+<gloss>mud</gloss>
+</item>
+
+<item>
+<entry>144</entry>
+<IPA_transcription>ntʃà</IPA_transcription>
+<gloss>to point at</gloss>
+</item>
+
+<item>
+<entry>145</entry>
+<IPA_transcription>ntʃà</IPA_transcription>
+<gloss>to press down</gloss>
+</item>
+
+<item>
+<entry>146</entry>
+<IPA_transcription>ntʃàntʃà</IPA_transcription>
+<gloss>pressed down</gloss>
+</item>
+
+<item>
+<entry>147</entry>
+<IPA_transcription>mɬá</IPA_transcription>
+<gloss>smithy, forge</gloss>
+</item>
+
+<item>
+<entry>148</entry>
+<IPA_transcription>mɬàɡʊ̀</IPA_transcription>
+<gloss>master, owner</gloss>
+</item>
+
+<item>
+<entry>149</entry>
+<IPA_transcription>mʃàlmə́ŋí (desired)</IPA_transcription>
+<gloss>a tall, long-legged bird</gloss>
+</item>
+
+<item>
+<entry>150</entry>
+<IPA_transcription>m͡nà</IPA_transcription>
+<gloss>mouth, opening</gloss>
+</item>
+
+<item>
+<entry>151</entry>
+<IPA_transcription>ə́mɮʊ̀</IPA_transcription>
+<gloss>nine</gloss>
+</item>
+
+<item>
+<entry>152</entry>
+<IPA_transcription>ə́m͡nà</IPA_transcription>
+<gloss>yesterday</gloss>
+</item>
+
+<item>
+<entry>153</entry>
+<IPA_transcription>ə́mjì</IPA_transcription>
+<gloss>a grass</gloss>
+</item>
+
+<item>
+<entry>154</entry>
+<IPA_transcription>əmçí</IPA_transcription>
+<gloss>hoe-handle</gloss>
+</item>
+
+<item>
+<entry>155</entry>
+<IPA_transcription>ə́mcà</IPA_transcription>
+<gloss>a small clay dish</gloss>
+</item>
+
+<item>
+<entry>156</entry>
+<IPA_transcription>ə́nɬə̀m</IPA_transcription>
+<gloss>piece of broken calabash</gloss>
+</item>
+
+<item>
+<entry>157</entry>
+<IPA_transcription>mbʷàʃkà</IPA_transcription>
+<gloss>forearm</gloss>
+</item>
+
+<item>
+<entry>158</entry>
+<IPA_transcription>ntsʷa</IPA_transcription>
+<gloss>to thread (cord into trousers, etc.)</gloss>
+</item>
+
+<item>
+<entry>159</entry>
+<IPA_transcription>ntʷá</IPA_transcription>
+<gloss>to split in two</gloss>
+</item>
+
+<item>
+<entry>160</entry>
+<IPA_transcription>ŋɡʷal</IPA_transcription>
+<gloss>to be bent, curved</gloss>
+</item>
+
+<item>
+<entry>161</entry>
+<IPA_transcription>ŋàŋà</IPA_transcription>
+<gloss>curved, bent</gloss>
+</item>
+
+<item>
+<entry>162</entry>
+<IPA_transcription>ŋkʷà</IPA_transcription>
+<gloss>girl, daughter</gloss>
+</item>
+
+</wordlist>
+
+
+
+

@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Comanche</language_name>
+
+<headers>
+
+<IPA_header>Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<IPA_transcription>pia</IPA_transcription>
+<gloss>mother</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<IPA_transcription>ahpʉ</IPA_transcription>
+<gloss>father</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<IPA_transcription>nami</IPA_transcription>
+<gloss>sister, younger</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<IPA_transcription>patsi</IPA_transcription>
+<gloss>sister, elder</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<IPA_transcription>tami</IPA_transcription>
+<gloss>brother, younger</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<IPA_transcription>pabi</IPA_transcription>
+<gloss>brother, elder</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<IPA_transcription>tua</IPA_transcription>
+<gloss>son</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<IPA_transcription>peta</IPA_transcription>
+<gloss>daughter</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<IPA_transcription>kaku</IPA_transcription>
+<gloss>grandmother, maternal</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<IPA_transcription>toko</IPA_transcription>
+<gloss>grandfather, maternal</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<IPA_transcription>huutsi</IPA_transcription>
+<gloss>grandmother, paternal</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<IPA_transcription>kʉnu</IPA_transcription>
+<gloss>grandfather, paternal</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<IPA_transcription>nʉ pia</IPA_transcription>
+<gloss>my mother</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<IPA_transcription>ʉ pia</IPA_transcription>
+<gloss>your (sg.) mother</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<IPA_transcription>ika pia</IPA_transcription>
+<gloss>his/her mother</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<IPA_transcription>oka pia</IPA_transcription>
+<gloss>his/her mother</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<IPA_transcription>u pia</IPA_transcription>
+<gloss>his/her mother</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<IPA_transcription>ma pia</IPA_transcription>
+<gloss>his/her mother</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<IPA_transcription>nʉhʉ pia</IPA_transcription>
+<gloss>our (dual, excl.) mother</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<IPA_transcription>nʉmʉ pia</IPA_transcription>
+<gloss>our (pl., excl.) mother</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<IPA_transcription>taha pia</IPA_transcription>
+<gloss>our (dual, incl.) mother</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<IPA_transcription>taa pia</IPA_transcription>
+<gloss>our (pl., incl.) mother</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<IPA_transcription>mʉhʉ pia</IPA_transcription>
+<gloss>your (dual) mother</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<IPA_transcription>mʉʉ pia</IPA_transcription>
+<gloss>your (pl.) mother</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<IPA_transcription>mʉmʉ pia</IPA_transcription>
+<gloss>your (pl.) mother</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<IPA_transcription>itʉ pia</IPA_transcription>
+<gloss>their (dual) mother</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<IPA_transcription>ohrʉ pia</IPA_transcription>
+<gloss>their (dual) mother</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<IPA_transcription>uhrʉ pia</IPA_transcription>
+<gloss>their (dual) mother</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<IPA_transcription>mahrʉ pia</IPA_transcription>
+<gloss>their (dual) mother</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<IPA_transcription>itʉʉ pia</IPA_transcription>
+<gloss>their (pl.) mother</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<IPA_transcription>orʉʉ pia</IPA_transcription>
+<gloss>their (pl.) mother</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<IPA_transcription>urʉʉ pia</IPA_transcription>
+<gloss>their (pl.) mother</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<IPA_transcription>marʉʉ pia</IPA_transcription>
+<gloss>their (pl.) mother</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<IPA_transcription>naapĕ</IPA_transcription>
+<gloss>foot</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<IPA_transcription>oomŏ</IPA_transcription>
+<gloss>leg</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<IPA_transcription>moʔo</IPA_transcription>
+<gloss>hand</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<IPA_transcription>pʉʉra</IPA_transcription>
+<gloss>arm</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<IPA_transcription>paapĭ</IPA_transcription>
+<gloss>head, hair</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<IPA_transcription>tʉʉpe</IPA_transcription>
+<gloss>mouth</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<IPA_transcription>pui</IPA_transcription>
+<gloss>eye</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<IPA_transcription>nakĭ</IPA_transcription>
+<gloss>ear</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<IPA_transcription>muubi</IPA_transcription>
+<gloss>nose</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<IPA_transcription>nahnʉ reasʉ ʉ punituʔi</IPA_transcription>
+<gloss>good bye (lit. Maybe I'll see you again.)</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<IPA_transcription>ma ruawe.  isa hakarʉ?</IPA_transcription>
+<gloss>Hi.  Who is it?</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<IPA_transcription>Angie nʉ.</IPA_transcription>
+<gloss>It's [I'm] Angie.</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<IPA_transcription>ʉnha hina nikwai?</IPA_transcription>
+<gloss>What do you want?</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<IPA_transcription>ʉnha puhiwipaʔi?</IPA_transcription>
+<gloss>Do you have [any] money?</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<IPA_transcription>kehena nʉ.  Pʉetsʉ̆kŭ nʉ puhiwi maruʔi.  ʉntse hipeti nikwai?</IPA_transcription>
+<gloss>No.  Tomorrow I'll get money.  How much do you want?</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<IPA_transcription>na moʔobetĭ.</IPA_transcription>
+<gloss>Just five [dollars].</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<IPA_transcription>haa na nʉ; ʉ uturuʔi.</IPA_transcription>
+<gloss>Ok.  I'll give it to you.</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<IPA_transcription>nohitsaakʉ.  Nonʉ pʉetsʉ̆kŭ ʉ punin ne.  ʉra.</IPA_transcription>
+<gloss>Great.  I'll see you tomorrow.  Thanks.</gloss>
+</item>
+</wordlist>

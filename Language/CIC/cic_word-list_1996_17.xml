@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Chickasaw</language_name>
+
+
+<headers>
+
+<orthography_header>Orthography</orthography_header>
+<IPA_header>Transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography>Minkaat ala</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The chief got here</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography>Shiikaat ala</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The buzzard got here</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography>Fala-at ala</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The crow got here</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography>Minkaat abika</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The chief is sick</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography>Koniat abika</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The skunk is sick</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>Ofo̱laat abika</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The screech owl is sick</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>Nashobaat abika</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The wolf is sick</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>Akankaat abika</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The chicken is sick</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>Naahollaat abika</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The white man is sick</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography>Hachinkoniat abika</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Y'all's skunk is sick</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography>Toksala'paat losatok</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The lizard was black</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography>Ankoniat abika</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>My skunk is sick</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>Nashobaat ataklammi</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The wolf is bothering him</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>Nashobaat asataklammi</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The wolf is bothering me</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<native_orthography>Nashobaat asataklammitok</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The wolf bothered me</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<native_orthography>Naahollaat ilittimanompoli</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The white man is talking to me</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<native_orthography>Sattibaapishiat ataklammitok</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>My brother bothered him</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<native_orthography>Sattibaapishiat asataklammitok</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>My brother bothered me</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<native_orthography>Chittibaapishiat abika</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Your brother is sick</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<native_orthography>Chittibaapishiat abika?</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Is your brother sick?</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<native_orthography>Chittibaapishiat abikataam?</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Was your brother sick?</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<native_orthography>Nashobaat achitaklammitaam?</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Was the wolf bothering you?</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<native_orthography>Minko' pisa</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He looks at the chief</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<native_orthography>Ihoo pisa</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He looks at the woman</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<native_orthography>Oka' pisa</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He looks at the water</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<native_orthography>Naahollo pisa</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He looks at the white man</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<native_orthography>Ihoo pisatok</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He looked at the woman</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<native_orthography>Naahollo pisatok</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He looked at the white man</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<native_orthography>Nampaka̱li' pisatok</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He looked at the flower</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<native_orthography>Nampaka̱li' pisataam?</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Did he look at the flower?</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<native_orthography>Nashobaat malili</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The wolf is running</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<native_orthography>Nashobaat malitaam?</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Is the wolf running?</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<native_orthography>Nashobaat malli</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The wolf is jumping</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<native_orthography>Nashobaat mallitaam?</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Is the wolf jumping?</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<native_orthography>Naalhtoka'at maso̱fa</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The policeman is bald</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<native_orthography>Naalhtoka'at maso̱fataam?</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Was the policeman bald?</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<native_orthography>Naalhtoka'at apiisachi</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The policeman is looking after him</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<native_orthography>Naalhtoka'at apiisachitaam?</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Was the policeman looking after him?</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<native_orthography></native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The policeman isn't looking after him</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<native_orthography>Chihashaa?</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Are you angry?</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<native_orthography>Chihashaataam?</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Were you angry?</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<native_orthography>Malili!</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Run!</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<native_orthography>Malli!</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Jump!</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<native_orthography>Apiisachi!</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Look after him!</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<native_orthography>Katahaat malili?</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Who is running?</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<native_orthography>Katahaat malitaam?</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Who was running?</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<native_orthography></native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Who was supposed to run?</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<native_orthography></native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>Was the policeman supposed to look after him?</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<native_orthography>Sattibaapishi pisatok</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He looked at my brother</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<native_orthography>Hachittibaapishi pisatok</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He looked at y'all's brother</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<native_orthography>imittimanompoli</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He talks for her</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<native_orthography>hachimittimanompoli</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He talks for y'all</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<native_orthography>hachimittimanompolitok</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He talked for y'all</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<native_orthography>ikhachimittimanompo'lo</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He doesn't talk about y'all</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<native_orthography>ikhachimittimanompo'lokitok</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He didn't talk about y'all</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<native_orthography>hachimittimanompola'chitok</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He was supposed to read to y'all</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<native_orthography></native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>He was tired, but he looked at it</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<native_orthography></native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>When he gets here, he'll look at the picture</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<native_orthography></native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>When he gets here, he'll look at it</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<native_orthography>Hattakat yaalhipa pisa</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>The man looks at the hat</gloss>
+</item>
+</wordlist>
+
+
+
+
+

@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Mixtec, Coatzospan</language_name>
+
+
+
+
+
+
+<headers>
+
+<orthography_header>Sound Illustrated</orthography_header>
+<alt_orthography_header></alt_orthography_header>
+<IPA_header>Broad Transcription</IPA_header>
+<alt_IPA_header>Narrow Transcription</alt_IPA_header>
+<gloss_header>Spanish Gloss</gloss_header>
+<alt_gloss_header>English Gloss</alt_gloss_header>
+
+</headers>
+<item>
+<entry>1</entry>
+<native_orthography>vowel lengthening before voiced consonants</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kànì</IPA_transcription>
+<alt_IPA_transcription>ˈka̅a̅nì</alt_IPA_transcription>
+<gloss>largo</gloss>
+<alt_gloss>long</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>2</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>βĩ́ðĩ̀ </IPA_transcription>
+<alt_IPA_transcription>ˈβiĩ̀ðĩ̀</alt_IPA_transcription>
+<gloss>tibio</gloss>
+<alt_gloss>warm</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>3</entry>
+<native_orthography>glottalization before voiceless consonants</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tsàká</IPA_transcription>
+<alt_IPA_transcription>ˈtsāʔàká</alt_IPA_transcription>
+<gloss>pescado</gloss>
+<alt_gloss>fish</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>4</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ⁿdùtsì</IPA_transcription>
+<alt_IPA_transcription>ˈⁿdʸūʔtsī</alt_IPA_transcription>
+<gloss>frijol</gloss>
+<alt_gloss>bean</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>5</entry>
+<native_orthography>contrast between glottalized and lengthened vowels</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kóǒ</IPA_transcription>
+<alt_IPA_transcription>ˈkoo͠o</alt_IPA_transcription>
+<gloss>culebra</gloss>
+<alt_gloss>snake</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>6</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kóʔǒ</IPA_transcription>
+<alt_IPA_transcription>ˈkóʔo͝o</alt_IPA_transcription>
+<gloss>plato</gloss>
+<alt_gloss>dish</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>7</entry>
+<native_orthography>contrast between glottalized and lengthened vowels</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kànì</IPA_transcription>
+<alt_IPA_transcription>ˈka̅a̅nì</alt_IPA_transcription>
+<gloss>largo</gloss>
+<alt_gloss>long</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>8</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>káʔní</IPA_transcription>
+<alt_IPA_transcription>ˈkáʔàní</alt_IPA_transcription>
+<gloss>matar</gloss>
+<alt_gloss>kill</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>9</entry>
+<native_orthography>loss of contrast in pre-nuclear position</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kókáʔnú</IPA_transcription>
+<alt_IPA_transcription>kōˈkāʔànū</alt_IPA_transcription>
+<gloss>culebra grande</gloss>
+<alt_gloss>big snake</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>10</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kókáʔnú</IPA_transcription>
+<alt_IPA_transcription>kōˈkāʔànū</alt_IPA_transcription>
+<gloss>plato grande</gloss>
+<alt_gloss>big dish</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>11</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tútúkàʔnú</IPA_transcription>
+<alt_IPA_transcription>tʸūtʸūˈkàʔànù</alt_IPA_transcription>
+<gloss>papel grande</gloss>
+<alt_gloss>big paper</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>12</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ðúnúkáʔnú</IPA_transcription>
+<alt_IPA_transcription>ðūnūˈkāʔānū</alt_IPA_transcription>
+<gloss>camisa grande</gloss>
+<alt_gloss>big shirt</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>13</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>čìnákàʔnù</IPA_transcription>
+<alt_IPA_transcription>čìnákàʔnù</alt_IPA_transcription>
+<gloss>perro grande</gloss>
+<alt_gloss>big dog</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>14</entry>
+<native_orthography>near homophony</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kókó</IPA_transcription>
+<alt_IPA_transcription>ˈkōʔòkō</alt_IPA_transcription>
+<gloss>se va a quemar</gloss>
+<alt_gloss>will burn</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>15</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kóʔò-kó</IPA_transcription>
+<alt_IPA_transcription>ˈkóʔòkō</alt_IPA_transcription>
+<gloss>mi plato</gloss>
+<alt_gloss>my dish</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>16</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kóʔǒ</IPA_transcription>
+<alt_IPA_transcription>ˈkóʔo͝o</alt_IPA_transcription>
+<gloss>plato</gloss>
+<alt_gloss>dish</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>17</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kóʔò-ó</IPA_transcription>
+<alt_IPA_transcription>ˈkóʔo͝o</alt_IPA_transcription>
+<gloss>tu plato</gloss>
+<alt_gloss>your dish</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>18</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kóʔò ⁿjìó-kó</IPA_transcription>
+<alt_IPA_transcription>ˈkóʔò ˈⁿji͝okō</alt_IPA_transcription>
+<gloss>plato quiero</gloss>
+<alt_gloss>dish I want</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>19</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kóʔò-ò ⁿjìò-kó</IPA_transcription>
+<alt_IPA_transcription>ˈkóʔo̅o̅ ˈⁿjiòkō</alt_IPA_transcription>
+<gloss>tu plato quiero</gloss>
+<alt_gloss>your dish I want</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>20</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ⁿjìò-kó kòʔò</IPA_transcription>
+<alt_IPA_transcription>ˈⁿji̅o̅kó ˈkòʔò</alt_IPA_transcription>
+<gloss>quiero plato</gloss>
+<alt_gloss>I want dish</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>21</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ⁿjìò-kó kòʔò-ò</IPA_transcription>
+<alt_IPA_transcription>ˈⁿji̅o̅kó ˈkòʔo̅o̅</alt_IPA_transcription>
+<gloss>quiero tu plato</gloss>
+<alt_gloss>I want your dish</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>22</entry>
+<native_orthography>nasalization</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>koʔo</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>lo va a tomar</gloss>
+<alt_gloss>will drink</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>23</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kõʔõ</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>¡tómalo!</gloss>
+<alt_gloss>drink it!</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>24</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>koto</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>va a mirar</gloss>
+<alt_gloss>will look</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>25</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kotõ</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>¡mira!</gloss>
+<alt_gloss>look!</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>26</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tɨʔβi</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>va a empujar</gloss>
+<alt_gloss>will push</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>27</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tɨ̃ʔβĩ</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>¡empújalo!</gloss>
+<alt_gloss>push!</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>28</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kaβa</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>se va a acostar</gloss>
+<alt_gloss>will lie down</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>29</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kãβã</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>¡acuéstate!</gloss>
+<alt_gloss>lie down!</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>30</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kunũ</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>va a correr</gloss>
+<alt_gloss>will run</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>31</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kũnũ</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>¡córrete!</gloss>
+<alt_gloss>run!</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>32</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ⁿje nãnĩ</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>¿cómo se llama?</gloss>
+<alt_gloss>what's its name?</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>33</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ⁿje nãnĩ</IPA_transcription>
+<alt_IPA_transcription></alt_IPA_transcription>
+<gloss>¿cómo te llamas?</gloss>
+<alt_gloss>what's your name?</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>34</entry>
+<native_orthography>tone contrasts</native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>làà</IPA_transcription>
+<alt_IPA_transcription>ˈla̅a̅</alt_IPA_transcription>
+<gloss>flor</gloss>
+<alt_gloss>flower</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>35</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>làá</IPA_transcription>
+<alt_IPA_transcription>ˈla͝a</alt_IPA_transcription>
+<gloss>pájaro</gloss>
+<alt_gloss>bird</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>36</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>tútú làà</IPA_transcription>
+<alt_IPA_transcription>tʸútʸú ˈla̅a̅</alt_IPA_transcription>
+<gloss>papel de flor</gloss>
+<alt_gloss>flower paper</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>37</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>túkú láá</IPA_transcription>
+<alt_IPA_transcription>tʸūkú ˈlāā</alt_IPA_transcription>
+<gloss>otro flor</gloss>
+<alt_gloss>other flower</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>38</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ⁿgàtsì làá</IPA_transcription>
+<alt_IPA_transcription>ⁿgàtsì ˈla͝a</alt_IPA_transcription>
+<gloss>cobija de flor</gloss>
+<alt_gloss>flowered blanket</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>39</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>súʔβé láà</IPA_transcription>
+<alt_IPA_transcription>súβé ˈlaà</alt_IPA_transcription>
+<gloss>hilo de flor</gloss>
+<alt_gloss>flower thread</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>40</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>súʔβé láà</IPA_transcription>
+<alt_IPA_transcription>súβé ˈlaà</alt_IPA_transcription>
+<gloss>hilo de pájaro</gloss>
+<alt_gloss>bird thread</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>41</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>cìná-kò</IPA_transcription>
+<alt_IPA_transcription>ˈči͡͡inákò</alt_IPA_transcription>
+<gloss>mi perro</gloss>
+<alt_gloss>my dog</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>42</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>íðú-kò</IPA_transcription>
+<alt_IPA_transcription>ˈi͡iðūkò</alt_IPA_transcription>
+<gloss>mi caballo</gloss>
+<alt_gloss>my horse</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>43</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>šùβì lúʔⁿjì</IPA_transcription>
+<alt_IPA_transcription>šùβì ˈlúʔùⁿjì</alt_IPA_transcription>
+<gloss>petate chico</gloss>
+<alt_gloss>little mat</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>44</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>šúʔβé lúʔⁿjì</IPA_transcription>
+<alt_IPA_transcription>šūβē ˈlūʔùⁿjì</alt_IPA_transcription>
+<gloss>hilo chico</gloss>
+<alt_gloss>little thread</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>45</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>màⁿgú βìtá</IPA_transcription>
+<alt_IPA_transcription>màⁿgú ˈβìʔìtā</alt_IPA_transcription>
+<gloss>mango blandito</gloss>
+<alt_gloss>soft mango</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>46</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>šáʔmí βìtá</IPA_transcription>
+<alt_IPA_transcription>šámí ˈβìʔìtā</alt_IPA_transcription>
+<gloss>comote blandito</gloss>
+<alt_gloss>soft yam</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>47</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ⁿgàtsì βìtà</IPA_transcription>
+<alt_IPA_transcription>ⁿgàtsì ˈβìʔìtá</alt_IPA_transcription>
+<gloss>cobija blandita</gloss>
+<alt_gloss>soft blanket</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>48</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>šúʔβé kání</IPA_transcription>
+<alt_IPA_transcription>šūβē ˈka̅a̅nī</alt_IPA_transcription>
+<gloss>hilo largo</gloss>
+<alt_gloss>long thread</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>49</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>íðú kànì</IPA_transcription>
+<alt_IPA_transcription>īðū ˈka̅a̅nì</alt_IPA_transcription>
+<gloss>caballo largo</gloss>
+<alt_gloss>long horse</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>50</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>šùβì kànì</IPA_transcription>
+<alt_IPA_transcription>šūβī ˈka̅a̅nī</alt_IPA_transcription>
+<gloss>petate largo</gloss>
+<alt_gloss>long mat</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>51</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ìðì páñú</IPA_transcription>
+<alt_IPA_transcription>ìðì ˈpa͡añū</alt_IPA_transcription>
+<gloss>lana de rebozo</gloss>
+<alt_gloss>rebozo wool</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>52</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>šúʔβé ⁿdákɨ̃́</IPA_transcription>
+<alt_IPA_transcription>šūβē ˈⁿdāʔàkɨ̃̄</alt_IPA_transcription>
+<gloss>hilo grueso</gloss>
+<alt_gloss>thick thread</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>53</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>úβè ⁿdàkɨ̃̀</IPA_transcription>
+<alt_IPA_transcription>ūβē ˈⁿdàʔàkɨ̃̀</alt_IPA_transcription>
+<gloss>quelite grueso</gloss>
+<alt_gloss>thick greens</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>54</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>šùβì ⁿdàkɨ̃̀</IPA_transcription>
+<alt_IPA_transcription>šūβī ˈdāʔākɨ̃̄</alt_IPA_transcription>
+<gloss>petate grueso</gloss>
+<alt_gloss>thick mat</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>55</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>šùβì lúkú</IPA_transcription>
+<alt_IPA_transcription>šùβì ˈlūʔùkū</alt_IPA_transcription>
+<gloss>petate loco</gloss>
+<alt_gloss>crazy mat</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>56</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>βĩ́ðĩ̀</IPA_transcription>
+<alt_IPA_transcription>ˈβiĩ̀ðĩ̀</alt_IPA_transcription>
+<gloss>tibio</gloss>
+<alt_gloss>warm</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>57</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>βĩ́ðĩ́</IPA_transcription>
+<alt_IPA_transcription>ˈβiĩ̀ðiĩ́</alt_IPA_transcription>
+<gloss>dulce</gloss>
+<alt_gloss>sweet</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>58</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ðúʔnú βĩ́ðĩ̀</IPA_transcription>
+<alt_IPA_transcription>ðūnū ˈβiĩ̀ðĩ̀</alt_IPA_transcription>
+<gloss>camisa tibia</gloss>
+<alt_gloss>warm shirt</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>59</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ⁿgàtsì βĩ́ðĩ̀</IPA_transcription>
+<alt_IPA_transcription>ⁿgàtsì ˈβiĩ̀ðĩ̀</alt_IPA_transcription>
+<gloss>cobija tibia</gloss>
+<alt_gloss>warm blanket</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>60</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>kɨ̀ðɨ́ βĩ́ðĩ̀</IPA_transcription>
+<alt_IPA_transcription>kɨ̀ðɨ́ ˈβiĩ̀ðĩ̀</alt_IPA_transcription>
+<gloss>olla tibia</gloss>
+<alt_gloss>warm pot </alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>61</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>étú̃ βĩ́ðĩ̀</IPA_transcription>
+<alt_IPA_transcription>ētũ̄ ˈβiĩ̀ðĩ̀</alt_IPA_transcription>
+<gloss>caja de dulces</gloss>
+<alt_gloss>box of sweets</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>62</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>šáʔmí βĩ́ðĩ̀</IPA_transcription>
+<alt_IPA_transcription>šāmī ˈβiĩðĩ̀</alt_IPA_transcription>
+<gloss>camote dulce</gloss>
+<alt_gloss>sweet potato</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>63</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>šɨ̀kɨ̃̀ βĩ́ðĩ́</IPA_transcription>
+<alt_IPA_transcription>šɨ̀kĩ́ ˈβi͡ĩðĩ̄</alt_IPA_transcription>
+<gloss>calabaza dulce</gloss>
+<alt_gloss>sweet squash</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>64</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>šúʔβé βíðè</IPA_transcription>
+<alt_IPA_transcription>šūβē ˈβiìðè</alt_IPA_transcription>
+<gloss>hilo mojado</gloss>
+<alt_gloss>wet thread</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>65</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>íðú βíðè</IPA_transcription>
+<alt_IPA_transcription>īðū ˈβi̅i̅ðē</alt_IPA_transcription>
+<gloss>caballo mojado</gloss>
+<alt_gloss>wet horse</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>66</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>čìná βìðè</IPA_transcription>
+<alt_IPA_transcription>čìná ˈβi̅i̅ðē</alt_IPA_transcription>
+<gloss>perro mojado</gloss>
+<alt_gloss>wet dog</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>67</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ⁿgàtsì βìðè</IPA_transcription>
+<alt_IPA_transcription>ⁿgātsī ˈβi̅i̅ðē </alt_IPA_transcription>
+<gloss>cobija mojada</gloss>
+<alt_gloss>wet blanket</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>68</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>skʷílú βíðé</IPA_transcription>
+<alt_IPA_transcription>skʷīlū ˈβi̅i̅ðē </alt_IPA_transcription>
+<gloss>zopilote mojado</gloss>
+<alt_gloss>wet buzzard</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>69</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>šúʔβé βíðě</IPA_transcription>
+<alt_IPA_transcription>šūβē ˈβi̅i̅ðe̅e̅</alt_IPA_transcription>
+<gloss>hilo mojado</gloss>
+<alt_gloss>wet thread</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>70</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>íðú βìðě</IPA_transcription>
+<alt_IPA_transcription>īðū ˈβi̅i̅ðe̅e̅</alt_IPA_transcription>
+<gloss>caballo mojado</gloss>
+<alt_gloss>wet horse</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>71</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>čìná βìðě</IPA_transcription>
+<alt_IPA_transcription>čìná ˈβi̅i̅ðe̅e̅</alt_IPA_transcription>
+<gloss>perro mojado</gloss>
+<alt_gloss>wet dog</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>72</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>ⁿgàtsì βìðě</IPA_transcription>
+<alt_IPA_transcription>ⁿgàtsì ˈβi̅i̅ðe̅e̅</alt_IPA_transcription>
+<gloss>cobija mojada</gloss>
+<alt_gloss>wet blanket</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+<item>
+<entry>73</entry>
+<native_orthography></native_orthography>
+<alt_native_orthography></alt_native_orthography>
+<IPA_transcription>skʷílú βíðé</IPA_transcription>
+<alt_IPA_transcription>skʷīlū ˈβi̅i̅ðe̅e̅</alt_IPA_transcription>
+<gloss>zopilote mojada</gloss>
+<alt_gloss>wet buzzard</alt_gloss>
+<semantic_category></semantic_category>
+</item>
+</wordlist>
+
+
+
+
+
+
+
+
+

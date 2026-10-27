@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Yeyi</language_name>
+
+
+
+<headers>
+
+<orthography_header>Sound Illustrated</orthography_header>
+<alt_orthography_header>Yeyi</alt_orthography_header>
+<IPA_header>English</IPA_header>
+<gloss_header>Tswana</gloss_header>
+</headers>
+
+<item>
+<entry>1</entry>
+<native_orthography></native_orthography>
+<alt_orthography>kurara</alt_orthography>
+<IPA_transcription>to dress</IPA_transcription>
+<gloss>goapara</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<native_orthography></native_orthography>
+<alt_orthography>karema</alt_orthography>
+<IPA_transcription>darkness</IPA_transcription>
+<gloss>lehehe</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<native_orthography></native_orthography>
+<alt_orthography>maldimi</alt_orthography>
+<IPA_transcription>tongues</IPA_transcription>
+<gloss>maleme</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<native_orthography></native_orthography>
+<alt_orthography>muromo</alt_orthography>
+<IPA_transcription>mouth</IPA_transcription>
+<gloss>molamo</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<native_orthography></native_orthography>
+<alt_orthography>kuruka</alt_orthography>
+<IPA_transcription>to vomit/belch</IPA_transcription>
+<gloss>gothatsa</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<native_orthography>p</native_orthography>
+<alt_orthography>kupatira</alt_orthography>
+<IPA_transcription>to be relieved</IPA_transcription>
+<gloss>gotshwarélela</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<native_orthography>c</native_orthography>
+<alt_orthography>ìcèká</alt_orthography>
+<IPA_transcription>machet</IPA_transcription>
+<gloss>cheká</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<native_orthography>c</native_orthography>
+<alt_orthography>kùcékà</alt_orthography>
+<IPA_transcription>to cover a pot</IPA_transcription>
+<gloss>go kurumela</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<native_orthography>cʰ</native_orthography>
+<alt_orthography>macʰa</alt_orthography>
+<IPA_transcription>lakes</IPA_transcription>
+<gloss>matsha</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<native_orthography></native_orthography>
+<alt_orthography>wucʰwe</alt_orthography>
+<IPA_transcription>stupidity</IPA_transcription>
+<gloss>bomata</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<native_orthography></native_orthography>
+<alt_orthography>kujuwa</alt_orthography>
+<IPA_transcription>to paddle</IPA_transcription>
+<gloss>gohudua</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<native_orthography></native_orthography>
+<alt_orthography>kuzhambira</alt_orthography>
+<IPA_transcription>to gather</IPA_transcription>
+<gloss>gobapala, goselasela</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<native_orthography>tʰ</native_orthography>
+<alt_orthography>kutʰahura</alt_orthography>
+<IPA_transcription>to week</IPA_transcription>
+<gloss>gothagola</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<native_orthography>kʰ</native_orthography>
+<alt_orthography>zikʰaohanya</alt_orthography>
+<IPA_transcription>differences</IPA_transcription>
+<gloss>dipʰarologanyo</gloss>
+</item>
+</wordlist>

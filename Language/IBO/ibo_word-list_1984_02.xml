@@ -1,0 +1,557 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../word-list.xsl"?>
+<wordlist>
+<language_name>Igbo</language_name>
+
+
+
+<headers>
+
+<alt_orthography_header>Igbo orthography</alt_orthography_header>
+<orthography_header>Sound illustrated</orthography_header>
+<IPA_header>Igbo transcription</IPA_header>
+<gloss_header>English</gloss_header>
+</headers>
+<item>
+<entry>1</entry>
+<alt_orthography>ịpā</alt_orthography>
+<native_orthography>p</native_orthography>
+<IPA_transcription>ịpa</IPA_transcription>
+<gloss>to carry in hand</gloss>
+</item>
+
+<item>
+<entry>2</entry>
+<alt_orthography>ịpà</alt_orthography>
+<native_orthography>ph</native_orthography>
+<IPA_transcription>ịphà</IPA_transcription>
+<gloss>to press out (oil)</gloss>
+</item>
+
+<item>
+<entry>3</entry>
+<alt_orthography>ibè</alt_orthography>
+<native_orthography>b</native_orthography>
+<IPA_transcription>ibè</IPA_transcription>
+<gloss>to cry</gloss>
+</item>
+
+<item>
+<entry>4</entry>
+<alt_orthography>ibè</alt_orthography>
+<native_orthography>bh</native_orthography>
+<IPA_transcription>ibhè</IPA_transcription>
+<gloss>to slice/cut small</gloss>
+</item>
+
+<item>
+<entry>5</entry>
+<alt_orthography>ịmā</alt_orthography>
+<native_orthography>m</native_orthography>
+<IPA_transcription>ịma</IPA_transcription>
+<gloss>to know</gloss>
+</item>
+
+<item>
+<entry>6</entry>
+<alt_orthography>ịfānyẹ̄</alt_orthography>
+<native_orthography>f</native_orthography>
+<IPA_transcription>ịfa̞yẹ̄</IPA_transcription>
+<gloss>to wedge in</gloss>
+</item>
+
+<item>
+<entry>7</entry>
+<alt_orthography>ị́fụ̀</alt_orthography>
+<native_orthography>f̃</native_orthography>
+<IPA_transcription>ị́fụ̃̀</IPA_transcription>
+<gloss>to shriek; to blow</gloss>
+</item>
+
+<item>
+<entry>8</entry>
+<alt_orthography>ivù</alt_orthography>
+<native_orthography>v</native_orthography>
+<IPA_transcription>ivù</IPA_transcription>
+<gloss>to be big</gloss>
+</item>
+
+<item>
+<entry>9</entry>
+<alt_orthography></alt_orthography>
+<native_orthography>ṽ</native_orthography>
+<IPA_transcription>ịṽụ̀</IPA_transcription>
+<gloss>to hatch</gloss>
+</item>
+
+<item>
+<entry>10</entry>
+<alt_orthography>itē</alt_orthography>
+<native_orthography>t</native_orthography>
+<IPA_transcription>ite</IPA_transcription>
+<gloss>to cook soup</gloss>
+</item>
+
+<item>
+<entry>11</entry>
+<alt_orthography>ìtè</alt_orthography>
+<native_orthography>th</native_orthography>
+<IPA_transcription>ìthè</IPA_transcription>
+<gloss>to awaken</gloss>
+</item>
+
+<item>
+<entry>12</entry>
+<alt_orthography>idē</alt_orthography>
+<native_orthography>d</native_orthography>
+<IPA_transcription>ide</IPA_transcription>
+<gloss>to write</gloss>
+</item>
+
+<item>
+<entry>13</entry>
+<alt_orthography>údè</alt_orthography>
+<native_orthography>dh</native_orthography>
+<IPA_transcription>údhè</IPA_transcription>
+<gloss>to make a deep sound</gloss>
+</item>
+
+<item>
+<entry>14</entry>
+<alt_orthography>ịsā</alt_orthography>
+<native_orthography>s</native_orthography>
+<IPA_transcription>ịsa</IPA_transcription>
+<gloss>to spread out</gloss>
+</item>
+
+<item>
+<entry>15</entry>
+<alt_orthography>asị, àshị</alt_orthography>
+<native_orthography>ʃ</native_orthography>
+<IPA_transcription>àʃị</IPA_transcription>
+<gloss>bead; to tell a lie</gloss>
+</item>
+
+<item>
+<entry>16</entry>
+<alt_orthography>ịsa</alt_orthography>
+<native_orthography>s̃</native_orthography>
+<IPA_transcription>ịs̃a</IPA_transcription>
+<gloss>to wash (face/pot)</gloss>
+</item>
+
+<item>
+<entry>17</entry>
+<alt_orthography>isii</alt_orthography>
+<native_orthography>ʃ̃</native_orthography>
+<IPA_transcription>ìʃ̃iì, ìsíì</IPA_transcription>
+<gloss>six</gloss>
+</item>
+
+<item>
+<entry>18</entry>
+<alt_orthography>izu</alt_orthography>
+<native_orthography>z</native_orthography>
+<IPA_transcription>izù</IPA_transcription>
+<gloss>week (4 days)</gloss>
+</item>
+
+<item>
+<entry>19</entry>
+<alt_orthography>ozi</alt_orthography>
+<native_orthography>ʒ</native_orthography>
+<IPA_transcription>oʒi, ózí</IPA_transcription>
+<gloss>message/errand</gloss>
+</item>
+
+<item>
+<entry>20</entry>
+<alt_orthography>izu</alt_orthography>
+<native_orthography>z̃</native_orthography>
+<IPA_transcription>iz̃u</IPA_transcription>
+<gloss>to steal</gloss>
+</item>
+
+<item>
+<entry>21</entry>
+<alt_orthography>ezi</alt_orthography>
+<native_orthography>ʒ̃</native_orthography>
+<IPA_transcription>eʒ̃ì, ézì</IPA_transcription>
+<gloss>pig</gloss>
+</item>
+
+<item>
+<entry>22</entry>
+<alt_orthography>anụ</alt_orthography>
+<native_orthography>n</native_orthography>
+<IPA_transcription>anụ</IPA_transcription>
+<gloss>animal; meat</gloss>
+</item>
+
+<item>
+<entry>23</entry>
+<alt_orthography>irī</alt_orthography>
+<native_orthography>r</native_orthography>
+<IPA_transcription>iri</IPA_transcription>
+<gloss>to creep; eat</gloss>
+</item>
+
+<item>
+<entry>24</entry>
+<alt_orthography>ịrị</alt_orthography>
+<native_orthography>r̃</native_orthography>
+<IPA_transcription>ịr̃ị, ịrị̄</IPA_transcription>
+<gloss>to climb</gloss>
+</item>
+
+<item>
+<entry>25</entry>
+<alt_orthography>ili</alt_orthography>
+<native_orthography>l</native_orthography>
+<IPA_transcription>ilì</IPA_transcription>
+<gloss>to bury</gloss>
+</item>
+
+<item>
+<entry>26</entry>
+<alt_orthography>anya</alt_orthography>
+<native_orthography>ɲ</native_orthography>
+<IPA_transcription>aɲa</IPA_transcription>
+<gloss>eye</gloss>
+</item>
+
+<item>
+<entry>27</entry>
+<alt_orthography>ịyọ</alt_orthography>
+<native_orthography>j</native_orthography>
+<IPA_transcription>ịjọ̀</IPA_transcription>
+<gloss>to filter/sift</gloss>
+</item>
+
+<item>
+<entry>28</entry>
+<alt_orthography>ịka</alt_orthography>
+<native_orthography>k</native_orthography>
+<IPA_transcription>ịkà</IPA_transcription>
+<gloss>to say</gloss>
+</item>
+
+<item>
+<entry>29</entry>
+<alt_orthography>ịka</alt_orthography>
+<native_orthography>kʰ</native_orthography>
+<IPA_transcription>ịkhà</IPA_transcription>
+<gloss>to draw</gloss>
+</item>
+
+<item>
+<entry>30</entry>
+<alt_orthography>ịgā</alt_orthography>
+<native_orthography>ɡ</native_orthography>
+<IPA_transcription>ịɡa</IPA_transcription>
+<gloss>to go</gloss>
+</item>
+
+<item>
+<entry>31</entry>
+<alt_orthography>ịgà</alt_orthography>
+<native_orthography>ɡʰ</native_orthography>
+<IPA_transcription>ịɡha</IPA_transcription>
+<gloss>to thread</gloss>
+</item>
+
+<item>
+<entry>32</entry>
+<alt_orthography>agha</alt_orthography>
+<native_orthography>ɣ</native_orthography>
+<IPA_transcription>aɣa</IPA_transcription>
+<gloss>war</gloss>
+</item>
+
+<item>
+<entry>33</entry>
+<alt_orthography>ịṅụ̄</alt_orthography>
+<native_orthography>ŋ</native_orthography>
+<IPA_transcription>ịŋụ</IPA_transcription>
+<gloss>to drink</gloss>
+</item>
+
+<item>
+<entry>34</entry>
+<alt_orthography>nrịnrị̄</alt_orthography>
+<native_orthography>r̃</native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>an insect around chickens</gloss>
+</item>
+
+<item>
+<entry>35</entry>
+<alt_orthography>òkpu</alt_orthography>
+<native_orthography>k͡p</native_orthography>
+<IPA_transcription>òkpu</IPA_transcription>
+<gloss>hat</gloss>
+</item>
+
+<item>
+<entry>36</entry>
+<alt_orthography>ụgbọ</alt_orthography>
+<native_orthography>ɡ͡b</native_orthography>
+<IPA_transcription>ụɡbọ</IPA_transcription>
+<gloss>canoe</gloss>
+</item>
+
+<item>
+<entry>37</entry>
+<alt_orthography>iwè</alt_orthography>
+<native_orthography>w</native_orthography>
+<IPA_transcription>iwè</IPA_transcription>
+<gloss>to take</gloss>
+</item>
+
+<item>
+<entry>38</entry>
+<alt_orthography>ohū</alt_orthography>
+<native_orthography>h</native_orthography>
+<IPA_transcription>ohu</IPA_transcription>
+<gloss>twenty</gloss>
+</item>
+
+<item>
+<entry>39</entry>
+<alt_orthography>i̠hụ̄</alt_orthography>
+<native_orthography>h̃</native_orthography>
+<IPA_transcription>ịh̃ị</IPA_transcription>
+<gloss>to see</gloss>
+</item>
+
+<item>
+<entry>40</entry>
+<alt_orthography>imi</alt_orthography>
+<native_orthography>i</native_orthography>
+<IPA_transcription>imi</IPA_transcription>
+<gloss>nose</gloss>
+</item>
+
+<item>
+<entry>41</entry>
+<alt_orthography>ịrị</alt_orthography>
+<native_orthography>ị</native_orthography>
+<IPA_transcription>ịrị</IPA_transcription>
+<gloss>to creep</gloss>
+</item>
+
+<item>
+<entry>42</entry>
+<alt_orthography>ewu</alt_orthography>
+<native_orthography>e</native_orthography>
+<IPA_transcription>ewu</IPA_transcription>
+<gloss>goat</gloss>
+</item>
+
+<item>
+<entry>43</entry>
+<alt_orthography>egō</alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription>eɡho</IPA_transcription>
+<gloss>money</gloss>
+</item>
+
+<item>
+<entry>44</entry>
+<alt_orthography>àsaà</alt_orthography>
+<native_orthography>a</native_orthography>
+<IPA_transcription>àsaà</IPA_transcription>
+<gloss>seven</gloss>
+</item>
+
+<item>
+<entry>45</entry>
+<alt_orthography>ọjọọ̄</alt_orthography>
+<native_orthography>ọ</native_orthography>
+<IPA_transcription>ọdjọọ</IPA_transcription>
+<gloss>bad</gloss>
+</item>
+
+<item>
+<entry>46</entry>
+<alt_orthography>odō</alt_orthography>
+<native_orthography>o</native_orthography>
+<IPA_transcription>odo</IPA_transcription>
+<gloss>mortar</gloss>
+</item>
+
+<item>
+<entry>47</entry>
+<alt_orthography>ụkwụ</alt_orthography>
+<native_orthography>ụ</native_orthography>
+<IPA_transcription>ụkwụ</IPA_transcription>
+<gloss>leg/foot</gloss>
+</item>
+
+<item>
+<entry>48</entry>
+<alt_orthography>ukwu</alt_orthography>
+<native_orthography>u</native_orthography>
+<IPA_transcription>ukwu</IPA_transcription>
+<gloss>big</gloss>
+</item>
+
+<item>
+<entry>49</entry>
+<alt_orthography>ijè</alt_orthography>
+<native_orthography>dʒ</native_orthography>
+<IPA_transcription>ídʒè</IPA_transcription>
+<gloss>to walk</gloss>
+</item>
+
+<item>
+<entry>50</entry>
+<alt_orthography>chi</alt_orthography>
+<native_orthography>tʃ</native_orthography>
+<IPA_transcription>tʃí</IPA_transcription>
+<gloss>God; god</gloss>
+</item>
+
+<item>
+<entry>51</entry>
+<alt_orthography>akwukwo</alt_orthography>
+<native_orthography>kw</native_orthography>
+<IPA_transcription>ákwụ́kwọ́</IPA_transcription>
+<gloss>book</gloss>
+</item>
+
+<item>
+<entry>52</entry>
+<alt_orthography>igwè</alt_orthography>
+<native_orthography>ɡw</native_orthography>
+<IPA_transcription>íɡwè</IPA_transcription>
+<gloss>iron; bicycle</gloss>
+</item>
+
+<item>
+<entry>53</entry>
+<alt_orthography></alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription>kwà</IPA_transcription>
+<gloss>every</gloss>
+</item>
+
+<item>
+<entry>54</entry>
+<alt_orthography></alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription>ịkwā</IPA_transcription>
+<gloss>to work something</gloss>
+</item>
+
+<item>
+<entry>55</entry>
+<alt_orthography></alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription>pụa</IPA_transcription>
+<gloss>to go away</gloss>
+</item>
+
+<item>
+<entry>56</entry>
+<alt_orthography></alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription>bụ̀a</IPA_transcription>
+<gloss>to sing</gloss>
+</item>
+
+<item>
+<entry>57</entry>
+<alt_orthography></alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription>abụ̀</IPA_transcription>
+<gloss>song</gloss>
+</item>
+
+<item>
+<entry>58</entry>
+<alt_orthography>ịpya</alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription>ịpja</IPA_transcription>
+<gloss>to squash/fold</gloss>
+</item>
+
+<item>
+<entry>59</entry>
+<alt_orthography>Orye</alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription>orjè</IPA_transcription>
+<gloss>name of market day</gloss>
+</item>
+
+<item>
+<entry>60</entry>
+<alt_orthography>ibya</alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription>ịbhjà</IPA_transcription>
+<gloss>to press upon</gloss>
+</item>
+
+<item>
+<entry>61</entry>
+<alt_orthography>ibye</alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription>ibje</IPA_transcription>
+<gloss>to wag (tail)</gloss>
+</item>
+
+<item>
+<entry>62</entry>
+<alt_orthography>ịbya</alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription>ịbja</IPA_transcription>
+<gloss>to come</gloss>
+</item>
+
+<item>
+<entry>63</entry>
+<alt_orthography>ọchị</alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription>ọtjị̀</IPA_transcription>
+<gloss>to laugh</gloss>
+</item>
+
+<item>
+<entry>64</entry>
+<alt_orthography>ịchị</alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to rub/smear</gloss>
+</item>
+
+<item>
+<entry>65</entry>
+<alt_orthography>ije</alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription>idje</IPA_transcription>
+<gloss>to imitate</gloss>
+</item>
+
+<item>
+<entry>66</entry>
+<alt_orthography>ije</alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription>idhje</IPA_transcription>
+<gloss>to go</gloss>
+</item>
+
+<item>
+<entry>67</entry>
+<alt_orthography>ichì</alt_orthography>
+<native_orthography></native_orthography>
+<IPA_transcription></IPA_transcription>
+<gloss>to shift in a chair</gloss>
+</item>
+
+</wordlist>
+
+
+
+
+
+
